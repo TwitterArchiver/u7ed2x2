@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2080588288335974400"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2080588402651721940",
+    "created_at": "2026-07-24T09:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080588402651721940"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1X1zWiF9nF",
+          "end": 36,
+          "expanded_url": "https://x.com/u7ed2x2/status/2080588402651721940/video/1",
+          "media_key": "13_2080588288335974400",
+          "start": 13,
+          "url": "https://t.co/1X1zWiF9nF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080588402651721940",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "狗真的要挑选胸罩惹... https://t.co/1X1zWiF9nF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26773,
+        "height": 1080,
+        "media_key": "13_2080588288335974400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080588288335974400/img/2HXjuDlGYW9T7iMD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080588288335974400/pl/f3pq4sM7OLv6Kqb3.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080588288335974400/vid/avc1/640x360/Dc-M8oc9s_McyfRI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080588288335974400/vid/avc1/1280x720/Tt9oMpg4N4W_Fz1N.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080588288335974400/vid/avc1/480x270/dGZBj5VjhmYnSJzv.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080588288335974400/vid/avc1/1920x1080/rminIKi7ZgimQZm9.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080588288335974400"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2080588402651721940",
+        "created_at": "2026-07-24T09:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080588402651721940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1X1zWiF9nF",
+              "end": 36,
+              "expanded_url": "https://x.com/u7ed2x2/status/2080588402651721940/video/1",
+              "media_key": "13_2080588288335974400",
+              "start": 13,
+              "url": "https://t.co/1X1zWiF9nF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080588402651721940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "狗真的要挑选胸罩惹... https://t.co/1X1zWiF9nF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1064,
+          "like_count": 3477,
+          "listed_count": 3,
+          "media_count": 399,
+          "tweet_count": 1669
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076714095873847297",
+        "3_2076714095919910912",
+        "3_2076714095924199424",
+        "3_2076714095890563072"
+      ],
+      "media_source_tweet_id": [
+        "2076714104916783487",
+        "2076714104916783487",
+        "2076714104916783487",
+        "2076714104916783487"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2077043373849076108",
+    "created_at": "2026-07-14T14:51:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T15:51:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077043373849076108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945848714058203136",
+          "start": 3,
+          "username": "LnaRoaH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/EX9qiEnRJM",
+          "end": 36,
+          "expanded_url": "https://x.com/LnaRoaH/status/2076714104916783487/photo/1",
+          "media_key": "3_2076714095873847297",
+          "start": 13,
+          "url": "https://t.co/EX9qiEnRJM"
+        },
+        {
+          "display_url": "pic.x.com/EX9qiEnRJM",
+          "end": 36,
+          "expanded_url": "https://x.com/LnaRoaH/status/2076714104916783487/photo/1",
+          "media_key": "3_2076714095919910912",
+          "start": 13,
+          "url": "https://t.co/EX9qiEnRJM"
+        },
+        {
+          "display_url": "pic.x.com/EX9qiEnRJM",
+          "end": 36,
+          "expanded_url": "https://x.com/LnaRoaH/status/2076714104916783487/photo/1",
+          "media_key": "3_2076714095924199424",
+          "start": 13,
+          "url": "https://t.co/EX9qiEnRJM"
+        },
+        {
+          "display_url": "pic.x.com/EX9qiEnRJM",
+          "end": 36,
+          "expanded_url": "https://x.com/LnaRoaH/status/2076714104916783487/photo/1",
+          "media_key": "3_2076714095890563072",
+          "start": 13,
+          "url": "https://t.co/EX9qiEnRJM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077043373849076108",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076714104916783487",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LnaRoaH: https://t.co/EX9qiEnRJM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1215,
+        "media_key": "3_2076714095873847297",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNH4d6CbcAEI0sJ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076714095919910912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNH4d6NaUAAfPqW.jpg",
+        "width": 1367
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076714095924199424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNH4d6ObwAAG_Ql.jpg",
+        "width": 1367
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2076714095890563072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNH4d6GagAAXqX6.jpg",
+        "width": 1367
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076714095873847297",
+            "3_2076714095919910912",
+            "3_2076714095924199424",
+            "3_2076714095890563072"
+          ],
+          "media_source_tweet_id": [
+            "2076714104916783487",
+            "2076714104916783487",
+            "2076714104916783487",
+            "2076714104916783487"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2077043373849076108",
+        "created_at": "2026-07-14T14:51:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T15:51:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077043373849076108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945848714058203136",
+              "start": 3,
+              "username": "LnaRoaH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/EX9qiEnRJM",
+              "end": 36,
+              "expanded_url": "https://x.com/LnaRoaH/status/2076714104916783487/photo/1",
+              "media_key": "3_2076714095873847297",
+              "start": 13,
+              "url": "https://t.co/EX9qiEnRJM"
+            },
+            {
+              "display_url": "pic.x.com/EX9qiEnRJM",
+              "end": 36,
+              "expanded_url": "https://x.com/LnaRoaH/status/2076714104916783487/photo/1",
+              "media_key": "3_2076714095919910912",
+              "start": 13,
+              "url": "https://t.co/EX9qiEnRJM"
+            },
+            {
+              "display_url": "pic.x.com/EX9qiEnRJM",
+              "end": 36,
+              "expanded_url": "https://x.com/LnaRoaH/status/2076714104916783487/photo/1",
+              "media_key": "3_2076714095924199424",
+              "start": 13,
+              "url": "https://t.co/EX9qiEnRJM"
+            },
+            {
+              "display_url": "pic.x.com/EX9qiEnRJM",
+              "end": 36,
+              "expanded_url": "https://x.com/LnaRoaH/status/2076714104916783487/photo/1",
+              "media_key": "3_2076714095890563072",
+              "start": 13,
+              "url": "https://t.co/EX9qiEnRJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077043373849076108",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076714104916783487",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LnaRoaH: https://t.co/EX9qiEnRJM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076714095873847297",
+            "3_2076714095919910912",
+            "3_2076714095924199424",
+            "3_2076714095890563072"
+          ]
+        },
+        "author_id": "1945848714058203136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2076714104916783487",
+        "created_at": "2026-07-13T17:03:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T18:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076714104916783487"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EX9qiEnRJM",
+              "end": 23,
+              "expanded_url": "https://x.com/LnaRoaH/status/2076714104916783487/photo/1",
+              "media_key": "3_2076714095873847297",
+              "start": 0,
+              "url": "https://t.co/EX9qiEnRJM"
+            },
+            {
+              "display_url": "pic.x.com/EX9qiEnRJM",
+              "end": 23,
+              "expanded_url": "https://x.com/LnaRoaH/status/2076714104916783487/photo/1",
+              "media_key": "3_2076714095919910912",
+              "start": 0,
+              "url": "https://t.co/EX9qiEnRJM"
+            },
+            {
+              "display_url": "pic.x.com/EX9qiEnRJM",
+              "end": 23,
+              "expanded_url": "https://x.com/LnaRoaH/status/2076714104916783487/photo/1",
+              "media_key": "3_2076714095924199424",
+              "start": 0,
+              "url": "https://t.co/EX9qiEnRJM"
+            },
+            {
+              "display_url": "pic.x.com/EX9qiEnRJM",
+              "end": 23,
+              "expanded_url": "https://x.com/LnaRoaH/status/2076714104916783487/photo/1",
+              "media_key": "3_2076714095890563072",
+              "start": 0,
+              "url": "https://t.co/EX9qiEnRJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076714104916783487",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 503,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EX9qiEnRJM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 1067,
+          "like_count": 3100,
+          "listed_count": 3,
+          "media_count": 376,
+          "tweet_count": 1562
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-17T14:11:19.000Z",
+        "description": "你好啊～我是lhr 攝影｜HIFI｜畫畫｜羽毛球｜游泳｜化學 ｜推推空間｜交易員｜坐標待定天津市和苏州市 #lhr的攝影集 #lhr探店 調戲鏈接🔗https://t.co/QZ0qizQuEq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "lhr的攝影集"
+              },
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "lhr探店"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lnaroah",
+                "end": 97,
+                "expanded_url": "https://ngl.link/lnaroah",
+                "start": 74,
+                "url": "https://t.co/QZ0qizQuEq"
+              }
+            ]
+          }
+        },
+        "id": "1945848714058203136",
+        "location": "距你1.5km",
+        "name": "lhr～",
+        "pinned_tweet_id": "2057390797981352401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980434750884966400/-y_6Pczc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 124,
+          "like_count": 1038,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 444
+        },
+        "url": "",
+        "username": "LnaRoaH",
+        "verified": true
+      }
+    ]
+  }
+}

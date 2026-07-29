@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2081573061892145353",
+    "created_at": "2026-07-27T03:04:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T04:04:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081576533135933641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070544483977232389",
+          "start": 0,
+          "username": "AkanoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081576533135933641",
+    "in_reply_to_user_id": "2070544483977232389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081574599867937275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkanoQWQ 您可爱才对xwx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2081573061892145353",
+        "created_at": "2026-07-27T03:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T04:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081576533135933641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070544483977232389",
+              "start": 0,
+              "username": "AkanoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081576533135933641",
+        "in_reply_to_user_id": "2070544483977232389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081574599867937275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkanoQWQ 您可爱才对xwx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070544483977232389",
+        "conversation_id": "2081573061892145353",
+        "created_at": "2026-07-27T02:57:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T03:57:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081574599867937275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081574599867937275",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081573061892145353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 1062,
+          "like_count": 3582,
+          "listed_count": 3,
+          "media_count": 409,
+          "tweet_count": 1706
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | sim racing | 可爱是最高赞美！| 希望成为友善与温暖的人 | 🇨🇳简繁中文/🇬🇧ENG(installing…)",
+        "id": "2070544483977232389",
+        "location": "Hong Kong",
+        "name": "Akano",
+        "pinned_tweet_id": "2077057751046558030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 184,
+          "like_count": 920,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 417
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true
+      }
+    ]
+  }
+}
