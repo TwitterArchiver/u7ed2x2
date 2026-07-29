@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2071873499082457271",
+    "created_at": "2026-06-30T15:29:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T16:29:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071979513769312433"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897349281620934657",
+          "start": 0,
+          "username": "Mu_Qiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071979513769312433",
+    "in_reply_to_user_id": "1897349281620934657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071977032309715072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mu_Qiwu 板烧只在大陆有卖哦..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2071873499082457271",
+        "created_at": "2026-06-30T15:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071979513769312433"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897349281620934657",
+              "start": 0,
+              "username": "Mu_Qiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071979513769312433",
+        "in_reply_to_user_id": "1897349281620934657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071977032309715072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mu_Qiwu 板烧只在大陆有卖哦..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897349281620934657",
+        "conversation_id": "2071873499082457271",
+        "created_at": "2026-06-30T15:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T16:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071977032309715072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071977032309715072",
+        "in_reply_to_user_id": "1897349281620934657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071976989183942826",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 （指全球大部分地方"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1626,
+          "following_count": 1058,
+          "like_count": 1844,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 1154
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-05T18:11:51.000Z",
+        "description": "21岁野生狐狸 （INFP）\n🇦🇹 Mathematics Undergraduate\nLeopold-Franzens-Universität Innsbruck\nUniversität Wien",
+        "id": "1897349281620934657",
+        "location": "Innsbruck, Austria",
+        "name": "慕思仙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064801718357901313/5uHpZ3Xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 62,
+          "like_count": 2419,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 614
+        },
+        "url": "",
+        "username": "Mu_Qiwu",
+        "verified": false
+      }
+    ]
+  }
+}

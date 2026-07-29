@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2066167893537214631",
+    "created_at": "2026-06-14T14:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066171850699464770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520285442737770496",
+          "start": 0,
+          "username": "Magpieneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066171850699464770",
+    "in_reply_to_user_id": "1520285442737770496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066169604880367845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magpieneko 好捏，如果以后还有的话🥺\n\n目前必要的微波炉/制冰机/新风机/人体工学椅这些都已经搬上来惹"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2066167893537214631",
+        "created_at": "2026-06-14T14:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066171850699464770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520285442737770496",
+              "start": 0,
+              "username": "Magpieneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066171850699464770",
+        "in_reply_to_user_id": "1520285442737770496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066169604880367845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magpieneko 好捏，如果以后还有的话🥺\n\n目前必要的微波炉/制冰机/新风机/人体工学椅这些都已经搬上来惹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520285442737770496",
+        "conversation_id": "2066167893537214631",
+        "created_at": "2026-06-14T14:43:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:43:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066169604880367845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066169604880367845",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066167893537214631",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 很棒哦 nelo 老师，辛苦啦\n不过搬重物这种事情尽量还是请人帮忙吧真的，如果 nelo 老师受伤了我会心疼的🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1585,
+          "following_count": 1064,
+          "like_count": 1174,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 891
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "INFP4w5｜Cptsd｜是个不可爱的孩子｜学着成为人类｜社恐｜总是很困｜自杀惯犯｜一切都会好起来的……吧\nWhat do u want to be when u grow up?\nKind.",
+        "id": "1520285442737770496",
+        "location": "距你2.1KM",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2056572888778727508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000047111682097152/toPEt8jA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 51,
+          "like_count": 1162,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 965
+        },
+        "username": "Magpieneko",
+        "verified": true
+      }
+    ]
+  }
+}

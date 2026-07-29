@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2071753915515760802",
+    "created_at": "2026-06-30T05:11:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T06:11:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071823809200652710"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565691463685795840",
+          "start": 0,
+          "username": "barutan8964"
+        },
+        {
+          "end": 25,
+          "id": "1320354023451496450",
+          "start": 13,
+          "username": "OuO02213882"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071823809200652710",
+    "in_reply_to_user_id": "1565691463685795840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071816398687641793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@barutan8964 @OuO02213882 袜\n想尝尝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2071753915515760802",
+        "created_at": "2026-06-30T05:11:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T06:11:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071823809200652710"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565691463685795840",
+              "start": 0,
+              "username": "barutan8964"
+            },
+            {
+              "end": 25,
+              "id": "1320354023451496450",
+              "start": 13,
+              "username": "OuO02213882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071823809200652710",
+        "in_reply_to_user_id": "1565691463685795840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071816398687641793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@barutan8964 @OuO02213882 袜\n想尝尝"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565691463685795840",
+        "conversation_id": "2071753915515760802",
+        "created_at": "2026-06-30T04:41:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T05:41:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071816398687641793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1320354023451496450",
+              "start": 0,
+              "username": "OuO02213882"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071816398687641793",
+        "in_reply_to_user_id": "1320354023451496450",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071753915515760802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OuO02213882 青爪蛮喜欢的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 1056,
+          "like_count": 1804,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 1139
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-02T13:22:22.000Z",
+        "description": "骄傲月快乐喵🍥🏳️‍⚧️王烟洛连坐🙂‍↕️",
+        "id": "1565691463685795840",
+        "name": "巴尔坦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565691605516193792/56qrU4dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 324,
+          "like_count": 18473,
+          "listed_count": 0,
+          "media_count": 177,
+          "tweet_count": 3155
+        },
+        "url": "",
+        "username": "barutan8964",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-25T13:18:36.000Z",
+        "description": "還在慢慢認識自己喵",
+        "id": "1320354023451496450",
+        "location": "不能說喵 反正不在杭州喵",
+        "name": "粉天藍貓OuO",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057350986352734208/QXkn4_0I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 843,
+          "like_count": 23100,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 255
+        },
+        "url": "",
+        "username": "OuO02213882",
+        "verified": true
+      }
+    ]
+  }
+}

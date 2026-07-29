@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073978221893480448"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2073978227253805229",
+    "created_at": "2026-07-06T03:51:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T04:51:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073978227253805229"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5ZU4HMZU5P",
+          "end": 48,
+          "expanded_url": "https://x.com/u7ed2x2/status/2073978227253805229/photo/1",
+          "media_key": "3_2073978221893480448",
+          "start": 25,
+          "url": "https://t.co/5ZU4HMZU5P"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073978227253805229",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "「是你的操作码？」\n鉴定为拼音输入产生的错字（） https://t.co/5ZU4HMZU5P"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 679,
+        "media_key": "3_2073978221893480448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMhANFPbcAApcPR.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073978221893480448"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073978227253805229",
+        "created_at": "2026-07-06T03:51:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T04:51:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073978227253805229"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ZU4HMZU5P",
+              "end": 48,
+              "expanded_url": "https://x.com/u7ed2x2/status/2073978227253805229/photo/1",
+              "media_key": "3_2073978221893480448",
+              "start": 25,
+              "url": "https://t.co/5ZU4HMZU5P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073978227253805229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「是你的操作码？」\n鉴定为拼音输入产生的错字（） https://t.co/5ZU4HMZU5P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 1065,
+          "like_count": 2421,
+          "listed_count": 3,
+          "media_count": 340,
+          "tweet_count": 1317
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

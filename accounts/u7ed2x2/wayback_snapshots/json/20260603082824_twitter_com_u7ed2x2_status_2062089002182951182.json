@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2062083892719534279",
+    "created_at": "2026-06-03T08:28:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:28:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062089002182951182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1721863847185952768",
+          "start": 0,
+          "username": "IntelDriver"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062089002182951182",
+    "in_reply_to_user_id": "1721863847185952768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062088523763876327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IntelDriver 收到夸夸，开心！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2062083892719534279",
+        "created_at": "2026-06-03T08:28:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:28:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062089002182951182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1721863847185952768",
+              "start": 0,
+              "username": "IntelDriver"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062089002182951182",
+        "in_reply_to_user_id": "1721863847185952768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062088523763876327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IntelDriver 收到夸夸，开心！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721863847185952768",
+        "conversation_id": "2062083892719534279",
+        "created_at": "2026-06-03T08:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062088523763876327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062088523763876327",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062083892719534279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 nelo好厉害！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 1063,
+          "like_count": 809,
+          "listed_count": 1,
+          "media_count": 173,
+          "tweet_count": 639
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-07T12:15:13.000Z",
+        "description": "一只08年的高中牲｜不键政不od会搬石 ｜🏳️‍⚧️是友跨喵｜游戏成分极其复杂（ cs/冰与火/地平线｜visual/android studio重度依赖｜欢迎同类互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/ZhaYi-Miao",
+                "end": 23,
+                "expanded_url": "https://github.com/ZhaYi-Miao",
+                "start": 0,
+                "url": "https://t.co/eayqIffgWw"
+              }
+            ]
+          }
+        },
+        "id": "1721863847185952768",
+        "location": "in your heart",
+        "name": "ZhaYi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020171119429570560/HleURNqP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 654,
+          "like_count": 4033,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 813
+        },
+        "url": "https://t.co/eayqIffgWw",
+        "username": "IntelDriver",
+        "verified": false
+      }
+    ]
+  }
+}

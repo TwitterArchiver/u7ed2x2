@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2055613894379655189",
+    "created_at": "2026-05-17T07:52:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T08:52:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055919372368261306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1755833041262649344",
+          "start": 0,
+          "username": "HuTaoo29"
+        },
+        {
+          "end": 21,
+          "id": "940931345001299970",
+          "start": 10,
+          "username": "pxwwu_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055919372368261306",
+    "in_reply_to_user_id": "1755833041262649344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055855607509631328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HuTaoo29 @pxwwu_chan ...好像是这样，在Support上找到了相关内容\n最开始我还以为它和Google逆向AWDL来模拟AirDrop的做法差不多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2055613894379655189",
+        "created_at": "2026-05-17T07:52:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T08:52:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055919372368261306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1755833041262649344",
+              "start": 0,
+              "username": "HuTaoo29"
+            },
+            {
+              "end": 21,
+              "id": "940931345001299970",
+              "start": 10,
+              "username": "pxwwu_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055919372368261306",
+        "in_reply_to_user_id": "1755833041262649344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055855607509631328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HuTaoo29 @pxwwu_chan ...好像是这样，在Support上找到了相关内容\n最开始我还以为它和Google逆向AWDL来模拟AirDrop的做法差不多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1755833041262649344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2055613894379655189",
+        "created_at": "2026-05-17T03:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T04:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055855607509631328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            },
+            {
+              "end": 20,
+              "id": "940931345001299970",
+              "start": 9,
+              "username": "pxwwu_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055855607509631328",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055627532234555562",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 @pxwwu_chan 反向查找应该是法规要求吧，不能只有iPhone用户被追踪时可以找到追踪器位置"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1360,
+          "following_count": 942,
+          "like_count": 340,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 271
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-09T05:57:00.000Z",
+        "description": "Investor\n在共识之外思考，在波动之中下注",
+        "id": "1755833041262649344",
+        "location": "Internet",
+        "name": "HuTao",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049811130366021632/idEQFruE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 21,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 45
+        },
+        "username": "HuTaoo29",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-13T13:08:09.000Z",
+        "description": "🦋：@pxwwu.com|已摆烂の02年老阿姨|176cm|伪音摆烂中|🩷：MoeDreamAria（已销号）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 2,
+                "username": "pxwwu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pxwwu.com",
+                "end": 23,
+                "expanded_url": "http://pxwwu.com",
+                "start": 0,
+                "url": "https://t.co/kiprkGLP3Z"
+              }
+            ]
+          }
+        },
+        "id": "940931345001299970",
+        "location": "阿莉亚的被窝",
+        "name": "pxwwu🦀🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011275549809975297/b_0xZEp8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12618,
+          "following_count": 3136,
+          "like_count": 177174,
+          "listed_count": 46,
+          "media_count": 3731,
+          "tweet_count": 18206
+        },
+        "url": "https://t.co/kiprkGLP3Z",
+        "username": "pxwwu_chan",
+        "verified": false
+      }
+    ]
+  }
+}

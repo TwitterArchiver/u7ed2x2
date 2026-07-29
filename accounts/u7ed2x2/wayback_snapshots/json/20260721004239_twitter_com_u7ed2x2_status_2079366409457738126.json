@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079366404642619392"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1418355665039368194",
+          "name": "DLsite"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1418355665039368194",
+          "name": "DLsite"
+        }
+      }
+    ],
+    "conversation_id": "2079366328235004073",
+    "created_at": "2026-07-21T00:42:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:42:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079366409457738126"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/V6hYwiP0k3",
+          "end": 65,
+          "expanded_url": "https://x.com/u7ed2x2/status/2079366409457738126/photo/1",
+          "media_key": "3_2079366404642619392",
+          "start": 42,
+          "url": "https://t.co/V6hYwiP0k3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079366409457738126",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079366328235004073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "《与发情期小狗的秘密配对》\n発情わんことマッチング\n下附DLSite日语版自购证明 https://t.co/V6hYwiP0k3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079366404642619392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNtkumKawAAdug3.jpg",
+        "width": 942
+      },
+      {
+        "duration_ms": 29965,
+        "height": 1920,
+        "media_key": "13_2079366252062183424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079366252062183424/img/AOSg30pCm-icon9N.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079366252062183424/pl/BgpHDm51sc6expOD.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079366252062183424/vid/avc1/320x568/tCtbkC8rJ7ahHW8e.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079366252062183424/vid/avc1/480x852/yvu7Sje_k_mGiGA8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079366252062183424/vid/avc1/720x1280/-V1XiPtkS5pAyY3E.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079366252062183424/vid/avc1/1080x1920/RCc1xJ-d2DKcuUp9.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079366404642619392"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418355665039368194",
+              "name": "DLsite"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418355665039368194",
+              "name": "DLsite"
+            }
+          }
+        ],
+        "conversation_id": "2079366328235004073",
+        "created_at": "2026-07-21T00:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079366409457738126"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V6hYwiP0k3",
+              "end": 65,
+              "expanded_url": "https://x.com/u7ed2x2/status/2079366409457738126/photo/1",
+              "media_key": "3_2079366404642619392",
+              "start": 42,
+              "url": "https://t.co/V6hYwiP0k3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079366409457738126",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079366328235004073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "《与发情期小狗的秘密配对》\n発情わんことマッチング\n下附DLSite日语版自购证明 https://t.co/V6hYwiP0k3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079366252062183424"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2079366328235004073",
+        "created_at": "2026-07-21T00:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079366328235004073"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mFpisKKtzZ",
+              "end": 56,
+              "expanded_url": "https://x.com/u7ed2x2/status/2079366328235004073/video/1",
+              "media_key": "13_2079366252062183424",
+              "start": 33,
+              "url": "https://t.co/mFpisKKtzZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079366328235004073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "今天是0721日\n狗给各位读一点有声书\n⚠️NSFW内容注意⚠️ https://t.co/mFpisKKtzZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1708,
+          "following_count": 1068,
+          "like_count": 3361,
+          "listed_count": 3,
+          "media_count": 392,
+          "tweet_count": 1630
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

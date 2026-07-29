@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055862530539663360"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055862540362723575",
+    "created_at": "2026-05-17T04:06:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:06:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055862540362723575"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WuC3DxgL4M",
+          "end": 50,
+          "expanded_url": "https://x.com/u7ed2x2/status/2055862540362723575/photo/1",
+          "media_key": "3_2055862530539663360",
+          "start": 27,
+          "url": "https://t.co/WuC3DxgL4M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055862540362723575",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃一次地锅鸡馋一个月😋\n摆满桌子后看账单才100出头 https://t.co/WuC3DxgL4M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2055862530539663360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIfkFD_aMAA3u8E.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055862530539663360"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055862540362723575",
+        "created_at": "2026-05-17T04:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055862540362723575"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WuC3DxgL4M",
+              "end": 50,
+              "expanded_url": "https://x.com/u7ed2x2/status/2055862540362723575/photo/1",
+              "media_key": "3_2055862530539663360",
+              "start": 27,
+              "url": "https://t.co/WuC3DxgL4M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055862540362723575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃一次地锅鸡馋一个月😋\n摆满桌子后看账单才100出头 https://t.co/WuC3DxgL4M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1443,
+          "following_count": 1018,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 275
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

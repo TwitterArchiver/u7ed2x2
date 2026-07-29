@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2075428450656281085",
+    "created_at": "2026-07-10T04:00:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T05:00:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075429956155490514"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520285442737770496",
+          "start": 0,
+          "username": "Magpieneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075429956155490514",
+    "in_reply_to_user_id": "1520285442737770496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075429359079539089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Magpieneko 擦口水xwx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075428450656281085",
+        "created_at": "2026-07-10T04:00:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T05:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075429956155490514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520285442737770496",
+              "start": 0,
+              "username": "Magpieneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075429956155490514",
+        "in_reply_to_user_id": "1520285442737770496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075429359079539089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Magpieneko 擦口水xwx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520285442737770496",
+        "conversation_id": "2075428450656281085",
+        "created_at": "2026-07-10T03:58:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T04:58:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075429359079539089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075429359079539089",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075428450656281085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 看着就好香(¯﹃¯*)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 1063,
+          "like_count": 2779,
+          "listed_count": 3,
+          "media_count": 359,
+          "tweet_count": 1451
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "被雨淋透的麻雀/叫我小鸟就好/是个不可爱的孩子/学着成为人类/社恐/总是很困/该死的小东西/一切都会好起来的……吧\n\n「请在我的坟前放一支白百合」",
+        "id": "1520285442737770496",
+        "location": "距你2.1KM",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2056572888778727508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000047111682097152/toPEt8jA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 71,
+          "like_count": 2024,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1273
+        },
+        "url": "",
+        "username": "Magpieneko",
+        "verified": true
+      }
+    ]
+  }
+}

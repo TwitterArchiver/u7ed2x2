@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069751897297223681"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2069751906503991331",
+    "created_at": "2026-06-24T11:58:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T12:58:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069751906503991331"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/JdWakCU7aE",
+          "end": 36,
+          "expanded_url": "https://x.com/u7ed2x2/status/2069751906503991331/photo/1",
+          "media_key": "3_2069751897297223681",
+          "start": 13,
+          "url": "https://t.co/JdWakCU7aE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069751906503991331",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《请叫上爱吃香菜的朋友》 https://t.co/JdWakCU7aE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2069751897297223681",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLk8YnOXgAE3g6h.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069751897297223681"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2069751906503991331",
+        "created_at": "2026-06-24T11:58:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T12:58:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069751906503991331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JdWakCU7aE",
+              "end": 36,
+              "expanded_url": "https://x.com/u7ed2x2/status/2069751906503991331/photo/1",
+              "media_key": "3_2069751897297223681",
+              "start": 13,
+              "url": "https://t.co/JdWakCU7aE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069751906503991331",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《请叫上爱吃香菜的朋友》 https://t.co/JdWakCU7aE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 1057,
+          "like_count": 1471,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 1028
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

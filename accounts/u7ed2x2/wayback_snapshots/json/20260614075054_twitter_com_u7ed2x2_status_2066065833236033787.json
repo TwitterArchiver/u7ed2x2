@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2065969218458198092",
+    "created_at": "2026-06-14T07:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T08:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066065833236033787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1636913725327446017",
+          "start": 0,
+          "username": "LingSing7263"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066065833236033787",
+    "in_reply_to_user_id": "1636913725327446017",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066064672340738282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingSing7263 auv小白手套"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2065969218458198092",
+        "created_at": "2026-06-14T07:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066065833236033787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1636913725327446017",
+              "start": 0,
+              "username": "LingSing7263"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066065833236033787",
+        "in_reply_to_user_id": "1636913725327446017",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066064672340738282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingSing7263 auv小白手套"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636913725327446017",
+        "conversation_id": "2065969218458198092",
+        "created_at": "2026-06-14T07:46:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:46:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066064672340738282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066064672340738282",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065969218458198092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 哈！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 1065,
+          "like_count": 1158,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 885
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-18T02:13:49.000Z",
+        "description": "白日梦想家",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aboutGalaxyYi",
+                "end": 23,
+                "expanded_url": "https://t.me/aboutGalaxyYi",
+                "start": 0,
+                "url": "https://t.co/Sdo5s2x8T2"
+              }
+            ]
+          }
+        },
+        "id": "1636913725327446017",
+        "location": "星乡",
+        "name": "伊零星",
+        "pinned_tweet_id": "1990063035034345766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039466151022034944/IaFgrLpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 1093,
+          "like_count": 26371,
+          "listed_count": 2,
+          "media_count": 504,
+          "tweet_count": 7139
+        },
+        "url": "https://t.co/Sdo5s2x8T2",
+        "username": "LingSing7263",
+        "verified": false
+      }
+    ]
+  }
+}

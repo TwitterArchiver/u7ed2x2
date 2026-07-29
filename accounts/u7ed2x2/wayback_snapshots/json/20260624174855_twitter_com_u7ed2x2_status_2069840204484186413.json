@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2069840204484186413",
+    "created_at": "2026-06-24T17:48:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T18:48:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069840204484186413"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whis11/status/…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/whis11/status/2069085095353594225",
+          "start": 8,
+          "url": "https://t.co/kEoaIuMjkH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069840204484186413",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069085095353594225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "今晚尝试梦这个 https://t.co/kEoaIuMjkH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1100,
+        "media_key": "3_2069083894276931585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbc1uDbwAEkA9g.jpg",
+        "width": 781
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2069840204484186413",
+        "created_at": "2026-06-24T17:48:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T18:48:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069840204484186413"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whis11/status/…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/whis11/status/2069085095353594225",
+              "start": 8,
+              "url": "https://t.co/kEoaIuMjkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069840204484186413",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069085095353594225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "今晚尝试梦这个 https://t.co/kEoaIuMjkH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069083894276931585"
+          ]
+        },
+        "author_id": "125597882",
+        "conversation_id": "2069085095353594225",
+        "created_at": "2026-06-22T15:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069085095353594225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uO8eG27d9v",
+              "end": 44,
+              "expanded_url": "https://x.com/whis11/status/2069085095353594225/photo/1",
+              "media_key": "3_2069083894276931585",
+              "start": 21,
+              "url": "https://t.co/uO8eG27d9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069085095353594225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14857,
+          "impression_count": 2200161,
+          "like_count": 110970,
+          "quote_count": 169,
+          "reply_count": 193,
+          "retweet_count": 7248
+        },
+        "reply_settings": "everyone",
+        "text": "耳尻尾がある子が前の席の時にありがちな事 https://t.co/uO8eG27d9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 1058,
+          "like_count": 1483,
+          "listed_count": 2,
+          "media_count": 274,
+          "tweet_count": 1032
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2010-03-23T08:38:53.000Z",
+        "description": "絵を描きます、よろしくお願い申し上げます。\nskeb（受付停止中）→ https://t.co/1WiVOaF4g1\npixiv→ https://t.co/MN007JwVNB\nご連絡はDMかGmailにどうぞ！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@whis11",
+                "end": 58,
+                "expanded_url": "http://skeb.jp/@whis11",
+                "start": 35,
+                "url": "https://t.co/1WiVOaF4g1"
+              },
+              {
+                "display_url": "pixiv.net/users/135786",
+                "end": 89,
+                "expanded_url": "http://pixiv.net/users/135786",
+                "start": 66,
+                "url": "https://t.co/MN007JwVNB"
+              }
+            ]
+          }
+        },
+        "id": "125597882",
+        "location": "yamagoenoiroha@gmail.com",
+        "name": "うぃす",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886693444141395968/O-hYzG2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31445,
+          "following_count": 1224,
+          "like_count": 31182,
+          "listed_count": 223,
+          "media_count": 1830,
+          "tweet_count": 23171
+        },
+        "url": "",
+        "username": "whis11",
+        "verified": false
+      }
+    ]
+  }
+}

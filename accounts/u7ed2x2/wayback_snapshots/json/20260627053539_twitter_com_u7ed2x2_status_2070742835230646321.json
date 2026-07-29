@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2070731916576465160",
+    "created_at": "2026-06-27T05:35:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:35:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070742835230646321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1495439962799415298",
+          "start": 0,
+          "username": "Metaxxac"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070742835230646321",
+    "in_reply_to_user_id": "1495439962799415298",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070741739632255438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Metaxxac 谢谢你~\n打算这几天清淡饮食"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2070731916576465160",
+        "created_at": "2026-06-27T05:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070742835230646321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1495439962799415298",
+              "start": 0,
+              "username": "Metaxxac"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070742835230646321",
+        "in_reply_to_user_id": "1495439962799415298",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070741739632255438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Metaxxac 谢谢你~\n打算这几天清淡饮食"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495439962799415298",
+        "conversation_id": "2070731916576465160",
+        "created_at": "2026-06-27T05:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070741739632255438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070741739632255438",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070731916576465160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 可能是新冠或感冒嘛🤔，我身边也突然多了很多这种症状的案例。保重身体好好休息吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1056,
+          "like_count": 1602,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 1066
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-20T16:47:32.000Z",
+        "description": "你好！这里是Stanley先生:),现居香港🇭🇰欢迎一起聊天交友～！今天吃什么 + 日常生活记录",
+        "id": "1495439962799415298",
+        "name": "Metax",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580953265726197760/Gjj71QYP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 429,
+          "like_count": 8915,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 1267
+        },
+        "url": "",
+        "username": "Metaxxac",
+        "verified": false
+      }
+    ]
+  }
+}

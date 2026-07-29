@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2066413616140890296",
+    "created_at": "2026-06-15T10:41:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T11:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066471203918000291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1454354113181880320",
+          "start": 0,
+          "username": "Machiho0010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066471203918000291",
+    "in_reply_to_user_id": "1454354113181880320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066468181292773442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Machiho0010 呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2066413616140890296",
+        "created_at": "2026-06-15T10:41:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066471203918000291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1454354113181880320",
+              "start": 0,
+              "username": "Machiho0010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066471203918000291",
+        "in_reply_to_user_id": "1454354113181880320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066468181292773442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Machiho0010 呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1454354113181880320",
+        "conversation_id": "2066413616140890296",
+        "created_at": "2026-06-15T10:29:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T11:29:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066468181292773442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066468181292773442",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066413616140890296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 uuluo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1588,
+          "following_count": 1065,
+          "like_count": 1199,
+          "listed_count": 1,
+          "media_count": 235,
+          "tweet_count": 909
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-10-30T07:47:25.000Z",
+        "description": "喜欢雨天躲在干净的小屋子里的感觉|MtX🍥|理性爱国理性反对共产党😢|日本🇯🇵語学習者|你们真好|随机消失请见谅|讨厌我吧，趁现在|然而最终还是要活下去吗？|可爱的dobyw @nekodoby_ |machiho\ntg: https://t.co/0JJB8S0voM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "nekodoby_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Machiay",
+                "end": 135,
+                "expanded_url": "http://t.me/Machiay",
+                "start": 112,
+                "url": "https://t.co/0JJB8S0voM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Machiko0010",
+                "end": 23,
+                "expanded_url": "http://t.me/Machiko0010",
+                "start": 0,
+                "url": "https://t.co/evXSbgKroW"
+              }
+            ]
+          }
+        },
+        "id": "1454354113181880320",
+        "location": "IP属地：啊呜座町穂二零维区",
+        "name": "Machiko",
+        "pinned_tweet_id": "1656318405966974977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027692355818749953/VPvxnTLP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 756,
+          "following_count": 853,
+          "like_count": 109756,
+          "listed_count": 8,
+          "media_count": 1788,
+          "tweet_count": 17112
+        },
+        "url": "https://t.co/evXSbgKroW",
+        "username": "Machiho0010",
+        "verified": false
+      }
+    ]
+  }
+}

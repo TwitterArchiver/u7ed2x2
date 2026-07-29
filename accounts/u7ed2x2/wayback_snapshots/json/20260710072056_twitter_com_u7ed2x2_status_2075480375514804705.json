@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075480369147904000"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075454732819460286",
+    "created_at": "2026-07-10T07:20:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T08:20:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075480375514804705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "286418121",
+          "start": 0,
+          "username": "CyberHono"
+        },
+        {
+          "end": 19,
+          "id": "1955980103688790017",
+          "start": 11,
+          "username": "aaarjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CWdwq1FJ9d",
+          "end": 82,
+          "expanded_url": "https://x.com/u7ed2x2/status/2075480375514804705/photo/1",
+          "media_key": "3_2075480369147904000",
+          "start": 59,
+          "url": "https://t.co/CWdwq1FJ9d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075480375514804705",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075478229545287961",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberHono @aaarjkk 我手里有亚太/AU/EU，三张损耗都挺大的\n新出的KZ还没有，但也没好到哪去 https://t.co/CWdwq1FJ9d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075480369147904000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2WZj1bgAAJzbo.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075480369147904000"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075454732819460286",
+        "created_at": "2026-07-10T07:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075480375514804705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "286418121",
+              "start": 0,
+              "username": "CyberHono"
+            },
+            {
+              "end": 19,
+              "id": "1955980103688790017",
+              "start": 11,
+              "username": "aaarjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CWdwq1FJ9d",
+              "end": 82,
+              "expanded_url": "https://x.com/u7ed2x2/status/2075480375514804705/photo/1",
+              "media_key": "3_2075480369147904000",
+              "start": 59,
+              "url": "https://t.co/CWdwq1FJ9d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075480375514804705",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075478229545287961",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberHono @aaarjkk 我手里有亚太/AU/EU，三张损耗都挺大的\n新出的KZ还没有，但也没好到哪去 https://t.co/CWdwq1FJ9d"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075454732819460286",
+        "created_at": "2026-07-10T07:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T08:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075478229545287961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "286418121",
+              "start": 0,
+              "username": "CyberHono"
+            },
+            {
+              "end": 19,
+              "id": "1955980103688790017",
+              "start": 11,
+              "username": "aaarjkk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075478229545287961",
+        "in_reply_to_user_id": "286418121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075474794255126912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberHono @aaarjkk VIP4返6%，去损耗到手2.4%，上限250 USD\n隔壁E卡自邀Luxe，去损耗到手2.5%，上限300 USD\n\n除了首月10%，订阅全额返现外还是不如E的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1696,
+          "following_count": 1062,
+          "like_count": 2792,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 1458
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2011-04-22T23:51:16.000Z",
+        "description": "Swiss Matchups - https://t.co/umirD0SdsT\nGlobal Travel eSIM - https://t.co/C3f08Y0PKT\nF1 Manager Setup - https://t.co/o2bjbLhx0P\n\n🕘 GMT+9\n🔠 en, zh, ja",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "majors.im",
+                "end": 40,
+                "expanded_url": "https://majors.im",
+                "start": 17,
+                "url": "https://t.co/umirD0SdsT"
+              },
+              {
+                "display_url": "esim.gg",
+                "end": 85,
+                "expanded_url": "https://esim.gg",
+                "start": 62,
+                "url": "https://t.co/C3f08Y0PKT"
+              },
+              {
+                "display_url": "f1setup.it",
+                "end": 128,
+                "expanded_url": "https://f1setup.it",
+                "start": 105,
+                "url": "https://t.co/o2bjbLhx0P"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "0.td",
+                "end": 23,
+                "expanded_url": "https://0.td/",
+                "start": 0,
+                "url": "https://t.co/i6C0PXlUFN"
+              }
+            ]
+          }
+        },
+        "id": "286418121",
+        "location": "Fukuoka",
+        "name": "ieb",
+        "pinned_tweet_id": "2074995793749266588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/951073169326026752/Q-vmpzsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 408,
+          "like_count": 2820,
+          "listed_count": 5,
+          "media_count": 301,
+          "tweet_count": 4071
+        },
+        "url": "https://t.co/i6C0PXlUFN",
+        "username": "CyberHono",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1029,
+          "following_count": 1103,
+          "like_count": 22375,
+          "listed_count": 4,
+          "media_count": 492,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596731871232",
+          "name": "Banking - Business & finance"
+        }
+      }
+    ],
+    "conversation_id": "2076579449177587874",
+    "created_at": "2026-07-14T03:59:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T04:59:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076879238666543130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1511574513967722505",
+          "start": 0,
+          "username": "_Genshin_Ganyu_"
+        },
+        {
+          "end": 23,
+          "id": "1680039839209775107",
+          "start": 17,
+          "username": "A1tk0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/_genshin_ganyu…",
+          "end": 54,
+          "expanded_url": "https://x.com/_genshin_ganyu_/status/2074778688294617447",
+          "start": 31,
+          "url": "https://t.co/B5hAnYPwD9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076879238666543130",
+    "in_reply_to_user_id": "1511574513967722505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074778688294617447",
+        "type": "quoted"
+      },
+      {
+        "id": "2076862497966154058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@_Genshin_Ganyu_ @A1tk0 我将说不出话\nhttps://t.co/B5hAnYPwD9"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "2076579449177587874",
+        "created_at": "2026-07-14T03:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T04:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076879238666543130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1511574513967722505",
+              "start": 0,
+              "username": "_Genshin_Ganyu_"
+            },
+            {
+              "end": 23,
+              "id": "1680039839209775107",
+              "start": 17,
+              "username": "A1tk0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/_genshin_ganyu…",
+              "end": 54,
+              "expanded_url": "https://x.com/_genshin_ganyu_/status/2074778688294617447",
+              "start": 31,
+              "url": "https://t.co/B5hAnYPwD9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076879238666543130",
+        "in_reply_to_user_id": "1511574513967722505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074778688294617447",
+            "type": "quoted"
+          },
+          {
+            "id": "2076862497966154058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@_Genshin_Ganyu_ @A1tk0 我将说不出话\nhttps://t.co/B5hAnYPwD9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511574513967722505",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          }
+        ],
+        "conversation_id": "2074778688294617447",
+        "created_at": "2026-07-08T08:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T09:43:11.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074776297725935980",
+          "2074778688294617447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074778688294617447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 918,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "即日起请避免在我面前讨论有关bank account 出国旅行 签证 国籍 credit 结算业务以及个人或对公账户或加密货币钱包以及交易所账户余额和投资收益率的话题，谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511574513967722505",
+        "conversation_id": "2076579449177587874",
+        "created_at": "2026-07-14T02:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T03:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076862497966154058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            },
+            {
+              "end": 15,
+              "id": "1680039839209775107",
+              "start": 9,
+              "username": "A1tk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076862497966154058",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076579449177587874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@u7ed2x2 @A1tk0 我在重庆出来玩吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1066,
+          "like_count": 3067,
+          "listed_count": 3,
+          "media_count": 375,
+          "tweet_count": 1554
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-06T05:20:31.000Z",
+        "description": "青丝白发一瞬间，年华老去向谁言。春风若有怜花意，可否许我再少年？\n椰羊老师 | 业余电台BD7PVQ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ganyu.rocks",
+                "end": 23,
+                "expanded_url": "http://ganyu.rocks",
+                "start": 0,
+                "url": "https://t.co/aXUuApyKHX"
+              }
+            ]
+          }
+        },
+        "id": "1511574513967722505",
+        "location": "我於萬物之中",
+        "name": "研究员王小美🥥🐑",
+        "pinned_tweet_id": "2068335407096557901",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045557018841546752/88LRmzDu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4116,
+          "following_count": 1253,
+          "like_count": 3933,
+          "listed_count": 8,
+          "media_count": 399,
+          "tweet_count": 2729
+        },
+        "url": "https://t.co/aXUuApyKHX",
+        "username": "_Genshin_Ganyu_",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T02:21:33.000Z",
+        "description": "🇭🇰 cat. proudly obsessed with one special puppy: @u7ed2x2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "u7ed2x2"
+              }
+            ]
+          }
+        },
+        "id": "1680039839209775107",
+        "name": "Altko",
+        "pinned_tweet_id": "2076178227589226805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 391,
+          "like_count": 706,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 146
+        },
+        "url": "",
+        "username": "A1tk0",
+        "verified": true
+      }
+    ]
+  }
+}

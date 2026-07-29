@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2061730272895438922",
+    "created_at": "2026-06-02T09:45:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T10:45:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061746021190017044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586779015574327296",
+          "start": 0,
+          "username": "ForeverYuuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061746021190017044",
+    "in_reply_to_user_id": "1586779015574327296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061745856655786400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForeverYuuka 我觉得6就够了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2061730272895438922",
+        "created_at": "2026-06-02T09:45:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061746021190017044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586779015574327296",
+              "start": 0,
+              "username": "ForeverYuuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061746021190017044",
+        "in_reply_to_user_id": "1586779015574327296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061745856655786400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForeverYuuka 我觉得6就够了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586779015574327296",
+        "conversation_id": "2061730272895438922",
+        "created_at": "2026-06-02T09:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T10:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061745856655786400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061745856655786400",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061730272895438922",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 多少寸够吃"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 1060,
+          "like_count": 784,
+          "listed_count": 1,
+          "media_count": 168,
+          "tweet_count": 614
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "新形态次世代能源茶酱・🚩🏴🏳️‍⚧️・World Cup26⚽🇳🇱🇫🇷☫🇪🇸🇿🇦🇲🇦🇨🇮🇨🇻🇨🇩🇬🇭・169㎝ 49.8㎏・喜欢JK制服/lolita/地雷系・优香，喜欢",
+        "id": "1586779015574327296",
+        "name": "Yuuka Elite💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056770269684092928/hFs_FOG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 448,
+          "like_count": 24251,
+          "listed_count": 3,
+          "media_count": 526,
+          "tweet_count": 18751
+        },
+        "username": "ForeverYuuka",
+        "verified": false
+      }
+    ]
+  }
+}

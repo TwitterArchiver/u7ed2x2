@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2067473641944818101",
+    "created_at": "2026-06-18T06:45:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T07:45:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067499000211914984"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1548619992001785859",
+          "start": 0,
+          "username": "frankxka05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067499000211914984",
+    "in_reply_to_user_id": "1548619992001785859",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067498305198981515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@frankxka05 suki"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2067473641944818101",
+        "created_at": "2026-06-18T06:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067499000211914984"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1548619992001785859",
+              "start": 0,
+              "username": "frankxka05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067499000211914984",
+        "in_reply_to_user_id": "1548619992001785859",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067498305198981515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@frankxka05 suki"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1548619992001785859",
+        "conversation_id": "2067473641944818101",
+        "created_at": "2026-06-18T06:43:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T07:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067498305198981515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067498305198981515",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067473641944818101",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 香菜😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 1065,
+          "like_count": 1280,
+          "listed_count": 1,
+          "media_count": 250,
+          "tweet_count": 956
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-17T10:46:02.000Z",
+        "description": "社恐 /  Dev / Game / Anime / 🚇🚌🚄🧳💻🧋🍥 看成分回fo 这里介绍不完我请你多看",
+        "id": "1548619992001785859",
+        "location": "Earth",
+        "name": "frank_782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592617823862784/tRNWUTh7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246,
+          "following_count": 204,
+          "like_count": 2127,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 1184
+        },
+        "username": "frankxka05",
+        "verified": false
+      }
+    ]
+  }
+}

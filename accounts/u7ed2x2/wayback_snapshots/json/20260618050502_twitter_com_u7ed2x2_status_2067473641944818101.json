@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067473618939039744",
+        "3_2067473618943307776",
+        "3_2067473618951716864",
+        "3_2067473618943266816"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067473641944818101",
+    "created_at": "2026-06-18T05:05:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:05:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067473641944818101"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/M2ntBNSoIP",
+          "end": 142,
+          "expanded_url": "https://x.com/u7ed2x2/status/2067473641944818101/photo/1",
+          "media_key": "3_2067473618939039744",
+          "start": 119,
+          "url": "https://t.co/M2ntBNSoIP"
+        },
+        {
+          "display_url": "pic.x.com/M2ntBNSoIP",
+          "end": 142,
+          "expanded_url": "https://x.com/u7ed2x2/status/2067473641944818101/photo/1",
+          "media_key": "3_2067473618943307776",
+          "start": 119,
+          "url": "https://t.co/M2ntBNSoIP"
+        },
+        {
+          "display_url": "pic.x.com/M2ntBNSoIP",
+          "end": 142,
+          "expanded_url": "https://x.com/u7ed2x2/status/2067473641944818101/photo/1",
+          "media_key": "3_2067473618951716864",
+          "start": 119,
+          "url": "https://t.co/M2ntBNSoIP"
+        },
+        {
+          "display_url": "pic.x.com/M2ntBNSoIP",
+          "end": 142,
+          "expanded_url": "https://x.com/u7ed2x2/status/2067473641944818101/photo/1",
+          "media_key": "3_2067473618943266816",
+          "start": 119,
+          "url": "https://t.co/M2ntBNSoIP"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 166,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2066868879381635411",
+          "start": 143,
+          "url": "https://t.co/e7nE2ozgS5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067473641944818101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066868879381635411",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "P1-P3的图片和P4的位置依次对应\n\n它们各有特色...\n傻大碗的面软而不塌，有恰到好处的劲道，肉沫是这几家里最好吃的\n面麒麟的面叶稍宽一些，能更好地挂住汤汁，咬下去有麦香和层次感\n三和的装修虽然没有前两家精致，但吃到最后不会觉得油腻 https://t.co/M2ntBNSoIP https://t.co/e7nE2ozgS5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067473618939039744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEkTW9aUAAtnO8.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2067473618943307776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEkTW-bcAAaSdD.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2067473618951716864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEkTXAbwAArygF.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067473618943266816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEkTW-a0AA1lgE.jpg",
+        "width": 1076
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067473618939039744",
+            "3_2067473618943307776",
+            "3_2067473618951716864",
+            "3_2067473618943266816"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067473641944818101",
+        "created_at": "2026-06-18T05:05:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:05:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067473641944818101"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/M2ntBNSoIP",
+              "end": 142,
+              "expanded_url": "https://x.com/u7ed2x2/status/2067473641944818101/photo/1",
+              "media_key": "3_2067473618939039744",
+              "start": 119,
+              "url": "https://t.co/M2ntBNSoIP"
+            },
+            {
+              "display_url": "pic.x.com/M2ntBNSoIP",
+              "end": 142,
+              "expanded_url": "https://x.com/u7ed2x2/status/2067473641944818101/photo/1",
+              "media_key": "3_2067473618943307776",
+              "start": 119,
+              "url": "https://t.co/M2ntBNSoIP"
+            },
+            {
+              "display_url": "pic.x.com/M2ntBNSoIP",
+              "end": 142,
+              "expanded_url": "https://x.com/u7ed2x2/status/2067473641944818101/photo/1",
+              "media_key": "3_2067473618951716864",
+              "start": 119,
+              "url": "https://t.co/M2ntBNSoIP"
+            },
+            {
+              "display_url": "pic.x.com/M2ntBNSoIP",
+              "end": 142,
+              "expanded_url": "https://x.com/u7ed2x2/status/2067473641944818101/photo/1",
+              "media_key": "3_2067473618943266816",
+              "start": 119,
+              "url": "https://t.co/M2ntBNSoIP"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 166,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2066868879381635411",
+              "start": 143,
+              "url": "https://t.co/e7nE2ozgS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067473641944818101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066868879381635411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "P1-P3的图片和P4的位置依次对应\n\n它们各有特色...\n傻大碗的面软而不塌，有恰到好处的劲道，肉沫是这几家里最好吃的\n面麒麟的面叶稍宽一些，能更好地挂住汤汁，咬下去有麦香和层次感\n三和的装修虽然没有前两家精致，但吃到最后不会觉得油腻 https://t.co/M2ntBNSoIP https://t.co/e7nE2ozgS5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2066868879381635411",
+        "created_at": "2026-06-16T13:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T14:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066868879381635411"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066868879381635411",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 554,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "狗在大同也待过很久...\n有空写点大同刀削面推荐，过来旅游的话估计可以用上xwx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 1065,
+          "like_count": 1277,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 951
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

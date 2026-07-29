@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2054758680068022329",
+    "created_at": "2026-05-14T03:00:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T04:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054758680068022329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 117,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2054479365241798684",
+          "start": 94,
+          "url": "https://t.co/QfUlq8afnR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054758680068022329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054479365241798684",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨天水被掐断之后我连洗手都在倒矿泉水，心疼鼠了\n\n今天维修很早就敲门过来，那会儿我还什么都没穿迷迷糊糊抱着鲨鱼乱滚\n\n修完之后又跟我说《待会儿》继续派人来把水打开\n\n结果呢？人呢？水呢？ https://t.co/QfUlq8afnR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2054758680068022329",
+        "created_at": "2026-05-14T03:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054758680068022329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2054479365241798684",
+              "start": 94,
+              "url": "https://t.co/QfUlq8afnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054758680068022329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054479365241798684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天水被掐断之后我连洗手都在倒矿泉水，心疼鼠了\n\n今天维修很早就敲门过来，那会儿我还什么都没穿迷迷糊糊抱着鲨鱼乱滚\n\n修完之后又跟我说《待会儿》继续派人来把水打开\n\n结果呢？人呢？水呢？ https://t.co/QfUlq8afnR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2054479365241798684",
+        "created_at": "2026-05-13T08:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054479365241798684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2054180452995645805",
+              "start": 43,
+              "url": "https://t.co/n8LvFkZ2OE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054479365241798684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054180452995645805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天花板和地板没有一点水渍\n\n派来的维修说可能是瓷砖后面的暗管出了问题，明天要拆开看🥲 https://t.co/n8LvFkZ2OE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1338,
+          "following_count": 870,
+          "like_count": 252,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 230
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

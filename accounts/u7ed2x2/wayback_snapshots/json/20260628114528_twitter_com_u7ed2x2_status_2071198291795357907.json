@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2071152438082666797",
+    "created_at": "2026-06-28T11:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T12:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071198291795357907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699273459325390848",
+          "start": 0,
+          "username": "DurantRaym93677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071198291795357907",
+    "in_reply_to_user_id": "1699273459325390848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071195822428189176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DurantRaym93677 我也希望...\n内地有生之年能看到吗（）\neCNY现在还只是开峰会+炒概念+卖硬钱包"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2071152438082666797",
+        "created_at": "2026-06-28T11:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071198291795357907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699273459325390848",
+              "start": 0,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071198291795357907",
+        "in_reply_to_user_id": "1699273459325390848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071195822428189176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DurantRaym93677 我也希望...\n内地有生之年能看到吗（）\neCNY现在还只是开峰会+炒概念+卖硬钱包"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1699273459325390848",
+        "conversation_id": "2071152438082666797",
+        "created_at": "2026-06-28T11:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T12:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071195822428189176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071195822428189176",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071152438082666797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 什么时候稳定币到哪里都能用+推友人手一个稳定币账号就好了😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 1056,
+          "like_count": 1671,
+          "listed_count": 2,
+          "media_count": 292,
+          "tweet_count": 1095
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼 🔑サブ: @AmmieColl84391 (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @chiyorin8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "enchenia"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "chiyorin8964"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "location": "Japan",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "1991763708138397781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3341,
+          "following_count": 3858,
+          "like_count": 48962,
+          "listed_count": 15,
+          "media_count": 574,
+          "tweet_count": 11749
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

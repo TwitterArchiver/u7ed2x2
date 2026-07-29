@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079411263508303872"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596807368705",
+          "name": "Credit Cards - Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026467895",
+          "name": "Visa"
+        }
+      }
+    ],
+    "conversation_id": "2079411271108313303",
+    "created_at": "2026-07-21T03:40:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T04:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079411271108313303"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pzkc8VEdjC",
+          "end": 85,
+          "expanded_url": "https://x.com/u7ed2x2/status/2079411271108313303/photo/1",
+          "media_key": "3_2079411263508303872",
+          "start": 62,
+          "url": "https://t.co/pzkc8VEdjC"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2079408739195765109",
+          "start": 86,
+          "url": "https://t.co/kPQDxM11C6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079411271108313303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079408739195765109",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "现在已经把招行三个卡组织都加进去了...\nMaster Debit\nVisa Credit\nUnionPay Credit https://t.co/pzkc8VEdjC https://t.co/kPQDxM11C6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079411263508303872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuNhudb0AA8nvu.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079408731419508736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNuLOVsbAAA6oIS.jpg",
+        "width": 1884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079411263508303872"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596807368705",
+              "name": "Credit Cards - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026467895",
+              "name": "Visa"
+            }
+          }
+        ],
+        "conversation_id": "2079411271108313303",
+        "created_at": "2026-07-21T03:40:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079411271108313303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pzkc8VEdjC",
+              "end": 85,
+              "expanded_url": "https://x.com/u7ed2x2/status/2079411271108313303/photo/1",
+              "media_key": "3_2079411263508303872",
+              "start": 62,
+              "url": "https://t.co/pzkc8VEdjC"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2079408739195765109",
+              "start": 86,
+              "url": "https://t.co/kPQDxM11C6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079411271108313303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079408739195765109",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "现在已经把招行三个卡组织都加进去了...\nMaster Debit\nVisa Credit\nUnionPay Credit https://t.co/pzkc8VEdjC https://t.co/kPQDxM11C6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079408731419508736"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2079408739195765109",
+        "created_at": "2026-07-21T03:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T04:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079408739195765109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSMhNhCmWy",
+              "end": 26,
+              "expanded_url": "https://x.com/u7ed2x2/status/2079408739195765109/photo/1",
+              "media_key": "3_2079408731419508736",
+              "start": 3,
+              "url": "https://t.co/pSMhNhCmWy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079408739195765109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 43,
+          "like_count": 8,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "好看 https://t.co/pSMhNhCmWy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 1066,
+          "like_count": 3384,
+          "listed_count": 3,
+          "media_count": 394,
+          "tweet_count": 1640
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

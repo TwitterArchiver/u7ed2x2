@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2060261395288223919",
+    "created_at": "2026-05-29T07:47:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:47:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060266880783577501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1882678524596867072",
+          "start": 0,
+          "username": "gdioiui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060266880783577501",
+    "in_reply_to_user_id": "1882678524596867072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060261395288223919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gdioiui 地址电话还是打码比较好吧..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2712,
+        "media_key": "3_2060261376577437696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeEzmdbAAAId7m.jpg",
+        "width": 1220
+      },
+      {
+        "height": 2712,
+        "media_key": "3_2060261386324983808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeE0KxawAAevx2.jpg",
+        "width": 1220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2060261395288223919",
+        "created_at": "2026-05-29T07:47:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:47:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060266880783577501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1882678524596867072",
+              "start": 0,
+              "username": "gdioiui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060266880783577501",
+        "in_reply_to_user_id": "1882678524596867072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060261395288223919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gdioiui 地址电话还是打码比较好吧..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060261376577437696",
+            "3_2060261386324983808"
+          ]
+        },
+        "author_id": "1882678524596867072",
+        "conversation_id": "2060261395288223919",
+        "created_at": "2026-05-29T07:26:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:26:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060261395288223919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oARkVU2Au5",
+              "end": 75,
+              "expanded_url": "https://x.com/gdioiui/status/2060261395288223919/photo/1",
+              "media_key": "3_2060261376577437696",
+              "start": 52,
+              "url": "https://t.co/oARkVU2Au5"
+            },
+            {
+              "display_url": "pic.x.com/oARkVU2Au5",
+              "end": 75,
+              "expanded_url": "https://x.com/gdioiui/status/2060261395288223919/photo/1",
+              "media_key": "3_2060261386324983808",
+              "start": 52,
+              "url": "https://t.co/oARkVU2Au5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060261395288223919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哎...你怎么超时又送给别人家是呀...\n我不要补偿...但是窝四点才吃饭啊\n低血糖饿死了外卖小哥全责 https://t.co/oARkVU2Au5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 1043,
+          "like_count": 632,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 507
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T06:35:21.000Z",
+        "description": "不知道具体会什么 可能都可以试试？\n喜欢研究 喜欢计算机 网络\nanti gfw\nhrt25.8.23 欢迎新同类互fo私信！\n烂地之主.... 不知道该干嘛\n各种账号 服务 卡 有售 \n免费陪玩各种游戏（休息日）\nqq:3500843274",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/gdioiui",
+                "end": 23,
+                "expanded_url": "https://ngl.link/gdioiui",
+                "start": 0,
+                "url": "https://t.co/WSl3zvVGAf"
+              }
+            ]
+          }
+        },
+        "id": "1882678524596867072",
+        "location": "地下室to太平间",
+        "name": "​圣三一第一步枪 🍥 ❄️",
+        "pinned_tweet_id": "2060157078468182435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009627080758349825/-Njyeb88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1926,
+          "following_count": 470,
+          "like_count": 3937,
+          "listed_count": 3,
+          "media_count": 1318,
+          "tweet_count": 7118
+        },
+        "url": "https://t.co/WSl3zvVGAf",
+        "username": "gdioiui",
+        "verified": true
+      }
+    ]
+  }
+}

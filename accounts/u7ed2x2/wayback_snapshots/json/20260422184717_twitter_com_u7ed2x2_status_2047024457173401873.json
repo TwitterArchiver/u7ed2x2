@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047024451519447040"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2047008001555681336",
+    "created_at": "2026-04-22T18:47:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-22T19:47:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047024457173401873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BTFrxAPHMr",
+          "end": 43,
+          "expanded_url": "https://x.com/u7ed2x2/status/2047024457173401873/photo/1",
+          "media_key": "3_2047024451519447040",
+          "start": 20,
+          "url": "https://t.co/BTFrxAPHMr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047024457173401873",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047008001555681336",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 时间线这么智能 https://t.co/BTFrxAPHMr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047024451519447040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGh95J9bAAAB5A6.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047024451519447040"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2047008001555681336",
+        "created_at": "2026-04-22T18:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T19:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047024457173401873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BTFrxAPHMr",
+              "end": 43,
+              "expanded_url": "https://x.com/u7ed2x2/status/2047024457173401873/photo/1",
+              "media_key": "3_2047024451519447040",
+              "start": 20,
+              "url": "https://t.co/BTFrxAPHMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047024457173401873",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047008001555681336",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 时间线这么智能 https://t.co/BTFrxAPHMr"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2047008001555681336",
+        "created_at": "2026-04-22T17:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T18:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047008001555681336"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047008001555681336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 296,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刷到一篇推文，太有节目效果了，本来想绷的，尝试绷了半天实在没绷住🤣☝️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 758,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "是小孩! ^ω^ // 🇲🇾🇸🇬 现居济南 // 🚪¥8964 // \n@hobartr6 猫@_furryfur_ 笨蛋肥鸟姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 36,
+                "username": "hobartr6"
+              },
+              {
+                "end": 58,
+                "start": 47,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 81,
+                "start": 65,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 23,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 0,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🇯🇵🍬¥350私信→",
+        "name": "猫卷",
+        "pinned_tweet_id": "2046660969900982719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045874162829516800/Foua9chJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3716,
+          "following_count": 807,
+          "like_count": 3581,
+          "listed_count": 7,
+          "media_count": 100,
+          "tweet_count": 1479
+        },
+        "url": "https://t.co/9vPU5sObId",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

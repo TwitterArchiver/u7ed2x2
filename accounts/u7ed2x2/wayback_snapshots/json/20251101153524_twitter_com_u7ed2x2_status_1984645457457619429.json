@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "1201620375613788161",
+          "name": "Nintendo 3DS"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Hardware",
+          "id": "1070028376662888448",
+          "name": "Console gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1201620375613788161",
+          "name": "Nintendo 3DS"
+        }
+      }
+    ],
+    "conversation_id": "1984633621521760597",
+    "created_at": "2025-11-01T15:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T16:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984645457457619429"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1454354113181880320",
+          "start": 0,
+          "username": "Machiho0010"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984645457457619429",
+    "in_reply_to_user_id": "1454354113181880320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984633621521760597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Machiho0010 3DS校验不扣钱所以能通过，实际付款的时候付不出去\n国内Visa目前还不能境内商户+CNY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_1984633603146596361",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4rVvzzbQAkSUwv.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984633608485945345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4rVwHsbQAE1sr2.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1984633613061885952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4rVwYvakAAXtcN.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1201620375613788161",
+              "name": "Nintendo 3DS"
+            }
+          }
+        ],
+        "conversation_id": "1984633621521760597",
+        "created_at": "2025-11-01T15:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T16:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984645457457619429"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1454354113181880320",
+              "start": 0,
+              "username": "Machiho0010"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984645457457619429",
+        "in_reply_to_user_id": "1454354113181880320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984633621521760597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Machiho0010 3DS校验不扣钱所以能通过，实际付款的时候付不出去\n国内Visa目前还不能境内商户+CNY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1984633603146596361",
+            "3_1984633608485945345",
+            "3_1984633613061885952"
+          ]
+        },
+        "author_id": "1454354113181880320",
+        "conversation_id": "1984633621521760597",
+        "created_at": "2025-11-01T14:48:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T15:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984633621521760597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gccj9EnwfU",
+              "end": 34,
+              "expanded_url": "https://x.com/Machiho0010/status/1984633621521760597/photo/1",
+              "media_key": "3_1984633603146596361",
+              "start": 11,
+              "url": "https://t.co/gccj9EnwfU"
+            },
+            {
+              "display_url": "pic.x.com/gccj9EnwfU",
+              "end": 34,
+              "expanded_url": "https://x.com/Machiho0010/status/1984633621521760597/photo/1",
+              "media_key": "3_1984633608485945345",
+              "start": 11,
+              "url": "https://t.co/gccj9EnwfU"
+            },
+            {
+              "display_url": "pic.x.com/gccj9EnwfU",
+              "end": 34,
+              "expanded_url": "https://x.com/Machiho0010/status/1984633621521760597/photo/1",
+              "media_key": "3_1984633613061885952",
+              "start": 11,
+              "url": "https://t.co/gccj9EnwfU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984633621521760597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这玩意可以绑支付宝？ https://t.co/gccj9EnwfU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的🇸🇬 / godqwq@倒过来是里账",
+        "id": "1457364958841225222",
+        "location": "香橙港式大学",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 414,
+          "like_count": 22,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 54
+        },
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-30T07:47:25.000Z",
+        "description": "喜欢雨天躲在干净的小屋子里的感觉|MtX🍥|理性爱国理性反对共产党😢|日本🇯🇵語学習者|你们真好|随机消失请见谅|讨厌我吧，趁现在|然而最终还是要活下去吗？|可爱的dobyw @nekodoby_ |machiho\ntg: https://t.co/0JJB8S0voM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 88,
+                "username": "nekodoby_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/Machiay",
+                "end": 135,
+                "expanded_url": "http://t.me/Machiay",
+                "start": 112,
+                "url": "https://t.co/0JJB8S0voM"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Machiko0010",
+                "end": 23,
+                "expanded_url": "http://t.me/Machiko0010",
+                "start": 0,
+                "url": "https://t.co/evXSbgKroW"
+              }
+            ]
+          }
+        },
+        "id": "1454354113181880320",
+        "location": "IP属地：啊呜座町穂二零维区",
+        "name": "Machiko",
+        "pinned_tweet_id": "1656318405966974977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1653058253922914304/pjEhk6H-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 874,
+          "like_count": 110589,
+          "listed_count": 8,
+          "media_count": 1739,
+          "tweet_count": 16953
+        },
+        "url": "https://t.co/evXSbgKroW",
+        "username": "Machiho0010",
+        "verified": false
+      }
+    ]
+  }
+}

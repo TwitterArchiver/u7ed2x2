@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2013262714039377967",
+    "created_at": "2026-01-20T14:08:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T15:08:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013614532535427501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1654536386098364418",
+          "start": 0,
+          "username": "Nicole_yang88"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013614532535427501",
+    "in_reply_to_user_id": "1654536386098364418",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013262714039377967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nicole_yang88 在Youtube看过你的视频，质量很高"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1208,
+        "media_key": "3_2013262602596417536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_CLq5tWgAAz3pB.jpg",
+        "width": 1628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2013262714039377967",
+        "created_at": "2026-01-20T14:08:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T15:08:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013614532535427501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1654536386098364418",
+              "start": 0,
+              "username": "Nicole_yang88"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013614532535427501",
+        "in_reply_to_user_id": "1654536386098364418",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013262714039377967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nicole_yang88 在Youtube看过你的视频，质量很高"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013262602596417536"
+          ]
+        },
+        "author_id": "1654536386098364418",
+        "conversation_id": "2013262714039377967",
+        "created_at": "2026-01-19T14:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T15:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013262714039377967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtDEskfJkd",
+              "end": 152,
+              "expanded_url": "https://x.com/Nicole_yang88/status/2013262714039377967/photo/1",
+              "media_key": "3_2013262602596417536",
+              "start": 129,
+              "url": "https://t.co/TtDEskfJkd"
+            },
+            {
+              "display_url": "x.com/Nicole_yang88/…",
+              "end": 176,
+              "expanded_url": "https://twitter.com/Nicole_yang88/status/2012895143431643284",
+              "start": 153,
+              "url": "https://t.co/kQZ8sfuj0b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013262714039377967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "🚦停留 1 分钟认识下「泥伏雷闯关记」\n\n在国内，如果不是抖音被封号，我本来也算个小头部博主；现在出海到 X，相当于从零重来。\n\n我不讲金融知识、不教你炒股，我只做一件事：\n🚪帮普通人打通全球金融通道🔑。\n\n开户、收款、转账、出入金、跨境资金如何安全流转， 这是很多普通人进不了门、也没人系统讲清楚的地方。\n泥伏雷闯关记 = 普通人进入全球金融体系的一把钥匙。\n\n名字 · 缘起👇\n\n“泥伏雷”的灵感，源自《神奇动物在哪里》中的嗅嗅（Niffler）——那只对闪亮事物充满好奇、总爱挖掘宝藏的小生物。\n\n就像嗅嗅追逐金光的执念，我也在现实世界中寻找属于自己的“宝藏”。\n\n不同的是，我挖掘的不是珠宝，而是全球金融的机会——港美股开户、跨境账户、数字货币、加密钱包，以及自由兑换与财富流动的可能性。\n\n每一次探索，都是一场“闯关”；每一次发现，都是一次“升级”。\n\n我记录路径、分享经验，希望让更多人看到：在这个全球金融世界里，其实存在更多自由与选择。\n\n这就是泥伏雷闯关记——一个关于出海、财富与自由的长期探险旅程。\n\n从普通到不凡，资金永不眠。以科技与金融之力，打破知识壁垒，助力普工人突破金融的高墙。\n\n金融皆有“裂痕”，那是泥伏雷进来的地方——L.C"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4528,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012895143431643284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🚦停留 1 分钟认识下「泥伏雷闯关记」\n\n在国内，如果不是抖音被封号，我本来也算个小头部博主；现在出海到 X，相当于从零重来。\n\n我不讲金融知识、不教你炒股，我只做一件事：\n🚪帮普通人打通全球金融通道🔑。\n\n开户、收款、转账、出入金、跨境资金如何安全流转， https://t.co/TtDEskfJkd https://t.co/kQZ8sfuj0b"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的新加坡人 / 脑袋上面没有兽耳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nelowithcard",
+                "end": 23,
+                "expanded_url": "https://t.me/nelowithcard",
+                "start": 0,
+                "url": "https://t.co/XWvFRufrQt"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "玩卡笔记→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 823,
+          "following_count": 440,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 66
+        },
+        "url": "https://t.co/XWvFRufrQt",
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-05T17:20:01.000Z",
+        "description": "2015年老玩家‖币圈只用 #Binance 币安👉https://t.co/lClKrOWPKC‖ #OKX 欧易👉 https://t.co/11WDHGZ8iH‖ #欧易热钱包👉 https://t.co/EVgZtIHS39",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 14,
+                "tag": "Binance"
+              },
+              {
+                "end": 55,
+                "start": 51,
+                "tag": "OKX"
+              },
+              {
+                "end": 91,
+                "start": 85,
+                "tag": "欧易热钱包"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "binance.com/register?ref=7…",
+                "end": 49,
+                "expanded_url": "https://binance.com/register?ref=79522026",
+                "start": 26,
+                "url": "https://t.co/lClKrOWPKC"
+              },
+              {
+                "display_url": "chouyi.world/join/70514784",
+                "end": 83,
+                "expanded_url": "https://chouyi.world/join/70514784",
+                "start": 60,
+                "url": "https://t.co/11WDHGZ8iH"
+              },
+              {
+                "display_url": "web3.okx.com/join/OKX9798",
+                "end": 116,
+                "expanded_url": "https://web3.okx.com/join/OKX9798",
+                "start": 93,
+                "url": "https://t.co/EVgZtIHS39"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@tala-kang",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@tala-kang",
+                "start": 0,
+                "url": "https://t.co/HSaF7RcNyp"
+              }
+            ]
+          }
+        },
+        "id": "1654536386098364418",
+        "location": "Moon",
+        "name": "泥伏雷闯关记",
+        "pinned_tweet_id": "2013262714039377967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758831860954902528/Sf7BV7PZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2085,
+          "following_count": 1938,
+          "like_count": 601,
+          "listed_count": 14,
+          "media_count": 1317,
+          "tweet_count": 3435
+        },
+        "url": "https://t.co/HSaF7RcNyp",
+        "username": "Nicole_yang88",
+        "verified": true
+      }
+    ]
+  }
+}

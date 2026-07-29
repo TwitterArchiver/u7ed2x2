@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2054814171653603610",
+    "created_at": "2026-05-14T07:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054831681220280507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1352281301613568000",
+          "start": 0,
+          "username": "Starlight4You_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054831681220280507",
+    "in_reply_to_user_id": "1352281301613568000",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054828187738423482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Starlight4You_ ///♡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2054814171653603610",
+        "created_at": "2026-05-14T07:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054831681220280507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1352281301613568000",
+              "start": 0,
+              "username": "Starlight4You_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054831681220280507",
+        "in_reply_to_user_id": "1352281301613568000",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054828187738423482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Starlight4You_ ///♡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1352281301613568000",
+        "conversation_id": "2054814171653603610",
+        "created_at": "2026-05-14T07:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054828187738423482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054828187738423482",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054814171653603610",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 哇nelo的声音...天津话最萌的一次x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1344,
+          "following_count": 886,
+          "like_count": 263,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 237
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-21T15:46:11.000Z",
+        "description": "",
+        "id": "1352281301613568000",
+        "name": "Starlight✨",
+        "pinned_tweet_id": "1856285866831823171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054377366009561088/aicN1sQI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5730,
+          "following_count": 344,
+          "like_count": 40645,
+          "listed_count": 20,
+          "media_count": 3070,
+          "tweet_count": 17213
+        },
+        "username": "Starlight4You_",
+        "verified": false
+      }
+    ]
+  }
+}

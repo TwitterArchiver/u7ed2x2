@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2070004506906210511",
+    "created_at": "2026-06-25T05:35:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:35:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070018141657407910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565691463685795840",
+          "start": 0,
+          "username": "barutan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070018141657407910",
+    "in_reply_to_user_id": "1565691463685795840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070004506906210511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@barutan8964 天生吸引同类的能力"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070004497095815168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoiH2zbcAAy9VZ.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070004497087348736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLoiH2xaQAAYBi0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2070004506906210511",
+        "created_at": "2026-06-25T05:35:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:35:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070018141657407910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565691463685795840",
+              "start": 0,
+              "username": "barutan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070018141657407910",
+        "in_reply_to_user_id": "1565691463685795840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070004506906210511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@barutan8964 天生吸引同类的能力"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070004497095815168",
+            "3_2070004497087348736"
+          ]
+        },
+        "author_id": "1565691463685795840",
+        "conversation_id": "2070004506906210511",
+        "created_at": "2026-06-25T04:41:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070004506906210511"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HRB8GhCpCl",
+              "end": 31,
+              "expanded_url": "https://x.com/barutan8964/status/2070004506906210511/photo/1",
+              "media_key": "3_2070004497095815168",
+              "start": 8,
+              "url": "https://t.co/HRB8GhCpCl"
+            },
+            {
+              "display_url": "pic.x.com/HRB8GhCpCl",
+              "end": 31,
+              "expanded_url": "https://x.com/barutan8964/status/2070004506906210511/photo/1",
+              "media_key": "3_2070004497087348736",
+              "start": 8,
+              "url": "https://t.co/HRB8GhCpCl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070004506906210511",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在饭店被蹭蹭了 https://t.co/HRB8GhCpCl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 1058,
+          "like_count": 1505,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 1037
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-02T13:22:22.000Z",
+        "description": "骄傲月快乐喵🍥🏳️‍⚧️王烟洛连坐🙂‍↕️",
+        "id": "1565691463685795840",
+        "name": "巴尔坦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565691605516193792/56qrU4dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 323,
+          "like_count": 18184,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 3094
+        },
+        "url": "",
+        "username": "barutan8964",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2066168928506974273",
+    "created_at": "2026-06-14T14:40:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:40:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066168928506974273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2056393696296530189",
+          "start": 8,
+          "url": "https://t.co/MM4rHD6o2x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066168928506974273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056393696296530189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已严肃关灯躺好 https://t.co/MM4rHD6o2x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2066168928506974273",
+        "created_at": "2026-06-14T14:40:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:40:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066168928506974273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2056393696296530189",
+              "start": 8,
+              "url": "https://t.co/MM4rHD6o2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066168928506974273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056393696296530189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已严肃关灯躺好 https://t.co/MM4rHD6o2x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2056393696296530189",
+        "created_at": "2026-05-18T15:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056393696296530189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056393696296530189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 27315,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好困我去给牙刷得白白的然后睡觉💤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1584,
+          "following_count": 1064,
+          "like_count": 1173,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 890
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

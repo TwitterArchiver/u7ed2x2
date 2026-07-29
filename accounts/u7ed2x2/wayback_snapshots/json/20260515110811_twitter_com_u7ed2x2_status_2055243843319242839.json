@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2055190391755067720",
+    "created_at": "2026-05-15T11:08:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T12:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055243843319242839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1711413320417267712",
+          "start": 0,
+          "username": "Chroe_Chiyoda"
+        },
+        {
+          "end": 31,
+          "id": "792526628249341952",
+          "start": 15,
+          "username": "flyingfish_twi2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055243843319242839",
+    "in_reply_to_user_id": "1711413320417267712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055242738048663718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chroe_Chiyoda @flyingfish_twi2 但这毕竟不只由个人情绪决定...\n选举/国内压力/经济利益还有突发事件之类的，也能使温和的关系再次紧张"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2055190391755067720",
+        "created_at": "2026-05-15T11:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055243843319242839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1711413320417267712",
+              "start": 0,
+              "username": "Chroe_Chiyoda"
+            },
+            {
+              "end": 31,
+              "id": "792526628249341952",
+              "start": 15,
+              "username": "flyingfish_twi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055243843319242839",
+        "in_reply_to_user_id": "1711413320417267712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055242738048663718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chroe_Chiyoda @flyingfish_twi2 但这毕竟不只由个人情绪决定...\n选举/国内压力/经济利益还有突发事件之类的，也能使温和的关系再次紧张"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711413320417267712",
+        "conversation_id": "2055190391755067720",
+        "created_at": "2026-05-15T11:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T12:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055242738048663718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            },
+            {
+              "end": 25,
+              "id": "792526628249341952",
+              "start": 9,
+              "username": "flyingfish_twi2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055242738048663718",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055193447510999411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 @flyingfish_twi2 有但嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1385,
+          "following_count": 897,
+          "like_count": 315,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 268
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-09T16:08:34.000Z",
+        "description": "sal terrae, lvx mvndi.／Hi there, pick a language to chat with: EN CN JP DE Ivrit／不逞支那人・Merzの宝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "exodus.nyamoe.com",
+                "end": 23,
+                "expanded_url": "https://exodus.nyamoe.com/",
+                "start": 0,
+                "url": "https://t.co/e0udUDI0MN"
+              }
+            ]
+          }
+        },
+        "id": "1711413320417267712",
+        "location": "Ecke Danziger-Breslauerstr.s",
+        "name": "Kuroe Howado",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999167476660105216/8FEufCH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1109,
+          "following_count": 832,
+          "like_count": 263054,
+          "listed_count": 6,
+          "media_count": 4893,
+          "tweet_count": 46709
+        },
+        "url": "https://t.co/e0udUDI0MN",
+        "username": "Chroe_Chiyoda",
+        "verified": false
+      },
+      {
+        "created_at": "2016-10-30T00:40:47.000Z",
+        "description": "飞鱼 he/him 中文 or English 点赞和评论非常能代表本人观点 ENFP-A 喜茶梦男（已奔现）华住会梦男（形婚）霸王茶姬梦男（备胎）一般太鼓鼓众（里鬼 9 以内都可以整两下）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gemini.google.com",
+                "end": 23,
+                "expanded_url": "http://gemini.google.com",
+                "start": 0,
+                "url": "https://t.co/WH8BYNN8zJ"
+              }
+            ]
+          }
+        },
+        "id": "792526628249341952",
+        "name": "_",
+        "pinned_tweet_id": "1934619908350017937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004466078064562177/7QglegI3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 687,
+          "like_count": 13532,
+          "listed_count": 1,
+          "media_count": 495,
+          "tweet_count": 5670
+        },
+        "url": "https://t.co/WH8BYNN8zJ",
+        "username": "flyingfish_twi2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2065364368339136580",
+    "created_at": "2026-06-12T09:51:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T10:51:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065371386458357906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1711413320417267712",
+          "start": 0,
+          "username": "Chroe_Chiyoda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065371386458357906",
+    "in_reply_to_user_id": "1711413320417267712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065369715829055915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chroe_Chiyoda 你想吃了吗☝️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2065364368339136580",
+        "created_at": "2026-06-12T09:51:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:51:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065371386458357906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1711413320417267712",
+              "start": 0,
+              "username": "Chroe_Chiyoda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065371386458357906",
+        "in_reply_to_user_id": "1711413320417267712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065369715829055915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chroe_Chiyoda 你想吃了吗☝️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711413320417267712",
+        "conversation_id": "2065364368339136580",
+        "created_at": "2026-06-12T09:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T10:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065369715829055915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065369715829055915",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065364368339136580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 加這麼多配料倒像清補涼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 1063,
+          "like_count": 1065,
+          "listed_count": 1,
+          "media_count": 220,
+          "tweet_count": 832
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-09T16:08:34.000Z",
+        "description": "sal terrae, lvx mvndi.／Hi there, pick a language to chat with: EN CN JP DE Ivrit／不逞支那人・Merzの宝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "exodus.nyamoe.com",
+                "end": 23,
+                "expanded_url": "https://exodus.nyamoe.com/",
+                "start": 0,
+                "url": "https://t.co/e0udUDI0MN"
+              }
+            ]
+          }
+        },
+        "id": "1711413320417267712",
+        "location": "Ecke Danziger-Breslauerstr.s",
+        "name": "Kuroe Howado",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999167476660105216/8FEufCH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 838,
+          "like_count": 265687,
+          "listed_count": 6,
+          "media_count": 4988,
+          "tweet_count": 47312
+        },
+        "url": "https://t.co/e0udUDI0MN",
+        "username": "Chroe_Chiyoda",
+        "verified": false
+      }
+    ]
+  }
+}

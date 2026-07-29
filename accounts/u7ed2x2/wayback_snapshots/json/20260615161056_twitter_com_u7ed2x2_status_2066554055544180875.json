@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2065831569345171882",
+    "created_at": "2026-06-15T16:10:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:10:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066554055544180875"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1839980597206495232",
+          "start": 0,
+          "username": "cy79p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066554055544180875",
+    "in_reply_to_user_id": "1839980597206495232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066527226582237294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cy79p 旧的呢（被打"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2065831569345171882",
+        "created_at": "2026-06-15T16:10:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:10:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066554055544180875"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1839980597206495232",
+              "start": 0,
+              "username": "cy79p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066554055544180875",
+        "in_reply_to_user_id": "1839980597206495232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066527226582237294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cy79p 旧的呢（被打"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839980597206495232",
+        "conversation_id": "2065831569345171882",
+        "created_at": "2026-06-15T14:24:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T15:24:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066527226582237294"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066527226582237294",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065971826879344835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 贴贴呜呜 最近换手机了qwq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 1063,
+          "like_count": 1210,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 912
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T10:49:06.000Z",
+        "description": "你说遗忘会在应许地风化 ｜🏳️‍🌈🏳️‍⚧️｜你说我怎样我就是怎样的｜四分之一个酒蒙子｜时月系统｜42｜「瑪德琳娜電台」@cy79p｜「花」@inwal3310｜「我是，女孩。」@txzm123 ｜「4 a.m.，-4 ℃」@winterfruit_1｜「身体は正直だって言ってんの」@w0sh1asak1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 60,
+                "username": "cy79p"
+              },
+              {
+                "end": 80,
+                "start": 70,
+                "username": "inwal3310"
+              },
+              {
+                "end": 97,
+                "start": 89,
+                "username": "txzm123"
+              },
+              {
+                "end": 126,
+                "start": 112,
+                "username": "winterfruit_1"
+              },
+              {
+                "end": 153,
+                "start": 142,
+                "username": "w0sh1asak1"
+              }
+            ]
+          }
+        },
+        "id": "1839980597206495232",
+        "name": "璟江别 #北十字",
+        "pinned_tweet_id": "1962215932266459411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043026890089467904/l9lMm8FW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 407,
+          "like_count": 11917,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 2190
+        },
+        "username": "cy79p",
+        "verified": false
+      }
+    ]
+  }
+}

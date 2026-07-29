@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2070738662166544865",
+    "created_at": "2026-06-28T01:56:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T02:56:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071050029394206925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663903611108065280",
+          "start": 0,
+          "username": "Kr0p_aya1n3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071050029394206925",
+    "in_reply_to_user_id": "1663903611108065280",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071047278987764039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Kr0p_aya1n3 🥲..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2070738662166544865",
+        "created_at": "2026-06-28T01:56:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071050029394206925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663903611108065280",
+              "start": 0,
+              "username": "Kr0p_aya1n3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071050029394206925",
+        "in_reply_to_user_id": "1663903611108065280",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071047278987764039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Kr0p_aya1n3 🥲..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1663903611108065280",
+        "conversation_id": "2070738662166544865",
+        "created_at": "2026-06-28T01:45:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T02:45:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071047278987764039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071047278987764039",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070738662166544865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@u7ed2x2 好恶心这种"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1619,
+          "following_count": 1056,
+          "like_count": 1643,
+          "listed_count": 2,
+          "media_count": 288,
+          "tweet_count": 1078
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-31T13:42:38.000Z",
+        "description": "大概现在还是纯种音游吃(舞萌比较多)......二游只玩pcr和赛马娘了。\n也许会发点日常/牢骚/游戏相关，可能看心情private不过欢迎互fo交朋友🙇🏻‍♂️",
+        "id": "1663903611108065280",
+        "name": "Krøpe_⭐️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995400442986266624/c0Cf5To6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 1287,
+          "like_count": 32742,
+          "listed_count": 2,
+          "media_count": 260,
+          "tweet_count": 4011
+        },
+        "url": "",
+        "username": "Kr0p_aya1n3",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067478844035219456"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2067232467665522898",
+    "created_at": "2026-06-18T05:25:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T06:25:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067478851396235495"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1899705473882030080",
+          "start": 0,
+          "username": "xiaomajiaXMJ"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mwHC0fsrZL",
+          "end": 37,
+          "expanded_url": "https://x.com/u7ed2x2/status/2067478851396235495/photo/1",
+          "media_key": "3_2067478844035219456",
+          "start": 14,
+          "url": "https://t.co/mwHC0fsrZL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067478851396235495",
+    "in_reply_to_user_id": "1899705473882030080",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067450529740099987",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaomajiaXMJ https://t.co/mwHC0fsrZL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 504,
+        "media_key": "3_2067478844035219456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLEpDf9awAAynjP.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067478844035219456"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2067232467665522898",
+        "created_at": "2026-06-18T05:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T06:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067478851396235495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1899705473882030080",
+              "start": 0,
+              "username": "xiaomajiaXMJ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwHC0fsrZL",
+              "end": 37,
+              "expanded_url": "https://x.com/u7ed2x2/status/2067478851396235495/photo/1",
+              "media_key": "3_2067478844035219456",
+              "start": 14,
+              "url": "https://t.co/mwHC0fsrZL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067478851396235495",
+        "in_reply_to_user_id": "1899705473882030080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067450529740099987",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaomajiaXMJ https://t.co/mwHC0fsrZL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1899705473882030080",
+        "conversation_id": "2067232467665522898",
+        "created_at": "2026-06-18T03:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T04:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067450529740099987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067450529740099987",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067232467665522898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 质感相当棒！用的什么拍摄设备，方便告知吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 1065,
+          "like_count": 1279,
+          "listed_count": 1,
+          "media_count": 248,
+          "tweet_count": 952
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-12T06:16:17.000Z",
+        "description": "Mtf，可爱的女孩子。历史政治经济投资爱好者，也喜欢唱歌、做饭~ 军团战争玩家    精神障碍，找对象",
+        "id": "1899705473882030080",
+        "location": "常州",
+        "name": "中暑之小马甲",
+        "pinned_tweet_id": "2053785496904732914",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047924901156376576/nEXBVKHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 40,
+          "like_count": 665,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 361
+        },
+        "url": "",
+        "username": "xiaomajiaXMJ",
+        "verified": false
+      }
+    ]
+  }
+}

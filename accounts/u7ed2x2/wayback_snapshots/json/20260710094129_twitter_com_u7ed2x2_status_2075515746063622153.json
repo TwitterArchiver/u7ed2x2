@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2075185702938263652",
+    "created_at": "2026-07-10T09:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T10:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075515746063622153"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070544483977232389",
+          "start": 0,
+          "username": "AkanoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075515746063622153",
+    "in_reply_to_user_id": "2070544483977232389",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075185702938263652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkanoQWQ 揉Akano..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075185702938263652",
+        "created_at": "2026-07-10T09:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075515746063622153"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070544483977232389",
+              "start": 0,
+              "username": "AkanoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075515746063622153",
+        "in_reply_to_user_id": "2070544483977232389",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075185702938263652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkanoQWQ 揉Akano..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070544483977232389",
+        "conversation_id": "2075185702938263652",
+        "created_at": "2026-07-09T11:50:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T12:50:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075185702938263652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkanoQWQ/statu…",
+              "end": 147,
+              "expanded_url": "https://twitter.com/AkanoQWQ/status/2073738099528704210",
+              "start": 124,
+              "url": "https://t.co/qaXC2Zo6Hl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075185702938263652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 400,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073738099528704210",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "呃呃这种事情再次发生了，心情不知为何就是很不好呢\n想来原因之一是还没有和妈妈出过柜，或者严格意义上来说之前炸过多次异装癖的柜导致有点难以解释了……\n当然不考虑其他因素，我依然觉得不管是男装女装，心理性别生理性别为何，合适的话爱穿就穿呗……\n难受惹 https://t.co/qaXC2Zo6Hl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 1062,
+          "like_count": 2797,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 1461
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "🇨🇳简繁中文/🇬🇧ENG(installing…) | 退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | sim racing | 可爱是最高赞美！",
+        "id": "2070544483977232389",
+        "location": "Hong Kong",
+        "name": "Akano",
+        "pinned_tweet_id": "2073076472475173004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 82,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 165
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true
+      }
+    ]
+  }
+}

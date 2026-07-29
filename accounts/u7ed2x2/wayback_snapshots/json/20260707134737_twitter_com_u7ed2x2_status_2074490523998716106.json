@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074490519615655936"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074487826960527613",
+    "created_at": "2026-07-07T13:47:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T14:47:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074490523998716106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520285442737770496",
+          "start": 0,
+          "username": "Magpieneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NpfRCt8Ycg",
+          "end": 43,
+          "expanded_url": "https://x.com/u7ed2x2/status/2074490523998716106/photo/1",
+          "media_key": "3_2074490519615655936",
+          "start": 20,
+          "url": "https://t.co/NpfRCt8Ycg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074490523998716106",
+    "in_reply_to_user_id": "1520285442737770496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074489601935429806",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magpieneko 分你可爱多（？ https://t.co/NpfRCt8Ycg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 350,
+        "media_key": "3_2074490519615655936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMoSIu-bUAAzgZU.jpg",
+        "width": 350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074490519615655936"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074487826960527613",
+        "created_at": "2026-07-07T13:47:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:47:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074490523998716106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520285442737770496",
+              "start": 0,
+              "username": "Magpieneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NpfRCt8Ycg",
+              "end": 43,
+              "expanded_url": "https://x.com/u7ed2x2/status/2074490523998716106/photo/1",
+              "media_key": "3_2074490519615655936",
+              "start": 20,
+              "url": "https://t.co/NpfRCt8Ycg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074490523998716106",
+        "in_reply_to_user_id": "1520285442737770496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074489601935429806",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magpieneko 分你可爱多（？ https://t.co/NpfRCt8Ycg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520285442737770496",
+        "conversation_id": "2074487826960527613",
+        "created_at": "2026-07-07T13:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T14:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074489601935429806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074489601935429806",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074487826960527613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 太可爱了叭\nnelo是吃可爱长大的嘛"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 1063,
+          "like_count": 2551,
+          "listed_count": 3,
+          "media_count": 350,
+          "tweet_count": 1372
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "被雨淋透的麻雀/叫我小鸟就好/是个不可爱的孩子/学着成为人类/社恐/总是很困/该死的小东西/一切都会好起来的……吧",
+        "id": "1520285442737770496",
+        "location": "距你2.1KM",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2056572888778727508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000047111682097152/toPEt8jA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 69,
+          "like_count": 1840,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 1225
+        },
+        "url": "",
+        "username": "Magpieneko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063877784548864000"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2063877793331749118",
+    "created_at": "2026-06-08T06:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063877793331749118"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7HB1QHO26f",
+          "end": 37,
+          "expanded_url": "https://x.com/u7ed2x2/status/2063877793331749118/photo/1",
+          "media_key": "3_2063877784548864000",
+          "start": 14,
+          "url": "https://t.co/7HB1QHO26f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063877793331749118",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "今天喝高蛋白抹茶拿铁... https://t.co/7HB1QHO26f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063877784548864000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRd6P_a8AAUDW_.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063877784548864000"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063877793331749118",
+        "created_at": "2026-06-08T06:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063877793331749118"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7HB1QHO26f",
+              "end": 37,
+              "expanded_url": "https://x.com/u7ed2x2/status/2063877793331749118/photo/1",
+              "media_key": "3_2063877784548864000",
+              "start": 14,
+              "url": "https://t.co/7HB1QHO26f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063877793331749118",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "今天喝高蛋白抹茶拿铁... https://t.co/7HB1QHO26f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 1062,
+          "like_count": 944,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 750
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077630299819876352"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2077630307306795096",
+    "created_at": "2026-07-16T05:44:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T06:44:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077630307306795096"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7EzkYKokk8",
+          "end": 55,
+          "expanded_url": "https://x.com/u7ed2x2/status/2077630307306795096/photo/1",
+          "media_key": "3_2077630299819876352",
+          "start": 32,
+          "url": "https://t.co/7EzkYKokk8"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 79,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2056369961967423655",
+          "start": 56,
+          "url": "https://t.co/VNhegpa4lf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077630307306795096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056369961967423655",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Altko说狗应该把帽子买下来\n在成为林俊杰的道路上越走越远😠 https://t.co/7EzkYKokk8 https://t.co/VNhegpa4lf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077630299819876352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNU5v_taIAAq6Nc.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 5308,
+        "height": 1268,
+        "media_key": "13_2056369898398576640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056369898398576640/img/mhp1FY7vB7Xxj0u_.jpg",
+        "public_metrics": {
+          "view_count": 920
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056369898398576640/vid/avc1/720x846/KOgl0L3z5jnA_VYb.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056369898398576640/vid/avc1/480x564/GqdsD3AN87nqe0cN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056369898398576640/pl/fax3SnVMBE-dLwhi.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056369898398576640/vid/avc1/1078x1268/yxAkHbTL38QuY-Gx.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056369898398576640/vid/avc1/320x376/RkVBD4SaA3_B7xV5.mp4"
+          }
+        ],
+        "width": 1078
+      },
+      {
+        "height": 1867,
+        "media_key": "3_2056369898218266625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImxhv4bIAE1RY4.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077630299819876352"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2077630307306795096",
+        "created_at": "2026-07-16T05:44:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:44:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077630307306795096"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7EzkYKokk8",
+              "end": 55,
+              "expanded_url": "https://x.com/u7ed2x2/status/2077630307306795096/photo/1",
+              "media_key": "3_2077630299819876352",
+              "start": 32,
+              "url": "https://t.co/7EzkYKokk8"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 79,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2056369961967423655",
+              "start": 56,
+              "url": "https://t.co/VNhegpa4lf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077630307306795096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056369961967423655",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Altko说狗应该把帽子买下来\n在成为林俊杰的道路上越走越远😠 https://t.co/7EzkYKokk8 https://t.co/VNhegpa4lf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056369898398576640",
+            "3_2056369898218266625"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2056369961967423655",
+        "created_at": "2026-05-18T13:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056369961967423655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXWYAcaOg1",
+              "end": 66,
+              "expanded_url": "https://x.com/u7ed2x2/status/2056369961967423655/video/1",
+              "media_key": "13_2056369898398576640",
+              "start": 43,
+              "url": "https://t.co/TXWYAcaOg1"
+            },
+            {
+              "display_url": "pic.x.com/TXWYAcaOg1",
+              "end": 66,
+              "expanded_url": "https://x.com/u7ed2x2/status/2056369961967423655/video/1",
+              "media_key": "3_2056369898218266625",
+              "start": 43,
+              "url": "https://t.co/TXWYAcaOg1"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2055181194485272967",
+              "start": 67,
+              "url": "https://t.co/DbytfRZ0jc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056369961967423655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3628,
+          "like_count": 30,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055181194485272967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我不怎么敢发自拍的...\n上次朋友说像早期林俊杰 很疑惑 那我找张对比图（躲起来 https://t.co/TXWYAcaOg1 https://t.co/DbytfRZ0jc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 1069,
+          "like_count": 3151,
+          "listed_count": 3,
+          "media_count": 380,
+          "tweet_count": 1571
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2071541668751499296",
+    "created_at": "2026-06-29T14:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071596789028004205"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574361489468628992",
+          "start": 0,
+          "username": "119Calling_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071596789028004205",
+    "in_reply_to_user_id": "1574361489468628992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071595810790482113",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@119Calling_ 这样...嘛\n（若有所思（举荧光棒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2071541668751499296",
+        "created_at": "2026-06-29T14:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071596789028004205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574361489468628992",
+              "start": 0,
+              "username": "119Calling_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071596789028004205",
+        "in_reply_to_user_id": "1574361489468628992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071595810790482113",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@119Calling_ 这样...嘛\n（若有所思（举荧光棒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574361489468628992",
+        "conversation_id": "2071541668751499296",
+        "created_at": "2026-06-29T14:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071595810790482113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071595810790482113",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071591939359768858",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 其实我上辈子会wota艺..不要和别人说哦（并非"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 1057,
+          "like_count": 1764,
+          "listed_count": 2,
+          "media_count": 297,
+          "tweet_count": 1125
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-26T11:33:37.000Z",
+        "description": "☥ en & ch | 追星 聽歌 我玩遊戲 我嗶嗶叭叭 | 🕊️ @PalomoLim / 👭 @Flowers8964 / mum @asahisuki0 ˚✧₊⁎⁺˳✧༚ ☥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "PalomoLim"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "asahisuki0"
+              }
+            ]
+          }
+        },
+        "id": "1574361489468628992",
+        "location": "the Observateur, standing",
+        "name": "𝘕⁺",
+        "pinned_tweet_id": "2063641263610691896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039715532153430017/Jgc1rnwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 989,
+          "like_count": 33829,
+          "listed_count": 3,
+          "media_count": 2265,
+          "tweet_count": 12721
+        },
+        "url": "",
+        "username": "119Calling_",
+        "verified": false
+      }
+    ]
+  }
+}

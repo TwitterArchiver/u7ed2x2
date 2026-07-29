@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060709396280438785"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2060709403293319297",
+    "created_at": "2026-05-30T13:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T14:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060709403293319297"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z14VdEFQ57",
+          "end": 30,
+          "expanded_url": "https://x.com/u7ed2x2/status/2060709403293319297/photo/1",
+          "media_key": "3_2060709396280438785",
+          "start": 7,
+          "url": "https://t.co/z14VdEFQ57"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060709403293319297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "给你们吃樱桃 https://t.co/z14VdEFQ57"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060709396280438785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkcRx6a8AEMS1v.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060709396280438785"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2060709403293319297",
+        "created_at": "2026-05-30T13:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T14:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060709403293319297"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z14VdEFQ57",
+              "end": 30,
+              "expanded_url": "https://x.com/u7ed2x2/status/2060709403293319297/photo/1",
+              "media_key": "3_2060709396280438785",
+              "start": 7,
+              "url": "https://t.co/z14VdEFQ57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060709403293319297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给你们吃樱桃 https://t.co/z14VdEFQ57"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1512,
+          "following_count": 1049,
+          "like_count": 694,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 557
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

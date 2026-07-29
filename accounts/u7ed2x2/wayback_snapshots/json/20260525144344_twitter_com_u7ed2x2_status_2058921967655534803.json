@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2058921967655534803",
+    "created_at": "2026-05-25T14:43:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:43:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058921967655534803"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2056393696296530189",
+          "start": 17,
+          "url": "https://t.co/MM4rHD6o2x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058921967655534803",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056393696296530189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "💤觉睡后然的白白得刷牙给去我困好 https://t.co/MM4rHD6o2x"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2058921967655534803",
+        "created_at": "2026-05-25T14:43:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058921967655534803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2056393696296530189",
+              "start": 17,
+              "url": "https://t.co/MM4rHD6o2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058921967655534803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056393696296530189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "💤觉睡后然的白白得刷牙给去我困好 https://t.co/MM4rHD6o2x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2056393696296530189",
+        "created_at": "2026-05-18T15:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056393696296530189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056393696296530189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5658,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好困我去给牙刷得白白的然后睡觉💤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 1051,
+          "like_count": 534,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 437
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

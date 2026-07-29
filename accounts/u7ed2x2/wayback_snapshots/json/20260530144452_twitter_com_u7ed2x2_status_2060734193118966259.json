@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2060732763876303295",
+    "created_at": "2026-05-30T14:44:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T15:44:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060734193118966259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046295889103441921",
+          "start": 0,
+          "username": "Xie_miaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060734193118966259",
+    "in_reply_to_user_id": "2046295889103441921",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060732763876303295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xie_miaoyu 好多猫..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2060732740711129088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkxgmsaoAAGWkN.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2060732763876303295",
+        "created_at": "2026-05-30T14:44:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:44:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060734193118966259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046295889103441921",
+              "start": 0,
+              "username": "Xie_miaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060734193118966259",
+        "in_reply_to_user_id": "2046295889103441921",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060732763876303295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xie_miaoyu 好多猫..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060732740711129088"
+          ]
+        },
+        "author_id": "2046295889103441921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490376299675721729",
+              "name": "VRChat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899469046054924",
+              "name": "Virtual reality games"
+            }
+          }
+        ],
+        "conversation_id": "2060732763876303295",
+        "created_at": "2026-05-30T14:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060732763876303295"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "vrchat"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bhXkkIpmCJ",
+              "end": 64,
+              "expanded_url": "https://x.com/Xie_miaoyu/status/2060732763876303295/photo/1",
+              "media_key": "3_2060732740711129088",
+              "start": 41,
+              "url": "https://t.co/bhXkkIpmCJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060732763876303295",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "▷猫猫追番回！\n▷ねこの追いアニメ回！\n————\n猜猜哪个是我？\n#vrchat https://t.co/bhXkkIpmCJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1049,
+          "like_count": 700,
+          "listed_count": 1,
+          "media_count": 154,
+          "tweet_count": 561
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T18:32:40.000Z",
+        "description": "「盯……」\n\n▷1月1日生｜看成分回fo｜不主动私信关注(社恐)\n▷Live2D｜日语練習｜VRC｜VTB｜战雷｜日常｜絵｜心理｜树洞\n▷心理稳定｜不自杀自残｜PTSD｜强迫症｜社恐｜多重人格\n▷前急性自杀干预行动者｜旧绩2/26｜大学生心理健康协会(持证)干事｜首都大学生心理健康联盟成员",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@drvb_nyame?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@drvb_nyame?si=rkW4s0_GpvsKSGPp",
+                "start": 0,
+                "url": "https://t.co/ZTuDjcTr2J"
+              }
+            ]
+          }
+        },
+        "id": "2046295889103441921",
+        "location": "北京/厦门/坟堆里",
+        "name": "Nyame | コミュ障猫",
+        "pinned_tweet_id": "2055015648452018221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059306873267122176/cg7JXVZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 39,
+          "like_count": 1742,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 436
+        },
+        "url": "https://t.co/ZTuDjcTr2J",
+        "username": "Xie_miaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

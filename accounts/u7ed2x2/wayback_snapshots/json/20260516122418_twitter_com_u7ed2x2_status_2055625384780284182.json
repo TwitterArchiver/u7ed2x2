@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2055615139718783431",
+    "created_at": "2026-05-16T12:24:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T13:24:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055625384780284182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1372036072524238850",
+          "start": 0,
+          "username": "XiayuOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055625384780284182",
+    "in_reply_to_user_id": "1372036072524238850",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055621483687538734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiayuOfficial 😱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2055615139718783431",
+        "created_at": "2026-05-16T12:24:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055625384780284182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1372036072524238850",
+              "start": 0,
+              "username": "XiayuOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055625384780284182",
+        "in_reply_to_user_id": "1372036072524238850",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055621483687538734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiayuOfficial 😱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1372036072524238850",
+        "conversation_id": "2055615139718783431",
+        "created_at": "2026-05-16T12:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T13:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055621483687538734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055621483687538734",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055615139718783431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 您的会员卡账户已被关闭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1401,
+          "following_count": 915,
+          "like_count": 339,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 271
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-17T04:04:34.000Z",
+        "description": "每一程都是梦的里程\n伪·交旅博主\nTG：@Xiayu_Official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "Xiayu_Official"
+              }
+            ]
+          }
+        },
+        "id": "1372036072524238850",
+        "location": "IP归属地：厦门高崎国际机场（XMN）",
+        "name": "夏羽Official",
+        "pinned_tweet_id": "1656643961149325312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011327022002544640/UEDR0JD9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 443,
+          "like_count": 8975,
+          "listed_count": 3,
+          "media_count": 361,
+          "tweet_count": 3889
+        },
+        "username": "XiayuOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

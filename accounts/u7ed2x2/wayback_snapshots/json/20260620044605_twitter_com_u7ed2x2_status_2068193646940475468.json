@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2068193545056669696"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2068193646940475468",
+    "created_at": "2026-06-20T04:46:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T05:46:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068193646940475468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/d9ehKaGUZP",
+          "end": 27,
+          "expanded_url": "https://x.com/u7ed2x2/status/2068193646940475468/video/1",
+          "media_key": "13_2068193545056669696",
+          "start": 4,
+          "url": "https://t.co/d9ehKaGUZP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068193646940475468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "狗做饭 https://t.co/d9ehKaGUZP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31633,
+        "height": 1920,
+        "media_key": "13_2068193545056669696",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2068193545056669696/img/xnMSSI3M3bnCkmw_.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2068193545056669696/pl/GTOt9W8gMSesmmo8.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068193545056669696/vid/avc1/480x852/MrDeXUevmm6IvTwJ.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068193545056669696/vid/avc1/320x568/wmx1LAxrEdc-mFbl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068193545056669696/vid/avc1/720x1280/EBBwCFtYgoDR5iVV.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2068193545056669696/vid/avc1/1080x1920/qVVQHxOM7z7DzbNL.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2068193545056669696"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2068193646940475468",
+        "created_at": "2026-06-20T04:46:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T05:46:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068193646940475468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/d9ehKaGUZP",
+              "end": 27,
+              "expanded_url": "https://x.com/u7ed2x2/status/2068193646940475468/video/1",
+              "media_key": "13_2068193545056669696",
+              "start": 4,
+              "url": "https://t.co/d9ehKaGUZP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068193646940475468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗做饭 https://t.co/d9ehKaGUZP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 1064,
+          "like_count": 1334,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 961
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062487071324004352"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2061400041315836271",
+    "created_at": "2026-06-04T10:50:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:50:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062487076214657291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1711413320417267712",
+          "start": 0,
+          "username": "Chroe_Chiyoda"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jxBx7KqCG7",
+          "end": 40,
+          "expanded_url": "https://x.com/u7ed2x2/status/2062487076214657291/photo/1",
+          "media_key": "3_2062487071324004352",
+          "start": 17,
+          "url": "https://t.co/jxBx7KqCG7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062487076214657291",
+    "in_reply_to_user_id": "1711413320417267712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062486102938665135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Chroe_Chiyoda 摇 https://t.co/jxBx7KqCG7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2062487071324004352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9tEFgaYAAXmNy.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062487071324004352"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2061400041315836271",
+        "created_at": "2026-06-04T10:50:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062487076214657291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1711413320417267712",
+              "start": 0,
+              "username": "Chroe_Chiyoda"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jxBx7KqCG7",
+              "end": 40,
+              "expanded_url": "https://x.com/u7ed2x2/status/2062487076214657291/photo/1",
+              "media_key": "3_2062487071324004352",
+              "start": 17,
+              "url": "https://t.co/jxBx7KqCG7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062487076214657291",
+        "in_reply_to_user_id": "1711413320417267712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062486102938665135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Chroe_Chiyoda 摇 https://t.co/jxBx7KqCG7"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711413320417267712",
+        "conversation_id": "2061400041315836271",
+        "created_at": "2026-06-04T10:46:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062486102938665135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062486102938665135",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061400041315836271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@u7ed2x2 要管教了🫢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 1063,
+          "like_count": 841,
+          "listed_count": 1,
+          "media_count": 178,
+          "tweet_count": 666
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-09T16:08:34.000Z",
+        "description": "sal terrae, lvx mvndi.／Hi there, pick a language to chat with: EN CN JP DE Ivrit／不逞支那人・Merzの宝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "exodus.nyamoe.com",
+                "end": 23,
+                "expanded_url": "https://exodus.nyamoe.com/",
+                "start": 0,
+                "url": "https://t.co/e0udUDI0MN"
+              }
+            ]
+          }
+        },
+        "id": "1711413320417267712",
+        "location": "Ecke Danziger-Breslauerstr.s",
+        "name": "Kuroe Howado",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999167476660105216/8FEufCH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1110,
+          "following_count": 833,
+          "like_count": 265048,
+          "listed_count": 6,
+          "media_count": 4966,
+          "tweet_count": 47173
+        },
+        "url": "https://t.co/e0udUDI0MN",
+        "username": "Chroe_Chiyoda",
+        "verified": false
+      }
+    ]
+  }
+}

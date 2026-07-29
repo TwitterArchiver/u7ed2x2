@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2048786049632194607",
+    "created_at": "2026-05-06T06:32:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T07:32:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051912955776893335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1426207565575192577",
+          "start": 0,
+          "username": "Lainyer051230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051912955776893335",
+    "in_reply_to_user_id": "1426207565575192577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051908828300788221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Lainyer051230 诶嘿嘿...🫶"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2048786049632194607",
+        "created_at": "2026-05-06T06:32:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051912955776893335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1426207565575192577",
+              "start": 0,
+              "username": "Lainyer051230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051912955776893335",
+        "in_reply_to_user_id": "1426207565575192577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051908828300788221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Lainyer051230 诶嘿嘿...🫶"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426207565575192577",
+        "conversation_id": "2048786049632194607",
+        "created_at": "2026-05-06T06:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T07:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051908828300788221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051908828300788221",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048786049632194607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 可爱捏～摸摸ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 831,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 164
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T15:43:03.000Z",
+        "description": "2007.5.6（年月日｜\n位于马来西亚.柔佛州｜\nMtF（無證含糖｜无不良嗜好｜有男友｜偶尔分享下照片还有生活什么的～｜\n🈚🚪加好友看缘分噢｜有友善的朋友想和我聊天的话，我都非常欢迎的～！｜叫我哥哥/姐姐/弟弟/妹妹都可以",
+        "id": "1426207565575192577",
+        "location": "Malaysia",
+        "name": "千缘sama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046988658927181824/6kb-V4xl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 109,
+          "following_count": 150,
+          "like_count": 15982,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 1243
+        },
+        "username": "Lainyer051230",
+        "verified": true
+      }
+    ]
+  }
+}

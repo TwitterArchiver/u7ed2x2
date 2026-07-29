@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2059288924573593750",
+    "created_at": "2026-05-26T15:02:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:02:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059288979149853116"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059288979149853116",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059288924573593750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "总之就是特别「魔丸」\n感谢他的不鲨之恩（）\n也感谢他当年在竞赛上对我的培养（）\n\n那是一段和高中一样愉快的回忆，只不过高中我就回天津念了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2059288924573593750",
+        "created_at": "2026-05-26T15:02:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:02:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059288979149853116"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059288979149853116",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059288924573593750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "总之就是特别「魔丸」\n感谢他的不鲨之恩（）\n也感谢他当年在竞赛上对我的培养（）\n\n那是一段和高中一样愉快的回忆，只不过高中我就回天津念了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2059288924573593750",
+        "created_at": "2026-05-26T15:01:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:01:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059288924573593750"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059288924573593750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "周五回一趟北京，这次打算看初中母校，再去见对我宠爱有加的年级长（）\n\nnelo做的事包括但不限于\n·自制1:1车牌刷开后门去便利店再回来\n·上课到一半说去洗手间实则拿外卖然后被撞个满怀\n·解密电梯滚动码/复制门禁造成宿管危机\n·登教务请假自己批/将所有人近一周考勤修改为正常"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1038,
+          "like_count": 565,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 464
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

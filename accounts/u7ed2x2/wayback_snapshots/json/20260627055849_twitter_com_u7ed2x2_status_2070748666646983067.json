@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2070731916576465160",
+    "created_at": "2026-06-27T05:58:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T06:58:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070748666646983067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897349281620934657",
+          "start": 0,
+          "username": "Mu_Qiwu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070748666646983067",
+    "in_reply_to_user_id": "1897349281620934657",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070747284875190670",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Mu_Qiwu 贴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2070731916576465160",
+        "created_at": "2026-06-27T05:58:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:58:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070748666646983067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897349281620934657",
+              "start": 0,
+              "username": "Mu_Qiwu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070748666646983067",
+        "in_reply_to_user_id": "1897349281620934657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070747284875190670",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Mu_Qiwu 贴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897349281620934657",
+        "conversation_id": "2070731916576465160",
+        "created_at": "2026-06-27T05:53:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T06:53:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070747284875190670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070747284875190670",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070731916576465160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 狗好人坏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 1056,
+          "like_count": 1608,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 1068
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-05T18:11:51.000Z",
+        "description": "21岁野生狐狸 （INFP）\n🇦🇹 Mathematics Undergraduate\nLeopold-Franzens-Universität Innsbruck\nUniversität Wien",
+        "id": "1897349281620934657",
+        "location": "Innsbruck, Austria",
+        "name": "慕思仙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064801718357901313/5uHpZ3Xm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 63,
+          "like_count": 2344,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 586
+        },
+        "url": "",
+        "username": "Mu_Qiwu",
+        "verified": false
+      }
+    ]
+  }
+}

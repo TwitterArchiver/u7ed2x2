@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072360705253343236"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2072360711574159737",
+    "created_at": "2026-07-01T16:44:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T17:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072360711574159737"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Oj0nkWYTD5",
+          "end": 108,
+          "expanded_url": "https://x.com/u7ed2x2/status/2072360711574159737/photo/1",
+          "media_key": "3_2072360705253343236",
+          "start": 85,
+          "url": "https://t.co/Oj0nkWYTD5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072360711574159737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "睡不着了，看到消息爬起来测试\n\n腾讯的TenpayGo可以用Gmail邮箱注册了，目前还没有实名入口，绑定外卡/拉起AP就能直接用，和微信一样，200以下免手续费... https://t.co/Oj0nkWYTD5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072360705253343236",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMKBFOMagAQqwme.jpg",
+        "width": 1996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072360705253343236"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2072360711574159737",
+        "created_at": "2026-07-01T16:44:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T17:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072360711574159737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Oj0nkWYTD5",
+              "end": 108,
+              "expanded_url": "https://x.com/u7ed2x2/status/2072360711574159737/photo/1",
+              "media_key": "3_2072360705253343236",
+              "start": 85,
+              "url": "https://t.co/Oj0nkWYTD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072360711574159737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡不着了，看到消息爬起来测试\n\n腾讯的TenpayGo可以用Gmail邮箱注册了，目前还没有实名入口，绑定外卡/拉起AP就能直接用，和微信一样，200以下免手续费... https://t.co/Oj0nkWYTD5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 1058,
+          "like_count": 1945,
+          "listed_count": 2,
+          "media_count": 309,
+          "tweet_count": 1189
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

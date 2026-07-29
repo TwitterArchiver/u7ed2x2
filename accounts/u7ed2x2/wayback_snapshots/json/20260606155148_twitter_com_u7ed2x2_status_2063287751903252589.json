@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063287743581736960"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2063287751903252589",
+    "created_at": "2026-06-06T15:51:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T16:51:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063287751903252589"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Download Brewwww! by MINGYUE QU on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Brewwww!.",
+          "display_url": "apps.apple.com/app/id67613945…",
+          "end": 82,
+          "expanded_url": "https://apps.apple.com/app/id6761394593",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2061004764230619136/bqfKRL43?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2061004764230619136/bqfKRL43?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 59,
+          "status": 200,
+          "title": "Brewwww! App - App Store",
+          "unwound_url": "https://apps.apple.com/us/app/brewwww/id6761394593",
+          "url": "https://t.co/RlcJdWoaxq"
+        },
+        {
+          "display_url": "pic.x.com/LpmdFtaLVI",
+          "end": 106,
+          "expanded_url": "https://x.com/u7ed2x2/status/2063287751903252589/photo/1",
+          "media_key": "3_2063287743581736960",
+          "start": 83,
+          "url": "https://t.co/LpmdFtaLVI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063287751903252589",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发现了好玩的App\n把喝过的饮品做成日历📅\n\n上传图片会自动抠图并读取EXIF\n只需要填写「饮品名」和「店铺」即可\n\nhttps://t.co/RlcJdWoaxq https://t.co/LpmdFtaLVI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2032,
+        "media_key": "3_2063287743581736960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJFRWGbUAAj0ay.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063287743581736960"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2063287751903252589",
+        "created_at": "2026-06-06T15:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T16:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063287751903252589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Download Brewwww! by MINGYUE QU on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Brewwww!.",
+              "display_url": "apps.apple.com/app/id67613945…",
+              "end": 82,
+              "expanded_url": "https://apps.apple.com/app/id6761394593",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2061004764230619136/bqfKRL43?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2061004764230619136/bqfKRL43?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 59,
+              "status": 200,
+              "title": "Brewwww! App - App Store",
+              "unwound_url": "https://apps.apple.com/us/app/brewwww/id6761394593",
+              "url": "https://t.co/RlcJdWoaxq"
+            },
+            {
+              "display_url": "pic.x.com/LpmdFtaLVI",
+              "end": 106,
+              "expanded_url": "https://x.com/u7ed2x2/status/2063287751903252589/photo/1",
+              "media_key": "3_2063287743581736960",
+              "start": 83,
+              "url": "https://t.co/LpmdFtaLVI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063287751903252589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现了好玩的App\n把喝过的饮品做成日历📅\n\n上传图片会自动抠图并读取EXIF\n只需要填写「饮品名」和「店铺」即可\n\nhttps://t.co/RlcJdWoaxq https://t.co/LpmdFtaLVI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 1062,
+          "like_count": 912,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 728
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043289801840021504",
+        "3_2043289801814880256"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2043289811851878721",
+    "created_at": "2026-04-12T11:27:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T12:27:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043289811851878721"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cj4kUoUkmM",
+          "end": 160,
+          "expanded_url": "https://x.com/u7ed2x2/status/2043289811851878721/photo/1",
+          "media_key": "3_2043289801840021504",
+          "start": 137,
+          "url": "https://t.co/cj4kUoUkmM"
+        },
+        {
+          "display_url": "pic.x.com/cj4kUoUkmM",
+          "end": 160,
+          "expanded_url": "https://x.com/u7ed2x2/status/2043289811851878721/photo/1",
+          "media_key": "3_2043289801814880256",
+          "start": 137,
+          "url": "https://t.co/cj4kUoUkmM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043289811851878721",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "尝试串流...\nSteam Link特别卡\nMeta Link不兼容我的旧笔记本\nVirtual Desktop使用时过热直接绿屏（）\n\n用上散热器后突然没问题了...\n可我下午才下单了天选（5060 32+1TB那款）...\n换台新笔记本也不错，如果不砍单的话就不退了🤧 https://t.co/cj4kUoUkmM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2043289801840021504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs5P7vaUAATiU1.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2043289801814880256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFs5P7pasAAzyMQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043289801840021504",
+            "3_2043289801814880256"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2043289811851878721",
+        "created_at": "2026-04-12T11:27:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T12:27:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043289811851878721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cj4kUoUkmM",
+              "end": 160,
+              "expanded_url": "https://x.com/u7ed2x2/status/2043289811851878721/photo/1",
+              "media_key": "3_2043289801840021504",
+              "start": 137,
+              "url": "https://t.co/cj4kUoUkmM"
+            },
+            {
+              "display_url": "pic.x.com/cj4kUoUkmM",
+              "end": 160,
+              "expanded_url": "https://x.com/u7ed2x2/status/2043289811851878721/photo/1",
+              "media_key": "3_2043289801814880256",
+              "start": 137,
+              "url": "https://t.co/cj4kUoUkmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043289811851878721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尝试串流...\nSteam Link特别卡\nMeta Link不兼容我的旧笔记本\nVirtual Desktop使用时过热直接绿屏（）\n\n用上散热器后突然没问题了...\n可我下午才下单了天选（5060 32+1TB那款）...\n换台新笔记本也不错，如果不砍单的话就不退了🤧 https://t.co/cj4kUoUkmM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 里账号 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 577,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 54
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": false
+      }
+    ]
+  }
+}

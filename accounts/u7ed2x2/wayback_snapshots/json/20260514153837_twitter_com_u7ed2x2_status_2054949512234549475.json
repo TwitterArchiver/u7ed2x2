@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026367762",
+          "name": "Netflix"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447585004736512",
+          "name": "Entertainment industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1397573214239289349",
+          "name": "TV streaming services"
+        }
+      }
+    ],
+    "conversation_id": "2054945554795561174",
+    "created_at": "2026-05-14T15:38:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T16:38:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054949512234549475"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725925465540755456",
+          "start": 0,
+          "username": "Bucheon_S_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054949512234549475",
+    "in_reply_to_user_id": "1725925465540755456",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {},
+      "text": "Netflix에서 한국어 자막이 있는 버전으로 볼 수 있을 거예요. 그냥 편하게 보면 돼요. 줄거리를 너무 깊게 파고들지 않아도 충분히 재밌게 볼 수 있어요.\n\n예를 들어 어떤 네티즌들은 옥에 티를 찾기도 하는데, 한 장면에 에어컨이 살짝 나온 적이 있어서 밈이 됐어요. “알고 보니 궁궐에서는 그렇게 일찍부터 에어컨을 썼구나” 이런 식으로요."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054945554795561174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bucheon_S_ Netflix에서 한국어 자막이 있는 버전으로 볼 수 있을 거예요. 그냥 편하게 보면 돼요. 줄거리를 너무 깊게 파고들지 않아도 충분히 재밌게 볼 수 있어요.\n\n예를 들어 어떤 네티즌들은 옥에 티를 찾기도 하는데, 한 장면에 에어컨이 살짝 나온 적이 있어서 밈이 됐어요. “알고 보니 궁궐에서는 그렇게"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2009,
+        "media_key": "3_2054945552232824832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISiF5mbQAAL5Ir.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026367762",
+              "name": "Netflix"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1397573214239289349",
+              "name": "TV streaming services"
+            }
+          }
+        ],
+        "conversation_id": "2054945554795561174",
+        "created_at": "2026-05-14T15:38:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:38:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054949512234549475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725925465540755456",
+              "start": 0,
+              "username": "Bucheon_S_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054949512234549475",
+        "in_reply_to_user_id": "1725925465540755456",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {},
+          "text": "Netflix에서 한국어 자막이 있는 버전으로 볼 수 있을 거예요. 그냥 편하게 보면 돼요. 줄거리를 너무 깊게 파고들지 않아도 충분히 재밌게 볼 수 있어요.\n\n예를 들어 어떤 네티즌들은 옥에 티를 찾기도 하는데, 한 장면에 에어컨이 살짝 나온 적이 있어서 밈이 됐어요. “알고 보니 궁궐에서는 그렇게 일찍부터 에어컨을 썼구나” 이런 식으로요."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054945554795561174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bucheon_S_ Netflix에서 한국어 자막이 있는 버전으로 볼 수 있을 거예요. 그냥 편하게 보면 돼요. 줄거리를 너무 깊게 파고들지 않아도 충분히 재밌게 볼 수 있어요.\n\n예를 들어 어떤 네티즌들은 옥에 티를 찾기도 하는데, 한 장면에 에어컨이 살짝 나온 적이 있어서 밈이 됐어요. “알고 보니 궁궐에서는 그렇게"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054945552232824832"
+          ]
+        },
+        "author_id": "1725925465540755456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2054945554795561174",
+        "created_at": "2026-05-14T15:22:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:22:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054945554795561174"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xZ57RpE4SV",
+              "end": 52,
+              "expanded_url": "https://x.com/Bucheon_S_/status/2054945554795561174/photo/1",
+              "media_key": "3_2054945552232824832",
+              "start": 29,
+              "url": "https://t.co/xZ57RpE4SV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054945554795561174",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Nelo 真的很亲切🥹🥹我会好好看看你推荐的电视剧的🥰🥰 https://t.co/xZ57RpE4SV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 905,
+          "like_count": 279,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 247
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-18T17:14:40.000Z",
+        "description": "我喜欢麻辣烫,正在学习汉语的韩国人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4417900633/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/4417900633/",
+                "start": 0,
+                "url": "https://t.co/zf0ZCguubu"
+              }
+            ]
+          }
+        },
+        "id": "1725925465540755456",
+        "location": "卡提希娅",
+        "name": "망망",
+        "pinned_tweet_id": "1956247024854262146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053760142181904384/lFXStdVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 616,
+          "following_count": 639,
+          "like_count": 16588,
+          "listed_count": 9,
+          "media_count": 5080,
+          "tweet_count": 29650
+        },
+        "url": "https://t.co/zf0ZCguubu",
+        "username": "Bucheon_S_",
+        "verified": false
+      }
+    ]
+  }
+}

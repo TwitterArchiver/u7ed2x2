@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071627194871529472"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2071627200965841388",
+    "created_at": "2026-06-29T16:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T17:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071627200965841388"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y7Wovka9LM",
+          "end": 47,
+          "expanded_url": "https://x.com/u7ed2x2/status/2071627200965841388/photo/1",
+          "media_key": "3_2071627194871529472",
+          "start": 24,
+          "url": "https://t.co/Y7Wovka9LM"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 71,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2056393696296530189",
+          "start": 48,
+          "url": "https://t.co/MM4rHD6o2x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071627200965841388",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056393696296530189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "晚安\n一直用它洗澡身上真的会带花果味道，好神奇 https://t.co/Y7Wovka9LM https://t.co/MM4rHD6o2x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071627194871529472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_l9TFbQAAO9BZ.jpg",
+        "width": 1628
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071627194871529472"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2071627200965841388",
+        "created_at": "2026-06-29T16:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071627200965841388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y7Wovka9LM",
+              "end": 47,
+              "expanded_url": "https://x.com/u7ed2x2/status/2071627200965841388/photo/1",
+              "media_key": "3_2071627194871529472",
+              "start": 24,
+              "url": "https://t.co/Y7Wovka9LM"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2056393696296530189",
+              "start": 48,
+              "url": "https://t.co/MM4rHD6o2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071627200965841388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056393696296530189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚安\n一直用它洗澡身上真的会带花果味道，好神奇 https://t.co/Y7Wovka9LM https://t.co/MM4rHD6o2x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2056393696296530189",
+        "created_at": "2026-05-18T15:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056393696296530189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056393696296530189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 31537,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好困我去给牙刷得白白的然后睡觉💤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 1055,
+          "like_count": 1778,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 1132
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2076235494263066889",
+    "created_at": "2026-07-12T14:36:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:36:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076314666649944302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945848714058203136",
+          "start": 0,
+          "username": "LnaRoaH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076314666649944302",
+    "in_reply_to_user_id": "1945848714058203136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076292155166056936",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LnaRoaH 打算明天去TESTV打卡\n你看他们的节目嘛...？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2076235494263066889",
+        "created_at": "2026-07-12T14:36:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:36:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076314666649944302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945848714058203136",
+              "start": 0,
+              "username": "LnaRoaH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076314666649944302",
+        "in_reply_to_user_id": "1945848714058203136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076292155166056936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LnaRoaH 打算明天去TESTV打卡\n你看他们的节目嘛...？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945848714058203136",
+        "conversation_id": "2076235494263066889",
+        "created_at": "2026-07-12T13:06:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T14:06:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076292155166056936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076292155166056936",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076235494263066889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 你们在重庆？\n能来面面吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 1065,
+          "like_count": 2964,
+          "listed_count": 3,
+          "media_count": 369,
+          "tweet_count": 1524
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-17T14:11:19.000Z",
+        "description": "你好啊～我是lhr 攝影｜HIFI｜畫畫｜羽毛球｜游泳｜化學 ｜推推空間｜交易員｜坐標待定天津市和苏州市 #lhr的攝影集 #lhr探店 調戲鏈接🔗https://t.co/QZ0qizQuEq",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 53,
+                "tag": "lhr的攝影集"
+              },
+              {
+                "end": 68,
+                "start": 62,
+                "tag": "lhr探店"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/lnaroah",
+                "end": 97,
+                "expanded_url": "https://ngl.link/lnaroah",
+                "start": 74,
+                "url": "https://t.co/QZ0qizQuEq"
+              }
+            ]
+          }
+        },
+        "id": "1945848714058203136",
+        "location": "距你1.5km",
+        "name": "lhr～",
+        "pinned_tweet_id": "2057390797981352401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980434750884966400/-y_6Pczc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 118,
+          "like_count": 988,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 424
+        },
+        "url": "",
+        "username": "LnaRoaH",
+        "verified": true
+      }
+    ]
+  }
+}

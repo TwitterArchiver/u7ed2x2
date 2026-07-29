@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069361262342148096"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2069359488822575371",
+    "created_at": "2026-06-23T10:05:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T11:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069361267605897505"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XrXQSo0pHq",
+          "end": 119,
+          "expanded_url": "https://x.com/u7ed2x2/status/2069361267605897505/photo/1",
+          "media_key": "3_2069361262342148096",
+          "start": 96,
+          "url": "https://t.co/XrXQSo0pHq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069361267605897505",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069359488822575371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "荔枝冰奶推荐选少冰不加糖\n\n下面那串狗在饮品店工作过，顺便解释一下\nGlz160：荔枝果浆160g\nC90：茶汤90g\nNx60：基底牛奶60g\nNnr15：特调奶15g\nB10：冰块10块 https://t.co/XrXQSo0pHq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 752,
+        "media_key": "3_2069361262342148096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfZGqnbkAAkLv4.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2069359481239281664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLfXe_faoAAfQay.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069361262342148096"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2069359488822575371",
+        "created_at": "2026-06-23T10:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T11:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069361267605897505"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XrXQSo0pHq",
+              "end": 119,
+              "expanded_url": "https://x.com/u7ed2x2/status/2069361267605897505/photo/1",
+              "media_key": "3_2069361262342148096",
+              "start": 96,
+              "url": "https://t.co/XrXQSo0pHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069361267605897505",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069359488822575371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "荔枝冰奶推荐选少冰不加糖\n\n下面那串狗在饮品店工作过，顺便解释一下\nGlz160：荔枝果浆160g\nC90：茶汤90g\nNx60：基底牛奶60g\nNnr15：特调奶15g\nB10：冰块10块 https://t.co/XrXQSo0pHq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069359481239281664"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Milk",
+              "id": "850419241790472192",
+              "name": "Milk"
+            }
+          }
+        ],
+        "conversation_id": "2069359488822575371",
+        "created_at": "2026-06-23T09:58:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T10:58:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069359488822575371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/exLwgaHW0J",
+              "end": 97,
+              "expanded_url": "https://x.com/u7ed2x2/status/2069359488822575371/photo/1",
+              "media_key": "3_2069359481239281664",
+              "start": 74,
+              "url": "https://t.co/exLwgaHW0J"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2068986306534003059",
+              "start": 98,
+              "url": "https://t.co/4ng2jTpstB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069359488822575371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068986306534003059",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狗把它们同时提回来对比\n\n茉荔鲜加乳会冲淡荔枝的鲜甜，人参果味也完全消失\n荔枝冰奶反而融合的很好\n\n对牛乳无感首选去乳茉荔鲜，喜欢牛乳首选荔枝冰奶 https://t.co/exLwgaHW0J https://t.co/4ng2jTpstB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1059,
+          "like_count": 1430,
+          "listed_count": 2,
+          "media_count": 268,
+          "tweet_count": 1008
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

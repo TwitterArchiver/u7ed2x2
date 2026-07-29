@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2062474314688102400"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2062474374578675813",
+    "created_at": "2026-06-04T09:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T10:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062474374578675813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NuhkxEEUxk",
+          "end": 31,
+          "expanded_url": "https://x.com/u7ed2x2/status/2062474374578675813/video/1",
+          "media_key": "13_2062474314688102400",
+          "start": 8,
+          "url": "https://t.co/NuhkxEEUxk"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2061400041315836271",
+          "start": 32,
+          "url": "https://t.co/skrZfcpVqL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062474374578675813",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061400041315836271",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "花絮\n和好厚米 https://t.co/NuhkxEEUxk https://t.co/skrZfcpVqL"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4866,
+        "height": 1920,
+        "media_key": "13_2062474314688102400",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2062474314688102400/img/G9V1vWKODymVUlpr.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2062474314688102400/pl/g7JSQkV5_S7fPpmO.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062474314688102400/vid/avc1/480x852/jNOGbyF52qlZo1Ym.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062474314688102400/vid/avc1/1080x1920/TqEnQiA63J7ZXvJk.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062474314688102400/vid/avc1/320x568/-w3I-WRIT_knFWop.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2062474314688102400/vid/avc1/720x1280/amNvnC7ZZmPqMrdm.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061400034156093440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuQaMfaIAAgl_c.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2061400034181328896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuQaMlbMAAEqYb.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2062474314688102400"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2062474374578675813",
+        "created_at": "2026-06-04T09:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T10:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062474374578675813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NuhkxEEUxk",
+              "end": 31,
+              "expanded_url": "https://x.com/u7ed2x2/status/2062474374578675813/video/1",
+              "media_key": "13_2062474314688102400",
+              "start": 8,
+              "url": "https://t.co/NuhkxEEUxk"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2061400041315836271",
+              "start": 32,
+              "url": "https://t.co/skrZfcpVqL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062474374578675813",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061400041315836271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "花絮\n和好厚米 https://t.co/NuhkxEEUxk https://t.co/skrZfcpVqL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061400034156093440",
+            "3_2061400034181328896"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2061400041315836271",
+        "created_at": "2026-06-01T10:50:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:50:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061400041315836271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pvq8f3knMe",
+              "end": 42,
+              "expanded_url": "https://x.com/u7ed2x2/status/2061400041315836271/photo/1",
+              "media_key": "3_2061400034156093440",
+              "start": 19,
+              "url": "https://t.co/Pvq8f3knMe"
+            },
+            {
+              "display_url": "pic.x.com/Pvq8f3knMe",
+              "end": 42,
+              "expanded_url": "https://x.com/u7ed2x2/status/2061400041315836271/photo/1",
+              "media_key": "3_2061400034181328896",
+              "start": 19,
+              "url": "https://t.co/Pvq8f3knMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061400041315836271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 4676,
+          "like_count": 120,
+          "quote_count": 1,
+          "reply_count": 31,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "小时候喜欢看绘本\n长大后也在保持童心 https://t.co/Pvq8f3knMe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1545,
+          "following_count": 1063,
+          "like_count": 840,
+          "listed_count": 1,
+          "media_count": 177,
+          "tweet_count": 664
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

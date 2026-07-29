@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2070738662166544865",
+    "created_at": "2026-06-27T08:36:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T09:36:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070788277205176444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1423220645383475200",
+          "start": 0,
+          "username": "sysjf0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070788277205176444",
+    "in_reply_to_user_id": "1423220645383475200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070780992676303296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@sysjf0 抱抱...谢谢十九方🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2070738662166544865",
+        "created_at": "2026-06-27T08:36:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:36:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070788277205176444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1423220645383475200",
+              "start": 0,
+              "username": "sysjf0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070788277205176444",
+        "in_reply_to_user_id": "1423220645383475200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070780992676303296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@sysjf0 抱抱...谢谢十九方🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423220645383475200",
+        "conversation_id": "2070738662166544865",
+        "created_at": "2026-06-27T08:07:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T09:07:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070780992676303296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070780992676303296",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070738662166544865",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@u7ed2x2 nelo攻击性低了，希望你的病早点好🫂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 1055,
+          "like_count": 1615,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 1070
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-05T09:53:54.000Z",
+        "description": "最喜欢的推 @BeetiIsDog @umichen0502324 @citrus_404",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 6,
+                "username": "BeetiIsDog"
+              },
+              {
+                "end": 33,
+                "start": 18,
+                "username": "umichen0502324"
+              },
+              {
+                "end": 45,
+                "start": 34,
+                "username": "citrus_404"
+              }
+            ]
+          }
+        },
+        "id": "1423220645383475200",
+        "location": "1",
+        "name": "十九方",
+        "pinned_tweet_id": "1862539669592031578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034670934108336128/mwvWsTX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 963,
+          "like_count": 30988,
+          "listed_count": 2,
+          "media_count": 1918,
+          "tweet_count": 24238
+        },
+        "url": "",
+        "username": "sysjf0",
+        "verified": false
+      }
+    ]
+  }
+}

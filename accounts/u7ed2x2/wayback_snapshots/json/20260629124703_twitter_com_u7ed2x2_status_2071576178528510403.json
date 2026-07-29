@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2071554823837917661",
+    "created_at": "2026-06-29T12:47:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T13:47:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071576178528510403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725925465540755456",
+          "start": 0,
+          "username": "Bucheon_S_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071576178528510403",
+    "in_reply_to_user_id": "1725925465540755456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071554823837917661",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bucheon_S_ 加字幕辛苦了！记得好好休息"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 687,
+        "media_key": "3_2071554565145776129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL-j5sRaUAEXM-z.jpg",
+        "width": 1693
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2071554823837917661",
+        "created_at": "2026-06-29T12:47:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T13:47:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071576178528510403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725925465540755456",
+              "start": 0,
+              "username": "Bucheon_S_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071576178528510403",
+        "in_reply_to_user_id": "1725925465540755456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071554823837917661",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bucheon_S_ 加字幕辛苦了！记得好好休息"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071554565145776129"
+          ]
+        },
+        "author_id": "1725925465540755456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071554823837917661",
+        "created_at": "2026-06-29T11:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T12:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071554823837917661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/raISqGkM9v",
+              "end": 73,
+              "expanded_url": "https://x.com/Bucheon_S_/status/2071554823837917661/photo/1",
+              "media_key": "3_2071554565145776129",
+              "start": 50,
+              "url": "https://t.co/raISqGkM9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071554823837917661",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 98,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "한시간 영상 번역 드디어 끝났다 며칠동안 없는 좃 빠지는 줄 알고 상상좃 붙잡고 작업했다 https://t.co/raISqGkM9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 1057,
+          "like_count": 1746,
+          "listed_count": 2,
+          "media_count": 296,
+          "tweet_count": 1118
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-18T17:14:40.000Z",
+        "description": "我喜欢麻辣烫,正在学习汉语的韩国人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4417900633/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/4417900633/",
+                "start": 0,
+                "url": "https://t.co/zf0ZCguubu"
+              }
+            ]
+          }
+        },
+        "id": "1725925465540755456",
+        "location": "卡提希娅",
+        "name": "망망",
+        "pinned_tweet_id": "1956247024854262146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069547642619650048/WRuvP3Dp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 657,
+          "like_count": 17183,
+          "listed_count": 9,
+          "media_count": 5285,
+          "tweet_count": 30503
+        },
+        "url": "https://t.co/zf0ZCguubu",
+        "username": "Bucheon_S_",
+        "verified": false
+      }
+    ]
+  }
+}

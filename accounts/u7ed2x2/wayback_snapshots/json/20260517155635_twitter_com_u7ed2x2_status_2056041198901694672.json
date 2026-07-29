@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2056039685684961475",
+    "created_at": "2026-05-17T15:56:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:56:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056041198901694672"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1574361489468628992",
+          "start": 0,
+          "username": "119Calling_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056041198901694672",
+    "in_reply_to_user_id": "1574361489468628992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056039685684961475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@119Calling_ 真正的友谊会很长久 也不会被功利心轻易左右"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2056039685684961475",
+        "created_at": "2026-05-17T15:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056041198901694672"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574361489468628992",
+              "start": 0,
+              "username": "119Calling_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056041198901694672",
+        "in_reply_to_user_id": "1574361489468628992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056039685684961475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@119Calling_ 真正的友谊会很长久 也不会被功利心轻易左右"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574361489468628992",
+        "conversation_id": "2056039685684961475",
+        "created_at": "2026-05-17T15:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056039685684961475"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056039685684961475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "希望大家知道朋友不是快餐如果他来的也快去得也快根本没必要为他难过 而且朋友一定要有共同的兴趣爱好或者话题 不然为啥子你们是朋友❓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1375,
+          "following_count": 964,
+          "like_count": 348,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 279
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-26T11:33:37.000Z",
+        "description": "☥ en & ch | 追星 聽歌 我玩遊戲 我嗶嗶叭叭 | 🕊️ @PalomoLim / 👭 @Flowers8964 / mum @asahisuki0 | 小小號 @reincor3 ˚✧₊⁎⁺˳✧༚ ☥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "PalomoLim"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "asahisuki0"
+              },
+              {
+                "end": 95,
+                "start": 86,
+                "username": "reincor3"
+              }
+            ]
+          }
+        },
+        "id": "1574361489468628992",
+        "location": "the Observateur, standing",
+        "name": "𝘕⁺",
+        "pinned_tweet_id": "2052382591425433868",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039715532153430017/Jgc1rnwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 955,
+          "like_count": 32042,
+          "listed_count": 3,
+          "media_count": 2142,
+          "tweet_count": 12227
+        },
+        "username": "119Calling_",
+        "verified": false
+      }
+    ]
+  }
+}

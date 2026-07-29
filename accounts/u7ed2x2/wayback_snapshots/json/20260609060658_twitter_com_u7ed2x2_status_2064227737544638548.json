@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2064205217470812395",
+    "created_at": "2026-06-09T06:06:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T07:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064227737544638548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1322365696983003136",
+          "start": 0,
+          "username": "bryanwangxin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064227737544638548",
+    "in_reply_to_user_id": "1322365696983003136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064220424775635239",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@bryanwangxin 比如你想输入「骉」或「淼」，但不知道它的拼音，可以选择输入「mamama」或「shuishuishui」，候选词就会出现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2064205217470812395",
+        "created_at": "2026-06-09T06:06:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T07:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064227737544638548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1322365696983003136",
+              "start": 0,
+              "username": "bryanwangxin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064227737544638548",
+        "in_reply_to_user_id": "1322365696983003136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064220424775635239",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@bryanwangxin 比如你想输入「骉」或「淼」，但不知道它的拼音，可以选择输入「mamama」或「shuishuishui」，候选词就会出现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1322365696983003136",
+        "conversation_id": "2064205217470812395",
+        "created_at": "2026-06-09T05:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T06:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064220424775635239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064220424775635239",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064205217470812395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 拼字是什么意思？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1571,
+          "following_count": 1059,
+          "like_count": 967,
+          "listed_count": 1,
+          "media_count": 197,
+          "tweet_count": 767
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-31T02:32:14.000Z",
+        "description": "我也算程序员啦！用Codex的程序员🤣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@justdivewithbw",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@justdivewithbw",
+                "start": 0,
+                "url": "https://t.co/UP6f7cRPxB"
+              }
+            ]
+          }
+        },
+        "id": "1322365696983003136",
+        "location": "Shanghai",
+        "name": "xin",
+        "pinned_tweet_id": "2061980218676670953",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019411063331340288/a88f8q1u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2680,
+          "following_count": 1134,
+          "like_count": 3954,
+          "listed_count": 6,
+          "media_count": 1526,
+          "tweet_count": 23527
+        },
+        "url": "https://t.co/UP6f7cRPxB",
+        "username": "bryanwangxin",
+        "verified": true
+      }
+    ]
+  }
+}

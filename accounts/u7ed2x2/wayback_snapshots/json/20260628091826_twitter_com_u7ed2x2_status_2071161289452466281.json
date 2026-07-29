@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2071157199758606808",
+    "created_at": "2026-06-28T09:18:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T10:18:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071161289452466281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1976904875603873792",
+          "start": 0,
+          "username": "RXrein0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071161289452466281",
+    "in_reply_to_user_id": "1976904875603873792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071160828095824010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RXrein0 谢谢rein~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2071157199758606808",
+        "created_at": "2026-06-28T09:18:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:18:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071161289452466281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1976904875603873792",
+              "start": 0,
+              "username": "RXrein0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071161289452466281",
+        "in_reply_to_user_id": "1976904875603873792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071160828095824010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RXrein0 谢谢rein~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1976904875603873792",
+        "conversation_id": "2071157199758606808",
+        "created_at": "2026-06-28T09:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071160828095824010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071160828095824010",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071157199758606808",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 😨早日康复捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1617,
+          "following_count": 1056,
+          "like_count": 1660,
+          "listed_count": 2,
+          "media_count": 291,
+          "tweet_count": 1087
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-11T06:57:24.000Z",
+        "description": "你好，俺是Rein。02直男/INTP无业游民。主坑是明日方舟/假面骑士。置顶有匿名提问箱，看到就会回！感谢关注！",
+        "id": "1976904875603873792",
+        "location": "正于群星中沉溺",
+        "name": "没有味淋多喝生抽",
+        "pinned_tweet_id": "2028344137150525895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048945846633545728/SYLBV87m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 81,
+          "like_count": 7161,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 3413
+        },
+        "url": "",
+        "username": "RXrein0",
+        "verified": false
+      }
+    ]
+  }
+}

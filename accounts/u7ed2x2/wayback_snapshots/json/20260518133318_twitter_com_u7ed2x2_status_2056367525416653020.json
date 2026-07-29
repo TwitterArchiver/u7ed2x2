@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2056365803851940166",
+    "created_at": "2026-05-18T13:33:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T14:33:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056367525416653020"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1549268398718062592",
+          "start": 0,
+          "username": "Virtualize9"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 36,
+          "expanded_url": "https://x.com/u7ed2x2/status/2056015540414759152",
+          "start": 13,
+          "url": "https://t.co/H66cmzkWZJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056367525416653020",
+    "in_reply_to_user_id": "1549268398718062592",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056015540414759152",
+        "type": "quoted"
+      },
+      {
+        "id": "2056366497526923649",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Virtualize9 https://t.co/H66cmzkWZJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2056365803851940166",
+        "created_at": "2026-05-18T13:33:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:33:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056367525416653020"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1549268398718062592",
+              "start": 0,
+              "username": "Virtualize9"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 36,
+              "expanded_url": "https://x.com/u7ed2x2/status/2056015540414759152",
+              "start": 13,
+              "url": "https://t.co/H66cmzkWZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056367525416653020",
+        "in_reply_to_user_id": "1549268398718062592",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056015540414759152",
+            "type": "quoted"
+          },
+          {
+            "id": "2056366497526923649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Virtualize9 https://t.co/H66cmzkWZJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2055975357027873258",
+        "created_at": "2026-05-17T14:14:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056015540414759152"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1972656423021801472",
+              "start": 0,
+              "username": "Ovoyachiyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056015540414759152",
+        "in_reply_to_user_id": "1972656423021801472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056013601899680014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Ovoyachiyo 芒果白雪黑糯米，这个不会过甜，把白雪冰捣碎混合起来特别好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549268398718062592",
+        "conversation_id": "2056365803851940166",
+        "created_at": "2026-05-18T13:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T14:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056366497526923649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056366497526923649",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056365803851940166",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 麦记你最推荐什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1409,
+          "following_count": 995,
+          "like_count": 366,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 308
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-19T05:42:38.000Z",
+        "description": "",
+        "id": "1549268398718062592",
+        "location": "USA",
+        "name": "Universe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047328024467738624/qjXtquiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 335,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 290
+        },
+        "username": "Virtualize9",
+        "verified": false
+      }
+    ]
+  }
+}

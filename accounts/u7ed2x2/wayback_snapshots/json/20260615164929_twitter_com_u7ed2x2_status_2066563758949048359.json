@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2066401537874952321",
+    "created_at": "2026-06-15T16:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T17:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066563758949048359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1505242176560656386",
+          "start": 0,
+          "username": "iaa77_7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "xiaohongshu.com/discovery/item…",
+          "end": 43,
+          "expanded_url": "https://www.xiaohongshu.com/discovery/item/69db94a1000000001a03248d",
+          "start": 20,
+          "unwound_url": "https://www.xiaohongshu.com/404/sec_mmaXzlRY?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F69db94a1000000001a03248d&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=cf4adf24-118c-4f36-8242-39daa2a940ac&verifyMsg=",
+          "url": "https://t.co/8WsOlCzsaJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066563758949048359",
+    "in_reply_to_user_id": "1505242176560656386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066561592922382515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@iaa77_7 我没拍，但你可以参考\nhttps://t.co/8WsOlCzsaJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2066401537874952321",
+        "created_at": "2026-06-15T16:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066563758949048359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505242176560656386",
+              "start": 0,
+              "username": "iaa77_7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "xiaohongshu.com/discovery/item…",
+              "end": 43,
+              "expanded_url": "https://www.xiaohongshu.com/discovery/item/69db94a1000000001a03248d",
+              "start": 20,
+              "unwound_url": "https://www.xiaohongshu.com/404/sec_mmaXzlRY?redirectPath=https%3A%2F%2Fwww.xiaohongshu.com%2Fdiscovery%2Fitem%2F69db94a1000000001a03248d&error_code=300031&error_msg=%E5%BD%93%E5%89%8D%E7%AC%94%E8%AE%B0%E6%9A%82%E6%97%B6%E6%97%A0%E6%B3%95%E6%B5%8F%E8%A7%88&uuid=cf4adf24-118c-4f36-8242-39daa2a940ac&verifyMsg=",
+              "url": "https://t.co/8WsOlCzsaJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066563758949048359",
+        "in_reply_to_user_id": "1505242176560656386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066561592922382515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@iaa77_7 我没拍，但你可以参考\nhttps://t.co/8WsOlCzsaJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1505242176560656386",
+        "conversation_id": "2066401537874952321",
+        "created_at": "2026-06-15T16:40:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T17:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066561592922382515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066561592922382515",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066401537874952321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 看看配料表"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1590,
+          "following_count": 1063,
+          "like_count": 1211,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 916
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-19T17:58:09.000Z",
+        "description": "",
+        "id": "1505242176560656386",
+        "name": "ia",
+        "pinned_tweet_id": "2050983023248814174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052409054769954816/eixaHL2O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 431,
+          "like_count": 60277,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 10597
+        },
+        "username": "iaa77_7",
+        "verified": false
+      }
+    ]
+  }
+}

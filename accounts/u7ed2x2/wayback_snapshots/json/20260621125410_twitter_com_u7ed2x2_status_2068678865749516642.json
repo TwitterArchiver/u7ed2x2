@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2068570416831144418",
+    "created_at": "2026-06-21T12:54:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T13:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068678865749516642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1162208564426862592",
+          "start": 0,
+          "username": "Suzumi_17860"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068678865749516642",
+    "in_reply_to_user_id": "1162208564426862592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068673966672334989",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suzumi_17860 いいよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2068570416831144418",
+        "created_at": "2026-06-21T12:54:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068678865749516642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1162208564426862592",
+              "start": 0,
+              "username": "Suzumi_17860"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068678865749516642",
+        "in_reply_to_user_id": "1162208564426862592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068673966672334989",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzumi_17860 いいよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1162208564426862592",
+        "conversation_id": "2068570416831144418",
+        "created_at": "2026-06-21T12:34:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T13:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068673966672334989"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068673966672334989",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068570416831144418",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 可以给我喝这个辣椒油吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 1062,
+          "like_count": 1377,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 979
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-16T03:44:57.000Z",
+        "description": "和所有傻逼切割｜🏳️‍🌈｜兴趣爱好丧失｜姑且是N1｜关西某杂牌大学学生｜请叫我鈴",
+        "id": "1162208564426862592",
+        "location": "大阪",
+        "name": "スズ",
+        "pinned_tweet_id": "2039223136319861237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788163986313424896/sMAK5dZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 624,
+          "like_count": 2090,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 4577
+        },
+        "url": "",
+        "username": "Suzumi_17860",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2060970396577673535",
+    "created_at": "2026-05-31T06:54:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T07:54:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060978201090994472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1636913725327446017",
+          "start": 0,
+          "username": "LingSing7263"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pulmuone.co.kr/cn/company/vie…",
+          "end": 40,
+          "expanded_url": "https://www.pulmuone.co.kr/cn/company/viewBrand.do?page=1",
+          "start": 17,
+          "unwound_url": "https://www.pulmuone.co.kr/cn/company/viewBrand.do?page=1",
+          "url": "https://t.co/TWGhcDCymW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060978201090994472",
+    "in_reply_to_user_id": "1636913725327446017",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060976926618267694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LingSing7263 🇰🇷\nhttps://t.co/TWGhcDCymW"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2060970396577673535",
+        "created_at": "2026-05-31T06:54:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:54:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060978201090994472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1636913725327446017",
+              "start": 0,
+              "username": "LingSing7263"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pulmuone.co.kr/cn/company/vie…",
+              "end": 40,
+              "expanded_url": "https://www.pulmuone.co.kr/cn/company/viewBrand.do?page=1",
+              "start": 17,
+              "unwound_url": "https://www.pulmuone.co.kr/cn/company/viewBrand.do?page=1",
+              "url": "https://t.co/TWGhcDCymW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060978201090994472",
+        "in_reply_to_user_id": "1636913725327446017",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060976926618267694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LingSing7263 🇰🇷\nhttps://t.co/TWGhcDCymW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1636913725327446017",
+        "conversation_id": "2060970396577673535",
+        "created_at": "2026-05-31T06:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060976926618267694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060976926618267694",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060970396577673535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 韩国的还是延边的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1046,
+          "like_count": 723,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 569
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-18T02:13:49.000Z",
+        "description": "干土木顺便搞点电脑然后忙里偷闲画点画的长跑佬/首全马准备中",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/aboutGalaxyYi",
+                "end": 23,
+                "expanded_url": "https://t.me/aboutGalaxyYi",
+                "start": 0,
+                "url": "https://t.co/Sdo5s2x8T2"
+              }
+            ]
+          }
+        },
+        "id": "1636913725327446017",
+        "location": "星乡",
+        "name": "伊零星",
+        "pinned_tweet_id": "1990063035034345766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039466151022034944/IaFgrLpG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 732,
+          "following_count": 1088,
+          "like_count": 25906,
+          "listed_count": 2,
+          "media_count": 497,
+          "tweet_count": 7042
+        },
+        "url": "https://t.co/Sdo5s2x8T2",
+        "username": "LingSing7263",
+        "verified": false
+      }
+    ]
+  }
+}

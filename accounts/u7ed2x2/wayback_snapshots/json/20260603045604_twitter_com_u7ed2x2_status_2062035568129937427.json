@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062035561528066048",
+        "3_2062035561507151873"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062035568129937427",
+    "created_at": "2026-06-03T04:56:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T05:56:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062035568129937427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UYy3Vm99SW",
+          "end": 97,
+          "expanded_url": "https://x.com/u7ed2x2/status/2062035568129937427/photo/1",
+          "media_key": "3_2062035561528066048",
+          "start": 74,
+          "url": "https://t.co/UYy3Vm99SW"
+        },
+        {
+          "display_url": "pic.x.com/UYy3Vm99SW",
+          "end": 97,
+          "expanded_url": "https://x.com/u7ed2x2/status/2062035568129937427/photo/1",
+          "media_key": "3_2062035561507151873",
+          "start": 74,
+          "url": "https://t.co/UYy3Vm99SW"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 121,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2060593697604120901",
+          "start": 98,
+          "url": "https://t.co/NDXGI7109d"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062035568129937427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060593697604120901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以下是使用Meta原装充电器在70%电量下充电的数据...\n\nP1 使用数据线供电\nP2 使用Paper Tracker附赠的PowerHub供电 https://t.co/UYy3Vm99SW https://t.co/NDXGI7109d"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062035561528066048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3SawcagAAS9s9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2062035561507151873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3SawXbYAEY209.jpg",
+        "width": 1536
+      },
+      {
+        "height": 981,
+        "media_key": "3_2060593683796525056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJizCbUbAAA9eSZ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062035561528066048",
+            "3_2062035561507151873"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062035568129937427",
+        "created_at": "2026-06-03T04:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T05:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062035568129937427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UYy3Vm99SW",
+              "end": 97,
+              "expanded_url": "https://x.com/u7ed2x2/status/2062035568129937427/photo/1",
+              "media_key": "3_2062035561528066048",
+              "start": 74,
+              "url": "https://t.co/UYy3Vm99SW"
+            },
+            {
+              "display_url": "pic.x.com/UYy3Vm99SW",
+              "end": 97,
+              "expanded_url": "https://x.com/u7ed2x2/status/2062035568129937427/photo/1",
+              "media_key": "3_2062035561507151873",
+              "start": 74,
+              "url": "https://t.co/UYy3Vm99SW"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 121,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2060593697604120901",
+              "start": 98,
+              "url": "https://t.co/NDXGI7109d"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062035568129937427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060593697604120901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以下是使用Meta原装充电器在70%电量下充电的数据...\n\nP1 使用数据线供电\nP2 使用Paper Tracker附赠的PowerHub供电 https://t.co/UYy3Vm99SW https://t.co/NDXGI7109d"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060593683796525056"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2060582581511614647",
+        "created_at": "2026-05-30T05:26:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060593697604120901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2045909393447735296",
+              "start": 0,
+              "username": "_Romuko"
+            },
+            {
+              "end": 20,
+              "id": "2046295889103441921",
+              "start": 9,
+              "username": "Xie_miaoyu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yj7h6pOUHH",
+              "end": 59,
+              "expanded_url": "https://x.com/u7ed2x2/status/2060593697604120901/photo/1",
+              "media_key": "3_2060593683796525056",
+              "start": 36,
+              "url": "https://t.co/yj7h6pOUHH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060593697604120901",
+        "in_reply_to_user_id": "2045909393447735296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 123,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060592966348292208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Romuko @Xie_miaoyu 打算改天买这种测试仪看看数据 https://t.co/yj7h6pOUHH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 1063,
+          "like_count": 803,
+          "listed_count": 1,
+          "media_count": 171,
+          "tweet_count": 635
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

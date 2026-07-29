@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2060017384241680871",
+    "created_at": "2026-05-28T15:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060022471806595397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983729480893190145",
+          "start": 0,
+          "username": "paradoxrin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060022471806595397",
+    "in_reply_to_user_id": "1983729480893190145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060021485104963707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paradoxrin 和风铃击掌）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2060017384241680871",
+        "created_at": "2026-05-28T15:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060022471806595397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983729480893190145",
+              "start": 0,
+              "username": "paradoxrin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060022471806595397",
+        "in_reply_to_user_id": "1983729480893190145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060021485104963707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paradoxrin 和风铃击掌）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983729480893190145",
+        "conversation_id": "2060017384241680871",
+        "created_at": "2026-05-28T15:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060021485104963707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060021485104963707",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060017384241680871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 放心去吧！🗣️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1497,
+          "following_count": 1036,
+          "like_count": 603,
+          "listed_count": 1,
+          "media_count": 138,
+          "tweet_count": 490
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-30T02:55:57.000Z",
+        "description": "是风铃啊！@Gray_L_Cluster \nChaotic | Respect every unyielding and freedom-seeking soul!\nParoxetine hydrochloride",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Gray_L_Cluster"
+              }
+            ]
+          }
+        },
+        "id": "1983729480893190145",
+        "name": "ZephyrRin_🔔",
+        "pinned_tweet_id": "2041588419282006134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057998049549660160/S8uwZRKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 171,
+          "like_count": 628,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 194
+        },
+        "username": "paradoxrin",
+        "verified": false
+      }
+    ]
+  }
+}

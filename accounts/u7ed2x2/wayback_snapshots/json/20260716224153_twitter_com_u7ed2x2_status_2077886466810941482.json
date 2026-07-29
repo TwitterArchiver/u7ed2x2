@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2077668775705575537",
+    "created_at": "2026-07-16T22:41:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T23:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077886466810941482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1873352140246466560",
+          "start": 0,
+          "username": "Fafa881869"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077886466810941482",
+    "in_reply_to_user_id": "1873352140246466560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077815501812887702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Fafa881869 嘻嘻..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2077668775705575537",
+        "created_at": "2026-07-16T22:41:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T23:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077886466810941482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1873352140246466560",
+              "start": 0,
+              "username": "Fafa881869"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077886466810941482",
+        "in_reply_to_user_id": "1873352140246466560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077815501812887702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Fafa881869 嘻嘻..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1873352140246466560",
+        "conversation_id": "2077668775705575537",
+        "created_at": "2026-07-16T17:59:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T18:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077815501812887702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077815501812887702",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077668775705575537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@u7ed2x2 ！？强强？！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1068,
+          "like_count": 3182,
+          "listed_count": 3,
+          "media_count": 382,
+          "tweet_count": 1581
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-29T12:55:40.000Z",
+        "description": "(｡･∀･)ﾉﾞ你好呀～叫我fafa就行啦！\n独游爱好者，平时爱玩OW或者VRC\n有双相情感障碍，是双性恋\n喜欢收集各种梗图和逆天图（收集癖）\n喜欢各种各样可爱的小东西=w=\n什么圈子都知道一些（成分超级复杂）超喜欢纯爱！对所有人保持善意OwO\n希望每个人都可以好好的活下去…\n\n还有！祝大家每天都开开心心顺顺利利的呀！",
+        "id": "1873352140246466560",
+        "location": "沃尔库塔-5",
+        "name": "Fafa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000434774960377856/hYn7tsN0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 417,
+          "like_count": 3678,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1502
+        },
+        "url": "",
+        "username": "Fafa881869",
+        "verified": false
+      }
+    ]
+  }
+}

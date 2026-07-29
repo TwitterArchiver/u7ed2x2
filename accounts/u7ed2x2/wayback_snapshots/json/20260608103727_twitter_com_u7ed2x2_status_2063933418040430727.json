@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2063869538467553346",
+    "created_at": "2026-06-08T10:37:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T11:37:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063933418040430727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1991795014163382272",
+          "start": 0,
+          "username": "fortearsidie"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063933418040430727",
+    "in_reply_to_user_id": "1991795014163382272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063932347037454344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@fortearsidie 嗯嗯...而且还会有点粘毛\n不过「1年内+有理由说服店员情况属于非人为」是可以换新的，用16的时候换过一次"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2063869538467553346",
+        "created_at": "2026-06-08T10:37:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063933418040430727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1991795014163382272",
+              "start": 0,
+              "username": "fortearsidie"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063933418040430727",
+        "in_reply_to_user_id": "1991795014163382272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063932347037454344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@fortearsidie 嗯嗯...而且还会有点粘毛\n不过「1年内+有理由说服店员情况属于非人为」是可以换新的，用16的时候换过一次"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1991795014163382272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1593002362444005382",
+              "name": "Casetify"
+            }
+          }
+        ],
+        "conversation_id": "2063869538467553346",
+        "created_at": "2026-06-08T10:33:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T11:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063932347037454344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063932347037454344",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063869538467553346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 我觉得这个虽然好看而且手感很好…实际上并不好用…我之前买过四五个，每一个都会在里面这里破掉…后来我就转casetify了…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 1061,
+          "like_count": 950,
+          "listed_count": 1,
+          "media_count": 195,
+          "tweet_count": 754
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-21T09:05:27.000Z",
+        "description": "可以叫我Eri｜Male｜双性浪漫倾向无性恋｜友LGBTQ+\n碎碎念｜大龄社畜｜ISFP｜有对象｜欢迎互fo\nBFF：@hongdounuomi\n“我们彻夜飞旋，直至没入火焰。”",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "hongdounuomi"
+              }
+            ]
+          }
+        },
+        "id": "1991795014163382272",
+        "location": "    The Kingdom of overdose",
+        "name": "为泪舍己",
+        "pinned_tweet_id": "2054249080063504423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053154412919721985/J6EwJycm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 371,
+          "like_count": 5867,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 171
+        },
+        "username": "fortearsidie",
+        "verified": true
+      }
+    ]
+  }
+}

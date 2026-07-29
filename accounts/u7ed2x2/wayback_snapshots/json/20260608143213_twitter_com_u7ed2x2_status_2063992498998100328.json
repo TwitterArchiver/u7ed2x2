@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2063869538467553346",
+    "created_at": "2026-06-08T14:32:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063992498998100328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1819327280482865152",
+          "start": 0,
+          "username": "hzyj772"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063992498998100328",
+    "in_reply_to_user_id": "1819327280482865152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063988251036385338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@hzyj772 唉，子品牌没印「」"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2063988242220007424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKTCXu4bQAAHaRO.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2063869538467553346",
+        "created_at": "2026-06-08T14:32:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063992498998100328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1819327280482865152",
+              "start": 0,
+              "username": "hzyj772"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063992498998100328",
+        "in_reply_to_user_id": "1819327280482865152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063988251036385338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@hzyj772 唉，子品牌没印「」"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063988242220007424"
+          ]
+        },
+        "author_id": "1819327280482865152",
+        "conversation_id": "2063869538467553346",
+        "created_at": "2026-06-08T14:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063988251036385338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/527rwk0csE",
+              "end": 37,
+              "expanded_url": "https://x.com/hzyj772/status/2063988251036385338/photo/1",
+              "media_key": "3_2063988242220007424",
+              "start": 14,
+              "url": "https://t.co/527rwk0csE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063988251036385338",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063869538467553346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 像不像（ https://t.co/527rwk0csE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 1061,
+          "like_count": 962,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 761
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-02T11:00:13.000Z",
+        "description": "是@phia50611171的可爱猫猫～🐱这和我们人前是Les并不矛盾，所以还是ppl🎀｜情侣号兼色推：@mt1zsyxil｜蒻萌芖艿䒕英茎莮茼@nagiexpress｜不明真相袋鼠饲养员@simzihuai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "phia50611171"
+              },
+              {
+                "end": 62,
+                "start": 52,
+                "username": "mt1zsyxil"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "nagiexpress"
+              },
+              {
+                "end": 104,
+                "start": 94,
+                "username": "simzihuai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xlog.477771.xyz",
+                "end": 23,
+                "expanded_url": "http://xlog.477771.xyz",
+                "start": 0,
+                "url": "https://t.co/QY9nt2FrPI"
+              }
+            ]
+          }
+        },
+        "id": "1819327280482865152",
+        "location": "#7 0.4kV变压台",
+        "name": "燕檁",
+        "pinned_tweet_id": "2011048079143932386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009487619999322117/0IC52jbc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 988,
+          "following_count": 491,
+          "like_count": 78772,
+          "listed_count": 2,
+          "media_count": 1344,
+          "tweet_count": 13174
+        },
+        "url": "https://t.co/QY9nt2FrPI",
+        "username": "hzyj772",
+        "verified": true
+      }
+    ]
+  }
+}

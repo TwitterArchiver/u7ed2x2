@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2046624012332368218",
+    "created_at": "2026-04-21T16:21:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T17:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046625325564809389"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725925465540755456",
+          "start": 0,
+          "username": "Bucheon_S_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046625325564809389",
+    "in_reply_to_user_id": "1725925465540755456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046624836752232859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bucheon_S_ 谢谢⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2046624012332368218",
+        "created_at": "2026-04-21T16:21:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046625325564809389"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725925465540755456",
+              "start": 0,
+              "username": "Bucheon_S_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046625325564809389",
+        "in_reply_to_user_id": "1725925465540755456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046624836752232859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bucheon_S_ 谢谢⁽⁽ଘ( ˊᵕˋ )ଓ⁾⁾"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725925465540755456",
+        "conversation_id": "2046624012332368218",
+        "created_at": "2026-04-21T16:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T17:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046624836752232859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046624836752232859",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046624012332368218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 可爱(⊙o⊙)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 741,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 75
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-18T17:14:40.000Z",
+        "description": "我喜欢麻辣烫,正在学习汉语的韩国人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4417900633/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/4417900633/",
+                "start": 0,
+                "url": "https://t.co/zf0ZCguubu"
+              }
+            ]
+          }
+        },
+        "id": "1725925465540755456",
+        "location": "卡提希娅",
+        "name": "망망",
+        "pinned_tweet_id": "1956247024854262146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029632063469670400/x1kaqECX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 611,
+          "following_count": 636,
+          "like_count": 16473,
+          "listed_count": 9,
+          "media_count": 5001,
+          "tweet_count": 29191
+        },
+        "url": "https://t.co/zf0ZCguubu",
+        "username": "Bucheon_S_",
+        "verified": false
+      }
+    ]
+  }
+}

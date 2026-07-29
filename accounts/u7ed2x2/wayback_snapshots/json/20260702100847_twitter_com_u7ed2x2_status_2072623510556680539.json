@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072623505099935744"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072623235498459236",
+    "created_at": "2026-07-02T10:08:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T11:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072623510556680539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2ZxzxKA3lS",
+          "end": 42,
+          "expanded_url": "https://x.com/u7ed2x2/status/2072623510556680539/photo/1",
+          "media_key": "3_2072623505099935744",
+          "start": 19,
+          "url": "https://t.co/2ZxzxKA3lS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072623510556680539",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072623235498459236",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这张现在正贴在狗的Switch背面🎮 https://t.co/2ZxzxKA3lS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072623505099935744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNwGL6bUAAhyRO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2072623228946939904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNv2HKbAAAxQ2c.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1593,
+        "media_key": "3_2072623228951093248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNv2HLaYAASjOo.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072623505099935744"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072623235498459236",
+        "created_at": "2026-07-02T10:08:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072623510556680539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2ZxzxKA3lS",
+              "end": 42,
+              "expanded_url": "https://x.com/u7ed2x2/status/2072623510556680539/photo/1",
+              "media_key": "3_2072623505099935744",
+              "start": 19,
+              "url": "https://t.co/2ZxzxKA3lS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072623510556680539",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072623235498459236",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这张现在正贴在狗的Switch背面🎮 https://t.co/2ZxzxKA3lS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072623228946939904",
+            "3_2072623228951093248"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2072623235498459236",
+        "created_at": "2026-07-02T10:07:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T11:07:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072623235498459236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jYBfXFhXGW",
+              "end": 49,
+              "expanded_url": "https://x.com/u7ed2x2/status/2072623235498459236/photo/1",
+              "media_key": "3_2072623228946939904",
+              "start": 26,
+              "url": "https://t.co/jYBfXFhXGW"
+            },
+            {
+              "display_url": "pic.x.com/jYBfXFhXGW",
+              "end": 49,
+              "expanded_url": "https://x.com/u7ed2x2/status/2072623235498459236/photo/1",
+              "media_key": "3_2072623228951093248",
+              "start": 26,
+              "url": "https://t.co/jYBfXFhXGW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072623235498459236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻到了23年给推友寄nelo贴纸和挂件的图片... https://t.co/jYBfXFhXGW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 1058,
+          "like_count": 1991,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

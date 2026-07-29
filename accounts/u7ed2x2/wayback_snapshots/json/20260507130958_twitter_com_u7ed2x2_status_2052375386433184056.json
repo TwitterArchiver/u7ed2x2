@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052375376345833472"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2052375386433184056",
+    "created_at": "2026-05-07T13:09:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T14:09:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052375386433184056"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/34ODlr7NkM",
+          "end": 185,
+          "expanded_url": "https://x.com/u7ed2x2/status/2052375386433184056/photo/1",
+          "media_key": "3_2052375376345833472",
+          "start": 162,
+          "url": "https://t.co/34ODlr7NkM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052375386433184056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以下是多个你要求的和麦记牛奶相关、可供更改的用户名。\n\n1. nelo（恩师麦记牛奶）\n2. nelo（麦记牛奶超标）\n3. nelo（麦记隐藏股东）\n4. nelo（血液中发现少量麦记牛奶）\n5. nelo（o麦记牛奶被娜娜警官发现）\n6. nelo（麦记牛奶の形状）\n\n如果你愿意，我可以继续生成更多内容，要我帮你吗？ https://t.co/34ODlr7NkM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2052375376345833472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHuAh-TaIAAE9CS.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052375376345833472"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2052375386433184056",
+        "created_at": "2026-05-07T13:09:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:09:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052375386433184056"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/34ODlr7NkM",
+              "end": 185,
+              "expanded_url": "https://x.com/u7ed2x2/status/2052375386433184056/photo/1",
+              "media_key": "3_2052375376345833472",
+              "start": 162,
+              "url": "https://t.co/34ODlr7NkM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052375386433184056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以下是多个你要求的和麦记牛奶相关、可供更改的用户名。\n\n1. nelo（恩师麦记牛奶）\n2. nelo（麦记牛奶超标）\n3. nelo（麦记隐藏股东）\n4. nelo（血液中发现少量麦记牛奶）\n5. nelo（o麦记牛奶被娜娜警官发现）\n6. nelo（麦记牛奶の形状）\n\n如果你愿意，我可以继续生成更多内容，要我帮你吗？ https://t.co/34ODlr7NkM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1288,
+          "following_count": 831,
+          "like_count": 183,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 169
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

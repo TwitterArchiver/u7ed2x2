@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2073400517490057216"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2073400576126443573",
+    "created_at": "2026-07-04T13:36:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:36:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073400576126443573"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hKCoQN2Kqn",
+          "end": 36,
+          "expanded_url": "https://x.com/u7ed2x2/status/2073400576126443573/video/1",
+          "media_key": "13_2073400517490057216",
+          "start": 13,
+          "url": "https://t.co/hKCoQN2Kqn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073400576126443573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "狗是有欧派的\n不是贫乳🥲 https://t.co/hKCoQN2Kqn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8400,
+        "height": 1920,
+        "media_key": "13_2073400517490057216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2073400517490057216/img/fNi2BHWQxTooczks.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073400517490057216/vid/avc1/320x568/2Z4PVAnFOTfpn8HF.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2073400517490057216/pl/YUZIgdKdHbN-u8VV.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073400517490057216/vid/avc1/480x852/C7L9_g9hDA-hXs7V.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073400517490057216/vid/avc1/720x1280/ekRZxeZ2il1oDK_0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2073400517490057216/vid/avc1/1080x1920/eErUkH4eQF_zNOKe.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2073400517490057216"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073400576126443573",
+        "created_at": "2026-07-04T13:36:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:36:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073400576126443573"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKCoQN2Kqn",
+              "end": 36,
+              "expanded_url": "https://x.com/u7ed2x2/status/2073400576126443573/video/1",
+              "media_key": "13_2073400517490057216",
+              "start": 13,
+              "url": "https://t.co/hKCoQN2Kqn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073400576126443573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "狗是有欧派的\n不是贫乳🥲 https://t.co/hKCoQN2Kqn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 1061,
+          "like_count": 2275,
+          "listed_count": 3,
+          "media_count": 331,
+          "tweet_count": 1278
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

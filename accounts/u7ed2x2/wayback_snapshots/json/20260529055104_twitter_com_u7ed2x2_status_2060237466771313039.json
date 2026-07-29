@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2060192892434694249",
+    "created_at": "2026-05-29T05:51:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:51:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060237466771313039"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1797645584767279105",
+          "start": 0,
+          "username": "Lauzkiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060237466771313039",
+    "in_reply_to_user_id": "1797645584767279105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060236400336003259",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lauzkiii 我正好反过来 因为非京籍只有九类人能上高中）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2060192892434694249",
+        "created_at": "2026-05-29T05:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060237466771313039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1797645584767279105",
+              "start": 0,
+              "username": "Lauzkiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060237466771313039",
+        "in_reply_to_user_id": "1797645584767279105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060236400336003259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lauzkiii 我正好反过来 因为非京籍只有九类人能上高中）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797645584767279105",
+        "conversation_id": "2060192892434694249",
+        "created_at": "2026-05-29T05:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060236400336003259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060236400336003259",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060236017274380452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 是捏 不过我是高中读的 初中在其他地方hhh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1502,
+          "following_count": 1047,
+          "like_count": 627,
+          "listed_count": 1,
+          "media_count": 143,
+          "tweet_count": 506
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-03T15:04:51.000Z",
+        "description": "07/🌈/📍北京（不定期掉落香港）/文学院大一在读/发点墙内发不了的日常/🔞少量NSFW内容/有对象",
+        "id": "1797645584767279105",
+        "name": "楚雨🌈",
+        "pinned_tweet_id": "1949164020558188892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058908106197970947/DP7Dqmiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 458,
+          "like_count": 1459,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 196
+        },
+        "username": "Lauzkiii",
+        "verified": false
+      }
+    ]
+  }
+}

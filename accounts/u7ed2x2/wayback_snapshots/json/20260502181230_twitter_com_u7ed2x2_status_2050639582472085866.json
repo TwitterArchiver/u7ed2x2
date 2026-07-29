@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050639574012248064"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2050594328054292789",
+    "created_at": "2026-05-02T18:12:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T19:12:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050639582472085866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cuIRgpjEbK",
+          "end": 49,
+          "expanded_url": "https://x.com/u7ed2x2/status/2050639582472085866/photo/1",
+          "media_key": "3_2050639574012248064",
+          "start": 26,
+          "url": "https://t.co/cuIRgpjEbK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050639582472085866",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050637265286914539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 我没有这么这么长——的头发 https://t.co/cuIRgpjEbK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1976,
+        "media_key": "3_2050639574012248064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHVV0-tbwAAoDrd.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050639574012248064"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2050594328054292789",
+        "created_at": "2026-05-02T18:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050639582472085866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cuIRgpjEbK",
+              "end": 49,
+              "expanded_url": "https://x.com/u7ed2x2/status/2050639582472085866/photo/1",
+              "media_key": "3_2050639574012248064",
+              "start": 26,
+              "url": "https://t.co/cuIRgpjEbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050639582472085866",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050637265286914539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 我没有这么这么长——的头发 https://t.co/cuIRgpjEbK"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2050594328054292789",
+        "created_at": "2026-05-02T18:03:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T19:03:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050637265286914539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050637265286914539",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050594328054292789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 姐姐姐姐姐姐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1232,
+          "following_count": 825,
+          "like_count": 154,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 148
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "中学生 工程系猫娘🐱🔧 是小孩 ^ω^ \n🇯🇵🇹🇭🇹🇷🍬🍥💉私信/下方telegram\n@hobartr6 猫猫@_furryfur_ 笨蛋肥鸟姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 44,
+                "username": "hobartr6"
+              },
+              {
+                "end": 67,
+                "start": 56,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 90,
+                "start": 74,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 23,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 0,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "🇲🇾🇸🇬",
+        "name": "猫卷今天中saman了吗",
+        "pinned_tweet_id": "2046660969900982719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048821853351993344/Lj1MDugm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3805,
+          "following_count": 812,
+          "like_count": 3791,
+          "listed_count": 7,
+          "media_count": 121,
+          "tweet_count": 1736
+        },
+        "url": "https://t.co/9vPU5sObId",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

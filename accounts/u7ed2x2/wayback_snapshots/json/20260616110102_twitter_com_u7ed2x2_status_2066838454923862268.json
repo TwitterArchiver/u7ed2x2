@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2066804130388287654",
+    "created_at": "2026-06-16T11:01:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T12:01:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066838454923862268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1419907046615306242",
+          "start": 0,
+          "username": "forokora"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066838454923862268",
+    "in_reply_to_user_id": "1419907046615306242",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066836417800765854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@forokora たぶん国家を揺るがす重罪なので、明日あたり処刑されます\nご指摘ありがとうございます🙇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2066804130388287654",
+        "created_at": "2026-06-16T11:01:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T12:01:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066838454923862268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1419907046615306242",
+              "start": 0,
+              "username": "forokora"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066838454923862268",
+        "in_reply_to_user_id": "1419907046615306242",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066836417800765854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@forokora たぶん国家を揺るがす重罪なので、明日あたり処刑されます\nご指摘ありがとうございます🙇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1419907046615306242",
+        "conversation_id": "2066804130388287654",
+        "created_at": "2026-06-16T10:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066836417800765854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066836417800765854",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066804130388287654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 電気を盗むことは違法です。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1595,
+          "following_count": 1064,
+          "like_count": 1233,
+          "listed_count": 1,
+          "media_count": 242,
+          "tweet_count": 930
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-27T06:26:55.000Z",
+        "description": "简体中文＆繁體中文＆English＆日本語\nACG・STEM",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "forokora.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://forokora.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/QMOZ60F541"
+              }
+            ]
+          }
+        },
+        "id": "1419907046615306242",
+        "location": "看看你後面",
+        "name": "Forokora",
+        "pinned_tweet_id": "1758610092662895003",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1644306591808897024/LBEX_RE__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 181,
+          "like_count": 1817,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 2273
+        },
+        "url": "https://t.co/QMOZ60F541",
+        "username": "forokora",
+        "verified": true
+      }
+    ]
+  }
+}

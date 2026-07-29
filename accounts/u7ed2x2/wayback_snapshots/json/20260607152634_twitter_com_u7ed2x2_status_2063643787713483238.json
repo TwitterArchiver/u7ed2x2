@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2062550830205845930",
+    "created_at": "2026-06-07T15:26:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T16:26:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063643787713483238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1833860832125763584",
+          "start": 0,
+          "username": "Konata_2006"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063643787713483238",
+    "in_reply_to_user_id": "1833860832125763584",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063630083781443690",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Konata_2006 呜揉揉你..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2062550830205845930",
+        "created_at": "2026-06-07T15:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T16:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063643787713483238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1833860832125763584",
+              "start": 0,
+              "username": "Konata_2006"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063643787713483238",
+        "in_reply_to_user_id": "1833860832125763584",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063630083781443690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Konata_2006 呜揉揉你..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833860832125763584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2062550830205845930",
+        "created_at": "2026-06-07T14:32:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T15:32:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063630083781443690"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063630083781443690",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062550830205845930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 又一次打开 VRC，发现(现存的)好友最近上线时间为 3 个月前，发现远程桌面根本没法操控 3D，发现并不会比现实中更好，然后关掉 VRC 的我呢..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1562,
+          "following_count": 1061,
+          "like_count": 933,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 744
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-11T13:31:27.000Z",
+        "description": "欢迎，来自现实的旅人",
+        "id": "1833860832125763584",
+        "name": "_Konata",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886245135337631744/mC-uraEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 100,
+          "like_count": 726,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 235
+        },
+        "username": "Konata_2006",
+        "verified": false
+      }
+    ]
+  }
+}

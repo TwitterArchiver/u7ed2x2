@@ -1,0 +1,20 @@
+{
+  "name": "𝙉𝙚𝙡𝙤",
+  "username": "@u7ed2x2",
+  "bio": "脑袋上面没有兽耳 / 💫 @A1tk0",
+  "location": "",
+  "link": "",
+  "avatar": "avatar/avatar.jpg",
+  "banner": "avatar/1500x500.jpg",
+  "pinned": "",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 19,
+        "start": 13,
+        "username": "A1tk0"
+      }
+    ]
+  },
+  "_avatar_source": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg"
+}

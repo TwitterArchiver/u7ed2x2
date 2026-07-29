@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049343787957448704"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049137405324869915",
+    "created_at": "2026-04-29T04:25:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T05:25:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049344196004442364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "932061213831266304",
+          "start": 0,
+          "username": "ShiinaYuriChan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2anle7aQ5w",
+          "end": 63,
+          "expanded_url": "https://x.com/u7ed2x2/status/2049344196004442364/photo/1",
+          "media_key": "3_2049343787957448704",
+          "start": 40,
+          "url": "https://t.co/2anle7aQ5w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049344196004442364",
+    "in_reply_to_user_id": "932061213831266304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049295473350201588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShiinaYuriChan 我的好像不支持，考虑换华硕或日立 LG了... https://t.co/2anle7aQ5w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1488,
+        "media_key": "3_2049343787957448704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHC7UTfbcAAWlBe.jpg",
+        "width": 1356
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049343787957448704"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049137405324869915",
+        "created_at": "2026-04-29T04:25:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T05:25:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049344196004442364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "932061213831266304",
+              "start": 0,
+              "username": "ShiinaYuriChan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2anle7aQ5w",
+              "end": 63,
+              "expanded_url": "https://x.com/u7ed2x2/status/2049344196004442364/photo/1",
+              "media_key": "3_2049343787957448704",
+              "start": 40,
+              "url": "https://t.co/2anle7aQ5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049344196004442364",
+        "in_reply_to_user_id": "932061213831266304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049295473350201588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShiinaYuriChan 我的好像不支持，考虑换华硕或日立 LG了... https://t.co/2anle7aQ5w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "932061213831266304",
+        "conversation_id": "2049137405324869915",
+        "created_at": "2026-04-29T01:11:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:11:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049295473350201588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049295473350201588",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1117,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049137405324869915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 去找个支持LibreDrive的光驱，一般是MTK平台的没记错的话。\n我记得刷完之后就没有这个限制了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 737,
+          "like_count": 166,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-19T01:41:25.000Z",
+        "description": "「Nekomimi Otoko」/ 🐶 @ShiinaRanChan /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "ShiinaRanChan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuris.moe",
+                "end": 23,
+                "expanded_url": "http://yuris.moe",
+                "start": 0,
+                "url": "https://t.co/zGwBhKMlOL"
+              }
+            ]
+          }
+        },
+        "id": "932061213831266304",
+        "location": "Bellevue, WA",
+        "name": "椎名ゆり🌇",
+        "pinned_tweet_id": "1926916679725908239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1520808387981709312/4zMtoUt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4640,
+          "following_count": 1461,
+          "like_count": 72655,
+          "listed_count": 17,
+          "media_count": 181,
+          "tweet_count": 1629
+        },
+        "url": "https://t.co/zGwBhKMlOL",
+        "username": "ShiinaYuriChan",
+        "verified": false
+      }
+    ]
+  }
+}

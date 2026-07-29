@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1984637509297721344",
+        "13_1984637509343854595"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "1984637528079810710",
+    "created_at": "2025-11-01T15:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-01T16:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1984637528079810710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BzUeGGuCr0",
+          "end": 90,
+          "expanded_url": "https://x.com/u7ed2x2/status/1984637528079810710/video/1",
+          "media_key": "13_1984637509297721344",
+          "start": 67,
+          "url": "https://t.co/BzUeGGuCr0"
+        },
+        {
+          "display_url": "pic.x.com/BzUeGGuCr0",
+          "end": 90,
+          "expanded_url": "https://x.com/u7ed2x2/status/1984637528079810710/video/1",
+          "media_key": "13_1984637509343854595",
+          "start": 67,
+          "url": "https://t.co/BzUeGGuCr0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984637528079810710",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "之前做的但现在闲置的东西...\nVideo 1：付款前防止恶意备注＆用于留底的小工具\nVideo 2：付款前验证用户年龄/国籍并设限 https://t.co/BzUeGGuCr0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7533,
+        "height": 1280,
+        "media_key": "13_1984637509297721344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984637509297721344/img/-8jZ-1MWQJe0J9cz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984637509297721344/vid/avc1/320x696/z9VVNpaSXs4O7Qig.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984637509297721344/vid/avc1/480x1044/aF1kcCZoyzL9kOyz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984637509297721344/vid/avc1/588x1280/YD5vueIiUXc301ie.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984637509297721344/pl/ITx9dC33YFgjsZ0x.m3u8"
+          }
+        ],
+        "width": 588
+      },
+      {
+        "duration_ms": 4566,
+        "height": 1280,
+        "media_key": "13_1984637509343854595",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1984637509343854595/img/YOImeUQKeGlUR7Sg.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984637509343854595/vid/avc1/320x696/zs1f0U0NCNc1uA5W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984637509343854595/vid/avc1/480x1044/mEIR1U_yv8F8iFLW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1984637509343854595/vid/avc1/588x1280/EFr3eLoNY__7IgqG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1984637509343854595/pl/bJnzrYuz0vpjeHik.m3u8"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1984637509297721344",
+            "13_1984637509343854595"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "1984637528079810710",
+        "created_at": "2025-11-01T15:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-01T16:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1984637528079810710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BzUeGGuCr0",
+              "end": 90,
+              "expanded_url": "https://x.com/u7ed2x2/status/1984637528079810710/video/1",
+              "media_key": "13_1984637509297721344",
+              "start": 67,
+              "url": "https://t.co/BzUeGGuCr0"
+            },
+            {
+              "display_url": "pic.x.com/BzUeGGuCr0",
+              "end": 90,
+              "expanded_url": "https://x.com/u7ed2x2/status/1984637528079810710/video/1",
+              "media_key": "13_1984637509343854595",
+              "start": 67,
+              "url": "https://t.co/BzUeGGuCr0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984637528079810710",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "之前做的但现在闲置的东西...\nVideo 1：付款前防止恶意备注＆用于留底的小工具\nVideo 2：付款前验证用户年龄/国籍并设限 https://t.co/BzUeGGuCr0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的🇸🇬 / godqwq@倒过来是里账",
+        "id": "1457364958841225222",
+        "location": "香橙港式大学",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 578,
+          "following_count": 413,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 51
+        },
+        "username": "u7ed2x2",
+        "verified": false
+      }
+    ]
+  }
+}

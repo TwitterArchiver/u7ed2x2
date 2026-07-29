@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "1991187010263114231",
+    "created_at": "2025-11-20T19:18:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-20T20:18:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991586936709083602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1367582100",
+          "start": 0,
+          "username": "overether"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "zhihu.com/question/36670…",
+          "end": 49,
+          "expanded_url": "http://www.zhihu.com/question/36670449",
+          "start": 26,
+          "unwound_url": "https://www.zhihu.com/question/36670449",
+          "url": "https://t.co/YD4aSFJHhD"
+        },
+        {
+          "description": "archived 7 Jul 2023 09:31:49 UTC",
+          "display_url": "archive.ph",
+          "end": 77,
+          "expanded_url": "http://archive.ph",
+          "images": [
+            {
+              "height": 768,
+              "url": "https://pbs.twimg.com/news_img/1990147911234297856/PApcgFcd?format=jpg&name=orig",
+              "width": 1024
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1990147911234297856/PApcgFcd?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 54,
+          "status": 200,
+          "title": "Celebrating Bisexuality+: A list of famous bisexual+ people | by Taim…",
+          "unwound_url": "https://archive.ph/S6wtg",
+          "url": "https://t.co/4xte6y4jK4"
+        },
+        {
+          "description": "archived 30 Nov 2014 03:24:29 UTC",
+          "display_url": "archive.ph/upile",
+          "end": 108,
+          "expanded_url": "http://archive.ph/upile",
+          "images": [
+            {
+              "height": 768,
+              "url": "https://pbs.twimg.com/news_img/1991586946867687428/jw0DWs7k?format=png&name=orig",
+              "width": 1024
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1991586946867687428/jw0DWs7k?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 85,
+          "status": 200,
+          "title": "俄罗斯超级硬盘维修工具PC3000官方下载|俄罗斯超级硬盘维修工具PC3000 V14最新免费下载 - 华军软件园",
+          "unwound_url": "https://archive.ph/upile",
+          "url": "https://t.co/tHk0vK5IaI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991586936709083602",
+    "in_reply_to_user_id": "1367582100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991584667297095739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@overether 十年前的提问就已经有人指出了\nhttps://t.co/YD4aSFJHhD\n\n另外 https://t.co/4xte6y4jK4 也有页面存档\nhttps://t.co/tHk0vK5IaI\n\n😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "1991187010263114231",
+        "created_at": "2025-11-20T19:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T20:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991586936709083602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1367582100",
+              "start": 0,
+              "username": "overether"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "zhihu.com/question/36670…",
+              "end": 49,
+              "expanded_url": "http://www.zhihu.com/question/36670449",
+              "start": 26,
+              "unwound_url": "https://www.zhihu.com/question/36670449",
+              "url": "https://t.co/YD4aSFJHhD"
+            },
+            {
+              "description": "archived 7 Jul 2023 09:31:49 UTC",
+              "display_url": "archive.ph",
+              "end": 77,
+              "expanded_url": "http://archive.ph",
+              "images": [
+                {
+                  "height": 768,
+                  "url": "https://pbs.twimg.com/news_img/1990147911234297856/PApcgFcd?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1990147911234297856/PApcgFcd?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 54,
+              "status": 200,
+              "title": "Celebrating Bisexuality+: A list of famous bisexual+ people | by Taim…",
+              "unwound_url": "https://archive.ph/S6wtg",
+              "url": "https://t.co/4xte6y4jK4"
+            },
+            {
+              "description": "archived 30 Nov 2014 03:24:29 UTC",
+              "display_url": "archive.ph/upile",
+              "end": 108,
+              "expanded_url": "http://archive.ph/upile",
+              "images": [
+                {
+                  "height": 768,
+                  "url": "https://pbs.twimg.com/news_img/1991586946867687428/jw0DWs7k?format=png&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1991586946867687428/jw0DWs7k?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 85,
+              "status": 200,
+              "title": "俄罗斯超级硬盘维修工具PC3000官方下载|俄罗斯超级硬盘维修工具PC3000 V14最新免费下载 - 华军软件园",
+              "unwound_url": "https://archive.ph/upile",
+              "url": "https://t.co/tHk0vK5IaI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991586936709083602",
+        "in_reply_to_user_id": "1367582100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991584667297095739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@overether 十年前的提问就已经有人指出了\nhttps://t.co/YD4aSFJHhD\n\n另外 https://t.co/4xte6y4jK4 也有页面存档\nhttps://t.co/tHk0vK5IaI\n\n😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1367582100",
+        "conversation_id": "1991187010263114231",
+        "created_at": "2025-11-20T19:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T20:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991584667297095739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991584667297095739",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991579484080992327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 小站才有诈骗下载按钮，恐怕在你的记忆力只记得这两个下载站才拿它们凑数。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的🇸🇬 / godqwq@倒过来是里账",
+        "id": "1457364958841225222",
+        "location": "香橙港式大学",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 433,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 63
+        },
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2013-04-20T17:39:36.000Z",
+        "description": "翻墙不爱党，爱党不翻墙，翻墙又爱党，必是狗娘养！",
+        "id": "1367582100",
+        "location": "ethernet",
+        "name": "Ethernet",
+        "pinned_tweet_id": "1869009656829669519",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967646350410928128/rsrXny3o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 217,
+          "like_count": 80,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 1309
+        },
+        "username": "overether",
+        "verified": false
+      }
+    ]
+  }
+}

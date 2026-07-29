@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2073650231481434233",
+    "created_at": "2026-07-05T12:49:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T13:49:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073751052583870731"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1732724006787420160",
+          "start": 0,
+          "username": "Venti718"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073751052583870731",
+    "in_reply_to_user_id": "1732724006787420160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073749520949924249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Venti718 呜呜摸你..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073650231481434233",
+        "created_at": "2026-07-05T12:49:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:49:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073751052583870731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1732724006787420160",
+              "start": 0,
+              "username": "Venti718"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073751052583870731",
+        "in_reply_to_user_id": "1732724006787420160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073749520949924249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Venti718 呜呜摸你..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1732724006787420160",
+        "conversation_id": "2073650231481434233",
+        "created_at": "2026-07-05T12:43:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073749520949924249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073749520949924249",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073748631203860502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 吓哭了 没钱😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 1061,
+          "like_count": 2386,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 1309
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-07T11:29:57.000Z",
+        "description": "准高三/友跨/简中/繁中/English/欢迎互fo/Ciallo～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.akiyamamio.one",
+                "end": 23,
+                "expanded_url": "http://blog.akiyamamio.one",
+                "start": 0,
+                "url": "https://t.co/iAPAG2H15q"
+              }
+            ]
+          }
+        },
+        "id": "1732724006787420160",
+        "location": "Tianjin",
+        "name": "澪老师不是零老师",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009901557371056129/NtoWVt0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1904,
+          "following_count": 2425,
+          "like_count": 22908,
+          "listed_count": 0,
+          "media_count": 516,
+          "tweet_count": 7364
+        },
+        "url": "https://t.co/iAPAG2H15q",
+        "username": "Venti718",
+        "verified": false
+      }
+    ]
+  }
+}

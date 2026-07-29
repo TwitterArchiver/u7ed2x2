@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2078061916912787650",
+    "created_at": "2026-07-17T10:48:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:48:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078069226942996728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2035668415231492096",
+          "start": 0,
+          "username": "4rulq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078069226942996728",
+    "in_reply_to_user_id": "2035668415231492096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078061916912787650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4rulq 用来当播放器嘛...？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2078061861740924928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbCQNJa0AA-DnT.jpg",
+        "width": 828
+      },
+      {
+        "height": 445,
+        "media_key": "3_2078061861745147904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbCQNKbQAAnOTs.jpg",
+        "width": 825
+      },
+      {
+        "height": 460,
+        "media_key": "3_2078061861745139712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbCQNKbIAAwC4Y.jpg",
+        "width": 828
+      },
+      {
+        "height": 460,
+        "media_key": "3_2078061861212430336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNbCQLLaoAAA6GD.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2078061916912787650",
+        "created_at": "2026-07-17T10:48:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:48:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078069226942996728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2035668415231492096",
+              "start": 0,
+              "username": "4rulq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078069226942996728",
+        "in_reply_to_user_id": "2035668415231492096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078061916912787650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4rulq 用来当播放器嘛...？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078061861740924928",
+            "3_2078061861745147904",
+            "3_2078061861745139712",
+            "3_2078061861212430336"
+          ]
+        },
+        "author_id": "2035668415231492096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple iPad",
+              "id": "972153731067273222",
+              "name": "Apple iPad"
+            }
+          }
+        ],
+        "conversation_id": "2078061916912787650",
+        "created_at": "2026-07-17T10:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078061916912787650"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xJ99x0ygGj",
+              "end": 44,
+              "expanded_url": "https://x.com/4rulq/status/2078061916912787650/photo/1",
+              "media_key": "3_2078061861740924928",
+              "start": 21,
+              "url": "https://t.co/xJ99x0ygGj"
+            },
+            {
+              "display_url": "pic.x.com/xJ99x0ygGj",
+              "end": 44,
+              "expanded_url": "https://x.com/4rulq/status/2078061916912787650/photo/1",
+              "media_key": "3_2078061861745147904",
+              "start": 21,
+              "url": "https://t.co/xJ99x0ygGj"
+            },
+            {
+              "display_url": "pic.x.com/xJ99x0ygGj",
+              "end": 44,
+              "expanded_url": "https://x.com/4rulq/status/2078061916912787650/photo/1",
+              "media_key": "3_2078061861745139712",
+              "start": 21,
+              "url": "https://t.co/xJ99x0ygGj"
+            },
+            {
+              "display_url": "pic.x.com/xJ99x0ygGj",
+              "end": 44,
+              "expanded_url": "https://x.com/4rulq/status/2078061916912787650/photo/1",
+              "media_key": "3_2078061861212430336",
+              "start": 21,
+              "url": "https://t.co/xJ99x0ygGj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078061916912787650",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嚴肅購買iPad Air（2013）喵🐱 https://t.co/xJ99x0ygGj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 1068,
+          "like_count": 3216,
+          "listed_count": 3,
+          "media_count": 382,
+          "tweet_count": 1588
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-22T10:42:53.000Z",
+        "description": "請叫我いいちゃん喵～\n臺、日推\n繁體中國語、日本語\n請多多關照喵🐱～\nmtf；家長反對無效\n曾經的hrt紀錄：since2026/5/6～2026/5/13（國補+螺內脂）已斷糖\n2007～未知（？\n職業樂手\n電子產品維修與銷售\n插畫、寫程式 （探索ing）\n免費的心理委員 \n中焦重抑\n不建政喵\n官方：@mapo_q",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 152,
+                "username": "mapo_q"
+              }
+            ]
+          }
+        },
+        "id": "2035668415231492096",
+        "location": "日本東京、臺灣臺北",
+        "name": "いいちゃん🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2068341924051013979",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055329903961366529/9MXwtaFT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 646,
+          "following_count": 908,
+          "like_count": 3846,
+          "listed_count": 4,
+          "media_count": 122,
+          "tweet_count": 3527
+        },
+        "url": "",
+        "username": "4rulq",
+        "verified": false
+      }
+    ]
+  }
+}

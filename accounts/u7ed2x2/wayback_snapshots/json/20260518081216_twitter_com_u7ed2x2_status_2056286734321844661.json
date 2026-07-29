@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056286728605057024"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2056286734321844661",
+    "created_at": "2026-05-18T08:12:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T09:12:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056286734321844661"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lJvdtq1iyW",
+          "end": 78,
+          "expanded_url": "https://x.com/u7ed2x2/status/2056286734321844661/photo/1",
+          "media_key": "3_2056286728605057024",
+          "start": 55,
+          "url": "https://t.co/lJvdtq1iyW"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 102,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2056188666863915236",
+          "start": 79,
+          "url": "https://t.co/fhrsyPvl2q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056286734321844661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056188666863915236",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "结束了哦...\n「我让十个推友吃到了麦记牛奶」\n\n希望各位以后想到小甜水马上闪现到麦记，而不是满记或鲜芋仙😉 https://t.co/lJvdtq1iyW https://t.co/fhrsyPvl2q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 605,
+        "media_key": "3_2056286728605057024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIll4o7awAAT4AU.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1226,
+        "media_key": "3_2056188658693349376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkMsOCaoAAk_Wi.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056286728605057024"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2056286734321844661",
+        "created_at": "2026-05-18T08:12:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:12:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056286734321844661"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lJvdtq1iyW",
+              "end": 78,
+              "expanded_url": "https://x.com/u7ed2x2/status/2056286734321844661/photo/1",
+              "media_key": "3_2056286728605057024",
+              "start": 55,
+              "url": "https://t.co/lJvdtq1iyW"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 102,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2056188666863915236",
+              "start": 79,
+              "url": "https://t.co/fhrsyPvl2q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056286734321844661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056188666863915236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结束了哦...\n「我让十个推友吃到了麦记牛奶」\n\n希望各位以后想到小甜水马上闪现到麦记，而不是满记或鲜芋仙😉 https://t.co/lJvdtq1iyW https://t.co/fhrsyPvl2q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056188658693349376"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2056188666863915236",
+        "created_at": "2026-05-18T01:42:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:42:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056188666863915236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HqsRhOR9ex",
+              "end": 117,
+              "expanded_url": "https://x.com/u7ed2x2/status/2056188666863915236/photo/1",
+              "media_key": "3_2056188658693349376",
+              "start": 94,
+              "url": "https://t.co/HqsRhOR9ex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056188666863915236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2493,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 22,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这么好吃为什么推友不尝尝呢？\n从现在起，前十位购买「麦记牛奶」的推友可以发付款截图给我，评论或私信都OK，我来报销😉\n我会在评论区更新进度——\n\n*只需要关注nelo\n*下附全国门店分布 https://t.co/HqsRhOR9ex"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1400,
+          "following_count": 981,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 304
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

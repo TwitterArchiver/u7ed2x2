@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066726096922722304"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2066726103906144546",
+    "created_at": "2026-06-16T03:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T04:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066726103906144546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vJn5MklIpp",
+          "end": 64,
+          "expanded_url": "https://x.com/u7ed2x2/status/2066726103906144546/photo/1",
+          "media_key": "3_2066726096922722304",
+          "start": 41,
+          "url": "https://t.co/vJn5MklIpp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066726103906144546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "6月2日发的邮件，直到今天GPT Plus还能正常使用\n好奇它到底会给我保留多久 https://t.co/vJn5MklIpp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1967,
+        "media_key": "3_2066726096922722304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK58b2cbwAAEeP5.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066726096922722304"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2066726103906144546",
+        "created_at": "2026-06-16T03:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T04:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066726103906144546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vJn5MklIpp",
+              "end": 64,
+              "expanded_url": "https://x.com/u7ed2x2/status/2066726103906144546/photo/1",
+              "media_key": "3_2066726096922722304",
+              "start": 41,
+              "url": "https://t.co/vJn5MklIpp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066726103906144546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "6月2日发的邮件，直到今天GPT Plus还能正常使用\n好奇它到底会给我保留多久 https://t.co/vJn5MklIpp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 1063,
+          "like_count": 1216,
+          "listed_count": 1,
+          "media_count": 237,
+          "tweet_count": 919
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

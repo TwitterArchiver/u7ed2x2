@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072924538145579008"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2072924544554426468",
+    "created_at": "2026-07-03T06:04:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T07:04:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072924544554426468"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/21tPxFGCiF",
+          "end": 30,
+          "expanded_url": "https://x.com/u7ed2x2/status/2072924544554426468/photo/1",
+          "media_key": "3_2072924538145579008",
+          "start": 7,
+          "url": "https://t.co/21tPxFGCiF"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2072307669965439188",
+          "start": 31,
+          "url": "https://t.co/9zlXUa2q1E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072924544554426468",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072307669965439188",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？还有第二期 https://t.co/21tPxFGCiF https://t.co/9zlXUa2q1E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2072924538145579008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMSB4nZboAAokhh.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2020,
+        "media_key": "3_2072307628878004224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJQzxSbAAAbkWy.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072307628890533888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMJQzxVaMAAv75i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072924538145579008"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072924544554426468",
+        "created_at": "2026-07-03T06:04:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T07:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072924544554426468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/21tPxFGCiF",
+              "end": 30,
+              "expanded_url": "https://x.com/u7ed2x2/status/2072924544554426468/photo/1",
+              "media_key": "3_2072924538145579008",
+              "start": 7,
+              "url": "https://t.co/21tPxFGCiF"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2072307669965439188",
+              "start": 31,
+              "url": "https://t.co/9zlXUa2q1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072924544554426468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072307669965439188",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？还有第二期 https://t.co/21tPxFGCiF https://t.co/9zlXUa2q1E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072307628878004224",
+            "3_2072307628890533888"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072307669965439188",
+        "created_at": "2026-07-01T13:13:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T14:13:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072307669965439188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pqbPec4N5r",
+              "end": 53,
+              "expanded_url": "https://x.com/u7ed2x2/status/2072307669965439188/photo/1",
+              "media_key": "3_2072307628878004224",
+              "start": 30,
+              "url": "https://t.co/pqbPec4N5r"
+            },
+            {
+              "display_url": "pic.x.com/pqbPec4N5r",
+              "end": 53,
+              "expanded_url": "https://x.com/u7ed2x2/status/2072307669965439188/photo/1",
+              "media_key": "3_2072307628890533888",
+              "start": 30,
+              "url": "https://t.co/pqbPec4N5r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072307669965439188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 837,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初见：想掐鼠\n现在：🙃（原来你有TG）（原来你会好好说话） https://t.co/pqbPec4N5r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 1058,
+          "like_count": 2090,
+          "listed_count": 3,
+          "media_count": 321,
+          "tweet_count": 1232
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

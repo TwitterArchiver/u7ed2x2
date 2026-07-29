@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057696213349318656",
+        "3_2057696213370302464"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057696225840038221",
+    "created_at": "2026-05-22T05:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057696225840038221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9rIya11Czo",
+          "end": 30,
+          "expanded_url": "https://x.com/u7ed2x2/status/2057696225840038221/photo/1",
+          "media_key": "3_2057696213349318656",
+          "start": 7,
+          "url": "https://t.co/9rIya11Czo"
+        },
+        {
+          "display_url": "pic.x.com/9rIya11Czo",
+          "end": 30,
+          "expanded_url": "https://x.com/u7ed2x2/status/2057696225840038221/photo/1",
+          "media_key": "3_2057696213370302464",
+          "start": 7,
+          "url": "https://t.co/9rIya11Czo"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2057400424035201514",
+          "start": 31,
+          "url": "https://t.co/HnmE3Hg4qN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057696225840038221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057400424035201514",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第二天 后续 https://t.co/9rIya11Czo https://t.co/HnmE3Hg4qN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057696213349318656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5nzcxaQAAQcVC.jpg",
+        "width": 738
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057696213370302464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5nzc2acAAYEzf.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057400399251099648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1awzYb0AAQwAw.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057696213349318656",
+            "3_2057696213370302464"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057696225840038221",
+        "created_at": "2026-05-22T05:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057696225840038221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9rIya11Czo",
+              "end": 30,
+              "expanded_url": "https://x.com/u7ed2x2/status/2057696225840038221/photo/1",
+              "media_key": "3_2057696213349318656",
+              "start": 7,
+              "url": "https://t.co/9rIya11Czo"
+            },
+            {
+              "display_url": "pic.x.com/9rIya11Czo",
+              "end": 30,
+              "expanded_url": "https://x.com/u7ed2x2/status/2057696225840038221/photo/1",
+              "media_key": "3_2057696213370302464",
+              "start": 7,
+              "url": "https://t.co/9rIya11Czo"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2057400424035201514",
+              "start": 31,
+              "url": "https://t.co/HnmE3Hg4qN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057696225840038221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057400424035201514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第二天 后续 https://t.co/9rIya11Czo https://t.co/HnmE3Hg4qN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057400399251099648"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2057400424035201514",
+        "created_at": "2026-05-21T09:57:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T10:57:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057400424035201514"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kxQMAlErq6",
+              "end": 29,
+              "expanded_url": "https://x.com/u7ed2x2/status/2057400424035201514/photo/1",
+              "media_key": "3_2057400399251099648",
+              "start": 6,
+              "url": "https://t.co/kxQMAlErq6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057400424035201514",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2221,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "⌯'ᵕ'⌯ https://t.co/kxQMAlErq6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1459,
+          "following_count": 1022,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 377
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

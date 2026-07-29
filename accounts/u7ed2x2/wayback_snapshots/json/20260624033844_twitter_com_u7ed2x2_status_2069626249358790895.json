@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069626242865999872"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2069425638235373809",
+    "created_at": "2026-06-24T03:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069626249358790895"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1363755659477491714",
+          "start": 0,
+          "username": "RxNANOSU"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BT30yzkGtA",
+          "end": 41,
+          "expanded_url": "https://x.com/u7ed2x2/status/2069626249358790895/photo/1",
+          "media_key": "3_2069626242865999872",
+          "start": 18,
+          "url": "https://t.co/BT30yzkGtA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069626249358790895",
+    "in_reply_to_user_id": "1363755659477491714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069468873678798940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RxNANOSU 定叫你白白嫩嫩 https://t.co/BT30yzkGtA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 760,
+        "media_key": "3_2069626242865999872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLjKGj_asAAZ8Wa.jpg",
+        "width": 760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069626242865999872"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2069425638235373809",
+        "created_at": "2026-06-24T03:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069626249358790895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1363755659477491714",
+              "start": 0,
+              "username": "RxNANOSU"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BT30yzkGtA",
+              "end": 41,
+              "expanded_url": "https://x.com/u7ed2x2/status/2069626249358790895/photo/1",
+              "media_key": "3_2069626242865999872",
+              "start": 18,
+              "url": "https://t.co/BT30yzkGtA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069626249358790895",
+        "in_reply_to_user_id": "1363755659477491714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069468873678798940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RxNANOSU 定叫你白白嫩嫩 https://t.co/BT30yzkGtA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363755659477491714",
+        "conversation_id": "2069425638235373809",
+        "created_at": "2026-06-23T17:13:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T18:13:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069468873678798940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069468873678798940",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069466704003129509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 ？那能不能给我配大瓶椰汁嘞😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 1057,
+          "like_count": 1460,
+          "listed_count": 2,
+          "media_count": 271,
+          "tweet_count": 1021
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-22T07:41:16.000Z",
+        "description": "東/NANOSU，重度叹咖啡爱好者（谨防速子加入红茶）\n喜好：茶座☕️&速子🧪（欢喜冤家）/旅游/Kigurumi/音乐/炸猪排/🎴/🀄️\nDEBUFF：Rx&BZDs/重度睡眠焦虑\n出没：YIC/SZX/CSX/PVG/CAN/HKG/CJU\n欢迎同好扩列，或者咖啡痴找我聊天，面基随缘抓到请我吃饭谢谢（笑）",
+        "id": "1363755659477491714",
+        "location": "27时世界",
+        "name": "NANOSU",
+        "pinned_tweet_id": "2060925424759382118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1363756616772845572/wb6SVkG3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 918,
+          "following_count": 2430,
+          "like_count": 16949,
+          "listed_count": 8,
+          "media_count": 602,
+          "tweet_count": 3791
+        },
+        "url": "",
+        "username": "RxNANOSU",
+        "verified": true
+      }
+    ]
+  }
+}

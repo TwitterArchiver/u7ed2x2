@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2080655473343344640",
+    "created_at": "2026-07-24T14:33:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T15:33:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080662622043816071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520285442737770496",
+          "start": 0,
+          "username": "Magpieneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080662622043816071",
+    "in_reply_to_user_id": "1520285442737770496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080655473343344640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Magpieneko 姆...可惜cyber抱抱没有现实抱抱效果好呢🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2080655473343344640",
+        "created_at": "2026-07-24T14:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080662622043816071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520285442737770496",
+              "start": 0,
+              "username": "Magpieneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080662622043816071",
+        "in_reply_to_user_id": "1520285442737770496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080655473343344640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Magpieneko 姆...可惜cyber抱抱没有现实抱抱效果好呢🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520285442737770496",
+        "conversation_id": "2080655473343344640",
+        "created_at": "2026-07-24T14:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T15:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080655473343344640"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080655473343344640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "缺爱已经缺到病态的程度了（\n现在哪怕只是想象一下有个人能抱我一下都会不由自主地哭出来😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1703,
+          "following_count": 1065,
+          "like_count": 3503,
+          "listed_count": 3,
+          "media_count": 402,
+          "tweet_count": 1681
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "被雨淋透的麻雀/叫我小鸟就好/是个不可爱的孩子/学着成为人类/社恐/总是很困/该死的小东西/一切都会好起来的……吧\n\n「请在我的坟前放上一支白百合」",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Jingque233",
+                "end": 23,
+                "expanded_url": "https://t.me/Jingque233",
+                "start": 0,
+                "url": "https://t.co/oLMK0VsYRb"
+              }
+            ]
+          }
+        },
+        "id": "1520285442737770496",
+        "location": "距你2.1KM 欢迎来找我聊天➡️",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2056572888778727508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000047111682097152/toPEt8jA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 77,
+          "like_count": 2881,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1504
+        },
+        "url": "https://t.co/oLMK0VsYRb",
+        "username": "Magpieneko",
+        "verified": false
+      }
+    ]
+  }
+}

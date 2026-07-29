@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2072203179803218271",
+    "created_at": "2026-07-01T06:36:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T07:36:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072207718837080311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1242074475400548352",
+          "start": 0,
+          "username": "A1oneSKy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072207718837080311",
+    "in_reply_to_user_id": "1242074475400548352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072203179803218271",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1oneSKy 大电视用来投屏最棒了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2072203169049042944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHxzaGbYAA9LoC.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2072203169174847489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHxzakbAAEySbL.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2072203169065848832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHxzaKb0AAzsIO.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2072203169166512129",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMHxzaib0AE9qjA.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2072203179803218271",
+        "created_at": "2026-07-01T06:36:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:36:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072207718837080311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1242074475400548352",
+              "start": 0,
+              "username": "A1oneSKy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072207718837080311",
+        "in_reply_to_user_id": "1242074475400548352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072203179803218271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1oneSKy 大电视用来投屏最棒了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072203169049042944",
+            "3_2072203169174847489",
+            "3_2072203169065848832",
+            "3_2072203169166512129"
+          ]
+        },
+        "author_id": "1242074475400548352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2072203179803218271",
+        "created_at": "2026-07-01T06:18:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T07:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072203179803218271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JXcQTw7O2Q",
+              "end": 111,
+              "expanded_url": "https://x.com/A1oneSKy/status/2072203179803218271/photo/1",
+              "media_key": "3_2072203169049042944",
+              "start": 88,
+              "url": "https://t.co/JXcQTw7O2Q"
+            },
+            {
+              "display_url": "pic.x.com/JXcQTw7O2Q",
+              "end": 111,
+              "expanded_url": "https://x.com/A1oneSKy/status/2072203179803218271/photo/1",
+              "media_key": "3_2072203169174847489",
+              "start": 88,
+              "url": "https://t.co/JXcQTw7O2Q"
+            },
+            {
+              "display_url": "pic.x.com/JXcQTw7O2Q",
+              "end": 111,
+              "expanded_url": "https://x.com/A1oneSKy/status/2072203179803218271/photo/1",
+              "media_key": "3_2072203169065848832",
+              "start": 88,
+              "url": "https://t.co/JXcQTw7O2Q"
+            },
+            {
+              "display_url": "pic.x.com/JXcQTw7O2Q",
+              "end": 111,
+              "expanded_url": "https://x.com/A1oneSKy/status/2072203179803218271/photo/1",
+              "media_key": "3_2072203169166512129",
+              "start": 88,
+              "url": "https://t.co/JXcQTw7O2Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072203179803218271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今日酒店盲盒！\n韩币32000\n约合人民币140\n有点怀疑我住的是不是“挂壁房”了\n明明看的是比较便宜的\n居然这么干净\n还有明卫和大彩电！\n床也软软的\n感觉今天能睡个好觉了！ https://t.co/JXcQTw7O2Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1630,
+          "following_count": 1057,
+          "like_count": 1863,
+          "listed_count": 2,
+          "media_count": 306,
+          "tweet_count": 1162
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "EN / CN / JP / KR/ 韓國語 계정@alonesky_kr ㅣ 韓国留學中...ㅣ\n專攻은 電子工學 | 宝宝@mario_2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "alonesky_kr"
+              },
+              {
+                "end": 74,
+                "start": 63,
+                "username": "mario_2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.moe",
+                "end": 23,
+                "expanded_url": "https://alonesky.moe",
+                "start": 0,
+                "url": "https://t.co/b8Rzwcvm1z"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "name": "𝓐𝓛𝓸𝓷𝓮𝓢𝓚𝔂",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061452830142283776/kIazC4sW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1411,
+          "following_count": 1725,
+          "like_count": 8190,
+          "listed_count": 6,
+          "media_count": 5748,
+          "tweet_count": 23589
+        },
+        "url": "https://t.co/b8Rzwcvm1z",
+        "username": "A1oneSKy",
+        "verified": true
+      }
+    ]
+  }
+}

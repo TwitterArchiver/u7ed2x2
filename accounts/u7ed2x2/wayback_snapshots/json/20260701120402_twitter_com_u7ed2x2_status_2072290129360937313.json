@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2072279730783674669",
+    "created_at": "2026-07-01T12:04:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T13:04:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072290129360937313"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1951341828789379073",
+          "start": 0,
+          "username": "s0yo1uv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072290129360937313",
+    "in_reply_to_user_id": "1951341828789379073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072289769971912831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s0yo1uv 我今天跟人说了太多话 太累了 就先回去了.gif"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2072289769971912831].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2072289769971912831",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2072289769971912831"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2072279730783674669",
+        "created_at": "2026-07-01T12:04:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T13:04:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072290129360937313"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1951341828789379073",
+              "start": 0,
+              "username": "s0yo1uv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072290129360937313",
+        "in_reply_to_user_id": "1951341828789379073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072289769971912831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s0yo1uv 我今天跟人说了太多话 太累了 就先回去了.gif"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1631,
+          "following_count": 1057,
+          "like_count": 1909,
+          "listed_count": 2,
+          "media_count": 307,
+          "tweet_count": 1176
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-01T17:58:51.000Z",
+        "description": "circle back, slow dance for a harvest sky",
+        "id": "1951341828789379073",
+        "name": "陽",
+        "pinned_tweet_id": "2049803257313480977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061839178309251072/AEGA-qNd_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 119,
+          "like_count": 2362,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 1022
+        },
+        "url": "",
+        "username": "s0yo1uv",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2070506514029388271",
+    "created_at": "2026-06-30T09:35:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:35:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071890336801292357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1313765436895326209",
+          "start": 0,
+          "username": "Rutilate27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071890336801292357",
+    "in_reply_to_user_id": "1313765436895326209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071862283496722596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Rutilate27 感觉前半小时有点拖沓，往后压抑感会层层递进。剧情方面虽然能猜到走向，且为了照顾路人观众加了拖慢节奏的设定解说，但好在逻辑自洽，还是值得一看的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2070506514029388271",
+        "created_at": "2026-06-30T09:35:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:35:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071890336801292357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1313765436895326209",
+              "start": 0,
+              "username": "Rutilate27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071890336801292357",
+        "in_reply_to_user_id": "1313765436895326209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071862283496722596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Rutilate27 感觉前半小时有点拖沓，往后压抑感会层层递进。剧情方面虽然能猜到走向，且为了照顾路人观众加了拖慢节奏的设定解说，但好在逻辑自洽，还是值得一看的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313765436895326209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2070506514029388271",
+        "created_at": "2026-06-30T07:43:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T08:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071862283496722596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071862283496722596",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070506514029388271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 电影感觉如何，期末周结束我也打算去看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 1056,
+          "like_count": 1819,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 1143
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-07T08:57:53.000Z",
+        "description": "可贴可rua，性格温良，实事求是，不键政，爱好猎奇，集抽象于一身，业余按快门，上学忙碌中，真假自辨。｜｜ENTJ- A 月天蝎｜｜记忆储藏瓶，自动化专业，偶尔会产出一些照片｜｜vrchat：百变小团子｜｜人像，但孩子只想风光人像或棚拍了，没有背景的糖水好无聊🥺｜｜想更多地接触现实",
+        "id": "1313765436895326209",
+        "location": "IP 归属地: 蝶儿家",
+        "name": "Rutilate",
+        "pinned_tweet_id": "1621560801927770114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792102253379440640/TS2Q5ARp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 318,
+          "like_count": 2357,
+          "listed_count": 1,
+          "media_count": 805,
+          "tweet_count": 1756
+        },
+        "url": "",
+        "username": "Rutilate27",
+        "verified": true
+      }
+    ]
+  }
+}

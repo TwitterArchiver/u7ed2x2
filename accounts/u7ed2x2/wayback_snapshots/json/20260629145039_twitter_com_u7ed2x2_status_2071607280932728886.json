@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071607275182342144"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071587810772201604",
+    "created_at": "2026-06-29T14:50:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T15:50:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071607280932728886"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1483911037028270080",
+          "start": 0,
+          "username": "hefan230"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/kLkVfqV1MC",
+          "end": 110,
+          "expanded_url": "https://x.com/u7ed2x2/status/2071607280932728886/photo/1",
+          "media_key": "3_2071607275182342144",
+          "start": 87,
+          "url": "https://t.co/kLkVfqV1MC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071607280932728886",
+    "in_reply_to_user_id": "1483911037028270080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071602559543103781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hefan230 我开过，之前拿到一点奖励就放弃了\n\n首先不拉20人的话月上限只有100 USD\n其次E卡自邀会多1%，3%+1%-1%fx最终也是3%，而且不用等到入账 https://t.co/kLkVfqV1MC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2071607275182342144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_T10dbwAAXloy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2071602554686017536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_PjDPaEAAit2W.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071607275182342144"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071587810772201604",
+        "created_at": "2026-06-29T14:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071607280932728886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1483911037028270080",
+              "start": 0,
+              "username": "hefan230"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kLkVfqV1MC",
+              "end": 110,
+              "expanded_url": "https://x.com/u7ed2x2/status/2071607280932728886/photo/1",
+              "media_key": "3_2071607275182342144",
+              "start": 87,
+              "url": "https://t.co/kLkVfqV1MC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071607280932728886",
+        "in_reply_to_user_id": "1483911037028270080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071602559543103781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hefan230 我开过，之前拿到一点奖励就放弃了\n\n首先不拉20人的话月上限只有100 USD\n其次E卡自邀会多1%，3%+1%-1%fx最终也是3%，而且不用等到入账 https://t.co/kLkVfqV1MC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071602554686017536"
+          ]
+        },
+        "author_id": "1483911037028270080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          }
+        ],
+        "conversation_id": "2071587810772201604",
+        "created_at": "2026-06-29T14:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T15:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071602559543103781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOnpMytpOQ",
+              "end": 56,
+              "expanded_url": "https://x.com/hefan230/status/2071602559543103781/photo/1",
+              "media_key": "3_2071602554686017536",
+              "start": 33,
+              "url": "https://t.co/dOnpMytpOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071602559543103781",
+        "in_reply_to_user_id": "1483911037028270080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071602286867198230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 4% 返usdc稳定币，入账即刻返现，fx1% https://t.co/dOnpMytpOQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 1057,
+          "like_count": 1765,
+          "listed_count": 2,
+          "media_count": 298,
+          "tweet_count": 1126
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-19T21:16:04.000Z",
+        "description": "在大阪大学生混吃等死中说不定回国躺平不想上班妄想通过炒币财富自由记性不好平等忘记每个人且击打西红柿分不清前鼻音后鼻音生母韵母什么都发推最近沉迷打cs2",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "v50.hefan.me",
+                "end": 23,
+                "expanded_url": "https://v50.hefan.me",
+                "start": 0,
+                "url": "https://t.co/XpB3Y48cUa"
+              }
+            ]
+          }
+        },
+        "id": "1483911037028270080",
+        "location": "Osaka-shi Kita-ku, Osaka",
+        "name": "hefan230",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996414890584788992/6pftAXjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3815,
+          "following_count": 456,
+          "like_count": 16969,
+          "listed_count": 7,
+          "media_count": 1671,
+          "tweet_count": 4231
+        },
+        "url": "https://t.co/XpB3Y48cUa",
+        "username": "hefan230",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067839480787279872"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2067839493198229985",
+    "created_at": "2026-06-19T05:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T06:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067839493198229985"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BgA3TvhJ86",
+          "end": 61,
+          "expanded_url": "https://x.com/u7ed2x2/status/2067839493198229985/photo/1",
+          "media_key": "3_2067839480787279872",
+          "start": 38,
+          "url": "https://t.co/BgA3TvhJ86"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2067508882990305542",
+          "start": 62,
+          "url": "https://t.co/WCrkPmhl7f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067839493198229985",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067508882990305542",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "上层海盐芝士顶+冰淇淋球\n下层有满满的雪花冰\n\n双拼水果狗选了青提和荔枝😉 https://t.co/BgA3TvhJ86 https://t.co/WCrkPmhl7f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067839480787279872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLJxDUjaoAA6Exv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2067508876942163968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLFEXpQawAABoqw.jpg",
+        "width": 962
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067839480787279872"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2067839493198229985",
+        "created_at": "2026-06-19T05:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T06:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067839493198229985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BgA3TvhJ86",
+              "end": 61,
+              "expanded_url": "https://x.com/u7ed2x2/status/2067839493198229985/photo/1",
+              "media_key": "3_2067839480787279872",
+              "start": 38,
+              "url": "https://t.co/BgA3TvhJ86"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2067508882990305542",
+              "start": 62,
+              "url": "https://t.co/WCrkPmhl7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067839493198229985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067508882990305542",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "上层海盐芝士顶+冰淇淋球\n下层有满满的雪花冰\n\n双拼水果狗选了青提和荔枝😉 https://t.co/BgA3TvhJ86 https://t.co/WCrkPmhl7f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067508876942163968"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2067508882990305542",
+        "created_at": "2026-06-18T07:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T08:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067508882990305542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xgpsOt5rFY",
+              "end": 47,
+              "expanded_url": "https://x.com/u7ed2x2/status/2067508882990305542/photo/1",
+              "media_key": "3_2067508876942163968",
+              "start": 24,
+              "url": "https://t.co/xgpsOt5rFY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067508882990305542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 891,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "《你们一定不知道麦记明天会上新海盐芝士糖水吧》 https://t.co/xgpsOt5rFY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 1065,
+          "like_count": 1310,
+          "listed_count": 1,
+          "media_count": 254,
+          "tweet_count": 964
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

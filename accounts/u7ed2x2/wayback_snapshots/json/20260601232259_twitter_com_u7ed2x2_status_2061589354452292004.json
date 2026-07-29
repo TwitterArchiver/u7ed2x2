@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2061493046609613128",
+    "created_at": "2026-06-01T23:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T00:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061589354452292004"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1074712286428680192",
+          "start": 0,
+          "username": "yumenouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061589354452292004",
+    "in_reply_to_user_id": "1074712286428680192",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061494322508583163",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yumenouo 早安捏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2061493046609613128",
+        "created_at": "2026-06-01T23:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061589354452292004"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1074712286428680192",
+              "start": 0,
+              "username": "yumenouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061589354452292004",
+        "in_reply_to_user_id": "1074712286428680192",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061494322508583163",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yumenouo 早安捏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1074712286428680192",
+        "conversation_id": "2061493046609613128",
+        "created_at": "2026-06-01T17:05:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T18:05:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061494322508583163"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061494322508583163",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061493046609613128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 晚安捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1522,
+          "following_count": 1053,
+          "like_count": 767,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 602
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-17T17:05:51.000Z",
+        "description": "「私は今日も転がります。」",
+        "id": "1074712286428680192",
+        "name": "神楽坂ゆめの",
+        "pinned_tweet_id": "1704193325501403399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840703059334139904/mOpPbR08_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 175,
+          "like_count": 9449,
+          "listed_count": 0,
+          "media_count": 1162,
+          "tweet_count": 3725
+        },
+        "username": "yumenouo",
+        "verified": false
+      }
+    ]
+  }
+}

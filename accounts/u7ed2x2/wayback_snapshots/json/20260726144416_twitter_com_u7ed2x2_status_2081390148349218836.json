@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2081388314024960327",
+    "created_at": "2026-07-26T14:44:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T15:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081390148349218836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1757962929637675008",
+          "start": 0,
+          "username": "Manno_BU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081390148349218836",
+    "in_reply_to_user_id": "1757962929637675008",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081388793991770251",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Manno_BU keai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2081388314024960327",
+        "created_at": "2026-07-26T14:44:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081390148349218836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1757962929637675008",
+              "start": 0,
+              "username": "Manno_BU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081390148349218836",
+        "in_reply_to_user_id": "1757962929637675008",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081388793991770251",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Manno_BU keai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757962929637675008",
+        "conversation_id": "2081388314024960327",
+        "created_at": "2026-07-26T14:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T15:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081388793991770251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081388793991770251",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081388314024960327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 西施惠"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1062,
+          "like_count": 3569,
+          "listed_count": 3,
+          "media_count": 408,
+          "tweet_count": 1702
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-15T03:00:14.000Z",
+        "description": "fpv飞手 摄影师",
+        "id": "1757962929637675008",
+        "location": "广州",
+        "name": "BU_Manno",
+        "pinned_tweet_id": "2065007185239966160",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065007836573339648/AADzwJsC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 1961,
+          "like_count": 33431,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 2809
+        },
+        "url": "",
+        "username": "Manno_BU",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2054219387146817554",
+    "created_at": "2026-05-13T00:53:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T01:53:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054364308570870063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1369824423952273410",
+          "start": 0,
+          "username": "Sena_n_Karin"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Explore Rain’s enterprise payments infrastructure for stablecoin-powered cards and global money movement. Fast settlement, scalable API, and trusted performance.",
+          "display_url": "rain.xyz",
+          "end": 37,
+          "expanded_url": "http://rain.xyz",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2054172561819226112/WAK-_Dme?format=png&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2054172561819226112/WAK-_Dme?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 14,
+          "status": 200,
+          "title": "Stablecoin payments platform for enterprise | Rain",
+          "unwound_url": "https://www.rain.xyz/",
+          "url": "https://t.co/hqBgQWP75J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054364308570870063",
+    "in_reply_to_user_id": "1369824423952273410",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054363672928206925",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sena_n_Karin https://t.co/hqBgQWP75J"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2054219387146817554",
+        "created_at": "2026-05-13T00:53:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054364308570870063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1369824423952273410",
+              "start": 0,
+              "username": "Sena_n_Karin"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Explore Rain’s enterprise payments infrastructure for stablecoin-powered cards and global money movement. Fast settlement, scalable API, and trusted performance.",
+              "display_url": "rain.xyz",
+              "end": 37,
+              "expanded_url": "http://rain.xyz",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2054172561819226112/WAK-_Dme?format=png&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2054172561819226112/WAK-_Dme?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "Stablecoin payments platform for enterprise | Rain",
+              "unwound_url": "https://www.rain.xyz/",
+              "url": "https://t.co/hqBgQWP75J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054364308570870063",
+        "in_reply_to_user_id": "1369824423952273410",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054363672928206925",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sena_n_Karin https://t.co/hqBgQWP75J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1369824423952273410",
+        "conversation_id": "2054219387146817554",
+        "created_at": "2026-05-13T00:50:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T01:50:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054363672928206925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054363672928206925",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054219387146817554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 哪个发卡机构的 Visa 卡呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 867,
+          "like_count": 228,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 206
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-11T01:36:18.000Z",
+        "description": "#Debian 爱好者，平时经常忙项目的样子。每天会写点自己开心的东西什么的，以及偶尔搞搞羞羞的东西吧。喜欢发表自己的一些看法。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Debian"
+              }
+            ]
+          }
+        },
+        "id": "1369824423952273410",
+        "location": "幻想仙境",
+        "name": "濑名 歌铃 | Karin Sena",
+        "pinned_tweet_id": "1786428148835586537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588784113816719360/GWf-I69K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 376,
+          "like_count": 473,
+          "listed_count": 4,
+          "media_count": 358,
+          "tweet_count": 2385
+        },
+        "username": "Sena_n_Karin",
+        "verified": true
+      }
+    ]
+  }
+}

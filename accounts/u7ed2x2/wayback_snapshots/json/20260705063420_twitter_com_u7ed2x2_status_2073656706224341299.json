@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073656698330648576"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2073656706224341299",
+    "created_at": "2026-07-05T06:34:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:34:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073656706224341299"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KU0UGUjie1",
+          "end": 77,
+          "expanded_url": "https://x.com/u7ed2x2/status/2073656706224341299/photo/1",
+          "media_key": "3_2073656698330648576",
+          "start": 54,
+          "url": "https://t.co/KU0UGUjie1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073656706224341299",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Y撑起遮阳伞\n耳机一人一半 放着JJ的《豆浆油条》\n\n（...好幸福确认一下）\n🐶：Y！\nY：？狗、狗妈妈 https://t.co/KU0UGUjie1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073656698330648576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcbx8obkAA6cA-.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073656698330648576"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073656706224341299",
+        "created_at": "2026-07-05T06:34:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:34:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073656706224341299"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KU0UGUjie1",
+              "end": 77,
+              "expanded_url": "https://x.com/u7ed2x2/status/2073656706224341299/photo/1",
+              "media_key": "3_2073656698330648576",
+              "start": 54,
+              "url": "https://t.co/KU0UGUjie1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073656706224341299",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Y撑起遮阳伞\n耳机一人一半 放着JJ的《豆浆油条》\n\n（...好幸福确认一下）\n🐶：Y！\nY：？狗、狗妈妈 https://t.co/KU0UGUjie1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 1061,
+          "like_count": 2338,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 1295
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

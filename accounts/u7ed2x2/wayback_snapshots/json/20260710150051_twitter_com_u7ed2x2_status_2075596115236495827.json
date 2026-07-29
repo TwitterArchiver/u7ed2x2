@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2075524298870313093",
+    "created_at": "2026-07-10T15:00:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T16:00:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075596115236495827"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1835921137622208512",
+          "start": 0,
+          "username": "Yan9x1_1028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075596115236495827",
+    "in_reply_to_user_id": "1835921137622208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075553364960833950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yan9x1_1028 6 异环里面的安魂曲\n13 我刚回关，目前只知道置顶上的信息"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075524298870313093",
+        "created_at": "2026-07-10T15:00:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T16:00:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075596115236495827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1835921137622208512",
+              "start": 0,
+              "username": "Yan9x1_1028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075596115236495827",
+        "in_reply_to_user_id": "1835921137622208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075553364960833950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yan9x1_1028 6 异环里面的安魂曲\n13 我刚回关，目前只知道置顶上的信息"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835921137622208512",
+        "conversation_id": "2075524298870313093",
+        "created_at": "2026-07-10T12:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T13:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075553364960833950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075553364960833950",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075524298870313093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 6和13"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1065,
+          "like_count": 2864,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 1488
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-17T05:58:13.000Z",
+        "description": "有fo必回除非影禁|准初三|友所有人|邦批烤批卡丘猫娘|政治立场谁帮我总结一下|谁统谁无所谓的统派|精神双国籍PRC+ROC|正在学习福州话",
+        "id": "1835921137622208512",
+        "location": "中国 福建 福州",
+        "name": "阳熹",
+        "pinned_tweet_id": "2054625687634682334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054599056006270976/Awy-bM3A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 290,
+          "like_count": 182,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 1924
+        },
+        "url": "",
+        "username": "Yan9x1_1028",
+        "verified": false
+      }
+    ]
+  }
+}

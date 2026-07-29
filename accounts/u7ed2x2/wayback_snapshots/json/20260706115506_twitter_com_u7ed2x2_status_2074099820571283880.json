@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2074096805877608676",
+    "created_at": "2026-07-06T11:55:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T12:55:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074099820571283880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1231881232931098624",
+          "start": 0,
+          "username": "Ho2294"
+        },
+        {
+          "end": 15,
+          "id": "987616750526058496",
+          "start": 8,
+          "username": "qwqdog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074099820571283880",
+    "in_reply_to_user_id": "1231881232931098624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074098612200767707",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ho2294 @qwqdog 4号就见过了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2074096805877608676",
+        "created_at": "2026-07-06T11:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074099820571283880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1231881232931098624",
+              "start": 0,
+              "username": "Ho2294"
+            },
+            {
+              "end": 15,
+              "id": "987616750526058496",
+              "start": 8,
+              "username": "qwqdog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074099820571283880",
+        "in_reply_to_user_id": "1231881232931098624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074098612200767707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ho2294 @qwqdog 4号就见过了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1231881232931098624",
+        "conversation_id": "2074096805877608676",
+        "created_at": "2026-07-06T11:50:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T12:50:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074098612200767707"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "987616750526058496",
+              "start": 0,
+              "username": "qwqdog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074098612200767707",
+        "in_reply_to_user_id": "987616750526058496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074096805877608676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwqdog 见父母了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 1063,
+          "like_count": 2454,
+          "listed_count": 3,
+          "media_count": 342,
+          "tweet_count": 1329
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-24T09:59:15.000Z",
+        "description": "❤ bot",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Ho229v3",
+                "end": 23,
+                "expanded_url": "https://t.me/Ho229v3",
+                "start": 0,
+                "url": "https://t.co/WIXtygeXoo"
+              }
+            ]
+          }
+        },
+        "id": "1231881232931098624",
+        "name": "Ho 229",
+        "pinned_tweet_id": "1582650432425406465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547953290326917121/hiYGHWlT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1209,
+          "following_count": 2423,
+          "like_count": 121908,
+          "listed_count": 9,
+          "media_count": 347,
+          "tweet_count": 87628
+        },
+        "url": "https://t.co/WIXtygeXoo",
+        "username": "Ho2294",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-21T08:59:17.000Z",
+        "description": "云朵般的笑 绵软 带着弧度",
+        "id": "987616750526058496",
+        "name": "绒绒洛",
+        "pinned_tweet_id": "1595592157465047041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598707969889570816/eHiTgRp5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 40,
+          "like_count": 731,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "qwqdog",
+        "verified": true
+      }
+    ]
+  }
+}

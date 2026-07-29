@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "1984637528079810710",
+    "created_at": "2025-12-18T10:57:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T11:57:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001607811369963750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1850533852764377088",
+          "start": 0,
+          "username": "AndrowSmith2619"
+        }
+      ],
+      "urls": [
+        {
+          "description": "支付宝，全球领先的独立第三方支付平台，致力于为广大用户提供安全快速的电子支付/网上支付/安全支付/手机支付体验，及转账收款/水电煤缴费/信用卡还款/AA收款等生活服务应用。",
+          "display_url": "ds.alipay.com/?appId=2000006…",
+          "end": 42,
+          "expanded_url": "https://ds.alipay.com/?appId=20000067&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fyuyan%2F180020010000009406%2Findex.html%3FjumpTargetUrl%3Dhttps%3A%2F%2Frrluo.top%2Ftest%2F233.html",
+          "start": 19,
+          "status": 200,
+          "title": "支付宝",
+          "unwound_url": "https://ds.alipay.com/?appId=20000067&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fyuyan%2F180020010000009406%2Findex.html%3FjumpTargetUrl%3Dhttps%3A%2F%2Frrluo.top%2Ftest%2F233.html",
+          "url": "https://t.co/GfkICJJ6qV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001607811369963750",
+    "in_reply_to_user_id": "1850533852764377088",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001582124978307505",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AndrowSmith2619 😅\nhttps://t.co/GfkICJJ6qV"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "1984637528079810710",
+        "created_at": "2025-12-18T10:57:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T11:57:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001607811369963750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1850533852764377088",
+              "start": 0,
+              "username": "AndrowSmith2619"
+            }
+          ],
+          "urls": [
+            {
+              "description": "支付宝，全球领先的独立第三方支付平台，致力于为广大用户提供安全快速的电子支付/网上支付/安全支付/手机支付体验，及转账收款/水电煤缴费/信用卡还款/AA收款等生活服务应用。",
+              "display_url": "ds.alipay.com/?appId=2000006…",
+              "end": 42,
+              "expanded_url": "https://ds.alipay.com/?appId=20000067&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fyuyan%2F180020010000009406%2Findex.html%3FjumpTargetUrl%3Dhttps%3A%2F%2Frrluo.top%2Ftest%2F233.html",
+              "start": 19,
+              "status": 200,
+              "title": "支付宝",
+              "unwound_url": "https://ds.alipay.com/?appId=20000067&url=https%3A%2F%2Frender.alipay.com%2Fp%2Fyuyan%2F180020010000009406%2Findex.html%3FjumpTargetUrl%3Dhttps%3A%2F%2Frrluo.top%2Ftest%2F233.html",
+              "url": "https://t.co/GfkICJJ6qV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001607811369963750",
+        "in_reply_to_user_id": "1850533852764377088",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001582124978307505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AndrowSmith2619 😅\nhttps://t.co/GfkICJJ6qV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1850533852764377088",
+        "conversation_id": "1984637528079810710",
+        "created_at": "2025-12-18T09:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T10:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001582124978307505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001582124978307505",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984637528079810710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 前面那个，只做了ui😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的🇸🇬 / godqwq@倒过来是里账",
+        "id": "1457364958841225222",
+        "location": "香橙港式大学",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 828,
+          "following_count": 436,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 66
+        },
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-27T13:44:14.000Z",
+        "description": "English🇬🇧/日本語🇯🇵/中文🇹🇼  LGBTQ🏳️‍🌈🏳️‍⚧️  BL/GL👿/TypeScript/Node JS/Rust/可爱xnh🥵/  ❌🔞/友好😘/反审查前沿🛡️&反侦察科普🚨/言论自由🏛️/欢迎关注🥺/19yo🚀",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jamerick1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jamerick1",
+                "start": 0,
+                "url": "https://t.co/Dd1TPz8pwA"
+              }
+            ]
+          }
+        },
+        "id": "1850533852764377088",
+        "location": "距离你0.3km",
+        "name": "Kenny_小楓 ❄️",
+        "pinned_tweet_id": "1966190137303585051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924492537580204033/RHs71WIN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 114,
+          "like_count": 1856,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 1124
+        },
+        "url": "https://t.co/Dd1TPz8pwA",
+        "username": "AndrowSmith2619",
+        "verified": false
+      }
+    ]
+  }
+}

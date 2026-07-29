@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2067120841037631698",
+    "created_at": "2026-06-17T14:55:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:55:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067259795972002049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586779015574327296",
+          "start": 0,
+          "username": "ForeverYuuka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/foreveryuuka/s…",
+          "end": 58,
+          "expanded_url": "https://x.com/foreveryuuka/status/2063300435809906784",
+          "start": 35,
+          "url": "https://t.co/Y1w6NCEy1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067259795972002049",
+    "in_reply_to_user_id": "1586779015574327296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063300435809906784",
+        "type": "quoted"
+      },
+      {
+        "id": "2067258226966741220",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForeverYuuka 我没有像你一样点两份小食，而是换成了汉堡\nhttps://t.co/Y1w6NCEy1i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063300432253030400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJQz7FaEAATlmH.jpg",
+        "width": 753
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2063300432613847040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKJQz8bbsAARJht.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2067120841037631698",
+        "created_at": "2026-06-17T14:55:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067259795972002049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586779015574327296",
+              "start": 0,
+              "username": "ForeverYuuka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/foreveryuuka/s…",
+              "end": 58,
+              "expanded_url": "https://x.com/foreveryuuka/status/2063300435809906784",
+              "start": 35,
+              "url": "https://t.co/Y1w6NCEy1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067259795972002049",
+        "in_reply_to_user_id": "1586779015574327296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063300435809906784",
+            "type": "quoted"
+          },
+          {
+            "id": "2067258226966741220",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForeverYuuka 我没有像你一样点两份小食，而是换成了汉堡\nhttps://t.co/Y1w6NCEy1i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063300432253030400",
+            "3_2063300432613847040"
+          ]
+        },
+        "author_id": "1586779015574327296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2063300435809906784",
+        "created_at": "2026-06-06T16:42:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T17:42:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063300435809906784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gyn6IGQlTg",
+              "end": 160,
+              "expanded_url": "https://x.com/ForeverYuuka/status/2063300435809906784/photo/1",
+              "media_key": "3_2063300432253030400",
+              "start": 137,
+              "url": "https://t.co/gyn6IGQlTg"
+            },
+            {
+              "display_url": "pic.x.com/gyn6IGQlTg",
+              "end": 160,
+              "expanded_url": "https://x.com/ForeverYuuka/status/2063300435809906784/photo/1",
+              "media_key": "3_2063300432613847040",
+              "start": 137,
+              "url": "https://t.co/gyn6IGQlTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063300435809906784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 706,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怎么会有这样的错误๐·°(৹˃̵﹏˂̵৹)°·๐我刮唇毛了我爸才说要上厕所，已经很晚了我等不及吃饭了，而且我根本吃不了(っ╥╯﹏╰╥)我的运气完了，而且明明我是受害者，我爸还说不给我钱了，我妈也很冷淡，现在还有世界杯，可是等它过去了我怎么办啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊啊 https://t.co/gyn6IGQlTg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586779015574327296",
+        "conversation_id": "2067120841037631698",
+        "created_at": "2026-06-17T14:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067258226966741220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067258226966741220",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067120841037631698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 啊，为什么吃两个汉堡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 1066,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 950
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "新形态次世代能源茶酱・🚩🏴🏳️‍⚧️・World Cup26⚽🇳🇱🇫🇷☫🇪🇸🇿🇦🇲🇦🇨🇮🇨🇻🇨🇩🇬🇭・169㎝ 49.8㎏・喜欢JK制服/lolita/地雷系・优香，喜欢",
+        "id": "1586779015574327296",
+        "name": "Yuuka Elite💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063920555859042304/vHVT7FGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 445,
+          "like_count": 24823,
+          "listed_count": 3,
+          "media_count": 534,
+          "tweet_count": 19130
+        },
+        "url": "",
+        "username": "ForeverYuuka",
+        "verified": false
+      }
+    ]
+  }
+}

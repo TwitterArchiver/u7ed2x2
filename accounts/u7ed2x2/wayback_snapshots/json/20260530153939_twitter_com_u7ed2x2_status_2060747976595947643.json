@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2060732763876303295",
+    "created_at": "2026-05-30T15:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060747976595947643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2046295889103441921",
+          "start": 0,
+          "username": "Xie_miaoyu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060747976595947643",
+    "in_reply_to_user_id": "2046295889103441921",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060736732816085365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xie_miaoyu xwx..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2060732763876303295",
+        "created_at": "2026-05-30T15:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060747976595947643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2046295889103441921",
+              "start": 0,
+              "username": "Xie_miaoyu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060747976595947643",
+        "in_reply_to_user_id": "2046295889103441921",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060736732816085365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xie_miaoyu xwx..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046295889103441921",
+        "conversation_id": "2060732763876303295",
+        "created_at": "2026-05-30T14:54:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T15:54:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060736732816085365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060736732816085365",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060734193118966259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 你社恐了么("
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1049,
+          "like_count": 703,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 563
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-20T18:32:40.000Z",
+        "description": "「盯……」\n\n▷1月1日生｜看成分回fo｜不主动私信关注(社恐)\n▷Live2D｜日语練習｜VRC｜VTB｜战雷｜日常｜絵｜心理｜树洞\n▷心理稳定｜不自杀自残｜PTSD｜强迫症｜社恐｜多重人格\n▷前急性自杀干预行动者｜旧绩2/26｜大学生心理健康协会(持证)干事｜首都大学生心理健康联盟成员",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@drvb_nyame?si…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@drvb_nyame?si=rkW4s0_GpvsKSGPp",
+                "start": 0,
+                "url": "https://t.co/ZTuDjcTr2J"
+              }
+            ]
+          }
+        },
+        "id": "2046295889103441921",
+        "location": "北京/厦门/坟堆里",
+        "name": "Nyame | コミュ障猫",
+        "pinned_tweet_id": "2055015648452018221",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059306873267122176/cg7JXVZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 39,
+          "like_count": 1745,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 437
+        },
+        "url": "https://t.co/ZTuDjcTr2J",
+        "username": "Xie_miaoyu",
+        "verified": false
+      }
+    ]
+  }
+}

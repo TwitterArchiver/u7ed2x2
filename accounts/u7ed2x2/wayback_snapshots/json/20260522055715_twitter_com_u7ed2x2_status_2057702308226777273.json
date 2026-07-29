@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2057702175003009024"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2057702308226777273",
+    "created_at": "2026-05-22T05:57:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:57:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057702308226777273"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5RwZNU2GJO",
+          "end": 63,
+          "expanded_url": "https://x.com/u7ed2x2/status/2057702308226777273/video/1",
+          "media_key": "13_2057702175003009024",
+          "start": 40,
+          "url": "https://t.co/5RwZNU2GJO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057702308226777273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前剪的低脂视频...\n面捕已经到了，我会试着在VRC里拍更有趣的内容（一眼真 https://t.co/5RwZNU2GJO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60383,
+        "height": 1920,
+        "media_key": "13_2057702175003009024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2057702175003009024/img/rv8JOyrTIgRpTOey.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057702175003009024/vid/avc1/1080x1920/Dsh6-TFVS7QJIlC9.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057702175003009024/vid/avc1/320x568/9np-zbejUOeAS7Zw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057702175003009024/vid/avc1/480x852/AyrDO4bbYQ3twxtP.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2057702175003009024/vid/avc1/720x1280/wpacoGAUffAj-CaD.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2057702175003009024/pl/CWB5FzNNSTb82EUc.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2057702175003009024"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2057702308226777273",
+        "created_at": "2026-05-22T05:57:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057702308226777273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5RwZNU2GJO",
+              "end": 63,
+              "expanded_url": "https://x.com/u7ed2x2/status/2057702308226777273/video/1",
+              "media_key": "13_2057702175003009024",
+              "start": 40,
+              "url": "https://t.co/5RwZNU2GJO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057702308226777273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前剪的低脂视频...\n面捕已经到了，我会试着在VRC里拍更有趣的内容（一眼真 https://t.co/5RwZNU2GJO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1462,
+          "following_count": 1022,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 379
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

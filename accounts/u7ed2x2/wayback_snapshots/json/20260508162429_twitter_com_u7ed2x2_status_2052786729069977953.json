@@ -1,0 +1,144 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052786716835237889"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2052786729069977953",
+    "created_at": "2026-05-08T16:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T17:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052786729069977953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aSUy6IN0ya",
+          "end": 74,
+          "expanded_url": "https://x.com/u7ed2x2/status/2052786729069977953/photo/1",
+          "media_key": "3_2052786716835237889",
+          "start": 51,
+          "url": "https://t.co/aSUy6IN0ya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052786729069977953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "oc挂件因为连接处太松动很早之前就掉在路上了\n不过我翻到了当时拍的图片，打算明天去拼豆店再拼一个—— https://t.co/aSUy6IN0ya"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2052786716835237889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHz2pJCa0AEIUME.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052786716835237889"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2052786729069977953",
+        "created_at": "2026-05-08T16:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T17:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052786729069977953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aSUy6IN0ya",
+              "end": 74,
+              "expanded_url": "https://x.com/u7ed2x2/status/2052786729069977953/photo/1",
+              "media_key": "3_2052786716835237889",
+              "start": 51,
+              "url": "https://t.co/aSUy6IN0ya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052786729069977953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oc挂件因为连接处太松动很早之前就掉在路上了\n不过我翻到了当时拍的图片，打算明天去拼豆店再拼一个—— https://t.co/aSUy6IN0ya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1293,
+          "following_count": 825,
+          "like_count": 189,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 174
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

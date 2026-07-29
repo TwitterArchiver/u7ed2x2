@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2074837565677715551",
+    "created_at": "2026-07-08T15:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T16:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074873742183010549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1711413320417267712",
+          "start": 0,
+          "username": "Chroe_Chiyoda"
+        },
+        {
+          "end": 31,
+          "id": "1501120008558190592",
+          "start": 15,
+          "username": "nemuranainojiji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074873742183010549",
+    "in_reply_to_user_id": "1711413320417267712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074873281732137089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Chroe_Chiyoda @nemuranainojiji 狗还记得你几年前对镜那张🤗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2074837565677715551",
+        "created_at": "2026-07-08T15:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074873742183010549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1711413320417267712",
+              "start": 0,
+              "username": "Chroe_Chiyoda"
+            },
+            {
+              "end": 31,
+              "id": "1501120008558190592",
+              "start": 15,
+              "username": "nemuranainojiji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074873742183010549",
+        "in_reply_to_user_id": "1711413320417267712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074873281732137089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Chroe_Chiyoda @nemuranainojiji 狗还记得你几年前对镜那张🤗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1711413320417267712",
+        "conversation_id": "2074837565677715551",
+        "created_at": "2026-07-08T15:08:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T16:08:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074873281732137089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            },
+            {
+              "end": 25,
+              "id": "1501120008558190592",
+              "start": 9,
+              "username": "nemuranainojiji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074873281732137089",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074872147923886392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 @nemuranainojiji 😣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1678,
+          "following_count": 1062,
+          "like_count": 2665,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 1417
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-09T16:08:34.000Z",
+        "description": "sal terrae, lvx mvndi.／Hi there, pick a language to chat with: EN CN JP DE Ivrit／不逞支那人・Merzの宝",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "exodus.nyamoe.com",
+                "end": 23,
+                "expanded_url": "https://exodus.nyamoe.com/",
+                "start": 0,
+                "url": "https://t.co/e0udUDI0MN"
+              }
+            ]
+          }
+        },
+        "id": "1711413320417267712",
+        "location": "Ecke Danziger-Breslauerstr.s",
+        "name": "Kuroe Howado",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999167476660105216/8FEufCH9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1115,
+          "following_count": 848,
+          "like_count": 268084,
+          "listed_count": 6,
+          "media_count": 5084,
+          "tweet_count": 47961
+        },
+        "url": "https://t.co/e0udUDI0MN",
+        "username": "Chroe_Chiyoda",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-08T08:58:15.000Z",
+        "description": "Kalafina复活促进委员会执行委员（自慢）｜无可奉告｜蛙以口鸣，方致蛇祸",
+        "id": "1501120008558190592",
+        "location": "抽象的新罗马",
+        "name": "🇲🇹某幻想乡的青蛙长者🇲🇹",
+        "pinned_tweet_id": "1885970026391314453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1700167232829943808/kuLQDJc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 674,
+          "following_count": 336,
+          "like_count": 21411,
+          "listed_count": 5,
+          "media_count": 1742,
+          "tweet_count": 15041
+        },
+        "url": "",
+        "username": "nemuranainojiji",
+        "verified": false
+      }
+    ]
+  }
+}

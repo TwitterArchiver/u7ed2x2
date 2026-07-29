@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2079411271108313303",
+    "created_at": "2026-07-21T04:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T05:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079430597211210017"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999099178342051840",
+          "start": 0,
+          "username": "kokokawayi_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079430597211210017",
+    "in_reply_to_user_id": "1999099178342051840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079429380972150930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@kokokawayi_awa xm手办墙🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2079411271108313303",
+        "created_at": "2026-07-21T04:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079430597211210017"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999099178342051840",
+              "start": 0,
+              "username": "kokokawayi_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079430597211210017",
+        "in_reply_to_user_id": "1999099178342051840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079429380972150930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@kokokawayi_awa xm手办墙🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1999099178342051840",
+        "conversation_id": "2079411271108313303",
+        "created_at": "2026-07-21T04:52:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:52:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079429380972150930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079429380972150930",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079411271108313303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 羡慕百夫长白金🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 1065,
+          "like_count": 3392,
+          "listed_count": 3,
+          "media_count": 394,
+          "tweet_count": 1641
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-11T12:49:45.000Z",
+        "description": "是杂鱼，喜欢买手办和涩涩，纯M小狗（偶尔S）\n🚪50（最好是星期四😋）\nUndergrad at UTSG, Registered as Liberal\n魅魔姐姐（是主人！）@daisuki07483937 | 兔兔妈咪@miya051223 | 闺蜜@sutanghentian | 杂鱼🌰 @Lingmeiya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 87,
+                "username": "daisuki07483937"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "miya051223"
+              },
+              {
+                "end": 140,
+                "start": 126,
+                "username": "sutanghentian"
+              },
+              {
+                "end": 157,
+                "start": 147,
+                "username": "Lingmeiya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kokodayo.us",
+                "end": 23,
+                "expanded_url": "http://kokodayo.us",
+                "start": 0,
+                "url": "https://t.co/DGRP1lRnXD"
+              }
+            ]
+          }
+        },
+        "id": "1999099178342051840",
+        "location": "🛫 Tokyo",
+        "name": "Kokodayo（复活赛进行中~）",
+        "pinned_tweet_id": "2007097060974268924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999104053524176897/uAijM8oN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1498,
+          "following_count": 375,
+          "like_count": 4548,
+          "listed_count": 2,
+          "media_count": 478,
+          "tweet_count": 3801
+        },
+        "url": "https://t.co/DGRP1lRnXD",
+        "username": "kokokawayi_awa",
+        "verified": true
+      }
+    ]
+  }
+}

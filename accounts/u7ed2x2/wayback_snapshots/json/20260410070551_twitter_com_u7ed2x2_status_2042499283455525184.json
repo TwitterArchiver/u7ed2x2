@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2042209042488312190",
+    "created_at": "2026-04-10T07:05:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:05:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042499283455525184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1808307920138129408",
+          "start": 0,
+          "username": "naninanieN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042499283455525184",
+    "in_reply_to_user_id": "1808307920138129408",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042499010435694965",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@naninanieN 🌿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2042209042488312190",
+        "created_at": "2026-04-10T07:05:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:05:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042499283455525184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1808307920138129408",
+              "start": 0,
+              "username": "naninanieN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042499283455525184",
+        "in_reply_to_user_id": "1808307920138129408",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042499010435694965",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@naninanieN 🌿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808307920138129408",
+        "conversation_id": "2042209042488312190",
+        "created_at": "2026-04-10T07:04:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042499010435694965"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042499010435694965",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042209042488312190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 main()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 里账号 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 824,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-03T01:13:13.000Z",
+        "description": "友達になってくださいませ~\n喜欢写点霓虹音乐🎶｜自由开发者🖥（？｜平面设计接触中🎨｜重度ASMR爱好者🎧（并非｜（（互fo）",
+        "id": "1808307920138129408",
+        "name": "なになに",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968958232845856768/Ymz6hRog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 167,
+          "like_count": 21351,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1195
+        },
+        "username": "naninanieN",
+        "verified": false
+      }
+    ]
+  }
+}

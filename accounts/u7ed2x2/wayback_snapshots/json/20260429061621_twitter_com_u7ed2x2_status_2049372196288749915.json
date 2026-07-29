@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2049305397820104936",
+    "created_at": "2026-04-29T06:16:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T07:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049372196288749915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1997358543272558592",
+          "start": 0,
+          "username": "alonesky_kr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049372196288749915",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049371852049695144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alonesky_kr 한입만"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2049305397820104936",
+        "created_at": "2026-04-29T06:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049372196288749915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997358543272558592",
+              "start": 0,
+              "username": "alonesky_kr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049372196288749915",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049371852049695144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alonesky_kr 한입만"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2049305397820104936",
+        "created_at": "2026-04-29T06:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T07:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049371852049695144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1997358543272558592",
+              "start": 0,
+              "username": "alonesky_kr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049371852049695144",
+        "in_reply_to_user_id": "1997358543272558592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049305397820104936",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alonesky_kr 给我来点"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 737,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-06T17:32:48.000Z",
+        "description": "안녕하세요! 여기 @A1oneSKy 한국어 계정입니다.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "A1oneSKy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.moe",
+                "end": 23,
+                "expanded_url": "http://alonesky.moe",
+                "start": 0,
+                "url": "https://t.co/6wnWZRmtMC"
+              }
+            ]
+          }
+        },
+        "id": "1997358543272558592",
+        "name": "어론 스카이",
+        "pinned_tweet_id": "1997367174705672282",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997359032273862656/3t1R2345_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 47,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 521,
+          "tweet_count": 988
+        },
+        "url": "https://t.co/6wnWZRmtMC",
+        "username": "alonesky_kr",
+        "verified": false
+      }
+    ]
+  }
+}

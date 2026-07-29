@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062491584529321984"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2062416119026360397",
+    "created_at": "2026-06-04T11:08:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:08:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062491588765667765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "763414369564700672",
+          "start": 0,
+          "username": "ps_urine"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XxfkGEbGjT",
+          "end": 44,
+          "expanded_url": "https://x.com/u7ed2x2/status/2062491588765667765/photo/1",
+          "media_key": "3_2062491584529321984",
+          "start": 21,
+          "url": "https://t.co/XxfkGEbGjT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062491588765667765",
+    "in_reply_to_user_id": "763414369564700672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062490204091580772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ps_urine 是用来向朋友展示的x https://t.co/XxfkGEbGjT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 388,
+        "media_key": "3_2062491584529321984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ9xKygaUAASqwV.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062491584529321984"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2062416119026360397",
+        "created_at": "2026-06-04T11:08:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:08:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062491588765667765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "763414369564700672",
+              "start": 0,
+              "username": "ps_urine"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxfkGEbGjT",
+              "end": 44,
+              "expanded_url": "https://x.com/u7ed2x2/status/2062491588765667765/photo/1",
+              "media_key": "3_2062491584529321984",
+              "start": 21,
+              "url": "https://t.co/XxfkGEbGjT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062491588765667765",
+        "in_reply_to_user_id": "763414369564700672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062490204091580772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ps_urine 是用来向朋友展示的x https://t.co/XxfkGEbGjT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "763414369564700672",
+        "conversation_id": "2062416119026360397",
+        "created_at": "2026-06-04T11:02:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062490204091580772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062490204091580772",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062416119026360397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 来来来，你给我解释一下这个Momo，Lsposed和Magisk是什么东西"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1542,
+          "following_count": 1063,
+          "like_count": 842,
+          "listed_count": 1,
+          "media_count": 179,
+          "tweet_count": 668
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-10T16:39:04.000Z",
+        "description": "ISFP-T|二次元|LLer|学生|Ingress Enlightened Agent L14(・ω・)ノ不会主动搭话，喜欢我请fo然后。。。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "peashooter.cc",
+                "end": 23,
+                "expanded_url": "http://peashooter.cc",
+                "start": 0,
+                "url": "https://t.co/KZ26wzyebC"
+              }
+            ]
+          }
+        },
+        "id": "763414369564700672",
+        "name": "PeaShooter",
+        "pinned_tweet_id": "1736397980125814882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1751206491112263680/g3srjHwW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 2402,
+          "like_count": 1836,
+          "listed_count": 6,
+          "media_count": 3144,
+          "tweet_count": 16378
+        },
+        "url": "https://t.co/KZ26wzyebC",
+        "username": "ps_urine",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075466913858359296"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2075454732819460286",
+    "created_at": "2026-07-10T06:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T07:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075466919378104798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1955980103688790017",
+          "start": 0,
+          "username": "aaarjkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zRbPMkYZdg",
+          "end": 55,
+          "expanded_url": "https://x.com/u7ed2x2/status/2075466919378104798/photo/1",
+          "media_key": "3_2075466913858359296",
+          "start": 32,
+          "url": "https://t.co/zRbPMkYZdg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075466919378104798",
+    "in_reply_to_user_id": "1955980103688790017",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075454732819460286",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaarjkk 陪一张\n损耗有点大，刷完首月10%后不建议用 https://t.co/zRbPMkYZdg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075466913858359296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2KKW-akAAJyyJ.jpg",
+        "width": 922
+      },
+      {
+        "height": 1116,
+        "media_key": "3_2075454730164453376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM1_FLLbQAAO4XW.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075466913858359296"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075454732819460286",
+        "created_at": "2026-07-10T06:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T07:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075466919378104798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1955980103688790017",
+              "start": 0,
+              "username": "aaarjkk"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRbPMkYZdg",
+              "end": 55,
+              "expanded_url": "https://x.com/u7ed2x2/status/2075466919378104798/photo/1",
+              "media_key": "3_2075466913858359296",
+              "start": 32,
+              "url": "https://t.co/zRbPMkYZdg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075466919378104798",
+        "in_reply_to_user_id": "1955980103688790017",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075454732819460286",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaarjkk 陪一张\n损耗有点大，刷完首月10%后不建议用 https://t.co/zRbPMkYZdg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075454730164453376"
+          ]
+        },
+        "author_id": "1955980103688790017",
+        "conversation_id": "2075454732819460286",
+        "created_at": "2026-07-10T05:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T06:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075454732819460286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oqJtEGLWXD",
+              "end": 43,
+              "expanded_url": "https://x.com/aaarjkk/status/2075454732819460286/photo/1",
+              "media_key": "3_2075454730164453376",
+              "start": 20,
+              "url": "https://t.co/oqJtEGLWXD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075454732819460286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的第一张卡片😋😋😋😋\n好吃好吃😋😋😋 https://t.co/oqJtEGLWXD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 1063,
+          "like_count": 2789,
+          "listed_count": 3,
+          "media_count": 360,
+          "tweet_count": 1456
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-14T13:09:47.000Z",
+        "description": "▯活在幻想中▯🩵🩷🤍🩷🩵▯😉希望咱们每天都能开开心心的▯成绩倒数▯26年中考▯小号@a0brjkk▯⛏🅪▯查成分互Follow(?)▯172cm▯53.25kg▯🎂10/14/2010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "a0brjkk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/dadademaowo?We…",
+                "end": 23,
+                "expanded_url": "https://t.me/dadademaowo?WelcomeToJoin",
+                "start": 0,
+                "url": "https://t.co/d5CQRhrpTn"
+              }
+            ]
+          }
+        },
+        "id": "1955980103688790017",
+        "name": "貓貓貓貓喵喵喵",
+        "pinned_tweet_id": "2071824552108417108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064931800351473664/7Xm1E2Mi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 1103,
+          "like_count": 22333,
+          "listed_count": 4,
+          "media_count": 492,
+          "tweet_count": 3075
+        },
+        "url": "https://t.co/d5CQRhrpTn",
+        "username": "aaarjkk",
+        "verified": true
+      }
+    ]
+  }
+}

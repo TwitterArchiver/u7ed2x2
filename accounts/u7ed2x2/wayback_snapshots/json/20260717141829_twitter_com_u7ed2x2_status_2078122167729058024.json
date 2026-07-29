@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078122158879039488"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2078119243447689646",
+    "created_at": "2026-07-17T14:18:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:18:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078122167729058024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2044543772415942656",
+          "start": 0,
+          "username": "roitium"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NoSFu6CJgG",
+          "end": 41,
+          "expanded_url": "https://x.com/u7ed2x2/status/2078122167729058024/photo/1",
+          "media_key": "3_2078122158879039488",
+          "start": 18,
+          "url": "https://t.co/NoSFu6CJgG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078122167729058024",
+    "in_reply_to_user_id": "2044543772415942656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078119243447689646",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@roitium 这么喜欢吃星星？ https://t.co/NoSFu6CJgG"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2078119243447689646].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2078119243447689646",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2078119243447689646"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1144,
+        "media_key": "3_2078122158879039488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNb5F9faYAAJlO4.jpg",
+        "width": 1516
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078122158879039488"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2078119243447689646",
+        "created_at": "2026-07-17T14:18:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:18:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078122167729058024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2044543772415942656",
+              "start": 0,
+              "username": "roitium"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NoSFu6CJgG",
+              "end": 41,
+              "expanded_url": "https://x.com/u7ed2x2/status/2078122167729058024/photo/1",
+              "media_key": "3_2078122158879039488",
+              "start": 18,
+              "url": "https://t.co/NoSFu6CJgG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078122167729058024",
+        "in_reply_to_user_id": "2044543772415942656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078119243447689646",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@roitium 这么喜欢吃星星？ https://t.co/NoSFu6CJgG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1068,
+          "like_count": 3231,
+          "listed_count": 3,
+          "media_count": 383,
+          "tweet_count": 1594
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-15T22:30:05.000Z",
+        "description": "哈气中，勿扰，，，\n\n请随意申请关注，但我可能不会通过： ）\n互关基本都会通过的说（）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "roitium.com",
+                "end": 23,
+                "expanded_url": "http://roitium.com",
+                "start": 0,
+                "url": "https://t.co/C3MRHRZCbI"
+              }
+            ]
+          }
+        },
+        "id": "2044543772415942656",
+        "location": "你心里",
+        "name": "roitium",
+        "pinned_tweet_id": "2045801266174111830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073243726584172544/ww8yu5vL_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 58,
+          "like_count": 663,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 690
+        },
+        "url": "https://t.co/C3MRHRZCbI",
+        "username": "roitium",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1987208552155582464"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "1986872201937867206",
+    "created_at": "2025-11-08T17:20:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T18:20:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987208558153441526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1983516341400420352",
+          "start": 0,
+          "username": "rrRelo_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4LIZMEkGHE",
+          "end": 70,
+          "expanded_url": "https://x.com/u7ed2x2/status/1987208558153441526/photo/1",
+          "media_key": "3_1987208552155582464",
+          "start": 47,
+          "url": "https://t.co/4LIZMEkGHE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987208558153441526",
+    "in_reply_to_user_id": "1983516341400420352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986872201937867206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rrRelo_ 在大陆扛投诉的还得是duitnow merchant，而且蓝绿红都能收（） https://t.co/4LIZMEkGHE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1010,
+        "media_key": "3_1987208552155582464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5P7pkXaEAAKqPN.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987208552155582464"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "1986872201937867206",
+        "created_at": "2025-11-08T17:20:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T18:20:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987208558153441526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1983516341400420352",
+              "start": 0,
+              "username": "rrRelo_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4LIZMEkGHE",
+              "end": 70,
+              "expanded_url": "https://x.com/u7ed2x2/status/1987208558153441526/photo/1",
+              "media_key": "3_1987208552155582464",
+              "start": 47,
+              "url": "https://t.co/4LIZMEkGHE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987208558153441526",
+        "in_reply_to_user_id": "1983516341400420352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986872201937867206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rrRelo_ 在大陆扛投诉的还得是duitnow merchant，而且蓝绿红都能收（） https://t.co/4LIZMEkGHE"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983516341400420352",
+        "conversation_id": "1986872201937867206",
+        "created_at": "2025-11-07T19:03:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T20:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1986872201937867206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SpicyspacEmk16…",
+              "end": 171,
+              "expanded_url": "https://twitter.com/SpicyspacEmk16/status/1986246980113473550",
+              "start": 148,
+              "url": "https://t.co/fG3FYLuhw2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986872201937867206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 10435,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986246980113473550",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我一般的做法是退钱+拉黑\n我卖了也得有上千盒了遇到过十次左右这种\n无论是聚合还是租码 支付宝/微信会被限制收付款是真的\n所以支付宝被冻结了 我还得用另一个号退回去 然后还得再去租一个别人的收款码\n这个损失你又不出\n虽然吞钱确实是纯报复性行为 这个损失不至于直接吞700块钱 但买家真没啥好委屈的 https://t.co/fG3FYLuhw2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的🇸🇬 / godqwq@倒过来是里账",
+        "id": "1457364958841225222",
+        "location": "香橙港式大学",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 434,
+          "like_count": 27,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 58
+        },
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T12:49:03.000Z",
+        "description": "@HobartR6 @_FurryFur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "HobartR6"
+              },
+              {
+                "end": 21,
+                "start": 10,
+                "username": "_FurryFur_"
+              }
+            ]
+          }
+        },
+        "id": "1983516341400420352",
+        "location": "🗾",
+        "name": "猫寿司",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986873087972024321/JvZVKLHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 37,
+          "like_count": 15,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 46
+        },
+        "username": "rrRelo_",
+        "verified": false
+      }
+    ]
+  }
+}

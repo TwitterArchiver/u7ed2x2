@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071121646086438912"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2071118020941070792",
+    "created_at": "2026-06-28T06:40:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T07:40:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071121653787148642"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/klb74nCZbG",
+          "end": 23,
+          "expanded_url": "https://x.com/u7ed2x2/status/2071121653787148642/photo/1",
+          "media_key": "3_2071121646086438912",
+          "start": 0,
+          "url": "https://t.co/klb74nCZbG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071121653787148642",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071118020941070792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/klb74nCZbG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071121646086438912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4aKfGawAAGUPq.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071121646086438912"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2071118020941070792",
+        "created_at": "2026-06-28T06:40:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:40:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071121653787148642"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/klb74nCZbG",
+              "end": 23,
+              "expanded_url": "https://x.com/u7ed2x2/status/2071121653787148642/photo/1",
+              "media_key": "3_2071121646086438912",
+              "start": 0,
+              "url": "https://t.co/klb74nCZbG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071121653787148642",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071118020941070792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/klb74nCZbG"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2071118020941070792",
+        "created_at": "2026-06-28T06:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T07:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071118020941070792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2070886849481183381",
+              "start": 14,
+              "url": "https://t.co/5Urmh99itn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071118020941070792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070886849481183381",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美味汪\n冻榴莲也香香糯糯的 https://t.co/5Urmh99itn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1618,
+          "following_count": 1056,
+          "like_count": 1645,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 1081
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

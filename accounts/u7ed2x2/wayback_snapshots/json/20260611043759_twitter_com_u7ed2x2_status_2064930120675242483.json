@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064930114975248384"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "description": "Apple App Store",
+          "id": "10053298770",
+          "name": "Apple App Store"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10046487168",
+          "name": "App Store"
+        }
+      }
+    ],
+    "conversation_id": "2064930120675242483",
+    "created_at": "2026-06-11T04:37:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T05:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064930120675242483"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GbJZrhsb80",
+          "end": 107,
+          "expanded_url": "https://x.com/u7ed2x2/status/2064930120675242483/photo/1",
+          "media_key": "3_2064930114975248384",
+          "start": 84,
+          "url": "https://t.co/GbJZrhsb80"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064930120675242483",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "几大运营商里，我只会接移动的推广电话，接了几次后，现在变成了每月15r获得...\n\n·1主号+1和多号\n·6GB流量/30分钟通话\n·12r App Store充值卡 https://t.co/GbJZrhsb80"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1302,
+        "media_key": "3_2064930114975248384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKga_8UbMAA5Xq9.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064930114975248384"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          }
+        ],
+        "conversation_id": "2064930120675242483",
+        "created_at": "2026-06-11T04:37:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T05:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064930120675242483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GbJZrhsb80",
+              "end": 107,
+              "expanded_url": "https://x.com/u7ed2x2/status/2064930120675242483/photo/1",
+              "media_key": "3_2064930114975248384",
+              "start": 84,
+              "url": "https://t.co/GbJZrhsb80"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064930120675242483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "几大运营商里，我只会接移动的推广电话，接了几次后，现在变成了每月15r获得...\n\n·1主号+1和多号\n·6GB流量/30分钟通话\n·12r App Store充值卡 https://t.co/GbJZrhsb80"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1575,
+          "following_count": 1060,
+          "like_count": 1021,
+          "listed_count": 1,
+          "media_count": 211,
+          "tweet_count": 797
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

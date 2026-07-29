@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053434391221964800",
+        "3_2053434391385477120",
+        "3_2053434391226146816",
+        "3_2053434391293267968"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2053434399488971180",
+    "created_at": "2026-05-10T11:18:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T12:18:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053434399488971180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XsiMXSzTWb",
+          "end": 23,
+          "expanded_url": "https://x.com/u7ed2x2/status/2053434399488971180/photo/1",
+          "media_key": "3_2053434391221964800",
+          "start": 0,
+          "url": "https://t.co/XsiMXSzTWb"
+        },
+        {
+          "display_url": "pic.x.com/XsiMXSzTWb",
+          "end": 23,
+          "expanded_url": "https://x.com/u7ed2x2/status/2053434399488971180/photo/1",
+          "media_key": "3_2053434391385477120",
+          "start": 0,
+          "url": "https://t.co/XsiMXSzTWb"
+        },
+        {
+          "display_url": "pic.x.com/XsiMXSzTWb",
+          "end": 23,
+          "expanded_url": "https://x.com/u7ed2x2/status/2053434399488971180/photo/1",
+          "media_key": "3_2053434391226146816",
+          "start": 0,
+          "url": "https://t.co/XsiMXSzTWb"
+        },
+        {
+          "display_url": "pic.x.com/XsiMXSzTWb",
+          "end": 23,
+          "expanded_url": "https://x.com/u7ed2x2/status/2053434399488971180/photo/1",
+          "media_key": "3_2053434391293267968",
+          "start": 0,
+          "url": "https://t.co/XsiMXSzTWb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053434399488971180",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/XsiMXSzTWb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2053434391221964800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9DswJbEAARNeE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2053434391385477120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9DswwaEAAcq_F.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2053434391226146816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9DswKa4AAwZKb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2053434391293267968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH9DswabEAAAVRG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053434391221964800",
+            "3_2053434391385477120",
+            "3_2053434391226146816",
+            "3_2053434391293267968"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053434399488971180",
+        "created_at": "2026-05-10T11:18:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T12:18:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053434399488971180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XsiMXSzTWb",
+              "end": 23,
+              "expanded_url": "https://x.com/u7ed2x2/status/2053434399488971180/photo/1",
+              "media_key": "3_2053434391221964800",
+              "start": 0,
+              "url": "https://t.co/XsiMXSzTWb"
+            },
+            {
+              "display_url": "pic.x.com/XsiMXSzTWb",
+              "end": 23,
+              "expanded_url": "https://x.com/u7ed2x2/status/2053434399488971180/photo/1",
+              "media_key": "3_2053434391385477120",
+              "start": 0,
+              "url": "https://t.co/XsiMXSzTWb"
+            },
+            {
+              "display_url": "pic.x.com/XsiMXSzTWb",
+              "end": 23,
+              "expanded_url": "https://x.com/u7ed2x2/status/2053434399488971180/photo/1",
+              "media_key": "3_2053434391226146816",
+              "start": 0,
+              "url": "https://t.co/XsiMXSzTWb"
+            },
+            {
+              "display_url": "pic.x.com/XsiMXSzTWb",
+              "end": 23,
+              "expanded_url": "https://x.com/u7ed2x2/status/2053434399488971180/photo/1",
+              "media_key": "3_2053434391293267968",
+              "start": 0,
+              "url": "https://t.co/XsiMXSzTWb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053434399488971180",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XsiMXSzTWb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1302,
+          "following_count": 838,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 190
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

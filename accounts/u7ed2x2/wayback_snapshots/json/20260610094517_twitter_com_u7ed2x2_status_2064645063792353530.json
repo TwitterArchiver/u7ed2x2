@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064645057559568384"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2064645063792353530",
+    "created_at": "2026-06-10T09:45:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T10:45:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064645063792353530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Vs0rHu4S3",
+          "end": 42,
+          "expanded_url": "https://x.com/u7ed2x2/status/2064645063792353530/photo/1",
+          "media_key": "3_2064645057559568384",
+          "start": 19,
+          "url": "https://t.co/7Vs0rHu4S3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064645063792353530",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "麦记最贵但也超好吃的\n榴莲白雪黑糯米 https://t.co/7Vs0rHu4S3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064645057559568384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcXvasaoAAeJn7.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064645057559568384"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2064645063792353530",
+        "created_at": "2026-06-10T09:45:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T10:45:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064645063792353530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Vs0rHu4S3",
+              "end": 42,
+              "expanded_url": "https://x.com/u7ed2x2/status/2064645063792353530/photo/1",
+              "media_key": "3_2064645057559568384",
+              "start": 19,
+              "url": "https://t.co/7Vs0rHu4S3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064645063792353530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "麦记最贵但也超好吃的\n榴莲白雪黑糯米 https://t.co/7Vs0rHu4S3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 1058,
+          "like_count": 1016,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 794
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

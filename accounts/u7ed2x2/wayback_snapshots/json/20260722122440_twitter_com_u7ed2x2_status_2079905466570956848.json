@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2079880280773701833",
+    "created_at": "2026-07-22T12:24:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T13:24:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079905466570956848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1983729480893190145",
+          "start": 0,
+          "username": "paradoxrin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079905466570956848",
+    "in_reply_to_user_id": "1983729480893190145",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079880280773701833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paradoxrin 祝风铃好运哦——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2079880280773701833",
+        "created_at": "2026-07-22T12:24:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T13:24:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079905466570956848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1983729480893190145",
+              "start": 0,
+              "username": "paradoxrin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079905466570956848",
+        "in_reply_to_user_id": "1983729480893190145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079880280773701833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paradoxrin 祝风铃好运哦——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983729480893190145",
+        "conversation_id": "2079880280773701833",
+        "created_at": "2026-07-22T10:44:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:44:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079880280773701833"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079880280773701833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天要烫发去…\n祈祷能开出好发型🙏🙏🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1065,
+          "like_count": 3426,
+          "listed_count": 3,
+          "media_count": 396,
+          "tweet_count": 1651
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-30T02:55:57.000Z",
+        "description": "是风铃啊！@Gray_L_Cluster \nChaotic | Respect every unyielding and freedom-seeking soul!\nParoxetine hydrochloride",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 5,
+                "username": "Gray_L_Cluster"
+              }
+            ]
+          }
+        },
+        "id": "1983729480893190145",
+        "name": "ZephyrRin_一群风铃🎐",
+        "pinned_tweet_id": "2041588419282006134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057998049549660160/S8uwZRKU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 251,
+          "like_count": 2206,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "paradoxrin",
+        "verified": false
+      }
+    ]
+  }
+}

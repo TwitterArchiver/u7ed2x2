@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041745358020337664"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2041745368401244312",
+    "created_at": "2026-04-08T05:10:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T06:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041745368401244312"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/INLxyIAhuu",
+          "end": 120,
+          "expanded_url": "https://x.com/u7ed2x2/status/2041745368401244312/photo/1",
+          "media_key": "3_2041745358020337664",
+          "start": 97,
+          "url": "https://t.co/INLxyIAhuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041745368401244312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "「挽肉与米」，汉堡肉盖在饭上的组合...\n之前也尝过借鉴这家的「肉肉大米」，肉肉的优点是有其它口味的汉堡肉，味增汤/西兰花可以续加，挽肉只有味增汤且需要写好评续加（）\n但只有挽肉是炭烤哦... https://t.co/INLxyIAhuu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041745358020337664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFW8leKa4AACPOh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041745358020337664"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2041745368401244312",
+        "created_at": "2026-04-08T05:10:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T06:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041745368401244312"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/INLxyIAhuu",
+              "end": 120,
+              "expanded_url": "https://x.com/u7ed2x2/status/2041745368401244312/photo/1",
+              "media_key": "3_2041745358020337664",
+              "start": 97,
+              "url": "https://t.co/INLxyIAhuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041745368401244312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「挽肉与米」，汉堡肉盖在饭上的组合...\n之前也尝过借鉴这家的「肉肉大米」，肉肉的优点是有其它口味的汉堡肉，味增汤/西兰花可以续加，挽肉只有味增汤且需要写好评续加（）\n但只有挽肉是炭烤哦... https://t.co/INLxyIAhuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 里账号 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 605,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": false
+      }
+    ]
+  }
+}

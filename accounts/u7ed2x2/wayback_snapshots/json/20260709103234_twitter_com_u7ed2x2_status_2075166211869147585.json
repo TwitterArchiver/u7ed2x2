@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2075162731905519676",
+    "created_at": "2026-07-09T10:32:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:32:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075166211869147585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565691463685795840",
+          "start": 0,
+          "username": "barutan8964"
+        },
+        {
+          "end": 19,
+          "id": "1680039839209775107",
+          "start": 13,
+          "username": "A1tk0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075166211869147585",
+    "in_reply_to_user_id": "1565691463685795840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075164703433912516",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@barutan8964 @A1tk0 一只乖宝宝xwx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075162731905519676",
+        "created_at": "2026-07-09T10:32:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:32:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075166211869147585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565691463685795840",
+              "start": 0,
+              "username": "barutan8964"
+            },
+            {
+              "end": 19,
+              "id": "1680039839209775107",
+              "start": 13,
+              "username": "A1tk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075166211869147585",
+        "in_reply_to_user_id": "1565691463685795840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075164703433912516",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@barutan8964 @A1tk0 一只乖宝宝xwx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565691463685795840",
+        "conversation_id": "2075162731905519676",
+        "created_at": "2026-07-09T10:26:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:26:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075164703433912516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            },
+            {
+              "end": 15,
+              "id": "1680039839209775107",
+              "start": 9,
+              "username": "A1tk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075164703433912516",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075162731905519676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 @A1tk0 怎么这么可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 1061,
+          "like_count": 2747,
+          "listed_count": 3,
+          "media_count": 358,
+          "tweet_count": 1449
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-02T13:22:22.000Z",
+        "description": "骄傲月快乐喵🍥🏳️‍⚧️王烟洛连坐🙂‍↕️",
+        "id": "1565691463685795840",
+        "name": "巴尔坦🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565691605516193792/56qrU4dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 323,
+          "like_count": 19190,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 3293
+        },
+        "url": "",
+        "username": "barutan8964",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T02:21:33.000Z",
+        "description": "🇭🇰 cat. proudly obsessed with one special puppy: @u7ed2x2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "u7ed2x2"
+              }
+            ]
+          }
+        },
+        "id": "1680039839209775107",
+        "name": "Altko",
+        "pinned_tweet_id": "2074325692578505193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 591,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "A1tk0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2048786049632194607",
+    "created_at": "2026-05-18T12:18:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T13:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056348694077964479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1793218407640481793",
+          "start": 0,
+          "username": "Tsuk1_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056348694077964479",
+    "in_reply_to_user_id": "1793218407640481793",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056348525341159783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Tsuk1_qwq ovo..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2048786049632194607",
+        "created_at": "2026-05-18T12:18:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056348694077964479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1793218407640481793",
+              "start": 0,
+              "username": "Tsuk1_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056348694077964479",
+        "in_reply_to_user_id": "1793218407640481793",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056348525341159783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Tsuk1_qwq ovo..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1793218407640481793",
+        "conversation_id": "2048786049632194607",
+        "created_at": "2026-05-18T12:17:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T13:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056348525341159783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056348525341159783",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048786049632194607",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 摸摸摸摸~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1406,
+          "following_count": 991,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 303
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-22T09:52:48.000Z",
+        "description": "zh-CN/TW/HK, 日本語（勉強してる, English…\n玩点机（不太行），听ボカロ，想变成xyn…\n友跨，目前不含糖qwq（？）\n想被温柔对待，也会尽量尝试好好对待别人哦！\n讨厌政治……\n2009（因为怕可能有未成年限制所以资料写的是2000年的说…",
+        "id": "1793218407640481793",
+        "location": "世界上最柔软的角落",
+        "name": "tsuki_夜隠し",
+        "pinned_tweet_id": "2050949503356997742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022985668327276544/8_ogPqiy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 320,
+          "like_count": 3902,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 655
+        },
+        "username": "Tsuk1_qwq",
+        "verified": false
+      }
+    ]
+  }
+}

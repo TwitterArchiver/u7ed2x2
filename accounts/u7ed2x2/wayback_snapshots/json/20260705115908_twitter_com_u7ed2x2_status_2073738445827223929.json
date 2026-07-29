@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2073730953839874424",
+    "created_at": "2026-07-05T11:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073738445827223929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1162208564426862592",
+          "start": 0,
+          "username": "Suzumi_17860"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073738445827223929",
+    "in_reply_to_user_id": "1162208564426862592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073738211629899846",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suzumi_17860 被夸惹///"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073730953839874424",
+        "created_at": "2026-07-05T11:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073738445827223929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1162208564426862592",
+              "start": 0,
+              "username": "Suzumi_17860"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073738445827223929",
+        "in_reply_to_user_id": "1162208564426862592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073738211629899846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzumi_17860 被夸惹///"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1162208564426862592",
+        "conversation_id": "2073730953839874424",
+        "created_at": "2026-07-05T11:58:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073738211629899846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073738211629899846",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073730953839874424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 都好可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 1061,
+          "like_count": 2372,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 1304
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-16T03:44:57.000Z",
+        "description": "和所有傻逼切割｜🏳️‍🌈｜兴趣爱好丧失｜姑且是N1｜关西某杂牌大学学生｜请叫我鈴",
+        "id": "1162208564426862592",
+        "location": "大阪",
+        "name": "スズ",
+        "pinned_tweet_id": "2039223136319861237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788163986313424896/sMAK5dZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 650,
+          "like_count": 2149,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 4683
+        },
+        "url": "",
+        "username": "Suzumi_17860",
+        "verified": false
+      }
+    ]
+  }
+}

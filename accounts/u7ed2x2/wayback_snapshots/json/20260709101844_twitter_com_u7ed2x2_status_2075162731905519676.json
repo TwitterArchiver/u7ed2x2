@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2075162665778032640"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2075162731905519676",
+    "created_at": "2026-07-09T10:18:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T11:18:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075162731905519676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1680039839209775107",
+          "start": 8,
+          "username": "A1tk0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8jTgagqZqB",
+          "end": 38,
+          "expanded_url": "https://x.com/u7ed2x2/status/2075162731905519676/video/1",
+          "media_key": "13_2075162665778032640",
+          "start": 15,
+          "url": "https://t.co/8jTgagqZqB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075162731905519676",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "狗的Altko\n@A1tk0 https://t.co/8jTgagqZqB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8340,
+        "height": 1920,
+        "media_key": "13_2075162665778032640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2075162665778032640/img/YEw8uP37JS-abuMd.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075162665778032640/vid/avc1/320x568/hWEa3hH_iJIlLvdd.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075162665778032640/vid/avc1/1080x1920/SNoW2GcP_QuWrGXM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2075162665778032640/pl/Ae0jq07vDtryhgVD.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075162665778032640/vid/avc1/480x852/Og2Fm9tYIfbKnO42.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2075162665778032640/vid/avc1/720x1280/0P4lpYdKiaD6qRZL.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2075162665778032640"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075162731905519676",
+        "created_at": "2026-07-09T10:18:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T11:18:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075162731905519676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1680039839209775107",
+              "start": 8,
+              "username": "A1tk0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8jTgagqZqB",
+              "end": 38,
+              "expanded_url": "https://x.com/u7ed2x2/status/2075162731905519676/video/1",
+              "media_key": "13_2075162665778032640",
+              "start": 15,
+              "url": "https://t.co/8jTgagqZqB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075162731905519676",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "狗的Altko\n@A1tk0 https://t.co/8jTgagqZqB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 1061,
+          "like_count": 2743,
+          "listed_count": 3,
+          "media_count": 358,
+          "tweet_count": 1448
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T02:21:33.000Z",
+        "description": "🇭🇰 cat. proudly obsessed with one special puppy: @u7ed2x2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "u7ed2x2"
+              }
+            ]
+          }
+        },
+        "id": "1680039839209775107",
+        "name": "Altko",
+        "pinned_tweet_id": "2074325692578505193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 591,
+          "like_count": 479,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 41
+        },
+        "url": "",
+        "username": "A1tk0",
+        "verified": true
+      }
+    ]
+  }
+}

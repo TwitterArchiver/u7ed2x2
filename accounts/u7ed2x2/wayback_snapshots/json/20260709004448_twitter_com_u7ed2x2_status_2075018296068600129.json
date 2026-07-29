@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2075018296068600129",
+    "created_at": "2026-07-09T00:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T01:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075018296068600129"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2062083892719534279",
+          "start": 89,
+          "url": "https://t.co/ZEbFWxtRMd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075018296068600129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062083892719534279",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "盒马的水是引流品，但单买水往往凑不到免配送费价格，狗又不想在盒马买其它东西\n\n于是狗研究了一下，发现可以用生鲜凑单，盒马生鲜订单会被单独分出来，因此可以点击退款而不影响水的订单 https://t.co/ZEbFWxtRMd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062083886100992000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3-XngbUAA_9I2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075018296068600129",
+        "created_at": "2026-07-09T00:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075018296068600129"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2062083892719534279",
+              "start": 89,
+              "url": "https://t.co/ZEbFWxtRMd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075018296068600129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062083892719534279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "盒马的水是引流品，但单买水往往凑不到免配送费价格，狗又不想在盒马买其它东西\n\n于是狗研究了一下，发现可以用生鲜凑单，盒马生鲜订单会被单独分出来，因此可以点击退款而不影响水的订单 https://t.co/ZEbFWxtRMd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062083886100992000"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062083892719534279",
+        "created_at": "2026-06-03T08:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062083892719534279"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5oT4HvL4g",
+              "end": 42,
+              "expanded_url": "https://x.com/u7ed2x2/status/2062083892719534279/photo/1",
+              "media_key": "3_2062083886100992000",
+              "start": 19,
+              "url": "https://t.co/u5oT4HvL4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062083892719534279",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1992,
+          "like_count": 51,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一次性提两箱水上楼\nnelo好厉害！ https://t.co/u5oT4HvL4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1685,
+          "following_count": 1063,
+          "like_count": 2676,
+          "listed_count": 3,
+          "media_count": 354,
+          "tweet_count": 1421
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

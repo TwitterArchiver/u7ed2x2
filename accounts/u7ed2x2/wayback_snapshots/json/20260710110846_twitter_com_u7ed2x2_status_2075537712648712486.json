@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2075524298870313093",
+    "created_at": "2026-07-10T11:08:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:08:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075537712648712486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1786442629917589505",
+          "start": 0,
+          "username": "LinQi_QAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075537712648712486",
+    "in_reply_to_user_id": "1786442629917589505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075526281463218515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LinQi_QAQ 最看重真诚，不喜欢猜来猜去，有什么事情都希望直接讲\n\n不会要求朋友做自己做不到的事，大家要舒服自在的相处"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075524298870313093",
+        "created_at": "2026-07-10T11:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075537712648712486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1786442629917589505",
+              "start": 0,
+              "username": "LinQi_QAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075537712648712486",
+        "in_reply_to_user_id": "1786442629917589505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075526281463218515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinQi_QAQ 最看重真诚，不喜欢猜来猜去，有什么事情都希望直接讲\n\n不会要求朋友做自己做不到的事，大家要舒服自在的相处"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786442629917589505",
+        "conversation_id": "2075524298870313093",
+        "created_at": "2026-07-10T10:23:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075526281463218515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075526281463218515",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075524298870313093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 1063,
+          "like_count": 2811,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 1468
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-03T17:08:30.000Z",
+        "description": "我喜欢到处转转/简介看网址呗/私信不回复请联系TG：@GGHKing520/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 26,
+                "username": "GGHKing520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linqi-weld.vercel.app",
+                "end": 23,
+                "expanded_url": "https://linqi-weld.vercel.app/",
+                "start": 0,
+                "url": "https://t.co/bBkxmNUufu"
+              }
+            ]
+          }
+        },
+        "id": "1786442629917589505",
+        "location": "看得见星星的地方",
+        "name": "LinQi",
+        "pinned_tweet_id": "2075076021544755361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054062444159643648/_Bj8y2n7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 199,
+          "like_count": 7113,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1261
+        },
+        "url": "https://t.co/bBkxmNUufu",
+        "username": "LinQi_QAQ",
+        "verified": false
+      }
+    ]
+  }
+}

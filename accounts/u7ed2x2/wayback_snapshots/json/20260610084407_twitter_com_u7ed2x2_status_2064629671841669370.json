@@ -1,0 +1,95 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2064629671841669370",
+    "created_at": "2026-06-10T08:44:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T09:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064629671841669370"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064629671841669370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "在滨寿司遇到过两次草台的事情\n\n第一次在上海，和朋友吃完我去结账，收银员看了一眼说「我这里显示已经付完了」\n\n我震惊了一下「啊…（嘴角止不住）那我们走了啊」\n\n慢慢走到商场电梯口，收银员一路追过来，说因为我们和隔壁桌金额一样，他看错了，又把我们叫回去结账\n\n第二次在深圳，明明没点乌冬面，传送带却突然停在面前给我送来一碗"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在滨寿司遇到过两次草台的事情\n\n第一次在上海，和朋友吃完我去结账，收银员看了一眼说「我这里显示已经付完了」\n\n我震惊了一下「啊…（嘴角止不住）那我们走了啊」\n\n慢慢走到商场电梯口，收银员一路追过来，说因为我们和隔壁桌金额一样，他看错了，又把我们叫回去结账"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2064629671841669370",
+        "created_at": "2026-06-10T08:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T09:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064629671841669370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064629671841669370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "在滨寿司遇到过两次草台的事情\n\n第一次在上海，和朋友吃完我去结账，收银员看了一眼说「我这里显示已经付完了」\n\n我震惊了一下「啊…（嘴角止不住）那我们走了啊」\n\n慢慢走到商场电梯口，收银员一路追过来，说因为我们和隔壁桌金额一样，他看错了，又把我们叫回去结账\n\n第二次在深圳，明明没点乌冬面，传送带却突然停在面前给我送来一碗"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在滨寿司遇到过两次草台的事情\n\n第一次在上海，和朋友吃完我去结账，收银员看了一眼说「我这里显示已经付完了」\n\n我震惊了一下「啊…（嘴角止不住）那我们走了啊」\n\n慢慢走到商场电梯口，收银员一路追过来，说因为我们和隔壁桌金额一样，他看错了，又把我们叫回去结账"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1572,
+          "following_count": 1058,
+          "like_count": 1010,
+          "listed_count": 1,
+          "media_count": 206,
+          "tweet_count": 792
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

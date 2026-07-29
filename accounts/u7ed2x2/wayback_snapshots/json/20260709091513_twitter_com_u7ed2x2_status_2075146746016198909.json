@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2075143516624478635",
+    "created_at": "2026-07-09T09:15:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:15:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075146746016198909"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1482030767358496768",
+          "start": 0,
+          "username": "tcdwww"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 49,
+          "expanded_url": "https://x.com/u7ed2x2/status/1957035948077924530",
+          "start": 26,
+          "url": "https://t.co/EoKTj06mnK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075146746016198909",
+    "in_reply_to_user_id": "1482030767358496768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957035948077924530",
+        "type": "quoted"
+      },
+      {
+        "id": "2075146467174662580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tcdwww 也欢迎碗再来，古城夜景很好看的哦💫\nhttps://t.co/EoKTj06mnK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1957035910945779713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjJysybMAEmW6V.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1957035910970880000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyjJys4aMAAQ-PM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075143516624478635",
+        "created_at": "2026-07-09T09:15:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:15:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075146746016198909"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1482030767358496768",
+              "start": 0,
+              "username": "tcdwww"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 49,
+              "expanded_url": "https://x.com/u7ed2x2/status/1957035948077924530",
+              "start": 26,
+              "url": "https://t.co/EoKTj06mnK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075146746016198909",
+        "in_reply_to_user_id": "1482030767358496768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957035948077924530",
+            "type": "quoted"
+          },
+          {
+            "id": "2075146467174662580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tcdwww 也欢迎碗再来，古城夜景很好看的哦💫\nhttps://t.co/EoKTj06mnK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1957035910945779713",
+            "3_1957035910970880000"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1957035948077924530",
+        "created_at": "2025-08-17T11:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-17T12:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1957035948077924530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FSj9qnuDbc",
+              "end": 34,
+              "expanded_url": "https://x.com/lolirest/status/1957035948077924530/photo/1",
+              "media_key": "3_1957035910945779713",
+              "start": 11,
+              "url": "https://t.co/FSj9qnuDbc"
+            },
+            {
+              "display_url": "pic.x.com/FSj9qnuDbc",
+              "end": 34,
+              "expanded_url": "https://x.com/lolirest/status/1957035948077924530/photo/1",
+              "media_key": "3_1957035910970880000",
+              "start": 11,
+              "url": "https://t.co/FSj9qnuDbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1957035948077924530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1161,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天在古城拍的... https://t.co/FSj9qnuDbc"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1482030767358496768",
+        "conversation_id": "2075143516624478635",
+        "created_at": "2026-07-09T09:14:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:14:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075146467174662580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075146467174662580",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075143516624478635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 我上次去大同大概是 12 年前 = =\n后来我爸转移阵地回老家以后，就再也没有去过了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1687,
+          "following_count": 1062,
+          "like_count": 2725,
+          "listed_count": 3,
+          "media_count": 356,
+          "tweet_count": 1441
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-14T16:44:13.000Z",
+        "description": "aka. 陶瓷大碗/吐槽大王 | 关注 ≠ 完全赞同其立场",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tcdw.net",
+                "end": 23,
+                "expanded_url": "https://www.tcdw.net/",
+                "start": 0,
+                "url": "https://t.co/IJpduuriDi"
+              }
+            ]
+          }
+        },
+        "id": "1482030767358496768",
+        "location": "Beijing",
+        "name": "碗",
+        "pinned_tweet_id": "2048626808141275142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007779626437992448/C1aHTTb6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1580,
+          "following_count": 495,
+          "like_count": 98434,
+          "listed_count": 13,
+          "media_count": 1159,
+          "tweet_count": 13167
+        },
+        "url": "https://t.co/IJpduuriDi",
+        "username": "tcdwww",
+        "verified": false
+      }
+    ]
+  }
+}

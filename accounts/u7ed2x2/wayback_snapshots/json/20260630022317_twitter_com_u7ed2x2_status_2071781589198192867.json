@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+          "id": "1502374025170882561",
+          "name": "WhatsApp"
+        }
+      }
+    ],
+    "conversation_id": "2071781589198192867",
+    "created_at": "2026-06-30T02:23:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T03:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071781589198192867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 153,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2070506514029388271",
+          "start": 130,
+          "url": "https://t.co/Yw8UEFaYE1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071781589198192867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "其实我最开始是有点反感Y的。\n\nY身上有种未经世事、被家里惯坏的痕迹。小组作业抢我功劳，WhatsApp已读不回。最气的是，Y曾带着莫名的优越感说自己家是「英殖时期的香港人」，还顺带反问我家是不是「李光耀时期的新加坡人」...\n\n怎么看都是个极不讨喜的家伙。\n\n直到后来在学校爆发了激烈的争吵。Y因为吵不过我，竟然委屈得把自己气哭了。看着那个掉眼泪的Y，我一肚子火转而变成无奈，只能叹着气转头去哄。\n\n结果Y红着眼睛，带着哭腔问我：「之前好像做得过分了…那我要怎么和你相处，你能教教我吗？」\n\n那一瞬间，我彻底心软了。\n\n虽然之后的Y还是很皮...\n某次陪我吃完饭，Y突然站起来：「那我去“还钱”啦？」\n\n我一脸懵：「还什么钱？」\n\nY坏笑：「“还钱”就是“结账”啊，你们新加坡人讲中文不都是这样嘛！诶呀这家店只收现金，那我要去ATM“按钱”啦，记得等我~」\n\n我：😡（拳头硬了）\n\n还有更绝的，Y会拿着只剩最后一口的饮料，理直气壮地塞到我手里：「给你，可好喝了！」\n\n哭笑不得，就喜欢让我气鼓鼓吗。\n\n真的很神奇，谁能想到当初那个让我看一眼都觉得反感的Y，现在会以这样鲜活又气人的方式融入我的生活。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070506514029388271",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我最开始是有点反感Y的。\n\nY身上有种未经世事、被家里惯坏的痕迹。小组作业抢我功劳，WhatsApp已读不回。最气的是，Y曾带着莫名的优越感说自己家是「英殖时期的香港人」，还顺带反问我家是不是「李光耀时期的新加坡人」...\n\n怎么看都是个极不讨喜的家伙。 https://t.co/Yw8UEFaYE1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070506479858384896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvqrGUagAARxSc.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WhatsApp Messenger, or simply WhatsApp, is an internationally available American freeware, cross-platform centralized instant messaging and voice-over-IP service owned by Meta Platforms.",
+              "id": "1502374025170882561",
+              "name": "WhatsApp"
+            }
+          }
+        ],
+        "conversation_id": "2071781589198192867",
+        "created_at": "2026-06-30T02:23:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T03:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071781589198192867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 153,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2070506514029388271",
+              "start": 130,
+              "url": "https://t.co/Yw8UEFaYE1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071781589198192867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "其实我最开始是有点反感Y的。\n\nY身上有种未经世事、被家里惯坏的痕迹。小组作业抢我功劳，WhatsApp已读不回。最气的是，Y曾带着莫名的优越感说自己家是「英殖时期的香港人」，还顺带反问我家是不是「李光耀时期的新加坡人」...\n\n怎么看都是个极不讨喜的家伙。\n\n直到后来在学校爆发了激烈的争吵。Y因为吵不过我，竟然委屈得把自己气哭了。看着那个掉眼泪的Y，我一肚子火转而变成无奈，只能叹着气转头去哄。\n\n结果Y红着眼睛，带着哭腔问我：「之前好像做得过分了…那我要怎么和你相处，你能教教我吗？」\n\n那一瞬间，我彻底心软了。\n\n虽然之后的Y还是很皮...\n某次陪我吃完饭，Y突然站起来：「那我去“还钱”啦？」\n\n我一脸懵：「还什么钱？」\n\nY坏笑：「“还钱”就是“结账”啊，你们新加坡人讲中文不都是这样嘛！诶呀这家店只收现金，那我要去ATM“按钱”啦，记得等我~」\n\n我：😡（拳头硬了）\n\n还有更绝的，Y会拿着只剩最后一口的饮料，理直气壮地塞到我手里：「给你，可好喝了！」\n\n哭笑不得，就喜欢让我气鼓鼓吗。\n\n真的很神奇，谁能想到当初那个让我看一眼都觉得反感的Y，现在会以这样鲜活又气人的方式融入我的生活。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070506514029388271",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我最开始是有点反感Y的。\n\nY身上有种未经世事、被家里惯坏的痕迹。小组作业抢我功劳，WhatsApp已读不回。最气的是，Y曾带着莫名的优越感说自己家是「英殖时期的香港人」，还顺带反问我家是不是「李光耀时期的新加坡人」...\n\n怎么看都是个极不讨喜的家伙。 https://t.co/Yw8UEFaYE1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070506479858384896"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2070506514029388271",
+        "created_at": "2026-06-26T13:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070506514029388271"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n50Zz65vNg",
+              "end": 104,
+              "expanded_url": "https://x.com/u7ed2x2/status/2070506514029388271/photo/1",
+              "media_key": "3_2070506479858384896",
+              "start": 81,
+              "url": "https://t.co/n50Zz65vNg"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 128,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2070157924547325973",
+              "start": 105,
+              "url": "https://t.co/M8FKmbTumZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070506514029388271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1516,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070157924547325973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "两只胆小鬼被精神污染惹（\n\n几乎全程...\n🐶：好可怕不要突脸（捏着朋友手臂）\n友：（捏着狗狗大腿）\n🐶&amp;友：（肢体接触会不会太多了不管了吓鼠先这样吧） https://t.co/n50Zz65vNg https://t.co/M8FKmbTumZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 1055,
+          "like_count": 1783,
+          "listed_count": 2,
+          "media_count": 300,
+          "tweet_count": 1135
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

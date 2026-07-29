@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2054479365241798684",
+    "created_at": "2026-05-13T08:30:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T09:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054479365241798684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2054180452995645805",
+          "start": 43,
+          "url": "https://t.co/n8LvFkZ2OE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054479365241798684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054180452995645805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "天花板和地板没有一点水渍\n\n派来的维修说可能是瓷砖后面的暗管出了问题，明天要拆开看🥲 https://t.co/n8LvFkZ2OE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1590,
+        "media_key": "3_2054180437422145536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIHqOW0agAAJJgb.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2054479365241798684",
+        "created_at": "2026-05-13T08:30:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T09:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054479365241798684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2054180452995645805",
+              "start": 43,
+              "url": "https://t.co/n8LvFkZ2OE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054479365241798684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054180452995645805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "天花板和地板没有一点水渍\n\n派来的维修说可能是瓷砖后面的暗管出了问题，明天要拆开看🥲 https://t.co/n8LvFkZ2OE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054180437422145536"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2054180452995645805",
+        "created_at": "2026-05-12T12:42:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T13:42:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054180452995645805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3X2CI3kxvn",
+              "end": 40,
+              "expanded_url": "https://x.com/u7ed2x2/status/2054180452995645805/photo/1",
+              "media_key": "3_2054180437422145536",
+              "start": 17,
+              "url": "https://t.co/3X2CI3kxvn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054180452995645805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 333,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜呜...\n就当做支线任务了（） https://t.co/3X2CI3kxvn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 865,
+          "like_count": 233,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 208
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

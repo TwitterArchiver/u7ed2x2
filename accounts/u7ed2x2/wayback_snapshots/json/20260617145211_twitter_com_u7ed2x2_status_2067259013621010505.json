@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2067232467665522898",
+    "created_at": "2026-06-17T14:52:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T15:52:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067259013621010505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1017986178794979328",
+          "start": 0,
+          "username": "SwnaOrdulfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067259013621010505",
+    "in_reply_to_user_id": "1017986178794979328",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067233597044777172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SwnaOrdulfs technically, emotionally, spiritually\n——pineapple☝️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2067232467665522898",
+        "created_at": "2026-06-17T14:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T15:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067259013621010505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1017986178794979328",
+              "start": 0,
+              "username": "SwnaOrdulfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067259013621010505",
+        "in_reply_to_user_id": "1017986178794979328",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067233597044777172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SwnaOrdulfs technically, emotionally, spiritually\n——pineapple☝️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1017986178794979328",
+        "conversation_id": "2067232467665522898",
+        "created_at": "2026-06-17T13:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T14:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067233597044777172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067233597044777172",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067232467665522898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 凤梨？🤓☝️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 1066,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 246,
+          "tweet_count": 949
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-14T04:16:33.000Z",
+        "description": "Thank you for your support occasionally.🌎\n感谢你的偶尔支持。🌏\n🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2Xh8E_zBhO85O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2Xh8E_zBhO85OTMx",
+                "start": 0,
+                "url": "https://t.co/zqnVSI1OsI"
+              }
+            ]
+          }
+        },
+        "id": "1017986178794979328",
+        "name": "OcO",
+        "pinned_tweet_id": "2018628746836942876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921266251147423744/EQXg1t1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 935,
+          "following_count": 799,
+          "like_count": 485852,
+          "listed_count": 11,
+          "media_count": 2186,
+          "tweet_count": 25917
+        },
+        "url": "https://t.co/zqnVSI1OsI",
+        "username": "SwnaOrdulfs",
+        "verified": false
+      }
+    ]
+  }
+}

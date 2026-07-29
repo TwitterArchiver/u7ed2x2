@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2058544882772529536",
+    "created_at": "2026-05-24T14:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058549764606845060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1725925465540755456",
+          "start": 0,
+          "username": "Bucheon_S_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058549764606845060",
+    "in_reply_to_user_id": "1725925465540755456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058548363331764599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bucheon_S_ 最棒的！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2058544882772529536",
+        "created_at": "2026-05-24T14:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058549764606845060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1725925465540755456",
+              "start": 0,
+              "username": "Bucheon_S_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058549764606845060",
+        "in_reply_to_user_id": "1725925465540755456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058548363331764599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bucheon_S_ 最棒的！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1725925465540755456",
+        "conversation_id": "2058544882772529536",
+        "created_at": "2026-05-24T13:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T14:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058548363331764599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058548363331764599",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058544882772529536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 我也喜欢理科饼干！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1484,
+          "following_count": 1032,
+          "like_count": 513,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 421
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-18T17:14:40.000Z",
+        "description": "我喜欢麻辣烫,正在学习汉语的韩国人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/4417900633/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/4417900633/",
+                "start": 0,
+                "url": "https://t.co/zf0ZCguubu"
+              }
+            ]
+          }
+        },
+        "id": "1725925465540755456",
+        "location": "卡提希娅",
+        "name": "망망",
+        "pinned_tweet_id": "1956247024854262146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058504021141590016/V2L-Aydd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 627,
+          "like_count": 16718,
+          "listed_count": 9,
+          "media_count": 5128,
+          "tweet_count": 29822
+        },
+        "url": "https://t.co/zf0ZCguubu",
+        "username": "Bucheon_S_",
+        "verified": false
+      }
+    ]
+  }
+}

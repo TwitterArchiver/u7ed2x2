@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071887504681168896",
+        "3_2071887504668565504"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2071887515544637835",
+    "created_at": "2026-06-30T09:24:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-30T10:24:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071887515544637835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7gOioZf23K",
+          "end": 94,
+          "expanded_url": "https://x.com/u7ed2x2/status/2071887515544637835/photo/1",
+          "media_key": "3_2071887504681168896",
+          "start": 71,
+          "url": "https://t.co/7gOioZf23K"
+        },
+        {
+          "display_url": "pic.x.com/7gOioZf23K",
+          "end": 94,
+          "expanded_url": "https://x.com/u7ed2x2/status/2071887515544637835/photo/1",
+          "media_key": "3_2071887504668565504",
+          "start": 71,
+          "url": "https://t.co/7gOioZf23K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071887515544637835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "熊猫速汇推出对标Wise的Starryblu\n\n试着用它把HKD换成EUR，FPS转入无手续费。换汇手续费约0.35%，转出收固定1 EUR https://t.co/7gOioZf23K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071887504681168896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDStUsXcAAbzHL.jpg",
+        "width": 1996
+      },
+      {
+        "height": 1996,
+        "media_key": "3_2071887504668565504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMDStUpXIAAs8-O.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071887504681168896",
+            "3_2071887504668565504"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2071887515544637835",
+        "created_at": "2026-06-30T09:24:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T10:24:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071887515544637835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7gOioZf23K",
+              "end": 94,
+              "expanded_url": "https://x.com/u7ed2x2/status/2071887515544637835/photo/1",
+              "media_key": "3_2071887504681168896",
+              "start": 71,
+              "url": "https://t.co/7gOioZf23K"
+            },
+            {
+              "display_url": "pic.x.com/7gOioZf23K",
+              "end": 94,
+              "expanded_url": "https://x.com/u7ed2x2/status/2071887515544637835/photo/1",
+              "media_key": "3_2071887504668565504",
+              "start": 71,
+              "url": "https://t.co/7gOioZf23K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071887515544637835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "熊猫速汇推出对标Wise的Starryblu\n\n试着用它把HKD换成EUR，FPS转入无手续费。换汇手续费约0.35%，转出收固定1 EUR https://t.co/7gOioZf23K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 1056,
+          "like_count": 1816,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 1142
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

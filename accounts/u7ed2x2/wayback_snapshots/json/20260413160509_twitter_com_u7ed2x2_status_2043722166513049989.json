@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043722159894482944"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043722166513049989",
+    "created_at": "2026-04-13T16:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T17:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043722166513049989"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ykKr2CNwjI",
+          "end": 139,
+          "expanded_url": "https://x.com/u7ed2x2/status/2043722166513049989/photo/1",
+          "media_key": "3_2043722159894482944",
+          "start": 116,
+          "url": "https://t.co/ykKr2CNwjI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043722166513049989",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "康师傅在多个城市放置了免费泡面机，深圳刚好有一个，所以过去看了一下...\n\n晚10点到早8点（各城市不同）限时限量领取，多种口味随机出货，为防止倒卖外面的封膜已经被提前撕开了...\n\n拿出来仔细寻找保质期，嘻嘻，果然是临期食品（） https://t.co/ykKr2CNwjI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043722159894482944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFzCefAa0AAvw-K.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043722159894482944"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043722166513049989",
+        "created_at": "2026-04-13T16:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T17:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043722166513049989"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ykKr2CNwjI",
+              "end": 139,
+              "expanded_url": "https://x.com/u7ed2x2/status/2043722166513049989/photo/1",
+              "media_key": "3_2043722159894482944",
+              "start": 116,
+              "url": "https://t.co/ykKr2CNwjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043722166513049989",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "康师傅在多个城市放置了免费泡面机，深圳刚好有一个，所以过去看了一下...\n\n晚10点到早8点（各城市不同）限时限量领取，多种口味随机出货，为防止倒卖外面的封膜已经被提前撕开了...\n\n拿出来仔细寻找保质期，嘻嘻，果然是临期食品（） https://t.co/ykKr2CNwjI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 里账号 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 963,
+          "following_count": 579,
+          "like_count": 43,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 58
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": false
+      }
+    ]
+  }
+}

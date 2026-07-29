@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2060609325283041348",
+    "created_at": "2026-05-30T09:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T10:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060656255300174287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2013724577529049088",
+          "start": 0,
+          "username": "_roopuu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060656255300174287",
+    "in_reply_to_user_id": "2013724577529049088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060655191146537018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_roopuu （对手指）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2060609325283041348",
+        "created_at": "2026-05-30T09:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060656255300174287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2013724577529049088",
+              "start": 0,
+              "username": "_roopuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060656255300174287",
+        "in_reply_to_user_id": "2013724577529049088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060655191146537018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_roopuu （对手指）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013724577529049088",
+        "conversation_id": "2060609325283041348",
+        "created_at": "2026-05-30T09:30:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:30:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060655191146537018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060655191146537018",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060609325283041348",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 是吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1511,
+          "following_count": 1048,
+          "like_count": 687,
+          "listed_count": 1,
+          "media_count": 152,
+          "tweet_count": 552
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-20T21:25:38.000Z",
+        "description": "|| 本垢 @_ropu || 暴论传播机 || 号主是未成年的吸血鬼 ||",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 6,
+                "username": "_ropu"
+              }
+            ]
+          }
+        },
+        "id": "2013724577529049088",
+        "name": "プロ",
+        "pinned_tweet_id": "2059631799094161801",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058139565706354688/a9VoHTY9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 119,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 338
+        },
+        "username": "_roopuu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "1986730534857576787",
+    "created_at": "2025-11-08T07:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T08:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987064749457351162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1598326999",
+          "start": 0,
+          "username": "BaggIE6_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987064749457351162",
+    "in_reply_to_user_id": "1598326999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986885183233270187",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaggIE6_0 没错...\n这玩意的转译性能没有Mac+CrossOver好（毕竟有GPTK的支持），玩PC游戏纯属图乐，主要还是拿它去模拟掌机游戏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "1986730534857576787",
+        "created_at": "2025-11-08T07:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T08:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987064749457351162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598326999",
+              "start": 0,
+              "username": "BaggIE6_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987064749457351162",
+        "in_reply_to_user_id": "1598326999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986885183233270187",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaggIE6_0 没错...\n这玩意的转译性能没有Mac+CrossOver好（毕竟有GPTK的支持），玩PC游戏纯属图乐，主要还是拿它去模拟掌机游戏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598326999",
+        "conversation_id": "1986730534857576787",
+        "created_at": "2025-11-07T19:55:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T20:55:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986885183233270187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986885183233270187",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986730534857576787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 下面看上去用的是盖世模拟器啊😗\n本来想在上面本地跑一下少前1不过崩溃了，感觉游戏兼容性还是个大问题"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的🇸🇬 / godqwq@倒过来是里账",
+        "id": "1457364958841225222",
+        "location": "香橙港式大学",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 434,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 56
+        },
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2013-07-16T12:35:06.000Z",
+        "description": "ⓘ 该账号本体是无机物，请知悉\n\nⓘ 慢热（或许）所以太跳脸会ban",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.cmx.im/@baggie",
+                "end": 23,
+                "expanded_url": "https://m.cmx.im/@baggie",
+                "start": 0,
+                "url": "https://t.co/d4oPq9YuuZ"
+              }
+            ]
+          }
+        },
+        "id": "1598326999",
+        "location": "We all live and we all die.",
+        "name": "Baggie™",
+        "pinned_tweet_id": "1568575442864738304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780612959141810176/ImA2rG55_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 533,
+          "like_count": 112204,
+          "listed_count": 8,
+          "media_count": 3041,
+          "tweet_count": 29257
+        },
+        "url": "https://t.co/d4oPq9YuuZ",
+        "username": "BaggIE6_0",
+        "verified": false
+      }
+    ]
+  }
+}

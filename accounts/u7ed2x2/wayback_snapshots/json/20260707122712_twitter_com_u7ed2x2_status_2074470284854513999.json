@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2074436382504976532",
+    "created_at": "2026-07-07T12:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T13:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074470284854513999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1806993387285057537",
+          "start": 0,
+          "username": "CR_Rabbit_Li"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074470284854513999",
+    "in_reply_to_user_id": "1806993387285057537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074454511503200383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CR_Rabbit_Li 谢谢泥——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2074436382504976532",
+        "created_at": "2026-07-07T12:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T13:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074470284854513999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1806993387285057537",
+              "start": 0,
+              "username": "CR_Rabbit_Li"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074470284854513999",
+        "in_reply_to_user_id": "1806993387285057537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074454511503200383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CR_Rabbit_Li 谢谢泥——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1806993387285057537",
+        "conversation_id": "2074436382504976532",
+        "created_at": "2026-07-07T11:24:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T12:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074454511503200383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074454511503200383",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074436382504976532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 声音好好听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 1063,
+          "like_count": 2536,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 1361
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-29T10:09:50.000Z",
+        "description": "男｜08｜准男大｜168｜算是直男吧｜备战7.18火凤火站越野赛｜Minecraft｜文明6｜戴森球｜I人｜欢迎来和我聊天！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/cr_rabbit_li",
+                "end": 23,
+                "expanded_url": "https://ngl.link/cr_rabbit_li",
+                "start": 0,
+                "url": "https://t.co/FwWBta80u5"
+              }
+            ]
+          }
+        },
+        "id": "1806993387285057537",
+        "location": "白云山的某条土路上",
+        "name": "一只屑兔子🚴🏃",
+        "pinned_tweet_id": "2065801822644887911",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056348193538060288/ssPV3M8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 178,
+          "like_count": 30757,
+          "listed_count": 0,
+          "media_count": 495,
+          "tweet_count": 3725
+        },
+        "url": "https://t.co/FwWBta80u5",
+        "username": "CR_Rabbit_Li",
+        "verified": false
+      }
+    ]
+  }
+}

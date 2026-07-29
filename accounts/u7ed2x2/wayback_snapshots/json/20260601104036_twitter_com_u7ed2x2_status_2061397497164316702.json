@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061397490633732096"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2061397497164316702",
+    "created_at": "2026-06-01T10:40:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:40:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061397497164316702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xWketVv1FC",
+          "end": 42,
+          "expanded_url": "https://x.com/u7ed2x2/status/2061397497164316702/photo/1",
+          "media_key": "3_2061397490633732096",
+          "start": 19,
+          "url": "https://t.co/xWketVv1FC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061397497164316702",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "冰箱一开，悠哉悠哉（？\n补货time https://t.co/xWketVv1FC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061397490633732096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJuOGJIa8AAHph2.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061397490633732096"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061397497164316702",
+        "created_at": "2026-06-01T10:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061397497164316702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xWketVv1FC",
+              "end": 42,
+              "expanded_url": "https://x.com/u7ed2x2/status/2061397497164316702/photo/1",
+              "media_key": "3_2061397490633732096",
+              "start": 19,
+              "url": "https://t.co/xWketVv1FC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061397497164316702",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "冰箱一开，悠哉悠哉（？\n补货time https://t.co/xWketVv1FC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1046,
+          "like_count": 741,
+          "listed_count": 1,
+          "media_count": 162,
+          "tweet_count": 581
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

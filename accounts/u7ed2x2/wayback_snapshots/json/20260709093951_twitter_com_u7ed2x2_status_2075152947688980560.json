@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2075143516624478635",
+    "created_at": "2026-07-09T09:39:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:39:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075152947688980560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1166939602411642880",
+          "start": 0,
+          "username": "moefishkai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075152947688980560",
+    "in_reply_to_user_id": "1166939602411642880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075151597349507098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moefishkai 有空过来转转~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075143516624478635",
+        "created_at": "2026-07-09T09:39:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:39:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075152947688980560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1166939602411642880",
+              "start": 0,
+              "username": "moefishkai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075152947688980560",
+        "in_reply_to_user_id": "1166939602411642880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075151597349507098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moefishkai 有空过来转转~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1166939602411642880",
+        "conversation_id": "2075143516624478635",
+        "created_at": "2026-07-09T09:34:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:34:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075151597349507098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075151597349507098",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075143516624478635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 超级想去大同旅游"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 1063,
+          "like_count": 2733,
+          "listed_count": 3,
+          "media_count": 356,
+          "tweet_count": 1444
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-29T05:04:34.000Z",
+        "description": "Hacker, Trader, Gamer ; Feel free to talk with me 😊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bento.me/moefishkai",
+                "end": 23,
+                "expanded_url": "https://bento.me/moefishkai",
+                "start": 0,
+                "url": "https://t.co/dtQxNBafCO"
+              }
+            ]
+          }
+        },
+        "id": "1166939602411642880",
+        "name": "摸鱼的凯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1481107973619744769/RVoUyJHn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 13,
+          "like_count": 1768,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 592
+        },
+        "url": "https://t.co/dtQxNBafCO",
+        "username": "moefishkai",
+        "verified": false
+      }
+    ]
+  }
+}

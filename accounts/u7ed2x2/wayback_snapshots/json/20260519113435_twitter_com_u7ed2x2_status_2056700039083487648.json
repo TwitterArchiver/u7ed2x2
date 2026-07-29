@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2056697784833876269",
+    "created_at": "2026-05-19T11:34:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T12:34:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056700039083487648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2045909393447735296",
+          "start": 0,
+          "username": "_Romuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056700039083487648",
+    "in_reply_to_user_id": "2045909393447735296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056697784833876269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Romuko 面板不错\n科技并带着趣味"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2056697608840855553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIrblBFawAEg9Oh.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 7673,
+        "height": 1024,
+        "media_key": "13_2056697608895422465",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056697608895422465/img/NVaU5CRobeVpUKrc.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056697608895422465/vid/avc1/1024x1024/Rl47fDeihajKBWk7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056697608895422465/pl/-E2meraXV5S8ISec.m3u8"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056697608895422465/vid/avc1/320x320/uRlVOFtXEaDaGgAm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056697608895422465/vid/avc1/540x540/y8S3XqyuizSkJ_g1.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056697608895422465/vid/avc1/720x720/yNJSD3EXdKEePGgE.mp4"
+          }
+        ],
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2056697784833876269",
+        "created_at": "2026-05-19T11:34:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:34:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056700039083487648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2045909393447735296",
+              "start": 0,
+              "username": "_Romuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056700039083487648",
+        "in_reply_to_user_id": "2045909393447735296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056697784833876269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Romuko 面板不错\n科技并带着趣味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056697608840855553",
+            "13_2056697608895422465"
+          ]
+        },
+        "author_id": "2045909393447735296",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056697784833876269",
+        "created_at": "2026-05-19T11:25:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T12:25:26.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056697736184111587",
+          "2056697784833876269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pwVZG0rdE9",
+              "end": 63,
+              "expanded_url": "https://x.com/_Romuko/status/2056697784833876269/video/1",
+              "media_key": "3_2056697608840855553",
+              "start": 40,
+              "url": "https://t.co/pwVZG0rdE9"
+            },
+            {
+              "display_url": "pic.x.com/pwVZG0rdE9",
+              "end": 63,
+              "expanded_url": "https://x.com/_Romuko/status/2056697784833876269/video/1",
+              "media_key": "13_2056697608895422465",
+              "start": 40,
+              "url": "https://t.co/pwVZG0rdE9"
+            },
+            {
+              "display_url": "x.com/_romuko/status…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/_romuko/status/2055551761163878554",
+              "start": 64,
+              "url": "https://t.co/kDw2Go3qUF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056697784833876269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055551761163878554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "修好了，右摇杆复活。\n手柄整体并不难拆，大部分时间用在了清理旧面板留下的残胶。 https://t.co/pwVZG0rdE9 https://t.co/kDw2Go3qUF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1435,
+          "following_count": 1019,
+          "like_count": 384,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 332
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-19T16:56:42.000Z",
+        "description": "あ",
+        "id": "2045909393447735296",
+        "name": "☁️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051929414083211264/ic_uIHsz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 69,
+          "like_count": 2092,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 118
+        },
+        "username": "_Romuko",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073274387315462144"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2073275482158866850",
+    "created_at": "2026-07-04T05:19:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T06:15:09.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073274393963516108",
+      "2073275482158866850"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n0PI1Co91s",
+          "end": 164,
+          "expanded_url": "https://x.com/u7ed2x2/status/2073275482158866850/photo/1",
+          "media_key": "3_2073274387315462144",
+          "start": 141,
+          "url": "https://t.co/n0PI1Co91s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073275482158866850",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "三岁就拥有了汪生第一台电脑，在那之后的生活...\nADSL拨号上网/PPS影音/电驴/hello酷狗~/听许嵩徐良/听林俊杰和金莎合唱《被风吹过的夏天》/用Ghost重装系统\n六岁又注册了QQ，开始养宠物企鹅/农场偷菜，直到上小学前都是幸福时光\n\n感谢当时在电脑城工作的舅舅xwx https://t.co/n0PI1Co91s"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073274387315462144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXAEhHakAA9y1O.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073274387315462144"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073274393963516108",
+        "created_at": "2026-07-04T05:15:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:15:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073274393963516108",
+          "2073275482158866850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G7efQLzH0C",
+              "end": 164,
+              "expanded_url": "https://x.com/u7ed2x2/status/2073274393963516108/photo/1",
+              "media_key": "3_2073274387315462144",
+              "start": 141,
+              "url": "https://t.co/G7efQLzH0C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073274393963516108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三岁就拥有了汪生第一台电脑，在那之后的生活...\nADSL拨号上网/PPS影音/电驴/hello酷狗~/听许嵩徐良/听林俊杰和金沙合唱《被风吹过的夏天》/用Ghost重装系统\n六岁又注册了QQ，开始养宠物企鹅/农场偷菜，直到上小学前都是幸福时光\n\n感谢当时在电脑城工作的舅舅xwx https://t.co/G7efQLzH0C"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073274387315462144"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073275482158866850",
+        "created_at": "2026-07-04T05:19:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T06:15:09.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073274393963516108",
+          "2073275482158866850"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0PI1Co91s",
+              "end": 164,
+              "expanded_url": "https://x.com/u7ed2x2/status/2073275482158866850/photo/1",
+              "media_key": "3_2073274387315462144",
+              "start": 141,
+              "url": "https://t.co/n0PI1Co91s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073275482158866850",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "三岁就拥有了汪生第一台电脑，在那之后的生活...\nADSL拨号上网/PPS影音/电驴/hello酷狗~/听许嵩徐良/听林俊杰和金莎合唱《被风吹过的夏天》/用Ghost重装系统\n六岁又注册了QQ，开始养宠物企鹅/农场偷菜，直到上小学前都是幸福时光\n\n感谢当时在电脑城工作的舅舅xwx https://t.co/n0PI1Co91s"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1634,
+          "following_count": 1061,
+          "like_count": 2228,
+          "listed_count": 3,
+          "media_count": 327,
+          "tweet_count": 1265
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

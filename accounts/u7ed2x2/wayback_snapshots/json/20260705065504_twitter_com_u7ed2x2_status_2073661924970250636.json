@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2073658151811919887",
+    "created_at": "2026-07-05T06:55:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T07:55:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073661924970250636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070544483977232389",
+          "start": 0,
+          "username": "AkanoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073661924970250636",
+    "in_reply_to_user_id": "2070544483977232389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073658151811919887",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkanoQWQ 是诶...\n虽然现在没什么制作方会特意花几集塑造傲娇角色的「傲」属性了🥲"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073658151811919887",
+        "created_at": "2026-07-05T06:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073661924970250636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070544483977232389",
+              "start": 0,
+              "username": "AkanoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073661924970250636",
+        "in_reply_to_user_id": "2070544483977232389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073658151811919887",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkanoQWQ 是诶...\n虽然现在没什么制作方会特意花几集塑造傲娇角色的「傲」属性了🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070544483977232389",
+        "conversation_id": "2073658151811919887",
+        "created_at": "2026-07-05T06:40:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T07:40:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073658151811919887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2073364484937380163",
+              "start": 39,
+              "url": "https://t.co/B0YraICxXE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073658151811919887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073364484937380163",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "咱突然发现在恋爱喜剧动漫中傲娇小港爷会是一个非常可爱（且有特色）的萌点（逃） https://t.co/B0YraICxXE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 1061,
+          "like_count": 2340,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 1296
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "🇨🇳简繁中文/🇬🇧ENG(installing…) | 退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | 可爱是最高赞美！",
+        "id": "2070544483977232389",
+        "location": "Hong Kong",
+        "name": "Akano",
+        "pinned_tweet_id": "2073076472475173004",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 40,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 85
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true
+      }
+    ]
+  }
+}

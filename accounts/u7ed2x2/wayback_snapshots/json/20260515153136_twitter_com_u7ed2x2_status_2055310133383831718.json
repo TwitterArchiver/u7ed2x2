@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2055308093140132004",
+    "created_at": "2026-05-15T15:31:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T16:31:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055310133383831718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1426207565575192577",
+          "start": 0,
+          "username": "Lainyer051230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055310133383831718",
+    "in_reply_to_user_id": "1426207565575192577",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055308093140132004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lainyer051230 期待一下..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055308083786878976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXr0A4bEAAqnLr.jpg",
+        "width": 936
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2055308093140132004",
+        "created_at": "2026-05-15T15:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055310133383831718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1426207565575192577",
+              "start": 0,
+              "username": "Lainyer051230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055310133383831718",
+        "in_reply_to_user_id": "1426207565575192577",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055308093140132004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lainyer051230 期待一下..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055308083786878976"
+          ]
+        },
+        "author_id": "1426207565575192577",
+        "conversation_id": "2055308093140132004",
+        "created_at": "2026-05-15T15:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T16:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055308093140132004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W2gmRaCz0T",
+              "end": 32,
+              "expanded_url": "https://x.com/Lainyer051230/status/2055308093140132004/photo/1",
+              "media_key": "3_2055308083786878976",
+              "start": 9,
+              "url": "https://t.co/W2gmRaCz0T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055308093140132004",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次用拼多多😋 https://t.co/W2gmRaCz0T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1387,
+          "following_count": 892,
+          "like_count": 316,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 261
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-13T15:43:03.000Z",
+        "description": "2007.5.6（年月日｜\n位于马来西亚.柔佛州｜\nMtF🏳️‍⚧️（無證含糖｜HRT🍥：2026.5.1｜\nShe/Her（更喜欢被这样称呼，不行也没事哦ww｜无不良嗜好｜有对象｜偶尔分享下照片还有生活之类的～｜\n\n有友善的朋友想和我聊天的话，我都非常欢迎的～！",
+        "id": "1426207565575192577",
+        "location": "Malaysia",
+        "name": "千缘sama",
+        "pinned_tweet_id": "2052099424739099110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053778111582584832/F55FNMQw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 164,
+          "like_count": 17154,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1570
+        },
+        "username": "Lainyer051230",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2066012206878364147",
+    "created_at": "2026-06-14T04:24:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T05:24:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066013990799679676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1994720929709174784",
+          "start": 0,
+          "username": "bth95147"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066013990799679676",
+    "in_reply_to_user_id": "1994720929709174784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066013819097559542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bth95147 开心w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2066012206878364147",
+        "created_at": "2026-06-14T04:24:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:24:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066013990799679676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1994720929709174784",
+              "start": 0,
+              "username": "bth95147"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066013990799679676",
+        "in_reply_to_user_id": "1994720929709174784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066013819097559542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bth95147 开心w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1994720929709174784",
+        "conversation_id": "2066012206878364147",
+        "created_at": "2026-06-14T04:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T05:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066013819097559542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066013819097559542",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066012206878364147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 可爱捏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1586,
+          "following_count": 1066,
+          "like_count": 1143,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 878
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-29T10:53:09.000Z",
+        "description": "高中毕业 | 姐姐 @o6AK3RY4NDU517",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 10,
+                "username": "o6AK3RY4NDU517"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bth95147.github.io",
+                "end": 23,
+                "expanded_url": "http://bth95147.github.io",
+                "start": 0,
+                "url": "https://t.co/VQlRoNVhST"
+              }
+            ]
+          }
+        },
+        "id": "1994720929709174784",
+        "location": "SD",
+        "name": "BtH",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053865235799482368/awveBf2P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 257,
+          "like_count": 142,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 147
+        },
+        "url": "https://t.co/VQlRoNVhST",
+        "username": "bth95147",
+        "verified": false
+      }
+    ]
+  }
+}

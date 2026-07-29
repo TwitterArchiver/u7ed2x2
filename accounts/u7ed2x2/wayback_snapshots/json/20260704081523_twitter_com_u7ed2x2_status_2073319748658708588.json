@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2073312399554404399",
+    "created_at": "2026-07-04T08:15:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T09:15:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073319748658708588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520285442737770496",
+          "start": 0,
+          "username": "Magpieneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073319748658708588",
+    "in_reply_to_user_id": "1520285442737770496",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073312399554404399",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Magpieneko xmyl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073312382630424576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMXioIsa8AApWzn.jpg",
+        "width": 2732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073312399554404399",
+        "created_at": "2026-07-04T08:15:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T09:15:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073319748658708588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520285442737770496",
+              "start": 0,
+              "username": "Magpieneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073319748658708588",
+        "in_reply_to_user_id": "1520285442737770496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073312399554404399",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Magpieneko xmyl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073312382630424576"
+          ]
+        },
+        "author_id": "1520285442737770496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2073312399554404399",
+        "created_at": "2026-07-04T07:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T08:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073312399554404399"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/am5qEJo6UH",
+              "end": 41,
+              "expanded_url": "https://x.com/Magpieneko/status/2073312399554404399/photo/1",
+              "media_key": "3_2073312382630424576",
+              "start": 18,
+              "url": "https://t.co/am5qEJo6UH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073312399554404399",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "远赴人间惊鸿宴 一睹麦记盛世颜（逃 https://t.co/am5qEJo6UH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1635,
+          "following_count": 1061,
+          "like_count": 2252,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 1269
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "Cptsd/叫我小鸟就好/是个不可爱的孩子/学着成为人类/社恐/总是很困/该死的小东西/一切都会好起来的……吧\nWhat do you want to be when you grow up?\nKind.",
+        "id": "1520285442737770496",
+        "location": "距你2.1KM",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2056572888778727508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000047111682097152/toPEt8jA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 62,
+          "like_count": 1744,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 1190
+        },
+        "url": "",
+        "username": "Magpieneko",
+        "verified": true
+      }
+    ]
+  }
+}

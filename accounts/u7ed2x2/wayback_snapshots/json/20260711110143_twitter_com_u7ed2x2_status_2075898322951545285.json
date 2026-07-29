@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2075851197848985745",
+    "created_at": "2026-07-11T11:01:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T12:01:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075898322951545285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1017986178794979328",
+          "start": 0,
+          "username": "SwnaOrdulfs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075898322951545285",
+    "in_reply_to_user_id": "1017986178794979328",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075897607369736620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SwnaOrdulfs 坏🌶️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075851197848985745",
+        "created_at": "2026-07-11T11:01:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:01:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075898322951545285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1017986178794979328",
+              "start": 0,
+              "username": "SwnaOrdulfs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075898322951545285",
+        "in_reply_to_user_id": "1017986178794979328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075897607369736620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SwnaOrdulfs 坏🌶️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1017986178794979328",
+        "conversation_id": "2075851197848985745",
+        "created_at": "2026-07-11T10:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075897607369736620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075897607369736620",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075851197848985745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 涂层：😵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 1066,
+          "like_count": 2899,
+          "listed_count": 3,
+          "media_count": 364,
+          "tweet_count": 1498
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2018-07-14T04:16:33.000Z",
+        "description": "Thank you for your support occasionally.🌎\n感谢你的偶尔支持。🌏\n🥰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+2Xh8E_zBhO85O…",
+                "end": 23,
+                "expanded_url": "https://t.me/+2Xh8E_zBhO85OTMx",
+                "start": 0,
+                "url": "https://t.co/zqnVSI1OsI"
+              }
+            ]
+          }
+        },
+        "id": "1017986178794979328",
+        "name": "OcO",
+        "pinned_tweet_id": "2018628746836942876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921266251147423744/EQXg1t1z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 804,
+          "like_count": 495741,
+          "listed_count": 11,
+          "media_count": 2226,
+          "tweet_count": 26306
+        },
+        "url": "https://t.co/zqnVSI1OsI",
+        "username": "SwnaOrdulfs",
+        "verified": false
+      }
+    ]
+  }
+}

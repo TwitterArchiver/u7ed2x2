@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2074096805877608676",
+    "created_at": "2026-07-07T06:39:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T07:39:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074382887085035719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1493949884399079427",
+          "start": 0,
+          "username": "ThinkingPigeon"
+        },
+        {
+          "end": 23,
+          "id": "987616750526058496",
+          "start": 16,
+          "username": "qwqdog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074382887085035719",
+    "in_reply_to_user_id": "1493949884399079427",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074176561595793694",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThinkingPigeon @qwqdog remake"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2074096805877608676",
+        "created_at": "2026-07-07T06:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T07:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074382887085035719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493949884399079427",
+              "start": 0,
+              "username": "ThinkingPigeon"
+            },
+            {
+              "end": 23,
+              "id": "987616750526058496",
+              "start": 16,
+              "username": "qwqdog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074382887085035719",
+        "in_reply_to_user_id": "1493949884399079427",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074176561595793694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThinkingPigeon @qwqdog remake"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493949884399079427",
+        "conversation_id": "2074096805877608676",
+        "created_at": "2026-07-06T17:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T18:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074176561595793694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "987616750526058496",
+              "start": 0,
+              "username": "qwqdog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074176561595793694",
+        "in_reply_to_user_id": "987616750526058496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074096805877608676",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qwqdog sudo reboot"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 1066,
+          "like_count": 2507,
+          "listed_count": 3,
+          "media_count": 346,
+          "tweet_count": 1349
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-16T14:06:40.000Z",
+        "description": "I can't stop my loneliness // Average rhythm game player | LGBT friendly | Femboy maybe | a.k.a. hh27v0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "live.acfun.cn/live/75353094",
+                "end": 23,
+                "expanded_url": "http://live.acfun.cn/live/75353094",
+                "start": 0,
+                "url": "https://t.co/RIVtrSRY1Z"
+              }
+            ]
+          }
+        },
+        "id": "1493949884399079427",
+        "location": "@dorich4n",
+        "name": "DoriCh4n",
+        "pinned_tweet_id": "1890795598258856120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918589586118455296/I7tiaMlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 1325,
+          "like_count": 71188,
+          "listed_count": 3,
+          "media_count": 1234,
+          "tweet_count": 12423
+        },
+        "url": "https://t.co/RIVtrSRY1Z",
+        "username": "ThinkingPigeon",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-21T08:59:17.000Z",
+        "description": "云朵般的笑 绵软 带着弧度",
+        "id": "987616750526058496",
+        "name": "绒绒洛",
+        "pinned_tweet_id": "1595592157465047041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1598707969889570816/eHiTgRp5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 40,
+          "like_count": 746,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "qwqdog",
+        "verified": true
+      }
+    ]
+  }
+}

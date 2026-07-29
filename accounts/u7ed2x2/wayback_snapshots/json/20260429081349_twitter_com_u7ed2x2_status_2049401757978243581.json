@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049401752756391937"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2049388381311058421",
+    "created_at": "2026-04-29T08:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T09:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049401757978243581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1598326999",
+          "start": 0,
+          "username": "BaggIE6_0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VHCVQ326RW",
+          "end": 127,
+          "expanded_url": "https://x.com/u7ed2x2/status/2049401757978243581/photo/1",
+          "media_key": "3_2049401752756391937",
+          "start": 104,
+          "url": "https://t.co/VHCVQ326RW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049401757978243581",
+    "in_reply_to_user_id": "1598326999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049397785490014386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaggIE6_0 然而这个提示就有诱导长时使用的嫌疑...\n\n我是这么想的\n早期的长按倍速需要付出物理成本（手酸），提醒我只是暂时的快进。而锁定功能移除了这种反馈\n导致「临时的信息筛选」行为容易变成常态 https://t.co/VHCVQ326RW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 299,
+        "media_key": "3_2049401752756391937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHDwCTMbkAE5N30.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049401752756391937"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2049388381311058421",
+        "created_at": "2026-04-29T08:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T09:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049401757978243581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598326999",
+              "start": 0,
+              "username": "BaggIE6_0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VHCVQ326RW",
+              "end": 127,
+              "expanded_url": "https://x.com/u7ed2x2/status/2049401757978243581/photo/1",
+              "media_key": "3_2049401752756391937",
+              "start": 104,
+              "url": "https://t.co/VHCVQ326RW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049401757978243581",
+        "in_reply_to_user_id": "1598326999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049397785490014386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaggIE6_0 然而这个提示就有诱导长时使用的嫌疑...\n\n我是这么想的\n早期的长按倍速需要付出物理成本（手酸），提醒我只是暂时的快进。而锁定功能移除了这种反馈\n导致「临时的信息筛选」行为容易变成常态 https://t.co/VHCVQ326RW"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598326999",
+        "conversation_id": "2049388381311058421",
+        "created_at": "2026-04-29T07:58:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T08:58:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049397785490014386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049397785490014386",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 32,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049388381311058421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 一方面是缺乏耐心，另一方面也确实是觉得信息密度可以更高……至少瞬时的密度可以更高……长时间持续性的就算了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1179,
+          "following_count": 743,
+          "like_count": 169,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 139
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-16T12:35:06.000Z",
+        "description": "Baggie™ | 袋\n\nⓘ 该账号本体是无机物，请知悉\nⓘ 慢热（或许）所以太跳脸会ban",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.cmx.im/@baggie",
+                "end": 23,
+                "expanded_url": "https://m.cmx.im/@baggie",
+                "start": 0,
+                "url": "https://t.co/d4oPq9YuuZ"
+              }
+            ]
+          }
+        },
+        "id": "1598326999",
+        "location": "We all live and we all 袋.",
+        "name": "袋 Aka.dài",
+        "pinned_tweet_id": "1568575442864738304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004537729770815488/eQ9EtZv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 513,
+          "like_count": 125026,
+          "listed_count": 9,
+          "media_count": 3213,
+          "tweet_count": 30960
+        },
+        "url": "https://t.co/d4oPq9YuuZ",
+        "username": "BaggIE6_0",
+        "verified": false
+      }
+    ]
+  }
+}

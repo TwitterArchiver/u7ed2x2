@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2051003563892256976",
+    "created_at": "2026-05-05T08:38:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T09:38:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051582353714385218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1503710587901014016",
+          "start": 0,
+          "username": "chy224025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051582353714385218",
+    "in_reply_to_user_id": "1503710587901014016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051581435988058159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@chy224025 meme\n读对了又怎么会变成姫坂乃爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2051003563892256976",
+        "created_at": "2026-05-05T08:38:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051582353714385218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1503710587901014016",
+              "start": 0,
+              "username": "chy224025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051582353714385218",
+        "in_reply_to_user_id": "1503710587901014016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051581435988058159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@chy224025 meme\n读对了又怎么会变成姫坂乃爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1503710587901014016",
+        "conversation_id": "2051003563892256976",
+        "created_at": "2026-05-05T08:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T09:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051581435988058159"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051581435988058159",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051003563892256976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@u7ed2x2 不是芥末奶？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1256,
+          "following_count": 788,
+          "like_count": 173,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 160
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-15T12:32:11.000Z",
+        "description": "06的，喜欢打音游的无聊大学生，平常也喜欢数码，刷机一类，喜欢玩Minecraft，使用Linux (Debian GNU/Linux 13)",
+        "id": "1503710587901014016",
+        "name": "chy224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004261535129260032/NpeqKixU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 1495,
+          "like_count": 1645,
+          "listed_count": 0,
+          "media_count": 316,
+          "tweet_count": 1685
+        },
+        "username": "chy224025",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2006396720763310502",
+    "created_at": "2025-12-31T16:07:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T17:07:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006396896970154444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1870377269371523072",
+          "start": 0,
+          "username": "Lrx518425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006396896970154444",
+    "in_reply_to_user_id": "1870377269371523072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006396720763310502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lrx518425 元旦快乐哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2006396720763310502",
+        "created_at": "2025-12-31T16:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006396896970154444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1870377269371523072",
+              "start": 0,
+              "username": "Lrx518425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006396896970154444",
+        "in_reply_to_user_id": "1870377269371523072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006396720763310502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lrx518425 元旦快乐哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870377269371523072",
+        "conversation_id": "2006396720763310502",
+        "created_at": "2025-12-31T16:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006396720763310502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006396720763310502",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "元旦快乐各位！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的新加坡人",
+        "id": "1457364958841225222",
+        "location": "香橙港式大学",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 440,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 64
+        },
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T07:54:49.000Z",
+        "description": "10年/中国/中原地区学生/无特别喜爱的圈子（也可能都沾点）/只会中文/人很好只是有时候不知道说啥 周六日都是在线的啦\n     希望大家都开开心心（认真ing）\n下面是歌单↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t1.kugou.com/8biYH6dEuV2",
+                "end": 23,
+                "expanded_url": "https://t1.kugou.com/8biYH6dEuV2",
+                "start": 0,
+                "url": "https://t.co/n3fJmBDUl8"
+              }
+            ]
+          }
+        },
+        "id": "1870377269371523072",
+        "name": "spark",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949479104740483072/mS6hznPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 258,
+          "like_count": 1125,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/n3fJmBDUl8",
+        "username": "Lrx518425",
+        "verified": false
+      }
+    ]
+  }
+}

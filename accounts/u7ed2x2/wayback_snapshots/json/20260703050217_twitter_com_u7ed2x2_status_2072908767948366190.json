@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2072625326157648030",
+    "created_at": "2026-07-03T05:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072908767948366190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2045308579729625089",
+          "start": 0,
+          "username": "cybercat868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072908767948366190",
+    "in_reply_to_user_id": "2045308579729625089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072908694086725794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@cybercat868 汪汪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2072625326157648030",
+        "created_at": "2026-07-03T05:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072908767948366190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2045308579729625089",
+              "start": 0,
+              "username": "cybercat868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072908767948366190",
+        "in_reply_to_user_id": "2045308579729625089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072908694086725794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@cybercat868 汪汪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045308579729625089",
+        "conversation_id": "2072625326157648030",
+        "created_at": "2026-07-03T05:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072908694086725794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072908694086725794",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072625326157648030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@u7ed2x2 喵呜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 1058,
+          "like_count": 2086,
+          "listed_count": 3,
+          "media_count": 320,
+          "tweet_count": 1231
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-18T01:11:09.000Z",
+        "description": "大家好喵，我是白鸠叶，一位mtf，喜欢电脑，archlinuxcn社区，不自残与od，十分严重的自杀想法",
+        "id": "2045308579729625089",
+        "name": "cybercat（白鸠叶）🏳️‍⚧️",
+        "pinned_tweet_id": "2052265156412158136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045309124850671616/F0k1u4nr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 210,
+          "like_count": 2134,
+          "listed_count": 2,
+          "media_count": 32,
+          "tweet_count": 695
+        },
+        "url": "",
+        "username": "cybercat868",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,590 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070705471552696320",
+        "3_2070705471527452672"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "913142676819648512",
+          "name": "Cryptocurrencies"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cryptocurrency",
+          "id": "1492162686204854274",
+          "name": "Digital assets & cryptocurrency"
+        }
+      },
+      {
+        "domain": {
+          "description": "For cryptocurrency entities",
+          "id": "174",
+          "name": "Digital Assets & Crypto"
+        },
+        "entity": {
+          "id": "1405571471955533827",
+          "name": "USD Coin"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596794716162",
+          "name": "Financial services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045599570",
+          "name": "Interactive Brokers"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Government",
+          "id": "857878257630195712",
+          "name": "Government"
+        }
+      }
+    ],
+    "conversation_id": "2070705531409645648",
+    "created_at": "2026-06-27T03:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070705531409645648"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZMWFm63wv3",
+          "end": 77,
+          "expanded_url": "https://x.com/u7ed2x2/status/2070705531409645648/video/1",
+          "media_key": "13_2070705471552696320",
+          "start": 54,
+          "url": "https://t.co/ZMWFm63wv3"
+        },
+        {
+          "display_url": "pic.x.com/ZMWFm63wv3",
+          "end": 77,
+          "expanded_url": "https://x.com/u7ed2x2/status/2070705531409645648/video/1",
+          "media_key": "3_2070705471527452672",
+          "start": 54,
+          "url": "https://t.co/ZMWFm63wv3"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2057772582083219939",
+          "start": 78,
+          "url": "https://t.co/xMLbpQJEZ6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070705531409645648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057772582083219939",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "USDC → EUR\n\n左Plasma One 右Monerium\nM换欧元稳定币的汇率很好，点一下就到了 https://t.co/ZMWFm63wv3 https://t.co/xMLbpQJEZ6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15700,
+        "height": 1920,
+        "media_key": "13_2070705471552696320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070705471552696320/img/F6EEoa5Gz8K6C4PG.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070705471552696320/vid/avc1/320x696/BaYIFHM-sDPufONN.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070705471552696320/vid/avc1/882x1920/jXrXHkScO4tOf_T9.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070705471552696320/pl/-LAvMShzNJNyvCJ3.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070705471552696320/vid/avc1/720x1566/VYUPcTZ-AbGOFUtz.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070705471552696320/vid/avc1/480x1044/FCuevnomOoqpmOyQ.mp4"
+          }
+        ],
+        "width": 882
+      },
+      {
+        "height": 1732,
+        "media_key": "3_2070705471527452672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLyfp8DaAAADCsY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057772575904903168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6tQVdaMAATcQi.jpg",
+        "width": 942
+      },
+      {
+        "height": 1040,
+        "media_key": "3_2057772575921774592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6tQVhboAAzDhv.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070705471552696320",
+            "3_2070705471527452672"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "913142676819648512",
+              "name": "Cryptocurrencies"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cryptocurrency",
+              "id": "1492162686204854274",
+              "name": "Digital assets & cryptocurrency"
+            }
+          },
+          {
+            "domain": {
+              "description": "For cryptocurrency entities",
+              "id": "174",
+              "name": "Digital Assets & Crypto"
+            },
+            "entity": {
+              "id": "1405571471955533827",
+              "name": "USD Coin"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045599570",
+              "name": "Interactive Brokers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2070705531409645648",
+        "created_at": "2026-06-27T03:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070705531409645648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZMWFm63wv3",
+              "end": 77,
+              "expanded_url": "https://x.com/u7ed2x2/status/2070705531409645648/video/1",
+              "media_key": "13_2070705471552696320",
+              "start": 54,
+              "url": "https://t.co/ZMWFm63wv3"
+            },
+            {
+              "display_url": "pic.x.com/ZMWFm63wv3",
+              "end": 77,
+              "expanded_url": "https://x.com/u7ed2x2/status/2070705531409645648/video/1",
+              "media_key": "3_2070705471527452672",
+              "start": 54,
+              "url": "https://t.co/ZMWFm63wv3"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2057772582083219939",
+              "start": 78,
+              "url": "https://t.co/xMLbpQJEZ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070705531409645648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057772582083219939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "USDC → EUR\n\n左Plasma One 右Monerium\nM换欧元稳定币的汇率很好，点一下就到了 https://t.co/ZMWFm63wv3 https://t.co/xMLbpQJEZ6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057772575904903168",
+            "3_2057772575921774592"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596794716162",
+              "name": "Financial services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045599570",
+              "name": "Interactive Brokers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2057772582083219939",
+        "created_at": "2026-05-22T10:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057772582083219939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/90Baus2O2C",
+              "end": 142,
+              "expanded_url": "https://x.com/u7ed2x2/status/2057772582083219939/photo/1",
+              "media_key": "3_2057772575904903168",
+              "start": 119,
+              "url": "https://t.co/90Baus2O2C"
+            },
+            {
+              "display_url": "pic.x.com/90Baus2O2C",
+              "end": 142,
+              "expanded_url": "https://x.com/u7ed2x2/status/2057772582083219939/photo/1",
+              "media_key": "3_2057772575921774592",
+              "start": 119,
+              "url": "https://t.co/90Baus2O2C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057772582083219939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2994,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "从IBKR提了点到Plasma One的美元账户，Fedwire本来应该很快到账，但看History显然还在审核（）\n\n活在现实世界很难真的把法币和虚拟币分割开，但每次双向兑换的过程都很割裂，底层提供商无非就那几家，偏偏每家都卡过我钱🤧 https://t.co/90Baus2O2C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 1058,
+          "like_count": 1596,
+          "listed_count": 2,
+          "media_count": 285,
+          "tweet_count": 1065
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

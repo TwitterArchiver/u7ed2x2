@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063489569623044096"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2063489584026325184",
+    "created_at": "2026-06-07T05:13:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T06:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2063489584026325184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Download Loupe: What Apps Can See by Mysk Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Loupe: What Apps Can See.",
+          "display_url": "apps.apple.com/app/id67661524…",
+          "end": 62,
+          "expanded_url": "https://apps.apple.com/app/id6766152470",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2062993509276135424/_MMPpCpz?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2062993509276135424/_MMPpCpz?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 39,
+          "status": 200,
+          "title": "Loupe: What Apps Can See App - App Store",
+          "unwound_url": "https://apps.apple.com/us/app/loupe-what-apps-can-see/id6766152470",
+          "url": "https://t.co/iE9Ywrj10k"
+        },
+        {
+          "display_url": "pic.x.com/zd9O8PRHTV",
+          "end": 86,
+          "expanded_url": "https://x.com/u7ed2x2/status/2063489584026325184/photo/1",
+          "media_key": "3_2063489569623044096",
+          "start": 63,
+          "url": "https://t.co/zd9O8PRHTV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063489584026325184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "知道这些信息可以被公开读取，但当它们被一条条罗列出来时，还是会觉得有些可怕\n\nhttps://t.co/iE9Ywrj10k https://t.co/zd9O8PRHTV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2063489569623044096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKL81Ksa8AAVhp7.jpg",
+        "width": 2022
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063489569623044096"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2063489584026325184",
+        "created_at": "2026-06-07T05:13:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T06:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063489584026325184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Download Loupe: What Apps Can See by Mysk Inc. on the App Store. See screenshots, ratings and reviews, user tips, and more apps like Loupe: What Apps Can See.",
+              "display_url": "apps.apple.com/app/id67661524…",
+              "end": 62,
+              "expanded_url": "https://apps.apple.com/app/id6766152470",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2062993509276135424/_MMPpCpz?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2062993509276135424/_MMPpCpz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "Loupe: What Apps Can See App - App Store",
+              "unwound_url": "https://apps.apple.com/us/app/loupe-what-apps-can-see/id6766152470",
+              "url": "https://t.co/iE9Ywrj10k"
+            },
+            {
+              "display_url": "pic.x.com/zd9O8PRHTV",
+              "end": 86,
+              "expanded_url": "https://x.com/u7ed2x2/status/2063489584026325184/photo/1",
+              "media_key": "3_2063489569623044096",
+              "start": 63,
+              "url": "https://t.co/zd9O8PRHTV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063489584026325184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "知道这些信息可以被公开读取，但当它们被一条条罗列出来时，还是会觉得有些可怕\n\nhttps://t.co/iE9Ywrj10k https://t.co/zd9O8PRHTV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 1062,
+          "like_count": 915,
+          "listed_count": 1,
+          "media_count": 188,
+          "tweet_count": 732
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2063161964558463142",
+    "created_at": "2026-06-07T02:50:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T03:50:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063453540904058983"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3889037112",
+          "start": 0,
+          "username": "ntfuko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063453540904058983",
+    "in_reply_to_user_id": "3889037112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063342091716161572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ntfuko 完全是反过来说的吧！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2063161964558463142",
+        "created_at": "2026-06-07T02:50:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T03:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063453540904058983"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3889037112",
+              "start": 0,
+              "username": "ntfuko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063453540904058983",
+        "in_reply_to_user_id": "3889037112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063342091716161572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ntfuko 完全是反过来说的吧！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3889037112",
+        "conversation_id": "2063161964558463142",
+        "created_at": "2026-06-06T19:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063342091716161572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063342091716161572",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063161964558463142",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 這樣是少嗎www"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1559,
+          "following_count": 1062,
+          "like_count": 913,
+          "listed_count": 1,
+          "media_count": 187,
+          "tweet_count": 729
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2015-10-14T07:04:00.000Z",
+        "description": "I wanna be an android's dream of electric sheep.",
+        "id": "3889037112",
+        "name": "窮奇",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011785953451655180/CfSwbfCz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 345,
+          "like_count": 4380,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 915
+        },
+        "username": "ntfuko",
+        "verified": false
+      }
+    ]
+  }
+}

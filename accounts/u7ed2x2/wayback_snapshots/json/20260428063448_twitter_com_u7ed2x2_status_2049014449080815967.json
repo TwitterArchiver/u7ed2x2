@@ -1,0 +1,186 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2049014378259947520"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2049014449080815967",
+    "created_at": "2026-04-28T06:34:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:34:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049014449080815967"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2y3l8ZRIhq",
+          "end": 69,
+          "expanded_url": "https://x.com/u7ed2x2/status/2049014449080815967/video/1",
+          "media_key": "13_2049014378259947520",
+          "start": 46,
+          "url": "https://t.co/2y3l8ZRIhq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049014449080815967",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "搜了最早被ban的那个号，发现四年前互动的推友和现在是同一批诶\n看到大家都在更新有种安心感 https://t.co/2y3l8ZRIhq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15295,
+        "height": 2366,
+        "media_key": "13_2049014378259947520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2049014378259947520/img/2A2n-8TVdIWwWK5F.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049014378259947520/vid/avc1/320x626/x5A5MeDlx-YwJB1k.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049014378259947520/vid/avc1/1206x2366/_-AQyb-eBW7ocGb1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049014378259947520/vid/avc1/480x940/rvANpRfPPcv-dgPk.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2049014378259947520/vid/avc1/720x1412/cn_Z32cTorJ5xydG.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2049014378259947520/pl/VJoiBoPRo1n8F4JF.m3u8"
+          }
+        ],
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2049014378259947520"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2049014449080815967",
+        "created_at": "2026-04-28T06:34:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:34:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049014449080815967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2y3l8ZRIhq",
+              "end": 69,
+              "expanded_url": "https://x.com/u7ed2x2/status/2049014449080815967/video/1",
+              "media_key": "13_2049014378259947520",
+              "start": 46,
+              "url": "https://t.co/2y3l8ZRIhq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049014449080815967",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "搜了最早被ban的那个号，发现四年前互动的推友和现在是同一批诶\n看到大家都在更新有种安心感 https://t.co/2y3l8ZRIhq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1154,
+          "following_count": 733,
+          "like_count": 143,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

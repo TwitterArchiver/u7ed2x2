@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2059253066030014630",
+    "created_at": "2026-05-26T14:43:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T15:43:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059284186884972728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1643555875813216257",
+          "start": 0,
+          "username": "IceyPillow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059284186884972728",
+    "in_reply_to_user_id": "1643555875813216257",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059283526563054036",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IceyPillow 🎀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2059283526563054036].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2059283526563054036",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2059283526563054036"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2059253066030014630",
+        "created_at": "2026-05-26T14:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T15:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059284186884972728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1643555875813216257",
+              "start": 0,
+              "username": "IceyPillow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059284186884972728",
+        "in_reply_to_user_id": "1643555875813216257",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059283526563054036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IceyPillow 🎀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1038,
+          "like_count": 565,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 462
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-05T10:08:05.000Z",
+        "description": "一无所有的孩子（",
+        "id": "1643555875813216257",
+        "location": "ISO/IEC 14882:2026",
+        "name": "Wheat Pillow:🌿",
+        "pinned_tweet_id": "2056060075337515108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056060161446555648/i0R6kfr5_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 571,
+          "like_count": 18994,
+          "listed_count": 8,
+          "media_count": 911,
+          "tweet_count": 8399
+        },
+        "username": "IceyPillow",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077634046423916544"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2077634055861051549",
+    "created_at": "2026-07-16T05:58:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T06:58:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077634055861051549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cwERvI4zV0",
+          "end": 35,
+          "expanded_url": "https://x.com/u7ed2x2/status/2077634055861051549/photo/1",
+          "media_key": "3_2077634046423916544",
+          "start": 12,
+          "url": "https://t.co/cwERvI4zV0"
+        },
+        {
+          "display_url": "x.com/a1tk0/status/2…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/a1tk0/status/2077315234394730608",
+          "start": 36,
+          "url": "https://t.co/YC9KOlamdI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077634055861051549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077315234394730608",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "但你想喝还得狗进去买😠 https://t.co/cwERvI4zV0 https://t.co/YC9KOlamdI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077634046423916544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNU9KE5a4AA4uj2.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077634046423916544"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077634055861051549",
+        "created_at": "2026-07-16T05:58:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T06:58:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077634055861051549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cwERvI4zV0",
+              "end": 35,
+              "expanded_url": "https://x.com/u7ed2x2/status/2077634055861051549/photo/1",
+              "media_key": "3_2077634046423916544",
+              "start": 12,
+              "url": "https://t.co/cwERvI4zV0"
+            },
+            {
+              "display_url": "x.com/a1tk0/status/2…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/a1tk0/status/2077315234394730608",
+              "start": 36,
+              "url": "https://t.co/YC9KOlamdI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077634055861051549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077315234394730608",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "但你想喝还得狗进去买😠 https://t.co/cwERvI4zV0 https://t.co/YC9KOlamdI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680039839209775107",
+        "conversation_id": "2077315234394730608",
+        "created_at": "2026-07-15T08:52:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T09:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077315234394730608"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077315234394730608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 24008,
+          "like_count": 57,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "nelo 要去盒马，我不想逛盒马，它在我眼里是一个“进去就全程摄像头采集人脸关联身份”的超市，数据来自支付宝，不管你是身份证还是回乡证甚至护照，注册过就跑不掉\n这是超市，不是口岸\n我在购物，不在过关"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 1069,
+          "like_count": 3152,
+          "listed_count": 3,
+          "media_count": 381,
+          "tweet_count": 1572
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T02:21:33.000Z",
+        "description": "🇭🇰 cat. proudly obsessed with one special puppy: @u7ed2x2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "u7ed2x2"
+              }
+            ]
+          }
+        },
+        "id": "1680039839209775107",
+        "name": "Altko",
+        "pinned_tweet_id": "2076178227589226805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 394,
+          "like_count": 904,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 252
+        },
+        "url": "",
+        "username": "A1tk0",
+        "verified": true
+      }
+    ]
+  }
+}

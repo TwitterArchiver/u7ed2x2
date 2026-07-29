@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2043312201184993629",
+    "created_at": "2026-04-12T14:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T15:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043330677400383562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1493949884399079427",
+          "start": 0,
+          "username": "ThinkingPigeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043330677400383562",
+    "in_reply_to_user_id": "1493949884399079427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043321047521640654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThinkingPigeon 你要是写大冰，就不能只写大冰，你要写他是主持人、作家、民谣歌手、调酒师、油画画师、皮匠、银匠、手鼓艺人、黄金左脸、老背包客、投资顾问、法国骑士、禅宗弟子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2043312201184993629",
+        "created_at": "2026-04-12T14:09:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T15:09:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043330677400383562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493949884399079427",
+              "start": 0,
+              "username": "ThinkingPigeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043330677400383562",
+        "in_reply_to_user_id": "1493949884399079427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043321047521640654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThinkingPigeon 你要是写大冰，就不能只写大冰，你要写他是主持人、作家、民谣歌手、调酒师、油画画师、皮匠、银匠、手鼓艺人、黄金左脸、老背包客、投资顾问、法国骑士、禅宗弟子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493949884399079427",
+        "conversation_id": "2043312201184993629",
+        "created_at": "2026-04-12T13:31:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T14:31:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043321047521640654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043321047521640654",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043312201184993629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 big ice"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 里账号 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 961,
+          "following_count": 577,
+          "like_count": 36,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 56
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-16T14:06:40.000Z",
+        "description": "I can't stop my loneliness // Average rhythm game player | LGBT friendly | Femboy maybe | a.k.a. hh27v0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "live.acfun.cn/live/75353094",
+                "end": 23,
+                "expanded_url": "http://live.acfun.cn/live/75353094",
+                "start": 0,
+                "url": "https://t.co/RIVtrSRY1Z"
+              }
+            ]
+          }
+        },
+        "id": "1493949884399079427",
+        "location": "@dorich4n",
+        "name": "DoriCh4n",
+        "pinned_tweet_id": "1890795598258856120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918589586118455296/I7tiaMlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 1295,
+          "like_count": 70423,
+          "listed_count": 4,
+          "media_count": 1190,
+          "tweet_count": 12210
+        },
+        "url": "https://t.co/RIVtrSRY1Z",
+        "username": "ThinkingPigeon",
+        "verified": false
+      }
+    ]
+  }
+}

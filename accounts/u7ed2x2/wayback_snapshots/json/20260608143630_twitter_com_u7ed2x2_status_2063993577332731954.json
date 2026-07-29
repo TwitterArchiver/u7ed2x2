@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2063869538467553346",
+    "created_at": "2026-06-08T14:36:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T15:36:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063993577332731954"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1028925064601788417",
+          "start": 0,
+          "username": "BeiKunKun22"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063993577332731954",
+    "in_reply_to_user_id": "1028925064601788417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063986427264921776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@BeiKunKun22 没有啦...\n之前在天津开的选号非预制，小网点要求不高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2063869538467553346",
+        "created_at": "2026-06-08T14:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063993577332731954"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1028925064601788417",
+              "start": 0,
+              "username": "BeiKunKun22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063993577332731954",
+        "in_reply_to_user_id": "1028925064601788417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063986427264921776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@BeiKunKun22 没有啦...\n之前在天津开的选号非预制，小网点要求不高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1028925064601788417",
+        "conversation_id": "2063869538467553346",
+        "created_at": "2026-06-08T14:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T15:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063986427264921776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063986427264921776",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063869538467553346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 中国银行储蓄卡（8888）吗\n尾号好强！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1570,
+          "following_count": 1061,
+          "like_count": 962,
+          "listed_count": 1,
+          "media_count": 196,
+          "tweet_count": 762
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2018-08-13T08:43:46.000Z",
+        "description": "这里是我的QQ空间。是会频繁发自己想法的神秘理中客，如有冒犯可以静音。相信人是具体的，长期开放讨论空间，欢迎与我约聊。福瑞真是太棒啦！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "furrysky.com",
+                "end": 23,
+                "expanded_url": "http://furrysky.com",
+                "start": 0,
+                "url": "https://t.co/vUXpuwTP3W"
+              }
+            ]
+          }
+        },
+        "id": "1028925064601788417",
+        "location": "月球，境外势力",
+        "name": "北冥饼鲲",
+        "pinned_tweet_id": "1584120523180879872",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061686113492942848/Se6g9k5x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4305,
+          "following_count": 1071,
+          "like_count": 11399,
+          "listed_count": 9,
+          "media_count": 1233,
+          "tweet_count": 5438
+        },
+        "url": "https://t.co/vUXpuwTP3W",
+        "username": "BeiKunKun22",
+        "verified": false
+      }
+    ]
+  }
+}

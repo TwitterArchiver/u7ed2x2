@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064716897946640384"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "783350882985385984",
+          "name": "Home - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Home and garden",
+          "id": "864911475436957696",
+          "name": "Home and garden"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026951194",
+          "name": "IKEA"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1416062557706588160",
+          "name": "Superstores"
+        }
+      }
+    ],
+    "conversation_id": "2064716906809135177",
+    "created_at": "2026-06-10T14:30:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T15:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064716906809135177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gX4rjHIAlC",
+          "end": 86,
+          "expanded_url": "https://x.com/u7ed2x2/status/2064716906809135177/photo/1",
+          "media_key": "3_2064716897946640384",
+          "start": 63,
+          "url": "https://t.co/gX4rjHIAlC"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 110,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2064714174199185545",
+          "start": 87,
+          "url": "https://t.co/M1VNT81DXb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064716906809135177",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064714174199185545",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "最早只有鲨鱼\n去年底又在IKEA获得豹豹，NITORI获得新叶喵\n今年在🇯🇵福冈任天堂又获得了狗狗西施惠，它们相处的很融洽😚 https://t.co/gX4rjHIAlC https://t.co/M1VNT81DXb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2064716897946640384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdZFE_bIAAZLAo.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2064714166381027328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdWmFHboAAE6-R.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064716897946640384"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2064716906809135177",
+        "created_at": "2026-06-10T14:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064716906809135177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gX4rjHIAlC",
+              "end": 86,
+              "expanded_url": "https://x.com/u7ed2x2/status/2064716906809135177/photo/1",
+              "media_key": "3_2064716897946640384",
+              "start": 63,
+              "url": "https://t.co/gX4rjHIAlC"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 110,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2064714174199185545",
+              "start": 87,
+              "url": "https://t.co/M1VNT81DXb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064716906809135177",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064714174199185545",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "最早只有鲨鱼\n去年底又在IKEA获得豹豹，NITORI获得新叶喵\n今年在🇯🇵福冈任天堂又获得了狗狗西施惠，它们相处的很融洽😚 https://t.co/gX4rjHIAlC https://t.co/M1VNT81DXb"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064714166381027328"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2064714174199185545",
+        "created_at": "2026-06-10T14:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T15:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064714174199185545"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EEKE1T7OOF",
+              "end": 62,
+              "expanded_url": "https://x.com/u7ed2x2/status/2064714174199185545/photo/1",
+              "media_key": "3_2064714166381027328",
+              "start": 39,
+              "url": "https://t.co/EEKE1T7OOF"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2056393696296530189",
+              "start": 63,
+              "url": "https://t.co/MM4rHD6o2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064714174199185545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 91,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056393696296530189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "晚安安...和动物朋友一起\n\n明天打算在家做饭，顺便用蒸汽清洗机给床垫吸一下 https://t.co/EEKE1T7OOF https://t.co/MM4rHD6o2x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 1058,
+          "like_count": 1019,
+          "listed_count": 1,
+          "media_count": 210,
+          "tweet_count": 796
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

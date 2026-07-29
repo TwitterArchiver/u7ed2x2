@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2054426547155787882",
+    "created_at": "2026-05-13T07:05:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T08:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054458017178140976"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2508919105",
+          "start": 0,
+          "username": "ncysea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054458017178140976",
+    "in_reply_to_user_id": "2508919105",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054440793847304584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ncysea 😱摇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2054426547155787882",
+        "created_at": "2026-05-13T07:05:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T08:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054458017178140976"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2508919105",
+              "start": 0,
+              "username": "ncysea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054458017178140976",
+        "in_reply_to_user_id": "2508919105",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054440793847304584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ncysea 😱摇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2508919105",
+        "conversation_id": "2054426547155787882",
+        "created_at": "2026-05-13T05:57:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T06:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054440793847304584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054440793847304584",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054426547155787882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 禁止躺平 😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1333,
+          "following_count": 866,
+          "like_count": 232,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 207
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-20T01:01:21.000Z",
+        "description": "🇺🇸 He/Him. Speak 🇬🇧🇭🇰🇹🇼🇯🇵🇪🇸.\nMSc in Computer Science.\nFounder, Federal Councillor and MOFA of @enchenia.\nGloria Encheniae a me defenditur.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "2508919105",
+        "location": "Federation of Enchenia 英雪尼亞聯邦",
+        "name": "Ngok Ching Ying Suet 樂正瑩雪",
+        "pinned_tweet_id": "1979023440695656567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011658810264551424/jsDktjC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1907,
+          "following_count": 2151,
+          "like_count": 50861,
+          "listed_count": 12,
+          "media_count": 4328,
+          "tweet_count": 37849
+        },
+        "username": "ncysea",
+        "verified": false
+      }
+    ]
+  }
+}

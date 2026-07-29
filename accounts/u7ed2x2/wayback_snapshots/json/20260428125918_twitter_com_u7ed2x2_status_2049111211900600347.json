@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2049014449080815967",
+    "created_at": "2026-04-28T12:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T13:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049111211900600347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3378804434",
+          "start": 0,
+          "username": "McXiaowei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049111211900600347",
+    "in_reply_to_user_id": "3378804434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049098832236126689",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@McXiaowei 一起陪着nelo！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2049014449080815967",
+        "created_at": "2026-04-28T12:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049111211900600347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3378804434",
+              "start": 0,
+              "username": "McXiaowei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049111211900600347",
+        "in_reply_to_user_id": "3378804434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049098832236126689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@McXiaowei 一起陪着nelo！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3378804434",
+        "conversation_id": "2049014449080815967",
+        "created_at": "2026-04-28T12:10:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T13:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049098832236126689"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049098832236126689",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049014449080815967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 大家都还在呢w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1163,
+          "following_count": 745,
+          "like_count": 152,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 121
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2015-08-29T06:35:50.000Z",
+        "description": "aka. 小魏 / 美食、旅行与日常 / 音游 / ACG / 交通运输 / 川渝常驻 / 政治禁止｜朋友们🌟@podf14 @ice06382670 @Meowneko_Mio / 感谢你的关注～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 55,
+                "username": "podf14"
+              },
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ice06382670"
+              },
+              {
+                "end": 89,
+                "start": 76,
+                "username": "Meowneko_Mio"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+5X0GuEv-a3JmY…",
+                "end": 23,
+                "expanded_url": "https://t.me/+5X0GuEv-a3JmYTE9",
+                "start": 0,
+                "url": "https://t.co/X2YiZhgaa6"
+              }
+            ]
+          }
+        },
+        "id": "3378804434",
+        "location": "KIC 8462852",
+        "name": "Mcxiaowei🐱💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016147719920754689/tRgw-PaK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 909,
+          "like_count": 143545,
+          "listed_count": 11,
+          "media_count": 497,
+          "tweet_count": 6837
+        },
+        "url": "https://t.co/X2YiZhgaa6",
+        "username": "McXiaowei",
+        "verified": false
+      }
+    ]
+  }
+}

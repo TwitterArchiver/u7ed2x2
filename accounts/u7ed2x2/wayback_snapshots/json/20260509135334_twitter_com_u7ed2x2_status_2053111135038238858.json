@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {
+      "title": "离我而去的账户和弃用的卡..."
+    },
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2053111135038238858",
+    "created_at": "2026-05-09T13:53:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T14:53:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053111135038238858"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/i/article/2053…",
+          "end": 23,
+          "expanded_url": "http://x.com/i/article/2053093314367266819",
+          "start": 0,
+          "status": 500,
+          "unwound_url": "https://x.com/i/article/2053093314367266819",
+          "url": "https://t.co/Kb1TtKybuZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053111135038238858",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/Kb1TtKybuZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 432,
+        "media_key": "3_2053110923158851584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4dgbtbkAAvZkV.jpg",
+        "width": 1080
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2053100311431245824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4T2v8acAA_qeF.jpg",
+        "width": 4096
+      },
+      {
+        "height": 959,
+        "media_key": "3_2053106421835939840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4Zaa-awAAaQG2.jpg",
+        "width": 1206
+      },
+      {
+        "height": 931,
+        "media_key": "3_2053105589375664128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4Yp90bAAA9a6m.jpg",
+        "width": 1206
+      },
+      {
+        "height": 936,
+        "media_key": "3_2053106764548358144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4ZuXrbQAAtxWs.jpg",
+        "width": 1206
+      },
+      {
+        "height": 322,
+        "media_key": "3_2053107426359201793",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4aU5HbUAEX1o0.jpg",
+        "width": 1206
+      },
+      {
+        "height": 812,
+        "media_key": "3_2053108730137612288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4bgyEbEAAVAwh.jpg",
+        "width": 1206
+      },
+      {
+        "height": 489,
+        "media_key": "3_2053110163599671296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4c0OIaQAAm4RI.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1149,
+        "media_key": "3_2053108450096496640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4bQe1awAACF13.jpg",
+        "width": 1206
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2053094499560349696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4OkdCaYAAJjvt.jpg",
+        "width": 4032
+      },
+      {
+        "height": 831,
+        "media_key": "3_2053102433673601024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4VyR6a4AAQdVm.jpg",
+        "width": 1206
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2053097326026297344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4RI-caEAAnaPR.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2053098120347820032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4R3NhaoAAN6iD.jpg",
+        "width": 4096
+      },
+      {
+        "height": 981,
+        "media_key": "3_2053108904738086912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4bq8ga4AABoUO.jpg",
+        "width": 1206
+      },
+      {
+        "height": 330,
+        "media_key": "3_2053109138557911040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4b4jjaQAARlpj.jpg",
+        "width": 1206
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2053094018666692608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4OIdkbgAA41ID.jpg",
+        "width": 4032
+      },
+      {
+        "height": 2376,
+        "media_key": "3_2053100046942642176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4TnWpaoAAKQLk.jpg",
+        "width": 3415
+      },
+      {
+        "height": 499,
+        "media_key": "3_2053107499981811712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4aZLYbMAA4NjL.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2053110427740237824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4dDmIbcAAtBeE.jpg",
+        "width": 1080
+      },
+      {
+        "height": 934,
+        "media_key": "3_2053104785004589056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4X7JTacAAOlFS.jpg",
+        "width": 1206
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2053095143302152192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4PJ7KawAAMApV.jpg",
+        "width": 4032
+      },
+      {
+        "height": 960,
+        "media_key": "3_2053096440596176896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH4QVb9aoAA2A-E.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {
+          "title": "离我而去的账户和弃用的卡..."
+        },
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2053111135038238858",
+        "created_at": "2026-05-09T13:53:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T14:53:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053111135038238858"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2053…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2053093314367266819",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2053093314367266819",
+              "url": "https://t.co/Kb1TtKybuZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053111135038238858",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Kb1TtKybuZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 823,
+          "like_count": 199,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 178
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

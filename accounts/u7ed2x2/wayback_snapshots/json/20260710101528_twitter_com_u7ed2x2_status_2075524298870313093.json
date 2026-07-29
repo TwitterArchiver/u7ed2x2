@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075524292792696833"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2075524298870313093",
+    "created_at": "2026-07-10T10:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T11:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075524298870313093"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mg45kFjAcs",
+          "end": 48,
+          "expanded_url": "https://x.com/u7ed2x2/status/2075524298870313093/photo/1",
+          "media_key": "3_2075524292792696833",
+          "start": 25,
+          "url": "https://t.co/mg45kFjAcs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075524298870313093",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "准备了22个问题...\n欢迎评论数字，狗会回答的 https://t.co/mg45kFjAcs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1095,
+        "media_key": "3_2075524292792696833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM2-WQKaQAESHEk.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075524292792696833"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075524298870313093",
+        "created_at": "2026-07-10T10:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075524298870313093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mg45kFjAcs",
+              "end": 48,
+              "expanded_url": "https://x.com/u7ed2x2/status/2075524298870313093/photo/1",
+              "media_key": "3_2075524292792696833",
+              "start": 25,
+              "url": "https://t.co/mg45kFjAcs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075524298870313093",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备了22个问题...\n欢迎评论数字，狗会回答的 https://t.co/mg45kFjAcs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1697,
+          "following_count": 1062,
+          "like_count": 2799,
+          "listed_count": 3,
+          "media_count": 362,
+          "tweet_count": 1462
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

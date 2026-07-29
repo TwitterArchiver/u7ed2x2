@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066754650460811264"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2066739788913524811",
+    "created_at": "2026-06-16T05:28:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T06:28:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066754656961966563"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/O6jlfEeRK9",
+          "end": 89,
+          "expanded_url": "https://x.com/u7ed2x2/status/2066754656961966563/photo/1",
+          "media_key": "3_2066754650460811264",
+          "start": 66,
+          "url": "https://t.co/O6jlfEeRK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066754656961966563",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066751505710067800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@itsCatRoll ...那还挺神奇的\n线下峰会去过几次，APP也Dump出来分析过，还没见过非CNID绑卡/扣款成功案例（） https://t.co/O6jlfEeRK9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2066754650460811264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK6WZ4qacAAxTWZ.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066754650460811264"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2066739788913524811",
+        "created_at": "2026-06-16T05:28:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:28:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066754656961966563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6jlfEeRK9",
+              "end": 89,
+              "expanded_url": "https://x.com/u7ed2x2/status/2066754656961966563/photo/1",
+              "media_key": "3_2066754650460811264",
+              "start": 66,
+              "url": "https://t.co/O6jlfEeRK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066754656961966563",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066751505710067800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@itsCatRoll ...那还挺神奇的\n线下峰会去过几次，APP也Dump出来分析过，还没见过非CNID绑卡/扣款成功案例（） https://t.co/O6jlfEeRK9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2066739788913524811",
+        "created_at": "2026-06-16T05:15:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T06:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066751505710067800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066751505710067800",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066751210221359595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 我就没弄过ecny，不知道从哪里连接到卡上扣的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1594,
+          "following_count": 1063,
+          "like_count": 1219,
+          "listed_count": 1,
+          "media_count": 239,
+          "tweet_count": 921
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "（即将退役的）糖商\n里账号@LTSxn0z\n\n💌@hobartr6\n妹妹@leetfs1\n笨蛋肥鸟姐姐@hoshi_asuka0089\n大猫@_furryfur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 13,
+                "username": "LTSxn0z"
+              },
+              {
+                "end": 33,
+                "start": 24,
+                "username": "hobartr6"
+              },
+              {
+                "end": 44,
+                "start": 36,
+                "username": "leetfs1"
+              },
+              {
+                "end": 67,
+                "start": 51,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 81,
+                "start": 70,
+                "username": "_furryfur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺 ➡️",
+        "name": "衍星猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060910085187219456/yA1wVEhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4091,
+          "following_count": 846,
+          "like_count": 4189,
+          "listed_count": 9,
+          "media_count": 92,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

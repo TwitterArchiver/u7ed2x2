@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2054814085523656704"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2054814171653603610",
+    "created_at": "2026-05-14T06:40:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T07:40:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054814171653603610"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GBfWfoKd3o",
+          "end": 33,
+          "expanded_url": "https://x.com/u7ed2x2/status/2054814171653603610/video/1",
+          "media_key": "13_2054814085523656704",
+          "start": 10,
+          "url": "https://t.co/GBfWfoKd3o"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2054758680068022329",
+          "start": 34,
+          "url": "https://t.co/JF9u4rLqmk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054814171653603610",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054758680068022329",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "end\n明天回大同 https://t.co/GBfWfoKd3o https://t.co/JF9u4rLqmk"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33466,
+        "height": 1920,
+        "media_key": "13_2054814085523656704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2054814085523656704/img/BzsQp32B7F4QMcDy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054814085523656704/vid/avc1/1080x1920/gFd-8Gzjzmsi_Rzk.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054814085523656704/vid/avc1/320x568/BFe1x1LSWS1f9vNH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2054814085523656704/pl/76o-3akfaYoPMQaU.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054814085523656704/vid/avc1/720x1280/4Mszs7ooaNG0XIKB.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2054814085523656704/vid/avc1/480x852/5Zd21YyjyuIUQrNH.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2054814085523656704"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2054814171653603610",
+        "created_at": "2026-05-14T06:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T07:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054814171653603610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GBfWfoKd3o",
+              "end": 33,
+              "expanded_url": "https://x.com/u7ed2x2/status/2054814171653603610/video/1",
+              "media_key": "13_2054814085523656704",
+              "start": 10,
+              "url": "https://t.co/GBfWfoKd3o"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2054758680068022329",
+              "start": 34,
+              "url": "https://t.co/JF9u4rLqmk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054814171653603610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054758680068022329",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "end\n明天回大同 https://t.co/GBfWfoKd3o https://t.co/JF9u4rLqmk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2054758680068022329",
+        "created_at": "2026-05-14T03:00:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T04:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054758680068022329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2054479365241798684",
+              "start": 94,
+              "url": "https://t.co/QfUlq8afnR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054758680068022329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 329,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054479365241798684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨天水被掐断之后我连洗手都在倒矿泉水，心疼鼠了\n\n今天维修很早就敲门过来，那会儿我还什么都没穿迷迷糊糊抱着鲨鱼乱滚\n\n修完之后又跟我说《待会儿》继续派人来把水打开\n\n结果呢？人呢？水呢？ https://t.co/QfUlq8afnR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1343,
+          "following_count": 884,
+          "like_count": 257,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 235
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

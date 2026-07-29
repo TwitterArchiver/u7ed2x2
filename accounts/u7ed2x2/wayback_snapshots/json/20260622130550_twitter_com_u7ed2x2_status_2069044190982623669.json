@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2068984735590912361",
+    "created_at": "2026-06-22T13:05:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T14:05:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069044190982623669"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1515153921836478467",
+          "start": 0,
+          "username": "kamisato_ataki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069044190982623669",
+    "in_reply_to_user_id": "1515153921836478467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068984735590912361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kamisato_ataki 给我吃一根"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2068984693039734784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLaCncpaoAAmqB2.jpg",
+        "width": 2048
+      },
+      {
+        "duration_ms": 7463,
+        "height": 720,
+        "media_key": "7_2068984694545481728",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2068984694545481728/pu/img/HdhbNRudyfNff2ji.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068984694545481728/pu/vid/avc1/480x270/5ZTI3r5-Jefv7wo8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068984694545481728/pu/vid/avc1/640x360/EpS08qoit4O_i1tl.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2068984694545481728/pu/vid/avc1/1280x720/3g7qEx7kNRAJGIWM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2068984694545481728/pu/pl/KcZEEWZitldnkavj.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2068984735590912361",
+        "created_at": "2026-06-22T13:05:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T14:05:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069044190982623669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1515153921836478467",
+              "start": 0,
+              "username": "kamisato_ataki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069044190982623669",
+        "in_reply_to_user_id": "1515153921836478467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068984735590912361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kamisato_ataki 给我吃一根"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068984693039734784",
+            "7_2068984694545481728"
+          ]
+        },
+        "author_id": "1515153921836478467",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2068984735590912361",
+        "created_at": "2026-06-22T09:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068984735590912361"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AXrlqMvcXm",
+              "end": 43,
+              "expanded_url": "https://x.com/kamisato_ataki/status/2068984735590912361/video/1",
+              "media_key": "3_2068984693039734784",
+              "start": 20,
+              "url": "https://t.co/AXrlqMvcXm"
+            },
+            {
+              "display_url": "pic.x.com/AXrlqMvcXm",
+              "end": 43,
+              "expanded_url": "https://x.com/kamisato_ataki/status/2068984735590912361/video/1",
+              "media_key": "7_2068984694545481728",
+              "start": 20,
+              "url": "https://t.co/AXrlqMvcXm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068984735590912361",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为这个烤肠烤好后一口下去会特别疯狂 https://t.co/AXrlqMvcXm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1606,
+          "following_count": 1060,
+          "like_count": 1418,
+          "listed_count": 1,
+          "media_count": 264,
+          "tweet_count": 1002
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-16T02:23:56.000Z",
+        "description": "学生/神秘泛性恋MTX/数码爱好者/photograph/anime/穷鬼/常年发送废话条/友跨/不喜欢鉴政/音游/ISFP/X绝不赞营业中/OSU!player/tg:@kamisato_GAN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 98,
+                "start": 85,
+                "username": "kamisato_GAN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "osu.ppy.sh/users/32856987",
+                "end": 23,
+                "expanded_url": "https://osu.ppy.sh/users/32856987",
+                "start": 0,
+                "url": "https://t.co/oi24eu4blh"
+              }
+            ]
+          }
+        },
+        "id": "1515153921836478467",
+        "location": "大湾区",
+        "name": "taki",
+        "pinned_tweet_id": "1896048698729410943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016186272255967232/27sxIYaR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 1232,
+          "like_count": 8297,
+          "listed_count": 2,
+          "media_count": 546,
+          "tweet_count": 2694
+        },
+        "url": "https://t.co/oi24eu4blh",
+        "username": "kamisato_ataki",
+        "verified": false
+      }
+    ]
+  }
+}

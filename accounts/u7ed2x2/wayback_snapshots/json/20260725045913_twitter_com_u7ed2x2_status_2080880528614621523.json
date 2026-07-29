@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080880514173689856"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2080880528614621523",
+    "created_at": "2026-07-25T04:59:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T05:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080880528614621523"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fZtF3CcP78",
+          "end": 37,
+          "expanded_url": "https://x.com/u7ed2x2/status/2080880528614621523/photo/1",
+          "media_key": "3_2080880514173689856",
+          "start": 14,
+          "url": "https://t.co/fZtF3CcP78"
+        },
+        {
+          "display_url": "x.com/a1tk0/status/2…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/a1tk0/status/2080877372757487750",
+          "start": 38,
+          "url": "https://t.co/jZalYf0yH4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080880528614621523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080877372757487750",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "这片区域怎么拍都好看... https://t.co/fZtF3CcP78 https://t.co/jZalYf0yH4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080880514173689856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODFzXta4AAmnZR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2080877333461057536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODC6OobwAAgyb0.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 4536,
+        "height": 1920,
+        "media_key": "13_2080877333469401089",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080877333469401089/img/DmKAbaxYMCwIkT36.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080877333469401089/pl/iGRFb7ejPHxx_q1Q.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080877333469401089/vid/avc1/320x568/3NDMhq15pPVFyTMZ.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080877333469401089/vid/avc1/1080x1920/T-5zJyuhsnwF9syU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080877333469401089/vid/avc1/480x852/WiAUzk0jz21PcToD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080877333469401089/vid/avc1/720x1280/fowm3NFN1Uw2IXU_.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080880514173689856"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2080880528614621523",
+        "created_at": "2026-07-25T04:59:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080880528614621523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fZtF3CcP78",
+              "end": 37,
+              "expanded_url": "https://x.com/u7ed2x2/status/2080880528614621523/photo/1",
+              "media_key": "3_2080880514173689856",
+              "start": 14,
+              "url": "https://t.co/fZtF3CcP78"
+            },
+            {
+              "display_url": "x.com/a1tk0/status/2…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/a1tk0/status/2080877372757487750",
+              "start": 38,
+              "url": "https://t.co/jZalYf0yH4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080880528614621523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080877372757487750",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "这片区域怎么拍都好看... https://t.co/fZtF3CcP78 https://t.co/jZalYf0yH4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080877333461057536",
+            "13_2080877333469401089"
+          ]
+        },
+        "author_id": "1680039839209775107",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2080877372757487750",
+        "created_at": "2026-07-25T04:46:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T05:46:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080877372757487750"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kqElcdDeIu",
+              "end": 38,
+              "expanded_url": "https://x.com/A1tk0/status/2080877372757487750/video/1",
+              "media_key": "3_2080877333461057536",
+              "start": 15,
+              "url": "https://t.co/kqElcdDeIu"
+            },
+            {
+              "display_url": "pic.x.com/kqElcdDeIu",
+              "end": 38,
+              "expanded_url": "https://x.com/A1tk0/status/2080877372757487750/video/1",
+              "media_key": "13_2080877333469401089",
+              "start": 15,
+              "url": "https://t.co/kqElcdDeIu"
+            },
+            {
+              "display_url": "x.com/a1tk0/status/2…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/a1tk0/status/2077975367294517386",
+              "start": 39,
+              "url": "https://t.co/qJlJnIW8W6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080877372757487750",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 103,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077975367294517386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上周没来得及去海贝湾\n补上！ https://t.co/kqElcdDeIu https://t.co/qJlJnIW8W6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1705,
+          "following_count": 1064,
+          "like_count": 3515,
+          "listed_count": 3,
+          "media_count": 404,
+          "tweet_count": 1681
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T02:21:33.000Z",
+        "description": "🇭🇰 cat. proudly obsessed with one special puppy: @u7ed2x2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "u7ed2x2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/a1tk0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/a1tk0",
+                "start": 0,
+                "url": "https://t.co/ipMVUM8qku"
+              }
+            ]
+          }
+        },
+        "id": "1680039839209775107",
+        "name": "Altko",
+        "pinned_tweet_id": "2076178227589226805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 402,
+          "like_count": 1394,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 462
+        },
+        "url": "https://t.co/ipMVUM8qku",
+        "username": "A1tk0",
+        "verified": true
+      }
+    ]
+  }
+}

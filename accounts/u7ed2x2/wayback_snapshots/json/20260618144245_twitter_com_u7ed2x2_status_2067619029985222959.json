@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067618970405109760",
+        "13_2067618970421903360"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2067619029985222959",
+    "created_at": "2026-06-18T14:42:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:42:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067619029985222959"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YY5X5BRUk6",
+          "end": 141,
+          "expanded_url": "https://x.com/u7ed2x2/status/2067619029985222959/video/1",
+          "media_key": "3_2067618970405109760",
+          "start": 118,
+          "url": "https://t.co/YY5X5BRUk6"
+        },
+        {
+          "display_url": "pic.x.com/YY5X5BRUk6",
+          "end": 141,
+          "expanded_url": "https://x.com/u7ed2x2/status/2067619029985222959/video/1",
+          "media_key": "13_2067618970421903360",
+          "start": 118,
+          "url": "https://t.co/YY5X5BRUk6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067619029985222959",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "清洗机提升了狗的生活体验\n\n它的原理是喷出高温水汽后再用强吸力吸走，因此不会残留很多水分，剩下的水拿高速吹风机一吹就干，适合洗枕头，以及床垫和沙发这类无法放进洗衣机的大件\n\n相比用除螨袋或除螨喷雾，用清洗机高温除菌/除螨的效果会更彻底 https://t.co/YY5X5BRUk6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2067618970405109760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLGof7XbAAAoOO5.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 9700,
+        "height": 1920,
+        "media_key": "13_2067618970421903360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2067618970421903360/img/oCIFK_gbX50DeDu3.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067618970421903360/vid/avc1/320x568/nMZC9e3jHAXpMF4X.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067618970421903360/vid/avc1/480x852/MqAyNx-VnZwepWGf.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067618970421903360/vid/avc1/1080x1920/vqUPRKVZP_NEzaY5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2067618970421903360/pl/1-V49RvoEPIC41qJ.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2067618970421903360/vid/avc1/720x1280/kBR-yGe0EkodK3BY.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067618970405109760",
+            "13_2067618970421903360"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2067619029985222959",
+        "created_at": "2026-06-18T14:42:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:42:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067619029985222959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YY5X5BRUk6",
+              "end": 141,
+              "expanded_url": "https://x.com/u7ed2x2/status/2067619029985222959/video/1",
+              "media_key": "3_2067618970405109760",
+              "start": 118,
+              "url": "https://t.co/YY5X5BRUk6"
+            },
+            {
+              "display_url": "pic.x.com/YY5X5BRUk6",
+              "end": 141,
+              "expanded_url": "https://x.com/u7ed2x2/status/2067619029985222959/video/1",
+              "media_key": "13_2067618970421903360",
+              "start": 118,
+              "url": "https://t.co/YY5X5BRUk6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067619029985222959",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "清洗机提升了狗的生活体验\n\n它的原理是喷出高温水汽后再用强吸力吸走，因此不会残留很多水分，剩下的水拿高速吹风机一吹就干，适合洗枕头，以及床垫和沙发这类无法放进洗衣机的大件\n\n相比用除螨袋或除螨喷雾，用清洗机高温除菌/除螨的效果会更彻底 https://t.co/YY5X5BRUk6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1601,
+          "following_count": 1064,
+          "like_count": 1293,
+          "listed_count": 1,
+          "media_count": 252,
+          "tweet_count": 957
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2058209633970557119",
+    "created_at": "2026-05-23T15:47:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T16:47:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058213237192380478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1952872127725740032",
+          "start": 0,
+          "username": "Taaminaru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058213237192380478",
+    "in_reply_to_user_id": "1952872127725740032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058211048608706725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taaminaru 我觉得还好...能看到身边纯三次人的生活"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2058209633970557119",
+        "created_at": "2026-05-23T15:47:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:47:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058213237192380478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1952872127725740032",
+              "start": 0,
+              "username": "Taaminaru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058213237192380478",
+        "in_reply_to_user_id": "1952872127725740032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058211048608706725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taaminaru 我觉得还好...能看到身边纯三次人的生活"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1952872127725740032",
+        "conversation_id": "2058209633970557119",
+        "created_at": "2026-05-23T15:38:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058211048608706725"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058211048608706725",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058209633970557119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 朋友圈总感觉没什么意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1474,
+          "following_count": 1029,
+          "like_count": 495,
+          "listed_count": 1,
+          "media_count": 122,
+          "tweet_count": 411
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-05T23:19:53.000Z",
+        "description": "🏳️‍⚧️HRT20260314/于终端向外发送数据-NSFW：血液/傷跡/S〇X#back���������",
+        "id": "1952872127725740032",
+        "name": "终端ターミナル",
+        "pinned_tweet_id": "2032736343114342468",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953822055377645571/KRFSYaUR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 70,
+          "like_count": 824,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 957
+        },
+        "username": "Taaminaru",
+        "verified": false
+      }
+    ]
+  }
+}

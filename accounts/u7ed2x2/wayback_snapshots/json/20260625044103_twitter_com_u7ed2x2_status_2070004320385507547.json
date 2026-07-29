@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070004136595304448"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2070004320385507547",
+    "created_at": "2026-06-25T04:41:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:41:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070004320385507547"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/H2lB3orEar",
+          "end": 27,
+          "expanded_url": "https://x.com/u7ed2x2/status/2070004320385507547/video/1",
+          "media_key": "13_2070004136595304448",
+          "start": 4,
+          "url": "https://t.co/H2lB3orEar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070004320385507547",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已笑鼠 https://t.co/H2lB3orEar"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26891,
+        "height": 1200,
+        "media_key": "13_2070004136595304448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070004136595304448/img/rGhOodSVDXdPSo7A.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070004136595304448/vid/avc1/1152x720/OvBN0u_vNkoU8u37.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070004136595304448/pl/Hhc-t4E56nU9lQgu.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070004136595304448/vid/avc1/576x360/so1rlfeO6wSB_vB_.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070004136595304448/vid/avc1/432x270/oheFJWoLbU-BLdKz.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070004136595304448/vid/avc1/1920x1200/9GQjDQpQG4ghZWO2.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070004136595304448"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2070004320385507547",
+        "created_at": "2026-06-25T04:41:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:41:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070004320385507547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H2lB3orEar",
+              "end": 27,
+              "expanded_url": "https://x.com/u7ed2x2/status/2070004320385507547/video/1",
+              "media_key": "13_2070004136595304448",
+              "start": 4,
+              "url": "https://t.co/H2lB3orEar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070004320385507547",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已笑鼠 https://t.co/H2lB3orEar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 1058,
+          "like_count": 1502,
+          "listed_count": 2,
+          "media_count": 275,
+          "tweet_count": 1036
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

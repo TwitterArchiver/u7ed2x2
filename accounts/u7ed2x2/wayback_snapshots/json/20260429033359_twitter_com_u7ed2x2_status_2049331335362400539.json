@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303720909161689088",
+          "name": "Idols"
+        }
+      }
+    ],
+    "conversation_id": "2049154724470087847",
+    "created_at": "2026-04-29T03:33:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T04:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049331335362400539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "730771967633039360",
+          "start": 0,
+          "username": "Mirror_39"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/1207auggnod/st…",
+          "end": 34,
+          "expanded_url": "https://x.com/1207auggnod/status/2049297748575543695",
+          "start": 11,
+          "url": "https://t.co/2X1wlK05Ty"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049331335362400539",
+    "in_reply_to_user_id": "730771967633039360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049297748575543695",
+        "type": "quoted"
+      },
+      {
+        "id": "2049301183911821759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mirror_39 https://t.co/2X1wlK05Ty"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2049154724470087847",
+        "created_at": "2026-04-29T03:33:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T04:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049331335362400539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "730771967633039360",
+              "start": 0,
+              "username": "Mirror_39"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/1207auggnod/st…",
+              "end": 34,
+              "expanded_url": "https://x.com/1207auggnod/status/2049297748575543695",
+              "start": 11,
+              "url": "https://t.co/2X1wlK05Ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049331335362400539",
+        "in_reply_to_user_id": "730771967633039360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049297748575543695",
+            "type": "quoted"
+          },
+          {
+            "id": "2049301183911821759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mirror_39 https://t.co/2X1wlK05Ty"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929159802477010944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303720909161689088",
+              "name": "Idols"
+            }
+          }
+        ],
+        "conversation_id": "2049154724470087847",
+        "created_at": "2026-04-29T01:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049297748575543695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049297748575543695",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049154724470087847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 [武藤まと] 描き下ろしアイドルちゃんはとろけたい"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "730771967633039360",
+        "conversation_id": "2049154724470087847",
+        "created_at": "2026-04-29T01:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T02:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049301183911821759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049301183911821759",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 239,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049154724470087847",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 诶？本子有出处嘛w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1175,
+          "following_count": 738,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 130
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2016-05-12T14:49:49.000Z",
+        "description": "",
+        "id": "730771967633039360",
+        "location": "Yunnan",
+        "name": "Hatsune Mirror",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1736956403867414528/AzQbiaAd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 376,
+          "like_count": 64,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 21
+        },
+        "username": "Mirror_39",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T12:55:39.000Z",
+        "description": "富贵我就淫喵，贫贱我就移喵，威武我就屈喵，色诱我就从喵，不打我就招喵，打我我就哭喵，有气我就生喵，有钱我就花喵，有逼我就装喵，饿了我就吃喵，渴了我就喝喵，困了我就睡喵，有活我不干喵，有苦我不吃喵。摇头晃脑喵，精神涣散喵，嘴角抽搐流口水喵，一边阴暗爬行喵，一边不停地说着喵！喵！喵! 不知道是不是有人在背后做局阴我喵",
+        "id": "1929159802477010944",
+        "location": "OL62",
+        "name": "结核分歧杆菌",
+        "pinned_tweet_id": "2048451518207271043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048138618305454080/wFe-DTWT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 272,
+          "like_count": 29404,
+          "listed_count": 1,
+          "media_count": 1156,
+          "tweet_count": 4792
+        },
+        "username": "1207auggnoD",
+        "verified": false
+      }
+    ]
+  }
+}

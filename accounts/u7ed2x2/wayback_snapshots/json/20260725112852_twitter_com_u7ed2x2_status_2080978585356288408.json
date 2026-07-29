@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2080978322520240471",
+    "created_at": "2026-07-25T11:28:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T12:28:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080978585356288408"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080978585356288408",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080978322520240471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "看完电影只希望Altko不要被夺舍 不要盯着我睡觉 不要一边后退一边诡异笑 不要用胶带封门 不要给我做猫肉便当"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 259,
+        "media_key": "3_2080978317399019520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOEewRHb0AANdVc.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2080978322520240471",
+        "created_at": "2026-07-25T11:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080978585356288408"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080978585356288408",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080978322520240471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "看完电影只希望Altko不要被夺舍 不要盯着我睡觉 不要一边后退一边诡异笑 不要用胶带封门 不要给我做猫肉便当"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080978317399019520"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2080978322520240471",
+        "created_at": "2026-07-25T11:27:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T12:27:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080978322520240471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cUR5AL8SDL",
+              "end": 39,
+              "expanded_url": "https://x.com/u7ed2x2/status/2080978322520240471/photo/1",
+              "media_key": "3_2080978317399019520",
+              "start": 16,
+              "url": "https://t.co/cUR5AL8SDL"
+            },
+            {
+              "display_url": "x.com/a1tk0/status/2…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/a1tk0/status/2080960514537177529",
+              "start": 40,
+              "url": "https://t.co/UU8r07Ry8M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080978322520240471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080960514537177529",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "你bio是什么啊...别吓我😰 https://t.co/cUR5AL8SDL https://t.co/UU8r07Ry8M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 1063,
+          "like_count": 3527,
+          "listed_count": 3,
+          "media_count": 406,
+          "tweet_count": 1686
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

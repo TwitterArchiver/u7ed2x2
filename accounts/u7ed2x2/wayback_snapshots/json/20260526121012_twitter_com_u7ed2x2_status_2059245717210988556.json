@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2059181796491919603",
+    "created_at": "2026-05-26T12:10:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T13:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059245717210988556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1425706149060308994",
+          "start": 0,
+          "username": "Hitman_T800"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059245717210988556",
+    "in_reply_to_user_id": "1425706149060308994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059181796491919603",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hitman_T800 记得看电器能效标识（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2059181796491919603",
+        "created_at": "2026-05-26T12:10:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T13:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059245717210988556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1425706149060308994",
+              "start": 0,
+              "username": "Hitman_T800"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059245717210988556",
+        "in_reply_to_user_id": "1425706149060308994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059181796491919603",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hitman_T800 记得看电器能效标识（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425706149060308994",
+        "conversation_id": "2059181796491919603",
+        "created_at": "2026-05-26T07:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T08:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059181796491919603"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059181796491919603",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "准备租房了，每次这种大事之前都不怎么能平静"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1490,
+          "following_count": 1036,
+          "like_count": 558,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 457
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-12T06:30:25.000Z",
+        "description": "碎碎念/男的",
+        "id": "1425706149060308994",
+        "name": "仿生人T800",
+        "pinned_tweet_id": "1905188226819854730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993362668347170816/31pbj8ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 721,
+          "like_count": 63377,
+          "listed_count": 3,
+          "media_count": 698,
+          "tweet_count": 9956
+        },
+        "username": "Hitman_T800",
+        "verified": false
+      }
+    ]
+  }
+}

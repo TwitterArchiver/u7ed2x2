@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075154240897724416"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2075135059129221276",
+    "created_at": "2026-07-09T09:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T10:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075154246199369835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1852991026480492544",
+          "start": 0,
+          "username": "silo2077"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ogW4LCHR56",
+          "end": 41,
+          "expanded_url": "https://x.com/u7ed2x2/status/2075154246199369835/photo/1",
+          "media_key": "3_2075154240897724416",
+          "start": 18,
+          "url": "https://t.co/ogW4LCHR56"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075154246199369835",
+    "in_reply_to_user_id": "1852991026480492544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075135059129221276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silo2077 这位图都是盗的 https://t.co/ogW4LCHR56"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2075135059129221276].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2075135059129221276",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2075135059129221276"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2075154240897724416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMxtyZbasAAj_N_.jpg",
+        "width": 1450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075154240897724416"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2075135059129221276",
+        "created_at": "2026-07-09T09:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T10:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075154246199369835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1852991026480492544",
+              "start": 0,
+              "username": "silo2077"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ogW4LCHR56",
+              "end": 41,
+              "expanded_url": "https://x.com/u7ed2x2/status/2075154246199369835/photo/1",
+              "media_key": "3_2075154240897724416",
+              "start": 18,
+              "url": "https://t.co/ogW4LCHR56"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075154246199369835",
+        "in_reply_to_user_id": "1852991026480492544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075135059129221276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silo2077 这位图都是盗的 https://t.co/ogW4LCHR56"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1688,
+          "following_count": 1063,
+          "like_count": 2741,
+          "listed_count": 3,
+          "media_count": 357,
+          "tweet_count": 1445
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-03T08:27:50.000Z",
+        "description": "06米国留子🍘\n君と一緒にいることはユートピアなんかじゃない。",
+        "id": "1852991026480492544",
+        "location": "California, USA",
+        "name": "໊",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071224247373168640/ZMJBexIP_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 417,
+          "like_count": 4403,
+          "listed_count": 0,
+          "media_count": 356,
+          "tweet_count": 1659
+        },
+        "url": "",
+        "username": "silo2077",
+        "verified": true
+      }
+    ]
+  }
+}

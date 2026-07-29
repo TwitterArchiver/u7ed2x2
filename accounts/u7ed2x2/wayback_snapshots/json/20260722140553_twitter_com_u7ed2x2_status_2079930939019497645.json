@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2079911907247657372",
+    "created_at": "2026-07-22T14:05:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:05:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079930939019497645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1752569012012363776",
+          "start": 0,
+          "username": "queue_prompt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079930939019497645",
+    "in_reply_to_user_id": "1752569012012363776",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079928882866622495",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@queue_prompt 百合厨爽吃time——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2079911907247657372",
+        "created_at": "2026-07-22T14:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079930939019497645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1752569012012363776",
+              "start": 0,
+              "username": "queue_prompt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079930939019497645",
+        "in_reply_to_user_id": "1752569012012363776",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079928882866622495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@queue_prompt 百合厨爽吃time——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752569012012363776",
+        "conversation_id": "2079911907247657372",
+        "created_at": "2026-07-22T13:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T14:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079928882866622495"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079928882866622495",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079911907247657372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 CA暑假也要再去一次hk了，死戀太好看了嗚嗚🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 1066,
+          "like_count": 3437,
+          "listed_count": 3,
+          "media_count": 397,
+          "tweet_count": 1658
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-31T05:46:59.000Z",
+        "description": "09高二 | 169cm/52kg | mtf/hrt since 25.7.24/天賦也許及格 | xp疑似危險 | minecraft/counter-strike | 某人@Platelet_X | looking forward to one day when I could love summer",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 89,
+                "username": "Platelet_X"
+              }
+            ]
+          }
+        },
+        "id": "1752569012012363776",
+        "location": "NaN",
+        "name": "mimosa|Yoshino233醬世界第一可愛！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058110569786355712/0omHmmDA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 166,
+          "like_count": 22870,
+          "listed_count": 5,
+          "media_count": 400,
+          "tweet_count": 4409
+        },
+        "url": "",
+        "username": "queue_prompt",
+        "verified": false
+      }
+    ]
+  }
+}

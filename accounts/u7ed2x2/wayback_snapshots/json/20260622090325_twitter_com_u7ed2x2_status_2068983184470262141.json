@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2068814733663232469",
+    "created_at": "2026-06-22T09:03:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:03:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068983184470262141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1355034977570701316",
+          "start": 0,
+          "username": "JCMarkEvo"
+        },
+        {
+          "end": 23,
+          "id": "1574361489468628992",
+          "start": 11,
+          "username": "119Calling_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068983184470262141",
+    "in_reply_to_user_id": "1355034977570701316",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068971320386191461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JCMarkEvo @119Calling_ 已经飞起来了😭"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2068971314979729408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLZ2cvfW8AAEb8S.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2068814733663232469",
+        "created_at": "2026-06-22T09:03:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:03:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068983184470262141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1355034977570701316",
+              "start": 0,
+              "username": "JCMarkEvo"
+            },
+            {
+              "end": 23,
+              "id": "1574361489468628992",
+              "start": 11,
+              "username": "119Calling_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068983184470262141",
+        "in_reply_to_user_id": "1355034977570701316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068971320386191461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JCMarkEvo @119Calling_ 已经飞起来了😭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068971314979729408"
+          ]
+        },
+        "author_id": "1355034977570701316",
+        "conversation_id": "2068814733663232469",
+        "created_at": "2026-06-22T08:16:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:16:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068971320386191461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1574361489468628992",
+              "start": 0,
+              "username": "119Calling_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6eLP1h8yIG",
+              "end": 43,
+              "expanded_url": "https://x.com/JCMarkEvo/status/2068971320386191461/photo/1",
+              "media_key": "3_2068971314979729408",
+              "start": 20,
+              "url": "https://t.co/6eLP1h8yIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068971320386191461",
+        "in_reply_to_user_id": "1574361489468628992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068925614107844927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@119Calling_ 分享好东西😎 https://t.co/6eLP1h8yIG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 1061,
+          "like_count": 1410,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 997
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-29T06:08:18.000Z",
+        "description": "你好哦~？ 咳咳，这里是Mark，没什么好介绍的，痛苦上学壬，偶尔会掉落一两张手绘",
+        "id": "1355034977570701316",
+        "location": "Port 443",
+        "name": "𝓙.𝓒.𝓜𝓪𝓻𝓴🍀",
+        "pinned_tweet_id": "1897213562684367065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062637381954453504/UVXPomf__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3584,
+          "following_count": 883,
+          "like_count": 34943,
+          "listed_count": 19,
+          "media_count": 1531,
+          "tweet_count": 6275
+        },
+        "url": "",
+        "username": "JCMarkEvo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-26T11:33:37.000Z",
+        "description": "☥ en & ch | 追星 聽歌 我玩遊戲 我嗶嗶叭叭 | 🕊️ @PalomoLim / 👭 @Flowers8964 / mum @asahisuki0 ˚✧₊⁎⁺˳✧༚ ☥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 34,
+                "username": "PalomoLim"
+              },
+              {
+                "end": 61,
+                "start": 49,
+                "username": "Flowers8964"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "asahisuki0"
+              }
+            ]
+          }
+        },
+        "id": "1574361489468628992",
+        "location": "the Observateur, standing",
+        "name": "𝘕⁺",
+        "pinned_tweet_id": "2063641263610691896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039715532153430017/Jgc1rnwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 983,
+          "like_count": 33580,
+          "listed_count": 3,
+          "media_count": 2249,
+          "tweet_count": 12610
+        },
+        "url": "",
+        "username": "119Calling_",
+        "verified": false
+      }
+    ]
+  }
+}

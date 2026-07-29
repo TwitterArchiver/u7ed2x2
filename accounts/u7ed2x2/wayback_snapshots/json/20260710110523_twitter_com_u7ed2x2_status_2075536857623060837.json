@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2075524298870313093",
+    "created_at": "2026-07-10T11:05:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T12:05:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075536857623060837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1493949884399079427",
+          "start": 0,
+          "username": "ThinkingPigeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075536857623060837",
+    "in_reply_to_user_id": "1493949884399079427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "从22年底就认识的鸽子，也是狗面过的第一位推友\n\n聊过这么多这么久，鸽子算是一路看着狗一点点变化的人。无论是心态、对人对事的方式，还是声音上的变化都有见证到\n\n狗买了电脑，你会陪我打CS。买了VR，你也会陪我玩VRC\n\n真的很开心生命里能遇到你这样的朋友qwq\n狗还想去一趟东北，找你一起吃好多盒饭和烧烤，所以等我——"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075524762055627038",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThinkingPigeon 从22年底就认识的鸽子，也是狗面过的第一位推友\n\n聊过这么多这么久，鸽子算是一路看着狗一点点变化的人。无论是心态、对人对事的方式，还是声音上的变化都有见证到\n\n狗买了电脑，你会陪我打CS。买了VR，你也会陪我玩VRC\n\n真的很开心生命里能遇到你这样的朋友qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2075524298870313093",
+        "created_at": "2026-07-10T11:05:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:05:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075536857623060837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493949884399079427",
+              "start": 0,
+              "username": "ThinkingPigeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075536857623060837",
+        "in_reply_to_user_id": "1493949884399079427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "从22年底就认识的鸽子，也是狗面过的第一位推友\n\n聊过这么多这么久，鸽子算是一路看着狗一点点变化的人。无论是心态、对人对事的方式，还是声音上的变化都有见证到\n\n狗买了电脑，你会陪我打CS。买了VR，你也会陪我玩VRC\n\n真的很开心生命里能遇到你这样的朋友qwq\n狗还想去一趟东北，找你一起吃好多盒饭和烧烤，所以等我——"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075524762055627038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThinkingPigeon 从22年底就认识的鸽子，也是狗面过的第一位推友\n\n聊过这么多这么久，鸽子算是一路看着狗一点点变化的人。无论是心态、对人对事的方式，还是声音上的变化都有见证到\n\n狗买了电脑，你会陪我打CS。买了VR，你也会陪我玩VRC\n\n真的很开心生命里能遇到你这样的朋友qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493949884399079427",
+        "conversation_id": "2075524298870313093",
+        "created_at": "2026-07-10T10:17:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:17:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075524762055627038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075524762055627038",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 64,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075524298870313093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 13🔥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1701,
+          "following_count": 1063,
+          "like_count": 2810,
+          "listed_count": 3,
+          "media_count": 363,
+          "tweet_count": 1467
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-16T14:06:40.000Z",
+        "description": "I can't stop my loneliness // Average rhythm game player | LGBT friendly | Femboy maybe | a.k.a. hh27v0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "live.acfun.cn/live/75353094",
+                "end": 23,
+                "expanded_url": "http://live.acfun.cn/live/75353094",
+                "start": 0,
+                "url": "https://t.co/RIVtrSRY1Z"
+              }
+            ]
+          }
+        },
+        "id": "1493949884399079427",
+        "location": "@dorich4n",
+        "name": "DoriCh4n",
+        "pinned_tweet_id": "1890795598258856120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918589586118455296/I7tiaMlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 1331,
+          "like_count": 71466,
+          "listed_count": 3,
+          "media_count": 1239,
+          "tweet_count": 12445
+        },
+        "url": "https://t.co/RIVtrSRY1Z",
+        "username": "ThinkingPigeon",
+        "verified": false
+      }
+    ]
+  }
+}

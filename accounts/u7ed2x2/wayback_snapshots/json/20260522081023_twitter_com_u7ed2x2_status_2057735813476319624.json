@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2057733769000620241",
+    "created_at": "2026-05-22T08:10:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T09:10:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057735813476319624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057735813476319624",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057735453508530524",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 已被萌化\n袜这个好可爱鸭🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2057733769000620241",
+        "created_at": "2026-05-22T08:10:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:10:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057735813476319624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057735813476319624",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057735453508530524",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 已被萌化\n袜这个好可爱鸭🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2057733769000620241",
+        "created_at": "2026-05-22T08:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T09:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057735453508530524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057735453508530524",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057735100188803367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 洗澡过程：先舔舔爪爪，再用爪爪搓猫脸，然后把后腿翘起来舔舔，最后打个滚抖抖毛～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 1020,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 376
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "中学生jk 工程师猫娘 软饭猫猫（x\n🇯🇵🇹🇭🇹🇷🍥请私信/tg: https://t.co/9vPU5sObId\n💌@hobartr6 温柔猫猫@leetfs1 🐱@_furryfur_ 笨蛋姐姐@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 59,
+                "username": "hobartr6"
+              },
+              {
+                "end": 81,
+                "start": 73,
+                "username": "leetfs1"
+              },
+              {
+                "end": 94,
+                "start": 83,
+                "username": "_furryfur_"
+              },
+              {
+                "end": 115,
+                "start": 99,
+                "username": "hoshi_asuka0089"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/itscatroll",
+                "end": 57,
+                "expanded_url": "http://t.me/itscatroll",
+                "start": 34,
+                "url": "https://t.co/9vPU5sObId"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "name": "衍星猫卷",
+        "pinned_tweet_id": "2016774614928724220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055614606752817152/8HUtqwRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3895,
+          "following_count": 824,
+          "like_count": 3985,
+          "listed_count": 8,
+          "media_count": 30,
+          "tweet_count": 225
+        },
+        "username": "itsCatRoll",
+        "verified": true
+      }
+    ]
+  }
+}

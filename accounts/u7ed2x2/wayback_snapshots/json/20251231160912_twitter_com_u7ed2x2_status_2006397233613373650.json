@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2006395192153379258",
+    "created_at": "2025-12-31T16:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-31T17:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006397233613373650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938284042702708736",
+          "start": 0,
+          "username": "shalangOfficial"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006397233613373650",
+    "in_reply_to_user_id": "1938284042702708736",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006395192153379258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shalangOfficial 元旦快乐哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2006395192153379258",
+        "created_at": "2025-12-31T16:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006397233613373650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938284042702708736",
+              "start": 0,
+              "username": "shalangOfficial"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006397233613373650",
+        "in_reply_to_user_id": "1938284042702708736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006395192153379258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shalangOfficial 元旦快乐哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938284042702708736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2006395192153379258",
+        "created_at": "2025-12-31T16:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T17:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006395192153379258"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2006395192153379258",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "饱饱们元旦快乐😘\n以防有人不知道点赞改了特效🥰\n✨ Happy New Year🌈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的新加坡人",
+        "id": "1457364958841225222",
+        "location": "香橙港式大学",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 440,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 69
+        },
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T17:12:11.000Z",
+        "description": "“虽然那听上去很痛…但是，最后印在画壁中的我，一定展露着笑容。”\n“因为…我能治愈天空。”",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/t8EKak9",
+                "end": 23,
+                "expanded_url": "https://b23.tv/t8EKak9",
+                "start": 0,
+                "url": "https://t.co/Rgw0nooJ8S"
+              }
+            ]
+          }
+        },
+        "id": "1938284042702708736",
+        "location": "「云端遗堡」晨昏之眼",
+        "name": "白砂狼_Official",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002801627372388352/80e_3f0u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 337,
+          "following_count": 653,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 425
+        },
+        "url": "https://t.co/Rgw0nooJ8S",
+        "username": "shalangOfficial",
+        "verified": false
+      }
+    ]
+  }
+}

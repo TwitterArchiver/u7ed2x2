@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2067937741606973906",
+    "created_at": "2026-06-19T12:11:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T13:11:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067943429032783952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1552918719440924672",
+          "start": 0,
+          "username": "itsCatRoll"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/itscatroll/sta…",
+          "end": 39,
+          "expanded_url": "https://x.com/itscatroll/status/2061759772043682015",
+          "start": 16,
+          "url": "https://t.co/PnaVdR3sjD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067943429032783952",
+    "in_reply_to_user_id": "1552918719440924672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061759772043682015",
+        "type": "quoted"
+      },
+      {
+        "id": "2067941374352413103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@itsCatRoll 清水推\nhttps://t.co/PnaVdR3sjD"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2067937741606973906",
+        "created_at": "2026-06-19T12:11:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:11:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067943429032783952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "itsCatRoll"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/itscatroll/sta…",
+              "end": 39,
+              "expanded_url": "https://x.com/itscatroll/status/2061759772043682015",
+              "start": 16,
+              "url": "https://t.co/PnaVdR3sjD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067943429032783952",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061759772043682015",
+            "type": "quoted"
+          },
+          {
+            "id": "2067941374352413103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@itsCatRoll 清水推\nhttps://t.co/PnaVdR3sjD"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2061754672202105109",
+        "created_at": "2026-06-02T10:40:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:40:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061759772043682015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061759772043682015",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 444,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061754672202105109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@u7ed2x2 诶诶眼睁睁看着nelo从清水推变得越来越怪了！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552918719440924672",
+        "conversation_id": "2067937741606973906",
+        "created_at": "2026-06-19T12:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T13:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067941374352413103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067941374352413103",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067937741606973906",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 想看！（😾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1605,
+          "following_count": 1065,
+          "like_count": 1323,
+          "listed_count": 1,
+          "media_count": 258,
+          "tweet_count": 974
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "（即将退役的）糖商\n⚠️搬太多非原创内容会单取；和神人互动会连坐\n\n里账号@LTSxn0z\n\n💌@hobartr6\n妹妹@leetfs1\n笨蛋肥鸟姐姐@hoshi_asuka0089\n大猫@_furryfur_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "LTSxn0z"
+              },
+              {
+                "end": 57,
+                "start": 48,
+                "username": "hobartr6"
+              },
+              {
+                "end": 68,
+                "start": 60,
+                "username": "leetfs1"
+              },
+              {
+                "end": 91,
+                "start": 75,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 105,
+                "start": 94,
+                "username": "_furryfur_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/linker2k",
+                "end": 23,
+                "expanded_url": "http://t.me/linker2k",
+                "start": 0,
+                "url": "https://t.co/9ukBrb4ybC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "猫卷杂货铺 ➡️",
+        "name": "猫卷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067930460949458944/WcXdOVaZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4095,
+          "following_count": 843,
+          "like_count": 4209,
+          "listed_count": 9,
+          "media_count": 102,
+          "tweet_count": 670
+        },
+        "url": "https://t.co/9ukBrb4ybC",
+        "username": "itsCatRoll",
+        "verified": false
+      }
+    ]
+  }
+}

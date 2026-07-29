@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061041421436755968"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2061041429212971423",
+    "created_at": "2026-05-31T11:05:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:05:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061041429212971423"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jqIn8AS458",
+          "end": 71,
+          "expanded_url": "https://x.com/u7ed2x2/status/2061041429212971423/photo/1",
+          "media_key": "3_2061041421436755968",
+          "start": 48,
+          "url": "https://t.co/jqIn8AS458"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061041429212971423",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不想只用脱毛膏了，今天开始尝试脱毛仪...\n\n我还准备了一套衣服和白雪糕，所以过后会有返图（？ https://t.co/jqIn8AS458"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061041421436755968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpKQMAaoAANqgf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061041421436755968"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2061041429212971423",
+        "created_at": "2026-05-31T11:05:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:05:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061041429212971423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jqIn8AS458",
+              "end": 71,
+              "expanded_url": "https://x.com/u7ed2x2/status/2061041429212971423/photo/1",
+              "media_key": "3_2061041421436755968",
+              "start": 48,
+              "url": "https://t.co/jqIn8AS458"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061041429212971423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不想只用脱毛膏了，今天开始尝试脱毛仪...\n\n我还准备了一套衣服和白雪糕，所以过后会有返图（？ https://t.co/jqIn8AS458"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 1045,
+          "like_count": 730,
+          "listed_count": 1,
+          "media_count": 159,
+          "tweet_count": 576
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

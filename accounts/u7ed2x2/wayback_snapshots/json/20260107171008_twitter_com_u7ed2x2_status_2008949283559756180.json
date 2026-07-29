@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2008949283559756180",
+    "created_at": "2026-01-07T17:10:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T18:10:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2008949283559756180"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2008949283559756180",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "大家都不要内耗哦\n做事圆滑不如爱憎分明\n\n为了做一个有亲和力的人，从而试图和所有人都去搞好关系是绝对NG的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2008949283559756180",
+        "created_at": "2026-01-07T17:10:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-07T18:10:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008949283559756180"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2008949283559756180",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家都不要内耗哦\n做事圆滑不如爱憎分明\n\n为了做一个有亲和力的人，从而试图和所有人都去搞好关系是绝对NG的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的新加坡人",
+        "id": "1457364958841225222",
+        "location": "香橙港式大学",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 829,
+          "following_count": 443,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 64
+        },
+        "username": "u7ed2x2",
+        "verified": false
+      }
+    ]
+  }
+}

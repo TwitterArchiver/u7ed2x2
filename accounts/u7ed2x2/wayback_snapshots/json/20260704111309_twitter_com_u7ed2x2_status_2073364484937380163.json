@@ -1,0 +1,96 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2073364484937380163",
+    "created_at": "2026-07-04T11:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T12:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073364484937380163"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073364484937380163",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "最初的讨厌鬼此刻就躺在床边抱着我。而被抱着的我，一下子闪过很多回忆\n\n想起第一次心甘情愿地卸下防备\n想起听着Y把秘密慢慢讲给我、看着Y放心地把手机交到我手里、接受Y用幼稚的叠词叫我笨笨/狗狗，也不觉得难为情，甚至有点喜欢\n\n🐶：「以后呢，几年后呢，会一直好下去吗」\n（没有认真回答，只是凑过来亲亲）\n🐶：你要保持血统的纯——\nY：😠\nY：叽里咕噜说什...（吻）"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最初的讨厌鬼此刻就躺在床边抱着我。而被抱着的我，一下子闪过很多回忆\n\n想起第一次心甘情愿地卸下防备\n想起听着Y把秘密慢慢讲给我、看着Y放心地把手机交到我手里、接受Y用幼稚的叠词叫我笨笨/狗狗，也不觉得难为情，甚至有点喜欢\n\n🐶：「以后呢，几年后呢，会一直好下去吗」"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073364484937380163",
+        "created_at": "2026-07-04T11:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073364484937380163"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073364484937380163",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "最初的讨厌鬼此刻就躺在床边抱着我。而被抱着的我，一下子闪过很多回忆\n\n想起第一次心甘情愿地卸下防备\n想起听着Y把秘密慢慢讲给我、看着Y放心地把手机交到我手里、接受Y用幼稚的叠词叫我笨笨/狗狗，也不觉得难为情，甚至有点喜欢\n\n🐶：「以后呢，几年后呢，会一直好下去吗」\n（没有认真回答，只是凑过来亲亲）\n🐶：你要保持血统的纯——\nY：😠\nY：叽里咕噜说什...（吻）"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最初的讨厌鬼此刻就躺在床边抱着我。而被抱着的我，一下子闪过很多回忆\n\n想起第一次心甘情愿地卸下防备\n想起听着Y把秘密慢慢讲给我、看着Y放心地把手机交到我手里、接受Y用幼稚的叠词叫我笨笨/狗狗，也不觉得难为情，甚至有点喜欢\n\n🐶：「以后呢，几年后呢，会一直好下去吗」"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 1061,
+          "like_count": 2262,
+          "listed_count": 3,
+          "media_count": 329,
+          "tweet_count": 1273
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

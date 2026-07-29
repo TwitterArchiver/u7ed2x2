@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "1986730534857576787",
+    "created_at": "2025-11-07T11:37:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-07T12:37:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986759947162640611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1576767373784162305",
+          "start": 0,
+          "username": "chengong777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986759947162640611",
+    "in_reply_to_user_id": "1576767373784162305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986747328104137106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chengong777 挺好的，游戏里面还有专门的体感教程，建议玩的时候把吸附打开否则会有点难瞄准（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "1986730534857576787",
+        "created_at": "2025-11-07T11:37:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T12:37:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986759947162640611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1576767373784162305",
+              "start": 0,
+              "username": "chengong777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986759947162640611",
+        "in_reply_to_user_id": "1576767373784162305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986747328104137106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chengong777 挺好的，游戏里面还有专门的体感教程，建议玩的时候把吸附打开否则会有点难瞄准（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1576767373784162305",
+        "conversation_id": "1986730534857576787",
+        "created_at": "2025-11-07T10:47:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-07T11:47:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986747328104137106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986747328104137106",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986730534857576787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 体感2077ns2感觉咋样，主机随时启动暂停太方便了我想在ns2上买一份"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的🇸🇬 / godqwq@倒过来是里账",
+        "id": "1457364958841225222",
+        "location": "香橙港式大学",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 467,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 57
+        },
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T02:53:44.000Z",
+        "description": "水星人",
+        "id": "1576767373784162305",
+        "location": "三明治的中间",
+        "name": "陈宫",
+        "pinned_tweet_id": "1819661732589285854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752518564328992768/8cV5hOX3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 643,
+          "like_count": 35905,
+          "listed_count": 2,
+          "media_count": 1089,
+          "tweet_count": 8764
+        },
+        "username": "chengong777",
+        "verified": false
+      }
+    ]
+  }
+}

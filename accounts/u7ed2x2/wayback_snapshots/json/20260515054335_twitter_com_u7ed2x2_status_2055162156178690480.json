@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2054953320218054733",
+    "created_at": "2026-05-15T05:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T06:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055162156178690480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1822926317823905792",
+          "start": 0,
+          "username": "Niesen_3D9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055162156178690480",
+    "in_reply_to_user_id": "1822926317823905792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055028425837121835",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Niesen_3D9 呜抱你...\n我同学的推特一直在转发画师，但画师也不是只画健全内容"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2054953320218054733",
+        "created_at": "2026-05-15T05:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T06:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055162156178690480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1822926317823905792",
+              "start": 0,
+              "username": "Niesen_3D9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055162156178690480",
+        "in_reply_to_user_id": "1822926317823905792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055028425837121835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Niesen_3D9 呜抱你...\n我同学的推特一直在转发画师，但画师也不是只画健全内容"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822926317823905792",
+        "conversation_id": "2054953320218054733",
+        "created_at": "2026-05-14T20:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T21:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055028425837121835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055028425837121835",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054953320218054733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 好厉害好幸福的感觉，我现在高中同学看我推特只是一直在问为什么这么干净，一点h都没有，都好炫压抑说是（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1380,
+          "following_count": 890,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 255
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-12T09:21:30.000Z",
+        "description": "寧々可愛い💚看到这的大家我爱你，天天开心      みんな、私は君を愛してるよ  \n                                会尝试说些日语，如果有语法错误请指出，谢谢！ありがとう!",
+        "id": "1822926317823905792",
+        "location": "＜1km",
+        "name": "涅槮Nies",
+        "pinned_tweet_id": "2039932189832622384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039933770435096576/rAw0Jtbo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 351,
+          "like_count": 15967,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 1006
+        },
+        "username": "Niesen_3D9",
+        "verified": false
+      }
+    ]
+  }
+}

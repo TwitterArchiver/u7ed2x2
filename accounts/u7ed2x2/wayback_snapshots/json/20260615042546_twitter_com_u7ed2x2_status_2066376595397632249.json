@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066376589513015296"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2066376595397632249",
+    "created_at": "2026-06-15T04:25:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T05:25:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066376595397632249"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0r4hLmM4DJ",
+          "end": 70,
+          "expanded_url": "https://x.com/u7ed2x2/status/2066376595397632249/photo/1",
+          "media_key": "3_2066376589513015296",
+          "start": 47,
+          "url": "https://t.co/0r4hLmM4DJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066376595397632249",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "狗因为前几天剪太短了 还在重新蓄发中\n\n其实我感觉下次可以自己剪 去年自己乱剪的也说得过去↓ https://t.co/0r4hLmM4DJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066376589513015296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0-j14bQAAzvcd.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066376589513015296"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2066376595397632249",
+        "created_at": "2026-06-15T04:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T05:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066376595397632249"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0r4hLmM4DJ",
+              "end": 70,
+              "expanded_url": "https://x.com/u7ed2x2/status/2066376595397632249/photo/1",
+              "media_key": "3_2066376589513015296",
+              "start": 47,
+              "url": "https://t.co/0r4hLmM4DJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066376595397632249",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "狗因为前几天剪太短了 还在重新蓄发中\n\n其实我感觉下次可以自己剪 去年自己乱剪的也说得过去↓ https://t.co/0r4hLmM4DJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 1065,
+          "like_count": 1177,
+          "listed_count": 1,
+          "media_count": 231,
+          "tweet_count": 894
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

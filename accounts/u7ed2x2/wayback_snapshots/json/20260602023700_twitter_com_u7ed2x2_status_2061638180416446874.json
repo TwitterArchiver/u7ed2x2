@@ -1,0 +1,451 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2061635745660711241",
+    "created_at": "2026-06-02T02:37:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T03:37:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061638180416446874"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/luoleiorg/stat…",
+          "end": 39,
+          "expanded_url": "https://x.com/luoleiorg/status/2059571901794849236",
+          "start": 16,
+          "url": "https://t.co/MXFhJZJCNw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061638180416446874",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059571901794849236",
+        "type": "quoted"
+      },
+      {
+        "id": "2061635745660711241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CyberKanjousen https://t.co/MXFhJZJCNw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 941,
+        "media_key": "3_2059568983972659201",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUPFDAaQAEzB06.jpg",
+        "width": 1672
+      },
+      {
+        "height": 1818,
+        "media_key": "3_2059569189082550272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUPQ_Ga0AAzNtm.jpg",
+        "width": 2192
+      },
+      {
+        "height": 2100,
+        "media_key": "3_2059570924006047744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJUQ1-MagAAWfbZ.jpg",
+        "width": 1362
+      },
+      {
+        "height": 1356,
+        "media_key": "3_2061635737871941632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJxmx9QbgAAEHRG.jpg",
+        "width": 825
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2061635745660711241",
+        "created_at": "2026-06-02T02:37:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:37:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061638180416446874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/luoleiorg/stat…",
+              "end": 39,
+              "expanded_url": "https://x.com/luoleiorg/status/2059571901794849236",
+              "start": 16,
+              "url": "https://t.co/MXFhJZJCNw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061638180416446874",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059571901794849236",
+            "type": "quoted"
+          },
+          {
+            "id": "2061635745660711241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CyberKanjousen https://t.co/MXFhJZJCNw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059568983972659201",
+            "3_2059569189082550272",
+            "3_2059570924006047744"
+          ]
+        },
+        "author_id": "52468378",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2059571901794849236",
+        "created_at": "2026-05-27T09:46:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T10:46:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059571901794849236"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9lQlAVPnQk",
+              "end": 192,
+              "expanded_url": "https://x.com/luoleiorg/status/2059571901794849236/photo/1",
+              "media_key": "3_2059568983972659201",
+              "start": 169,
+              "url": "https://t.co/9lQlAVPnQk"
+            },
+            {
+              "display_url": "pic.x.com/9lQlAVPnQk",
+              "end": 192,
+              "expanded_url": "https://x.com/luoleiorg/status/2059571901794849236/photo/1",
+              "media_key": "3_2059569189082550272",
+              "start": 169,
+              "url": "https://t.co/9lQlAVPnQk"
+            },
+            {
+              "display_url": "pic.x.com/9lQlAVPnQk",
+              "end": 192,
+              "expanded_url": "https://x.com/luoleiorg/status/2059571901794849236/photo/1",
+              "media_key": "3_2059570924006047744",
+              "start": 169,
+              "url": "https://t.co/9lQlAVPnQk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059571901794849236",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "chromewebstore.google.com/detail/make-x-…",
+                "end": 256,
+                "expanded_url": "https://chromewebstore.google.com/detail/make-x-great-again/aeoldnecphbkkckeedfgfcdcekkljdea",
+                "start": 233,
+                "url": "https://t.co/a1lNwuJyxw"
+              },
+              {
+                "display_url": "x.zuoluo.tv",
+                "end": 285,
+                "expanded_url": "https://x.zuoluo.tv",
+                "start": 262,
+                "url": "https://t.co/LN4TTnHr1Q"
+              }
+            ]
+          },
+          "text": "MXGA（Make X Great Again）上线 48h，已经识别出 6K+ Spam 账号，AI Agents 还在继续处理剩下的数据。\n\n这是一个开源、免费、AI 驱动的 Chrome 插件，用来清理 X 评论区里的 spam bot。\n\nv0.3.0 已经上架 Chrome 商店，新增「自动拉黑」设置，默认关闭，可自行开启。\n\n实测随着数据量上来，识别效果和体验都好了不少，我自己的信息流已经越刷越干净了 😆\n\n欢迎大家试用。\n\n🔗 Chrome 插件：https://t.co/a1lNwuJyxw\n🌐 官网：https://t.co/LN4TTnHr1Q"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 34659,
+          "like_count": 249,
+          "quote_count": 8,
+          "reply_count": 44,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "MXGA（Make X Great Again）上线 48h，已经识别出 6K+ Spam 账号，AI Agents 还在继续处理剩下的数据。\n\n这是一个开源、免费、AI 驱动的 Chrome 插件，用来清理 X 评论区里的 spam bot。\n\nv0.3.0 已经上架 Chrome 商店，新增「自动拉黑」设置，默认关闭，可自行开启。 https://t.co/9lQlAVPnQk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061635737871941632"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2061635745660711241",
+        "created_at": "2026-06-02T02:27:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T03:27:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061635745660711241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WQz9uI08L5",
+              "end": 70,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2061635745660711241/photo/1",
+              "media_key": "3_2061635737871941632",
+              "start": 47,
+              "url": "https://t.co/WQz9uI08L5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061635745660711241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 63,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「批量隐藏回复」功能应当加入推特！\n一个一个手动隐藏评论区 spam 回复的環状線如此认为。 https://t.co/WQz9uI08L5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 1060,
+          "like_count": 775,
+          "listed_count": 1,
+          "media_count": 167,
+          "tweet_count": 606
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4672,
+          "following_count": 867,
+          "like_count": 23835,
+          "listed_count": 10,
+          "media_count": 1275,
+          "tweet_count": 7105
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-30T18:05:29.000Z",
+        "description": "💻 Full-Stack Developer / 📖 Lifetime Learner / 🚧 Building & Sharing / 🎬 YouTuber https://t.co/7g47VdNMnN / 📝 https://t.co/6ucNiJ2gyg / 👨‍🚀 More https://t.co/smbFyIb6Hc",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "zuoluo.tv/yt",
+                "end": 103,
+                "expanded_url": "http://zuoluo.tv/yt",
+                "start": 80,
+                "url": "https://t.co/7g47VdNMnN"
+              },
+              {
+                "display_url": "luolei.org",
+                "end": 131,
+                "expanded_url": "http://luolei.org",
+                "start": 108,
+                "url": "https://t.co/6ucNiJ2gyg"
+              },
+              {
+                "display_url": "github.com/foru17",
+                "end": 166,
+                "expanded_url": "http://github.com/foru17",
+                "start": 143,
+                "url": "https://t.co/smbFyIb6Hc"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "luolei.org",
+                "end": 23,
+                "expanded_url": "https://luolei.org",
+                "start": 0,
+                "url": "https://t.co/Dy6rJ2dYKv"
+              }
+            ]
+          }
+        },
+        "id": "52468378",
+        "location": "Shenzhen",
+        "name": "luolei",
+        "pinned_tweet_id": "2060001053630964197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550157622300786688/672YmCpB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61491,
+          "following_count": 1628,
+          "like_count": 1363,
+          "listed_count": 557,
+          "media_count": 4914,
+          "tweet_count": 10286
+        },
+        "url": "https://t.co/Dy6rJ2dYKv",
+        "username": "luoleiorg",
+        "verified": true
+      }
+    ]
+  }
+}

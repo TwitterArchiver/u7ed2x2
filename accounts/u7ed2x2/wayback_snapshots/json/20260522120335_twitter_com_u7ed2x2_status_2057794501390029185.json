@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057794492825227264"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2057773989297303930",
+    "created_at": "2026-05-22T12:03:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T13:03:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057794501390029185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1227265979735887874",
+          "start": 0,
+          "username": "LuminaFable2020"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4hKUZV94Ss",
+          "end": 74,
+          "expanded_url": "https://x.com/u7ed2x2/status/2057794501390029185/photo/1",
+          "media_key": "3_2057794492825227264",
+          "start": 51,
+          "url": "https://t.co/4hKUZV94Ss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057794501390029185",
+    "in_reply_to_user_id": "1227265979735887874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057778107352809621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuminaFable2020 嗯嗯...我还发现 Android 端的微信也自己做了一套排版系统 https://t.co/4hKUZV94Ss"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 786,
+        "media_key": "3_2057794492825227264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7BMEWaUAADzSS.jpg",
+        "width": 1157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057794492825227264"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2057773989297303930",
+        "created_at": "2026-05-22T12:03:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T13:03:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057794501390029185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1227265979735887874",
+              "start": 0,
+              "username": "LuminaFable2020"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4hKUZV94Ss",
+              "end": 74,
+              "expanded_url": "https://x.com/u7ed2x2/status/2057794501390029185/photo/1",
+              "media_key": "3_2057794492825227264",
+              "start": 51,
+              "url": "https://t.co/4hKUZV94Ss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057794501390029185",
+        "in_reply_to_user_id": "1227265979735887874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057778107352809621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuminaFable2020 嗯嗯...我还发现 Android 端的微信也自己做了一套排版系统 https://t.co/4hKUZV94Ss"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227265979735887874",
+        "conversation_id": "2057773989297303930",
+        "created_at": "2026-05-22T10:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057778107352809621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057778107352809621",
+        "in_reply_to_user_id": "1227265979735887874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057777824828620817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 另外部分安卓设备的字体也支持这种自动 Pangu \n\n比如说 MiSans 的字体排版优化"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1463,
+          "following_count": 1021,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 383
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-11T16:19:55.000Z",
+        "description": "社恐一枚 喜欢coding和旅游 主要是日常碎碎念？  前世@frankshiki73  目标是成为可爱的自己",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "frankshiki73"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuminaSaki",
+                "end": 23,
+                "expanded_url": "https://t.me/LuminaSaki",
+                "start": 0,
+                "url": "https://t.co/tXNFqGvWTa"
+              }
+            ]
+          }
+        },
+        "id": "1227265979735887874",
+        "location": "Changsha",
+        "name": "LuminaSaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055610164711985152/Dga6BtlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 107,
+          "like_count": 365,
+          "listed_count": 3,
+          "media_count": 41,
+          "tweet_count": 226
+        },
+        "url": "https://t.co/tXNFqGvWTa",
+        "username": "LuminaFable2020",
+        "verified": true
+      }
+    ]
+  }
+}

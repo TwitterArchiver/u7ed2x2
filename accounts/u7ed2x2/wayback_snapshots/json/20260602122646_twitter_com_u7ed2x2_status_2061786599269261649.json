@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2061754672202105109",
+    "created_at": "2026-06-02T12:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T13:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061786599269261649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608684841729667073",
+          "start": 0,
+          "username": "tongzikin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061786599269261649",
+    "in_reply_to_user_id": "1608684841729667073",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061784698981093737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tongzikin 嘻嘻好哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2061754672202105109",
+        "created_at": "2026-06-02T12:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061786599269261649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608684841729667073",
+              "start": 0,
+              "username": "tongzikin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061786599269261649",
+        "in_reply_to_user_id": "1608684841729667073",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061784698981093737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tongzikin 嘻嘻好哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1608684841729667073",
+        "conversation_id": "2061754672202105109",
+        "created_at": "2026-06-02T12:19:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T13:19:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061784698981093737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061784698981093737",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061782911255482681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 我端走品尝一下😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 1061,
+          "like_count": 795,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 629
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T04:42:50.000Z",
+        "description": "📪 hey@zikin.me \n🫶 好诡秘 🪭 @misaka1057 / ❄️ @mio_shirakawa / ☁️ @rainchngshainn / 🐧 @Silent121_5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 24,
+                "username": "misaka1057"
+              },
+              {
+                "end": 55,
+                "start": 41,
+                "username": "mio_shirakawa"
+              },
+              {
+                "end": 76,
+                "start": 61,
+                "username": "rainchngshainn"
+              },
+              {
+                "end": 93,
+                "start": 81,
+                "username": "Silent121_5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zikin.me",
+                "end": 23,
+                "expanded_url": "https://zikin.me/",
+                "start": 0,
+                "url": "https://t.co/JbvqgRzmt4"
+              }
+            ]
+          }
+        },
+        "id": "1608684841729667073",
+        "location": "Edmonton / Beijing",
+        "name": "Zikin 🍋",
+        "pinned_tweet_id": "2059763069832798386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021462204953096192/NHtcHi4C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 956,
+          "following_count": 2043,
+          "like_count": 24522,
+          "listed_count": 5,
+          "media_count": 1015,
+          "tweet_count": 3515
+        },
+        "url": "https://t.co/JbvqgRzmt4",
+        "username": "tongzikin",
+        "verified": true
+      }
+    ]
+  }
+}

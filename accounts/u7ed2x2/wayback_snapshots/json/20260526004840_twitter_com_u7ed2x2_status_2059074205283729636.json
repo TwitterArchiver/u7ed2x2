@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2058921967655534803",
+    "created_at": "2026-05-26T00:48:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T01:48:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059074205283729636"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4751711714",
+          "start": 0,
+          "username": "PoorstarRMB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059074205283729636",
+    "in_reply_to_user_id": "4751711714",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058930811257430130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PoorstarRMB 糟糕..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2058921967655534803",
+        "created_at": "2026-05-26T00:48:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T01:48:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059074205283729636"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4751711714",
+              "start": 0,
+              "username": "PoorstarRMB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059074205283729636",
+        "in_reply_to_user_id": "4751711714",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058930811257430130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PoorstarRMB 糟糕..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4751711714",
+        "conversation_id": "2058921967655534803",
+        "created_at": "2026-05-25T15:18:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T16:18:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058930811257430130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058930811257430130",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058921967655534803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 牙白——"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1491,
+          "following_count": 1052,
+          "like_count": 537,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 442
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-13T05:54:33.000Z",
+        "description": "",
+        "id": "4751711714",
+        "location": "不文艺也不负",
+        "name": "文艺负星🌟",
+        "pinned_tweet_id": "2048431912382025962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054940505075838976/l-5oB7ci_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2202,
+          "following_count": 304,
+          "like_count": 27000,
+          "listed_count": 7,
+          "media_count": 1737,
+          "tweet_count": 10800
+        },
+        "username": "PoorstarRMB",
+        "verified": false
+      }
+    ]
+  }
+}

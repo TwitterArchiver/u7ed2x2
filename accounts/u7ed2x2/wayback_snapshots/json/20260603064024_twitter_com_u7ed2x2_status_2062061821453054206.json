@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062061816428318720"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2062061821453054206",
+    "created_at": "2026-06-03T06:40:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T07:40:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062061821453054206"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zvlNJxIKIk",
+          "end": 37,
+          "expanded_url": "https://x.com/u7ed2x2/status/2062061821453054206/photo/1",
+          "media_key": "3_2062061816428318720",
+          "start": 14,
+          "url": "https://t.co/zvlNJxIKIk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062061821453054206",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "《显然更受欢迎的麦记小姐》 https://t.co/zvlNJxIKIk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2062061816428318720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3qS_kbUAADwRK.jpg",
+        "width": 471
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062061816428318720"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2062061821453054206",
+        "created_at": "2026-06-03T06:40:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T07:40:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062061821453054206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zvlNJxIKIk",
+              "end": 37,
+              "expanded_url": "https://x.com/u7ed2x2/status/2062061821453054206/photo/1",
+              "media_key": "3_2062061816428318720",
+              "start": 14,
+              "url": "https://t.co/zvlNJxIKIk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062061821453054206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "《显然更受欢迎的麦记小姐》 https://t.co/zvlNJxIKIk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 1063,
+          "like_count": 807,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 638
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

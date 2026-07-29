@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2061493046609613128",
+    "created_at": "2026-06-02T00:07:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T01:07:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061600661737963658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1946188524472213504",
+          "start": 0,
+          "username": "ooobsess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061600661737963658",
+    "in_reply_to_user_id": "1946188524472213504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061598463041671217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ooobsess 我家不是这样啦，只是我自己会觉得，父母愿意付出是爱，但我不该把这份爱当成理所当然\n\n有些经历还没对外分享，但Ta们已经做了很多"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2061493046609613128",
+        "created_at": "2026-06-02T00:07:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T01:07:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061600661737963658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1946188524472213504",
+              "start": 0,
+              "username": "ooobsess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061600661737963658",
+        "in_reply_to_user_id": "1946188524472213504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061598463041671217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ooobsess 我家不是这样啦，只是我自己会觉得，父母愿意付出是爱，但我不该把这份爱当成理所当然\n\n有些经历还没对外分享，但Ta们已经做了很多"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946188524472213504",
+        "conversation_id": "2061493046609613128",
+        "created_at": "2026-06-01T23:59:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T00:59:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061598463041671217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061598463041671217",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061493046609613128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 谁都没有亏欠谁‘父母和孩子不是父母和孩子的关系‘而只是朋友’\n国内的教育从小就是我是父母我自己舍不得吃也要对你对孩子好‘其实不用’你首先对自己好之后再对别人好‘反过来一样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 1055,
+          "like_count": 769,
+          "listed_count": 1,
+          "media_count": 165,
+          "tweet_count": 603
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-18T12:41:40.000Z",
+        "description": "🎀 食品科学专业变身车企牛马 | \n💻 沉迷Vibe Coding梦想暴富的小白 | \n🪙 BTC持币梦想（未开户版） | \n🇺🇸 看好美股的（没钱买）选手 | \n✨ 满脑子想搞钱但还在摸索的小迷糊呀",
+        "id": "1946188524472213504",
+        "location": "Hong Kong",
+        "name": "来",
+        "pinned_tweet_id": "2056205710891868488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030915515820965888/3oIGkdZ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 1126,
+          "like_count": 4059,
+          "listed_count": 1,
+          "media_count": 5,
+          "tweet_count": 1387
+        },
+        "username": "ooobsess",
+        "verified": true
+      }
+    ]
+  }
+}

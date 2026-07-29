@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2063612209033613698",
+    "created_at": "2026-06-07T13:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-07T14:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063616630048137376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1242074475400548352",
+          "start": 0,
+          "username": "A1oneSKy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 36,
+          "expanded_url": "https://x.com/u7ed2x2/status/2063616337474429376",
+          "start": 13,
+          "url": "https://t.co/5K1GmJ8iS5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063616630048137376",
+    "in_reply_to_user_id": "1242074475400548352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063616337474429376",
+        "type": "quoted"
+      },
+      {
+        "id": "2063616470865879521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@A1oneSKy 已经\nhttps://t.co/5K1GmJ8iS5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2063612209033613698",
+        "created_at": "2026-06-07T13:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063616630048137376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1242074475400548352",
+              "start": 0,
+              "username": "A1oneSKy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 36,
+              "expanded_url": "https://x.com/u7ed2x2/status/2063616337474429376",
+              "start": 13,
+              "url": "https://t.co/5K1GmJ8iS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063616630048137376",
+        "in_reply_to_user_id": "1242074475400548352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063616337474429376",
+            "type": "quoted"
+          },
+          {
+            "id": "2063616470865879521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@A1oneSKy 已经\nhttps://t.co/5K1GmJ8iS5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2063612209033613698",
+        "created_at": "2026-06-07T13:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063616337474429376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "758296624875446272",
+              "start": 0,
+              "username": "_ropu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063616337474429376",
+        "in_reply_to_user_id": "758296624875446272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063615772333933001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@_ropu 被麦记电到失去意识"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242074475400548352",
+        "conversation_id": "2063612209033613698",
+        "created_at": "2026-06-07T13:38:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T14:38:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063616470865879521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063616470865879521",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063612209033613698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 是吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 1062,
+          "like_count": 931,
+          "listed_count": 1,
+          "media_count": 191,
+          "tweet_count": 742
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "韓國語 계정@alonesky_kr ㅣ 韓国留學中...ㅣ\n專攻은 電子工學 | 宝宝@mario_2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "alonesky_kr"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "mario_2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.moe",
+                "end": 23,
+                "expanded_url": "https://alonesky.moe",
+                "start": 0,
+                "url": "https://t.co/b8Rzwcvm1z"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "name": "𝓐𝓛𝓸𝓷𝓮𝓢𝓚𝔂",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061452830142283776/kIazC4sW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 1668,
+          "like_count": 7185,
+          "listed_count": 5,
+          "media_count": 5561,
+          "tweet_count": 22248
+        },
+        "url": "https://t.co/b8Rzwcvm1z",
+        "username": "A1oneSKy",
+        "verified": true
+      }
+    ]
+  }
+}

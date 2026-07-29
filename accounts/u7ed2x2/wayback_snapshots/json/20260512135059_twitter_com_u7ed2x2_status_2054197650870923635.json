@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054197637587591168"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2054197650870923635",
+    "created_at": "2026-05-12T13:50:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T14:50:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054197650870923635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/P0DT843d8j",
+          "end": 123,
+          "expanded_url": "https://x.com/u7ed2x2/status/2054197650870923635/photo/1",
+          "media_key": "3_2054197637587591168",
+          "start": 100,
+          "url": "https://t.co/P0DT843d8j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054197650870923635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吃麦记牛奶的时候，总会盯着餐巾纸上那句「如果幸福是一碗麦记」看很久。\n\n呵，温柔的假想。\n如果幸福这么简单就好了。\n\n可当我一口一口吃下去的时候，\n它又好像真的把我从某个很远的地方拉回来了一点... https://t.co/P0DT843d8j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2054197637587591168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIH53iba4AAAoJH.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054197637587591168"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2054197650870923635",
+        "created_at": "2026-05-12T13:50:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T14:50:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054197650870923635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P0DT843d8j",
+              "end": 123,
+              "expanded_url": "https://x.com/u7ed2x2/status/2054197650870923635/photo/1",
+              "media_key": "3_2054197637587591168",
+              "start": 100,
+              "url": "https://t.co/P0DT843d8j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054197650870923635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吃麦记牛奶的时候，总会盯着餐巾纸上那句「如果幸福是一碗麦记」看很久。\n\n呵，温柔的假想。\n如果幸福这么简单就好了。\n\n可当我一口一口吃下去的时候，\n它又好像真的把我从某个很远的地方拉回来了一点... https://t.co/P0DT843d8j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1315,
+          "following_count": 841,
+          "like_count": 219,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 197
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

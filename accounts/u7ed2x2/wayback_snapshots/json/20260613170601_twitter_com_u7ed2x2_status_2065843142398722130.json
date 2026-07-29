@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2065675857902088287",
+    "created_at": "2026-06-13T17:06:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T18:06:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065843142398722130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1597605170502062080",
+          "start": 0,
+          "username": "Ayanami_rin0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065843142398722130",
+    "in_reply_to_user_id": "1597605170502062080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065675857902088287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ayanami_rin0 猫也是有猫权的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1856,
+        "media_key": "3_2065675848947310593",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKrBPX2boAEZGvk.jpg",
+        "width": 1392
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2065675857902088287",
+        "created_at": "2026-06-13T17:06:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T18:06:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065843142398722130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1597605170502062080",
+              "start": 0,
+              "username": "Ayanami_rin0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065843142398722130",
+        "in_reply_to_user_id": "1597605170502062080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065675857902088287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ayanami_rin0 猫也是有猫权的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065675848947310593"
+          ]
+        },
+        "author_id": "1597605170502062080",
+        "conversation_id": "2065675857902088287",
+        "created_at": "2026-06-13T06:01:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T07:01:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065675857902088287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dNxYckFvy8",
+              "end": 55,
+              "expanded_url": "https://x.com/Ayanami_rin0/status/2065675857902088287/photo/1",
+              "media_key": "3_2065675848947310593",
+              "start": 32,
+              "url": "https://t.co/dNxYckFvy8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065675857902088287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 366,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "惊鸿一瞥😼\n刚刚又在舔自己的牛牛，叫他名字，一下回头刚刚好拍到 https://t.co/dNxYckFvy8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1587,
+          "following_count": 1066,
+          "like_count": 1134,
+          "listed_count": 1,
+          "media_count": 227,
+          "tweet_count": 877
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-29T14:55:41.000Z",
+        "description": "只管开心,无需正常。\n大龄术后MTF，某二次元公司🐔Unity客户端，对什么都感兴趣\n水中寒月如雪，指尖轻点融解， 断桥是否下过雪🫖糊满腻子的垃圾场于美丽的新世界🍨喜欢吃杨梅冰粉雪绵豆沙和马桶盖子 世界上最幸福的人\n#啊呀纳米相册 #小绫的诗歌日记本 #小绫饭店 #aynm吃什么 #aynm旅行日记",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 115,
+                "start": 108,
+                "tag": "啊呀纳米相册"
+              },
+              {
+                "end": 125,
+                "start": 116,
+                "tag": "小绫的诗歌日记本"
+              },
+              {
+                "end": 131,
+                "start": 126,
+                "tag": "小绫饭店"
+              },
+              {
+                "end": 140,
+                "start": 132,
+                "tag": "aynm吃什么"
+              },
+              {
+                "end": 150,
+                "start": 141,
+                "tag": "aynm旅行日记"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ayanami_rin",
+                "end": 23,
+                "expanded_url": "https://t.me/ayanami_rin",
+                "start": 0,
+                "url": "https://t.co/scHs3L2HGT"
+              }
+            ]
+          }
+        },
+        "id": "1597605170502062080",
+        "location": "美丽而纯洁无瑕的少女总有一些小秘密，不是吗？",
+        "name": "涟漪aynm💨♿️🌊",
+        "pinned_tweet_id": "2061116133726716255",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978177217856487424/_yDj4ynS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4618,
+          "following_count": 880,
+          "like_count": 18253,
+          "listed_count": 15,
+          "media_count": 1685,
+          "tweet_count": 10953
+        },
+        "url": "https://t.co/scHs3L2HGT",
+        "username": "Ayanami_rin0",
+        "verified": false
+      }
+    ]
+  }
+}

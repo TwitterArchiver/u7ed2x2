@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1987194501283389445"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "1987194591876170151",
+    "created_at": "2025-11-08T16:24:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-08T17:24:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1987194591876170151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/O3xXQlsEnB",
+          "end": 72,
+          "expanded_url": "https://x.com/u7ed2x2/status/1987194591876170151/video/1",
+          "media_key": "13_1987194501283389445",
+          "start": 49,
+          "url": "https://t.co/O3xXQlsEnB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987194591876170151",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "玩不起的TNG半夜把活动关了（）\n不过在此之前已经帮好几十个大马人完成了任务，转账转到次次都刷脸 https://t.co/O3xXQlsEnB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15503,
+        "height": 1280,
+        "media_key": "13_1987194501283389445",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1987194501283389445/img/M23kATXjG7MJVbHL.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987194501283389445/vid/avc1/320x696/W31vKqlZvhgf2J2s.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987194501283389445/vid/avc1/480x1044/BBrBW8GHKLBM9tBn.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1987194501283389445/vid/avc1/588x1280/wrKaRcsz3CZzuVzj.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1987194501283389445/pl/0-VBhUzd2E8EGYh4.m3u8"
+          }
+        ],
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1987194501283389445"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "1987194591876170151",
+        "created_at": "2025-11-08T16:24:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T17:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987194591876170151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O3xXQlsEnB",
+              "end": 72,
+              "expanded_url": "https://x.com/u7ed2x2/status/1987194591876170151/video/1",
+              "media_key": "13_1987194501283389445",
+              "start": 49,
+              "url": "https://t.co/O3xXQlsEnB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987194591876170151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "玩不起的TNG半夜把活动关了（）\n不过在此之前已经帮好几十个大马人完成了任务，转账转到次次都刷脸 https://t.co/O3xXQlsEnB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的🇸🇬 / godqwq@倒过来是里账",
+        "id": "1457364958841225222",
+        "location": "香橙港式大学",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 612,
+          "following_count": 434,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 57
+        },
+        "username": "u7ed2x2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2078318569063092224"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2078267035943895076",
+    "created_at": "2026-07-18T03:19:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T04:19:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078318596577779829"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1319578357395156993",
+          "start": 0,
+          "username": "yoshino_2333"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iVmBjpP53q",
+          "end": 39,
+          "expanded_url": "https://x.com/u7ed2x2/status/2078318596577779829/video/1",
+          "media_key": "13_2078318569063092224",
+          "start": 16,
+          "url": "https://t.co/iVmBjpP53q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078318596577779829",
+    "in_reply_to_user_id": "1319578357395156993",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078308048637206571",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshino_2333 😭 https://t.co/iVmBjpP53q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11066,
+        "height": 1280,
+        "media_key": "13_2078318569063092224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078318569063092224/img/LyFTCobmqn43V4NZ.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078318569063092224/vid/avc1/320x568/3Z_lwIjTC7xLi90E.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078318569063092224/vid/avc1/480x852/WRLD6sbXcuiK4Az3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078318569063092224/vid/avc1/720x1280/kAnY_w7q-CDb6ZHC.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078318569063092224/pl/XM5p_Eq0io-EyObY.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078318569063092224"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2078267035943895076",
+        "created_at": "2026-07-18T03:19:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T04:19:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078318596577779829"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1319578357395156993",
+              "start": 0,
+              "username": "yoshino_2333"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iVmBjpP53q",
+              "end": 39,
+              "expanded_url": "https://x.com/u7ed2x2/status/2078318596577779829/video/1",
+              "media_key": "13_2078318569063092224",
+              "start": 16,
+              "url": "https://t.co/iVmBjpP53q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078318596577779829",
+        "in_reply_to_user_id": "1319578357395156993",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078308048637206571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshino_2333 😭 https://t.co/iVmBjpP53q"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319578357395156993",
+        "conversation_id": "2078267035943895076",
+        "created_at": "2026-07-18T02:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T03:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078308048637206571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078308048637206571",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078307650715169273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 这是好事啊！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1070,
+          "like_count": 3249,
+          "listed_count": 3,
+          "media_count": 384,
+          "tweet_count": 1598
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-23T09:56:17.000Z",
+        "description": "希望成为一个有趣、独特的人 | Frontend/ReactNative Developer | AI 拉屎督察官 | Tweets in EN/CN | 逃生舱 @roitium\n\n「I love the world and everything in it.」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 82,
+                "username": "roitium"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/roitium",
+                "end": 23,
+                "expanded_url": "https://github.com/roitium",
+                "start": 0,
+                "url": "https://t.co/z8BZ98SA9U"
+              }
+            ]
+          }
+        },
+        "id": "1319578357395156993",
+        "location": "你的电脑",
+        "name": "Yoshino233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058124254395400192/V-ESBVRl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2081,
+          "following_count": 696,
+          "like_count": 21895,
+          "listed_count": 5,
+          "media_count": 983,
+          "tweet_count": 14385
+        },
+        "url": "https://t.co/z8BZ98SA9U",
+        "username": "yoshino_2333",
+        "verified": true
+      }
+    ]
+  }
+}

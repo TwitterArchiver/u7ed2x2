@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2076183236636766436",
+    "created_at": "2026-07-12T06:42:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:42:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076195435820220721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1846596976265326592",
+          "start": 0,
+          "username": "voidsama777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076195435820220721",
+    "in_reply_to_user_id": "1846596976265326592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076183236636766436",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@voidsama777 什么外交礼遇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2076183236636766436",
+        "created_at": "2026-07-12T06:42:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:42:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076195435820220721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1846596976265326592",
+              "start": 0,
+              "username": "voidsama777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076195435820220721",
+        "in_reply_to_user_id": "1846596976265326592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076183236636766436",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@voidsama777 什么外交礼遇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1846596976265326592",
+        "conversation_id": "2076183236636766436",
+        "created_at": "2026-07-12T05:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T06:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076183236636766436"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076183236636766436",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你说回中国的时候机场会不会有条子给我接机"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1704,
+          "following_count": 1064,
+          "like_count": 2938,
+          "listed_count": 3,
+          "media_count": 367,
+          "tweet_count": 1515
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-16T17:01:02.000Z",
+        "description": "⟡ ✞ GENDER: #NONBINARY ✟⛧✟ 互fo喵♡ ✞ \n✟⛧✟ (ᗜᴗᗜ) touhou project (ᗜᴗᗜ) ♡overdose lover♡✦\n⟡ v-kei ꙳scenecore lover ♡✦ rebzyyx₊kets4eki fans ⭒\n\n✞ ♡ dm开放 欢迎找我聊天喵 ♡ ✞",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 12,
+                "tag": "NONBINARY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitter.com/kuuki_official",
+                "end": 23,
+                "expanded_url": "https://twitter.com/kuuki_official",
+                "start": 0,
+                "url": "https://t.co/hBwaD5CsX6"
+              }
+            ]
+          }
+        },
+        "id": "1846596976265326592",
+        "location": "ＩＮＴＥＲＮＥＴ",
+        "name": "✟ クウキ ✟  🎌🎌🎌🇯🇵🇹🇼🇺🇸🇦🇺🇩🇪🇲🇨",
+        "pinned_tweet_id": "2067943198509707636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060762569317679104/_n0GCM6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 549,
+          "like_count": 17908,
+          "listed_count": 2,
+          "media_count": 637,
+          "tweet_count": 3044
+        },
+        "url": "https://t.co/hBwaD5CsX6",
+        "username": "voidsama777",
+        "verified": true
+      }
+    ]
+  }
+}

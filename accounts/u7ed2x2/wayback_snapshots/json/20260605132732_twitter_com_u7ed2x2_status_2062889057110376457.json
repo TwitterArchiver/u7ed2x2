@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062889050349203457"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2062870110117978572",
+    "created_at": "2026-06-05T13:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T14:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062889057110376457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945848714058203136",
+          "start": 0,
+          "username": "LnaRoaH"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Gq90CjN0z",
+          "end": 32,
+          "expanded_url": "https://x.com/u7ed2x2/status/2062889057110376457/photo/1",
+          "media_key": "3_2062889050349203457",
+          "start": 9,
+          "url": "https://t.co/7Gq90CjN0z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062889057110376457",
+    "in_reply_to_user_id": "1945848714058203136",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062870110117978572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LnaRoaH https://t.co/7Gq90CjN0z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2062889050349203457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDaqWEbcAE6yIx.jpg",
+        "width": 1448
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2062870066966999040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKDJZXdasAAvzbX.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062889050349203457"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062870110117978572",
+        "created_at": "2026-06-05T13:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T14:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062889057110376457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945848714058203136",
+              "start": 0,
+              "username": "LnaRoaH"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Gq90CjN0z",
+              "end": 32,
+              "expanded_url": "https://x.com/u7ed2x2/status/2062889057110376457/photo/1",
+              "media_key": "3_2062889050349203457",
+              "start": 9,
+              "url": "https://t.co/7Gq90CjN0z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062889057110376457",
+        "in_reply_to_user_id": "1945848714058203136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062870110117978572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LnaRoaH https://t.co/7Gq90CjN0z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062870066966999040"
+          ]
+        },
+        "author_id": "1945848714058203136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2062870110117978572",
+        "created_at": "2026-06-05T12:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T13:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062870110117978572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mPhFSDK1kd",
+              "end": 26,
+              "expanded_url": "https://x.com/LnaRoaH/status/2062870110117978572/photo/1",
+              "media_key": "3_2062870066966999040",
+              "start": 3,
+              "url": "https://t.co/mPhFSDK1kd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062870110117978572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "觅食 https://t.co/mPhFSDK1kd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1555,
+          "following_count": 1064,
+          "like_count": 884,
+          "listed_count": 1,
+          "media_count": 184,
+          "tweet_count": 709
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-17T14:11:19.000Z",
+        "description": "你好啊～我是lhr 攝影｜HIFI｜畫畫｜羽毛球｜游泳｜化學 ｜推推空間｜散文诗｜坐標待定天津市和苏州市 調戲鏈接🔗https://t.co/QZ0qizQuEq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lnaroah",
+                "end": 81,
+                "expanded_url": "https://ngl.link/lnaroah",
+                "start": 58,
+                "url": "https://t.co/QZ0qizQuEq"
+              }
+            ]
+          }
+        },
+        "id": "1945848714058203136",
+        "location": "距你1.5km",
+        "name": "lhr～",
+        "pinned_tweet_id": "2054592648699363690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980434750884966400/-y_6Pczc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 34,
+          "like_count": 553,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 248
+        },
+        "username": "LnaRoaH",
+        "verified": true
+      }
+    ]
+  }
+}

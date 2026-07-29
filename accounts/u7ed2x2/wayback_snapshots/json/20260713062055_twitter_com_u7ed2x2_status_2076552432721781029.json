@@ -1,0 +1,145 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076552424333172736"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2076552432721781029",
+    "created_at": "2026-07-13T06:20:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T07:20:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076552432721781029"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/28qLIrX5sU",
+          "end": 94,
+          "expanded_url": "https://x.com/u7ed2x2/status/2076552432721781029/photo/1",
+          "media_key": "3_2076552424333172736",
+          "start": 71,
+          "url": "https://t.co/28qLIrX5sU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076552432721781029",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新品·青芒酸\n今天有买一赠一哦\n\n主要的味道来自羽衣甘蓝，后面还能感觉出苹果以及芒果的酸，跟各位讲一定要加糖，哪怕零卡糖也好，否则会变成纯酸 https://t.co/28qLIrX5sU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2076552424333172736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNFlbYna4AA84D8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076552424333172736"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2076552432721781029",
+        "created_at": "2026-07-13T06:20:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T07:20:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076552432721781029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/28qLIrX5sU",
+              "end": 94,
+              "expanded_url": "https://x.com/u7ed2x2/status/2076552432721781029/photo/1",
+              "media_key": "3_2076552424333172736",
+              "start": 71,
+              "url": "https://t.co/28qLIrX5sU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076552432721781029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新品·青芒酸\n今天有买一赠一哦\n\n主要的味道来自羽衣甘蓝，后面还能感觉出苹果以及芒果的酸，跟各位讲一定要加糖，哪怕零卡糖也好，否则会变成纯酸 https://t.co/28qLIrX5sU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1706,
+          "following_count": 1064,
+          "like_count": 3003,
+          "listed_count": 3,
+          "media_count": 373,
+          "tweet_count": 1538
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

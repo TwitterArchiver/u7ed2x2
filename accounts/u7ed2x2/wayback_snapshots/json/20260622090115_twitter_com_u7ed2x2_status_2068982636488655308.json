@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2068960502127136857",
+    "created_at": "2026-06-22T09:01:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T10:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068982636488655308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1162208564426862592",
+          "start": 0,
+          "username": "Suzumi_17860"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068982636488655308",
+    "in_reply_to_user_id": "1162208564426862592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068972208580604386",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Suzumi_17860 肉体厨绝对NG🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2068960502127136857",
+        "created_at": "2026-06-22T09:01:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T10:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068982636488655308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1162208564426862592",
+              "start": 0,
+              "username": "Suzumi_17860"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068982636488655308",
+        "in_reply_to_user_id": "1162208564426862592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068972208580604386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Suzumi_17860 肉体厨绝对NG🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1162208564426862592",
+        "conversation_id": "2068960502127136857",
+        "created_at": "2026-06-22T08:19:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T09:19:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068972208580604386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068972208580604386",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068960502127136857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 这蒸饺和nelo的肉体一样诱人🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1603,
+          "following_count": 1061,
+          "like_count": 1406,
+          "listed_count": 1,
+          "media_count": 262,
+          "tweet_count": 996
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-16T03:44:57.000Z",
+        "description": "和所有傻逼切割｜🏳️‍🌈｜兴趣爱好丧失｜姑且是N1｜关西某杂牌大学学生｜请叫我鈴",
+        "id": "1162208564426862592",
+        "location": "大阪",
+        "name": "スズ",
+        "pinned_tweet_id": "2039223136319861237",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1788163986313424896/sMAK5dZF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 625,
+          "like_count": 2093,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 4584
+        },
+        "url": "",
+        "username": "Suzumi_17860",
+        "verified": false
+      }
+    ]
+  }
+}

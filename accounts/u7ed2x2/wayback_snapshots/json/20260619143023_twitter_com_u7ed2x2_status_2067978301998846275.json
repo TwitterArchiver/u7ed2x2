@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2067951282808324536",
+    "created_at": "2026-06-19T14:30:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T15:30:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067978301998846275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1586779015574327296",
+          "start": 0,
+          "username": "ForeverYuuka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067978301998846275",
+    "in_reply_to_user_id": "1586779015574327296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067976236752904686",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ForeverYuuka 幻视好严重"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2067951282808324536",
+        "created_at": "2026-06-19T14:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067978301998846275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1586779015574327296",
+              "start": 0,
+              "username": "ForeverYuuka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067978301998846275",
+        "in_reply_to_user_id": "1586779015574327296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067976236752904686",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ForeverYuuka 幻视好严重"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586779015574327296",
+        "conversation_id": "2067951282808324536",
+        "created_at": "2026-06-19T14:22:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T15:22:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067976236752904686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067976236752904686",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067951282808324536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 第一眼看成吃手"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 1064,
+          "like_count": 1334,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 974
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-30T17:56:28.000Z",
+        "description": "新形态次世代能源茶酱・🚩🏴🏳️‍⚧️・World Cup26⚽🇳🇱🇫🇷☫🇪🇸🇿🇦🇲🇦🇨🇮🇨🇻🇨🇩🇬🇭・169㎝ 49.8㎏・喜欢JK制服/lolita/地雷系・优香，喜欢",
+        "id": "1586779015574327296",
+        "name": "Yuuka Elite💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063920555859042304/vHVT7FGS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 449,
+          "like_count": 24899,
+          "listed_count": 3,
+          "media_count": 535,
+          "tweet_count": 19192
+        },
+        "url": "",
+        "username": "ForeverYuuka",
+        "verified": false
+      }
+    ]
+  }
+}

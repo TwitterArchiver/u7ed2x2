@@ -1,0 +1,163 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2069640036752953344"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2069640156941058159",
+    "created_at": "2026-06-24T04:34:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T05:34:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069640156941058159"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zPwCec89Ya",
+          "end": 27,
+          "expanded_url": "https://x.com/u7ed2x2/status/2069640156941058159/video/1",
+          "media_key": "13_2069640036752953344",
+          "start": 4,
+          "url": "https://t.co/zPwCec89Ya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069640156941058159",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "UwU https://t.co/zPwCec89Ya"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26366,
+        "height": 1920,
+        "media_key": "13_2069640036752953344",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2069640036752953344/img/TiBr-eG162kbsPWi.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069640036752953344/vid/avc1/720x1280/eHFJijwUMmikmzZW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2069640036752953344/pl/WVXS1ZZKbAFgr3L4.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069640036752953344/vid/avc1/480x852/nSe0Z7FXOzKKFLUg.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069640036752953344/vid/avc1/1080x1920/MN1bpZs-Exo0Qc9e.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2069640036752953344/vid/avc1/320x568/EYe-UnNlCtl0Oa-a.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2069640036752953344"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2069640156941058159",
+        "created_at": "2026-06-24T04:34:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:34:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069640156941058159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPwCec89Ya",
+              "end": 27,
+              "expanded_url": "https://x.com/u7ed2x2/status/2069640156941058159/video/1",
+              "media_key": "13_2069640036752953344",
+              "start": 4,
+              "url": "https://t.co/zPwCec89Ya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069640156941058159",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "UwU https://t.co/zPwCec89Ya"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1602,
+          "following_count": 1057,
+          "like_count": 1463,
+          "listed_count": 2,
+          "media_count": 272,
+          "tweet_count": 1022
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2073074878622859621",
+    "created_at": "2026-07-03T16:36:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:36:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073083383547363383"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1845454917236031495",
+          "start": 0,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 25,
+          "id": "347002675",
+          "start": 23,
+          "username": "s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073083383547363383",
+    "in_reply_to_user_id": "1845454917236031495",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073081682534842832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dontbesadforit /tp @e @s 是吧😁"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073074878622859621",
+        "created_at": "2026-07-03T16:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073083383547363383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845454917236031495",
+              "start": 0,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 25,
+              "id": "347002675",
+              "start": 23,
+              "username": "s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073083383547363383",
+        "in_reply_to_user_id": "1845454917236031495",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073081682534842832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontbesadforit /tp @e @s 是吧😁"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1845454917236031495",
+        "conversation_id": "2073074878622859621",
+        "created_at": "2026-07-03T16:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073081682534842832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073081682534842832",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073074878622859621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 把所有尸体传送到自己这里然后废掉一个档（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1633,
+          "following_count": 1059,
+          "like_count": 2181,
+          "listed_count": 3,
+          "media_count": 325,
+          "tweet_count": 1256
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "吃补也不算翻车 自然科学 生物学大好き | 为什么还活着：没见到绪山美波里/世界上还有爱我的人 | 大白妹妹：@haku_dabai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 55,
+                "username": "haku_dabai"
+              }
+            ]
+          }
+        },
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "老中",
+        "pinned_tweet_id": "2032491408985333996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063207895135862785/ciSOUURv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2495,
+          "following_count": 996,
+          "like_count": 77033,
+          "listed_count": 5,
+          "media_count": 489,
+          "tweet_count": 9586
+        },
+        "url": "",
+        "username": "Dontbesadforit",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-02T04:17:30.000Z",
+        "description": "📬 youresus@protonmail.com",
+        "id": "347002675",
+        "name": "『S』",
+        "pinned_tweet_id": "1272299561378369536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852780598785683457/gWM3O2Wm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79097,
+          "following_count": 20,
+          "like_count": 545,
+          "listed_count": 1418,
+          "media_count": 387,
+          "tweet_count": 847
+        },
+        "url": "",
+        "username": "s",
+        "verified": true
+      }
+    ]
+  }
+}

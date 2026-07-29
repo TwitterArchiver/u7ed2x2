@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078850984131129345",
+        "13_2078850984160399360"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2078851030453006342",
+    "created_at": "2026-07-19T14:34:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T15:34:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078851030453006342"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6SuPrGYU9l",
+          "end": 63,
+          "expanded_url": "https://x.com/u7ed2x2/status/2078851030453006342/video/1",
+          "media_key": "3_2078850984131129345",
+          "start": 40,
+          "url": "https://t.co/6SuPrGYU9l"
+        },
+        {
+          "display_url": "pic.x.com/6SuPrGYU9l",
+          "end": 63,
+          "expanded_url": "https://x.com/u7ed2x2/status/2078851030453006342/video/1",
+          "media_key": "13_2078850984160399360",
+          "start": 40,
+          "url": "https://t.co/6SuPrGYU9l"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2078465511508303940",
+          "start": 64,
+          "url": "https://t.co/XY6eo3xAu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078851030453006342",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078465511508303940",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草...\n勾兑成功了，味道和瑞幸有什么区别\n不行我明天要拿这杯去瑞幸当场对比 https://t.co/6SuPrGYU9l https://t.co/XY6eo3xAu1"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078850984131129345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmP9LIbcAEB2vD.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 2868,
+        "height": 1920,
+        "media_key": "13_2078850984160399360",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078850984160399360/img/Z3PmkPQpG5Mz2_Cm.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078850984160399360/vid/avc1/320x568/dCFmwM9FkBjN4dri.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078850984160399360/pl/nYmZr_nO-0NIIGgH.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078850984160399360/vid/avc1/1080x1920/iYjHssx2uVvrz12d.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078850984160399360/vid/avc1/720x1280/SnZEy3KthyfjPD10.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078850984160399360/vid/avc1/480x852/6E23B0jHGgbUx3Ri.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2078465483507163136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgxWFZa4AAyCFG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078850984131129345",
+            "13_2078850984160399360"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078851030453006342",
+        "created_at": "2026-07-19T14:34:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T15:34:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078851030453006342"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6SuPrGYU9l",
+              "end": 63,
+              "expanded_url": "https://x.com/u7ed2x2/status/2078851030453006342/video/1",
+              "media_key": "3_2078850984131129345",
+              "start": 40,
+              "url": "https://t.co/6SuPrGYU9l"
+            },
+            {
+              "display_url": "pic.x.com/6SuPrGYU9l",
+              "end": 63,
+              "expanded_url": "https://x.com/u7ed2x2/status/2078851030453006342/video/1",
+              "media_key": "13_2078850984160399360",
+              "start": 40,
+              "url": "https://t.co/6SuPrGYU9l"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2078465511508303940",
+              "start": 64,
+              "url": "https://t.co/XY6eo3xAu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078851030453006342",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078465511508303940",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草...\n勾兑成功了，味道和瑞幸有什么区别\n不行我明天要拿这杯去瑞幸当场对比 https://t.co/6SuPrGYU9l https://t.co/XY6eo3xAu1"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078465483507163136"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2078465511508303940",
+        "created_at": "2026-07-18T13:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078465511508303940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cWY5tUJDBA",
+              "end": 99,
+              "expanded_url": "https://x.com/u7ed2x2/status/2078465511508303940/photo/1",
+              "media_key": "3_2078465483507163136",
+              "start": 76,
+              "url": "https://t.co/cWY5tUJDBA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078465511508303940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 957,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "今天也瑞幸！\n狗喝的是左边的小青桔茉莉冰奶\n\n查到了配方，感觉能用「青桔汁+东方树叶+营养快线（当做奶基底）+水补满」的方式在家复刻，明天研究一下比例 https://t.co/cWY5tUJDBA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1710,
+          "following_count": 1069,
+          "like_count": 3326,
+          "listed_count": 3,
+          "media_count": 389,
+          "tweet_count": 1621
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2073650231481434233",
+    "created_at": "2026-07-05T07:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073673236349673773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1227265979735887874",
+          "start": 0,
+          "username": "LuminaFable2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073673236349673773",
+    "in_reply_to_user_id": "1227265979735887874",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073673011870486834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuminaFable2020 ruarua..."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2073673002907308032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMcqm_6bkAAVDId.jpg",
+        "width": 920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073650231481434233",
+        "created_at": "2026-07-05T07:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073673236349673773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1227265979735887874",
+              "start": 0,
+              "username": "LuminaFable2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073673236349673773",
+        "in_reply_to_user_id": "1227265979735887874",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073673011870486834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuminaFable2020 ruarua..."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073673002907308032"
+          ]
+        },
+        "author_id": "1227265979735887874",
+        "conversation_id": "2073650231481434233",
+        "created_at": "2026-07-05T07:39:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:39:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073673011870486834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TasbbSEUEe",
+              "end": 49,
+              "expanded_url": "https://x.com/LuminaFable2020/status/2073673011870486834/photo/1",
+              "media_key": "3_2073673002907308032",
+              "start": 26,
+              "url": "https://t.co/TasbbSEUEe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073673011870486834",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073650231481434233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 去年我也是黑卡的QAQ 今年穷了 https://t.co/TasbbSEUEe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 1061,
+          "like_count": 2355,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 1300
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-11T16:19:55.000Z",
+        "description": "社恐 /  Dev /  碎碎念 /  可爱 / No politics / Transport fans / Prev acc @frankxka05 / 🤤 /",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "frankxka05"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuminaSaki",
+                "end": 23,
+                "expanded_url": "https://t.me/LuminaSaki",
+                "start": 0,
+                "url": "https://t.co/tXNFqGvWTa"
+              }
+            ]
+          }
+        },
+        "id": "1227265979735887874",
+        "name": "LuminaSaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055610164711985152/Dga6BtlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 335,
+          "like_count": 1226,
+          "listed_count": 5,
+          "media_count": 171,
+          "tweet_count": 910
+        },
+        "url": "https://t.co/tXNFqGvWTa",
+        "username": "LuminaFable2020",
+        "verified": true
+      }
+    ]
+  }
+}

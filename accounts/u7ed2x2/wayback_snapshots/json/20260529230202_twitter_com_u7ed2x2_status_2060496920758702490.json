@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2060348606444626248",
+    "created_at": "2026-05-29T23:02:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T00:02:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060496920758702490"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1945848714058203136",
+          "start": 0,
+          "username": "LnaRoaH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060496920758702490",
+    "in_reply_to_user_id": "1945848714058203136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060383554660696487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LnaRoaH lhr早~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2060348606444626248",
+        "created_at": "2026-05-29T23:02:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T00:02:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060496920758702490"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1945848714058203136",
+              "start": 0,
+              "username": "LnaRoaH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060496920758702490",
+        "in_reply_to_user_id": "1945848714058203136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060383554660696487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LnaRoaH lhr早~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945848714058203136",
+        "conversation_id": "2060348606444626248",
+        "created_at": "2026-05-29T15:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T16:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060383554660696487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060383554660696487",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060348606444626248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 早安～🤓"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 1043,
+          "like_count": 655,
+          "listed_count": 1,
+          "media_count": 147,
+          "tweet_count": 531
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-17T14:11:19.000Z",
+        "description": "你好啊～我是lhr 攝影｜HIFI｜畫畫｜羽毛球｜游泳｜化學 ｜推推空間｜散文诗｜坐標待定天津市和苏州市 調戲鏈接🔗https://t.co/QZ0qizQuEq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lnaroah",
+                "end": 81,
+                "expanded_url": "https://ngl.link/lnaroah",
+                "start": 58,
+                "url": "https://t.co/QZ0qizQuEq"
+              }
+            ]
+          }
+        },
+        "id": "1945848714058203136",
+        "location": "距你1.5km",
+        "name": "lhr～",
+        "pinned_tweet_id": "2054592648699363690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980434750884966400/-y_6Pczc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 30,
+          "like_count": 438,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 201
+        },
+        "username": "LnaRoaH",
+        "verified": false
+      }
+    ]
+  }
+}

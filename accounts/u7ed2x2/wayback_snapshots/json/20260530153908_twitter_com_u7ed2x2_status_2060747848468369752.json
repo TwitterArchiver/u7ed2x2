@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060747842113986560",
+        "3_2060747842109702144"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2060747848468369752",
+    "created_at": "2026-05-30T15:39:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:39:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060747848468369752"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rO3Vz0Xu1n",
+          "end": 39,
+          "expanded_url": "https://x.com/u7ed2x2/status/2060747848468369752/photo/1",
+          "media_key": "3_2060747842113986560",
+          "start": 16,
+          "url": "https://t.co/rO3Vz0Xu1n"
+        },
+        {
+          "display_url": "pic.x.com/rO3Vz0Xu1n",
+          "end": 39,
+          "expanded_url": "https://x.com/u7ed2x2/status/2060747848468369752/photo/1",
+          "media_key": "3_2060747842109702144",
+          "start": 16,
+          "url": "https://t.co/rO3Vz0Xu1n"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 63,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2056393696296530189",
+          "start": 40,
+          "url": "https://t.co/MM4rHD6o2x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060747848468369752",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056393696296530189",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这将大大提高 挤牙膏® 体验。 https://t.co/rO3Vz0Xu1n https://t.co/MM4rHD6o2x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060747842113986560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk_PnzbYAAg3BW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060747842109702144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJk_PnyaAAAs0mg.jpg",
+        "width": 1036
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060747842113986560",
+            "3_2060747842109702144"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2060747848468369752",
+        "created_at": "2026-05-30T15:39:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:39:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060747848468369752"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rO3Vz0Xu1n",
+              "end": 39,
+              "expanded_url": "https://x.com/u7ed2x2/status/2060747848468369752/photo/1",
+              "media_key": "3_2060747842113986560",
+              "start": 16,
+              "url": "https://t.co/rO3Vz0Xu1n"
+            },
+            {
+              "display_url": "pic.x.com/rO3Vz0Xu1n",
+              "end": 39,
+              "expanded_url": "https://x.com/u7ed2x2/status/2060747848468369752/photo/1",
+              "media_key": "3_2060747842109702144",
+              "start": 16,
+              "url": "https://t.co/rO3Vz0Xu1n"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2056393696296530189",
+              "start": 40,
+              "url": "https://t.co/MM4rHD6o2x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060747848468369752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056393696296530189",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这将大大提高 挤牙膏® 体验。 https://t.co/rO3Vz0Xu1n https://t.co/MM4rHD6o2x"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2056393696296530189",
+        "created_at": "2026-05-18T15:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T16:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056393696296530189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056393696296530189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 12040,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好困我去给牙刷得白白的然后睡觉💤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1513,
+          "following_count": 1049,
+          "like_count": 701,
+          "listed_count": 1,
+          "media_count": 155,
+          "tweet_count": 562
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

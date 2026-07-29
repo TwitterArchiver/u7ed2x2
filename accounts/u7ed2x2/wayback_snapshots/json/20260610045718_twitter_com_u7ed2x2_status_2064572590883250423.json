@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2064302868803551354",
+    "created_at": "2026-06-10T04:57:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T05:57:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064572590883250423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1598326999",
+          "start": 0,
+          "username": "BaggIE6_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064572590883250423",
+    "in_reply_to_user_id": "1598326999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064570397404926214",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@BaggIE6_0 狗也好一段时间没吃了...\n馋馋（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2064302868803551354",
+        "created_at": "2026-06-10T04:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064572590883250423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598326999",
+              "start": 0,
+              "username": "BaggIE6_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064572590883250423",
+        "in_reply_to_user_id": "1598326999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064570397404926214",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@BaggIE6_0 狗也好一段时间没吃了...\n馋馋（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598326999",
+        "conversation_id": "2064302868803551354",
+        "created_at": "2026-06-10T04:48:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T05:48:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064570397404926214"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064570397404926214",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064302868803551354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 发工资的时候才会考虑去吃的一家店。。。（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1573,
+          "following_count": 1059,
+          "like_count": 1005,
+          "listed_count": 1,
+          "media_count": 205,
+          "tweet_count": 788
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2013-07-16T12:35:06.000Z",
+        "description": "Baggie™ | 袋\n\nⓘ 使用本品时需要缓慢加热，请知悉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.cmx.im/@baggie",
+                "end": 23,
+                "expanded_url": "https://m.cmx.im/@baggie",
+                "start": 0,
+                "url": "https://t.co/d4oPq9Z2kx"
+              }
+            ]
+          }
+        },
+        "id": "1598326999",
+        "location": "We all live and we all 袋.",
+        "name": "袋 Aka.dài",
+        "pinned_tweet_id": "1568575442864738304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004537729770815488/eQ9EtZv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 341,
+          "following_count": 421,
+          "like_count": 127478,
+          "listed_count": 9,
+          "media_count": 3247,
+          "tweet_count": 31305
+        },
+        "url": "https://t.co/d4oPq9Z2kx",
+        "username": "BaggIE6_0",
+        "verified": false
+      }
+    ]
+  }
+}

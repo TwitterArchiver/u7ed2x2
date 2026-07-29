@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2057773989297303930",
+    "created_at": "2026-05-22T13:47:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T14:47:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057820765672907199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1951341828789379073",
+          "start": 0,
+          "username": "s0yo1uv"
+        }
+      ],
+      "urls": [
+        {
+          "description": "自動在網頁的中文和英文、數字、符號之間插入空白。（攤手）沒辦法，處女座都有強迫症。",
+          "display_url": "chromewebstore.google.com/detail/%E7%82%…",
+          "end": 48,
+          "expanded_url": "https://chromewebstore.google.com/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd",
+          "images": [
+            {
+              "height": 128,
+              "url": "https://pbs.twimg.com/news_img/2057820765970747392/aw54m910?format=jpg&name=orig",
+              "width": 128
+            },
+            {
+              "height": 128,
+              "url": "https://pbs.twimg.com/news_img/2057820765970747392/aw54m910?format=jpg&name=150x150",
+              "width": 128
+            }
+          ],
+          "start": 25,
+          "status": 200,
+          "title": "為什麼你們就是不能加個空格呢？ - Chrome Web Store",
+          "unwound_url": "https://chromewebstore.google.com/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd",
+          "url": "https://t.co/EaJxOYO5EJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057820765672907199",
+    "in_reply_to_user_id": "1951341828789379073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057789981129949583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@s0yo1uv 是的，如果实在看得头大就...\nhttps://t.co/EaJxOYO5EJ"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2057789981129949583].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2057789981129949583",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2057789981129949583"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2057773989297303930",
+        "created_at": "2026-05-22T13:47:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T14:47:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057820765672907199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1951341828789379073",
+              "start": 0,
+              "username": "s0yo1uv"
+            }
+          ],
+          "urls": [
+            {
+              "description": "自動在網頁的中文和英文、數字、符號之間插入空白。（攤手）沒辦法，處女座都有強迫症。",
+              "display_url": "chromewebstore.google.com/detail/%E7%82%…",
+              "end": 48,
+              "expanded_url": "https://chromewebstore.google.com/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd",
+              "images": [
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/2057820765970747392/aw54m910?format=jpg&name=orig",
+                  "width": 128
+                },
+                {
+                  "height": 128,
+                  "url": "https://pbs.twimg.com/news_img/2057820765970747392/aw54m910?format=jpg&name=150x150",
+                  "width": 128
+                }
+              ],
+              "start": 25,
+              "status": 200,
+              "title": "為什麼你們就是不能加個空格呢？ - Chrome Web Store",
+              "unwound_url": "https://chromewebstore.google.com/detail/%E7%82%BA%E4%BB%80%E9%BA%BC%E4%BD%A0%E5%80%91%E5%B0%B1%E6%98%AF%E4%B8%8D%E8%83%BD%E5%8A%A0%E5%80%8B%E7%A9%BA%E6%A0%BC%E5%91%A2%EF%BC%9F/paphcfdffjnbcgkokihcdjliihicmbpd",
+              "url": "https://t.co/EaJxOYO5EJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057820765672907199",
+        "in_reply_to_user_id": "1951341828789379073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057789981129949583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@s0yo1uv 是的，如果实在看得头大就...\nhttps://t.co/EaJxOYO5EJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1465,
+          "following_count": 1021,
+          "like_count": 463,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 388
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-01T17:58:51.000Z",
+        "description": "",
+        "id": "1951341828789379073",
+        "name": "陽",
+        "pinned_tweet_id": "2049803257313480977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057686833845489664/fi_zNLUH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 96,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 459
+        },
+        "username": "s0yo1uv",
+        "verified": false
+      }
+    ]
+  }
+}

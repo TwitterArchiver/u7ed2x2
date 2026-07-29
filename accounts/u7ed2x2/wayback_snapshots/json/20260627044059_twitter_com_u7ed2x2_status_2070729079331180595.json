@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070729071122886656"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2070729079331180595",
+    "created_at": "2026-06-27T04:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070729079331180595"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zxG0EBNLep",
+          "end": 33,
+          "expanded_url": "https://x.com/u7ed2x2/status/2070729079331180595/photo/1",
+          "media_key": "3_2070729071122886656",
+          "start": 10,
+          "url": "https://t.co/zxG0EBNLep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070729079331180595",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "嗓子突然好疼... https://t.co/zxG0EBNLep"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2070729071122886656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLy1HnZasAAUvPG.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070729071122886656"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2070729079331180595",
+        "created_at": "2026-06-27T04:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070729079331180595"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zxG0EBNLep",
+              "end": 33,
+              "expanded_url": "https://x.com/u7ed2x2/status/2070729079331180595/photo/1",
+              "media_key": "3_2070729071122886656",
+              "start": 10,
+              "url": "https://t.co/zxG0EBNLep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070729079331180595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "嗓子突然好疼... https://t.co/zxG0EBNLep"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1607,
+          "following_count": 1058,
+          "like_count": 1597,
+          "listed_count": 2,
+          "media_count": 286,
+          "tweet_count": 1066
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

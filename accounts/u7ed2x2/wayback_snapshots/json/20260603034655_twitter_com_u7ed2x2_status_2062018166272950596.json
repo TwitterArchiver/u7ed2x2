@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2061754672202105109",
+    "created_at": "2026-06-03T03:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T04:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062018166272950596"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1657365823030263808",
+          "start": 0,
+          "username": "llkawi_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062018166272950596",
+    "in_reply_to_user_id": "1657365823030263808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062015498246820222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@llkawi_ 呜呜吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2061754672202105109",
+        "created_at": "2026-06-03T03:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062018166272950596"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1657365823030263808",
+              "start": 0,
+              "username": "llkawi_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062018166272950596",
+        "in_reply_to_user_id": "1657365823030263808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062015498246820222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@llkawi_ 呜呜吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657365823030263808",
+        "conversation_id": "2061754672202105109",
+        "created_at": "2026-06-03T03:36:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T04:36:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062015498246820222"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062015498246820222",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061754672202105109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@u7ed2x2 都能吃吗🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 1063,
+          "like_count": 803,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 634
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-13T12:43:10.000Z",
+        "description": "🎵home: https://t.co/5Pn1GO92Pw\na.k.a. 盒沐子 | 18 y/o | 低浮上 | cn disconnected | DTM, DJ, Coding, Art |🌈 A little bit of everything",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nichijou.moe",
+                "end": 30,
+                "expanded_url": "http://nichijou.moe",
+                "start": 7,
+                "url": "https://t.co/5Pn1GO92Pw"
+              }
+            ]
+          }
+        },
+        "id": "1657365823030263808",
+        "location": "The Void",
+        "name": "Hexzii⭐",
+        "pinned_tweet_id": "1932851447399657639",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908205838470373376/d10k83uH_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 669,
+          "following_count": 3392,
+          "like_count": 24507,
+          "listed_count": 1,
+          "media_count": 317,
+          "tweet_count": 4435
+        },
+        "username": "llkawi_",
+        "verified": false
+      }
+    ]
+  }
+}

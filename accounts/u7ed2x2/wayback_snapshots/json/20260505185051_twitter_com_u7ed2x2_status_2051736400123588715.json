@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2051736388274692096"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2051736080656093276",
+    "created_at": "2026-05-05T18:50:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T19:50:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051736400123588715"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PFweMCuTK9",
+          "end": 23,
+          "expanded_url": "https://x.com/u7ed2x2/status/2051736400123588715/video/1",
+          "media_key": "13_2051736388274692096",
+          "start": 0,
+          "url": "https://t.co/PFweMCuTK9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051736400123588715",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051736080656093276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/PFweMCuTK9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5196,
+        "height": 1280,
+        "media_key": "13_2051736388274692096",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2051736388274692096/img/n16TGc4DGRQl1pBK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051736388274692096/vid/avc1/320x696/MQTsEFCt870unGNk.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051736388274692096/vid/avc1/480x1044/Rg-Jy54GmwDkzpZI.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2051736388274692096/vid/avc1/588x1280/RaBEzqOskHyimJyZ.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2051736388274692096/pl/FZn2ODad7VUUYvYw.m3u8?tag=27"
+          }
+        ],
+        "width": 588
+      },
+      {
+        "height": 654,
+        "media_key": "3_2051736074649817088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHk7Ft5bUAATrq1.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2051736388274692096"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2051736080656093276",
+        "created_at": "2026-05-05T18:50:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051736400123588715"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PFweMCuTK9",
+              "end": 23,
+              "expanded_url": "https://x.com/u7ed2x2/status/2051736400123588715/video/1",
+              "media_key": "13_2051736388274692096",
+              "start": 0,
+              "url": "https://t.co/PFweMCuTK9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051736400123588715",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051736080656093276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/PFweMCuTK9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051736074649817088"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051736080656093276",
+        "created_at": "2026-05-05T18:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051736080656093276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hs4kIKtzGb",
+              "end": 79,
+              "expanded_url": "https://x.com/u7ed2x2/status/2051736080656093276/photo/1",
+              "media_key": "3_2051736074649817088",
+              "start": 56,
+              "url": "https://t.co/hs4kIKtzGb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051736080656093276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我发现发推前未选择「社交圈可回复」选项的话，发推后再尝试切换到该选项会报错，提示「更改谁可以回复时出错」... https://t.co/hs4kIKtzGb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1258,
+          "following_count": 816,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 65,
+          "tweet_count": 164
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

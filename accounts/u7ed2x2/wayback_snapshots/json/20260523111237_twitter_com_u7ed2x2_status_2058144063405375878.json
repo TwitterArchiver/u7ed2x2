@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2058143531143934344",
+    "created_at": "2026-05-23T11:12:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T12:12:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058144063405375878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1227265979735887874",
+          "start": 0,
+          "username": "LuminaFable2020"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058144063405375878",
+    "in_reply_to_user_id": "1227265979735887874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058143531143934344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@LuminaFable2020 清理几个广告号就可以截了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2670,
+        "media_key": "3_2058143523371888640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_-oUdaMAA2p-X.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2058143531143934344",
+        "created_at": "2026-05-23T11:12:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058144063405375878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1227265979735887874",
+              "start": 0,
+              "username": "LuminaFable2020"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058144063405375878",
+        "in_reply_to_user_id": "1227265979735887874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058143531143934344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LuminaFable2020 清理几个广告号就可以截了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058143523371888640"
+          ]
+        },
+        "author_id": "1227265979735887874",
+        "conversation_id": "2058143531143934344",
+        "created_at": "2026-05-23T11:10:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T12:10:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058143531143934344"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOWj6nNZjw",
+              "end": 49,
+              "expanded_url": "https://x.com/LuminaFable2020/status/2058143531143934344/photo/1",
+              "media_key": "3_2058143523371888640",
+              "start": 26,
+              "url": "https://t.co/FOWj6nNZjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058143531143934344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "没截到 200fo 呜呜呜\n\n有人能帮我截一个吗🥹 https://t.co/FOWj6nNZjw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1470,
+          "following_count": 1025,
+          "like_count": 485,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 404
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-11T16:19:55.000Z",
+        "description": "社恐一枚 喜欢coding和旅游 主要是日常碎碎念？  前世@frankshiki73  目标是成为可爱的自己",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 30,
+                "username": "frankshiki73"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuminaSaki",
+                "end": 23,
+                "expanded_url": "https://t.me/LuminaSaki",
+                "start": 0,
+                "url": "https://t.co/tXNFqGvWTa"
+              }
+            ]
+          }
+        },
+        "id": "1227265979735887874",
+        "location": "Changsha",
+        "name": "LuminaSaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055610164711985152/Dga6BtlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 125,
+          "like_count": 413,
+          "listed_count": 4,
+          "media_count": 50,
+          "tweet_count": 272
+        },
+        "url": "https://t.co/tXNFqGvWTa",
+        "username": "LuminaFable2020",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2078410847618301999",
+    "created_at": "2026-07-18T09:25:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T10:25:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2078410847618301999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/a1tk0/status/2…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/a1tk0/status/2078337800970391652",
+          "start": 27,
+          "url": "https://t.co/ZrAE3XFSfw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078410847618301999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078337800970391652",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哪里来的...\n要是有萌天赋的话我早就是可爱狗了（） https://t.co/ZrAE3XFSfw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2078337795068964864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNe9No5asAAnfIu.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2078410847618301999",
+        "created_at": "2026-07-18T09:25:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:25:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078410847618301999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/a1tk0/status/2…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/a1tk0/status/2078337800970391652",
+              "start": 27,
+              "url": "https://t.co/ZrAE3XFSfw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078410847618301999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078337800970391652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪里来的...\n要是有萌天赋的话我早就是可爱狗了（） https://t.co/ZrAE3XFSfw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078337795068964864"
+          ]
+        },
+        "author_id": "1680039839209775107",
+        "conversation_id": "2078337800970391652",
+        "created_at": "2026-07-18T04:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T05:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078337800970391652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AAKA6xbpND",
+              "end": 35,
+              "expanded_url": "https://x.com/A1tk0/status/2078337800970391652/photo/1",
+              "media_key": "3_2078337795068964864",
+              "start": 12,
+              "url": "https://t.co/AAKA6xbpND"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078337800970391652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是捏\n狗有萌天赋我没有 https://t.co/AAKA6xbpND"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1071,
+          "like_count": 3269,
+          "listed_count": 3,
+          "media_count": 385,
+          "tweet_count": 1600
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T02:21:33.000Z",
+        "description": "🇭🇰 cat. proudly obsessed with one special puppy: @u7ed2x2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "u7ed2x2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/a1tk0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/a1tk0",
+                "start": 0,
+                "url": "https://t.co/ipMVUM8qku"
+              }
+            ]
+          }
+        },
+        "id": "1680039839209775107",
+        "name": "Altko",
+        "pinned_tweet_id": "2076178227589226805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 395,
+          "like_count": 1068,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 325
+        },
+        "url": "https://t.co/ipMVUM8qku",
+        "username": "A1tk0",
+        "verified": true
+      }
+    ]
+  }
+}

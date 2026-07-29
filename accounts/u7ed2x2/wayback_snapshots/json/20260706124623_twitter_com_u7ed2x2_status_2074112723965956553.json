@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074112713769590784"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2074112723965956553",
+    "created_at": "2026-07-06T12:46:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T13:46:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074112723965956553"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xz6Lhlmolb",
+          "end": 33,
+          "expanded_url": "https://x.com/u7ed2x2/status/2074112723965956553/photo/1",
+          "media_key": "3_2074112713769590784",
+          "start": 10,
+          "url": "https://t.co/xz6Lhlmolb"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 57,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2073740284870135999",
+          "start": 34,
+          "url": "https://t.co/WdCUoNk50i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074112723965956553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073740284870135999",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "绝赞\n喜欢金枪鱼！ https://t.co/xz6Lhlmolb https://t.co/WdCUoNk50i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2074112713769590784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMi6hihboAAO9Ci.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2073740266960457728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMdnySCaEAACs40.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074112713769590784"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2074112723965956553",
+        "created_at": "2026-07-06T12:46:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T13:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074112723965956553"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xz6Lhlmolb",
+              "end": 33,
+              "expanded_url": "https://x.com/u7ed2x2/status/2074112723965956553/photo/1",
+              "media_key": "3_2074112713769590784",
+              "start": 10,
+              "url": "https://t.co/xz6Lhlmolb"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2073740284870135999",
+              "start": 34,
+              "url": "https://t.co/WdCUoNk50i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074112723965956553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073740284870135999",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "绝赞\n喜欢金枪鱼！ https://t.co/xz6Lhlmolb https://t.co/WdCUoNk50i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073740266960457728"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073740284870135999",
+        "created_at": "2026-07-05T12:06:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T13:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073740284870135999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTAVASTjDU",
+              "end": 45,
+              "expanded_url": "https://x.com/u7ed2x2/status/2073740284870135999/photo/1",
+              "media_key": "3_2073740266960457728",
+              "start": 22,
+              "url": "https://t.co/GTAVASTjDU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073740284870135999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 660,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给自己买了便当盒\n明天在家打包水浸金枪鱼饭 https://t.co/GTAVASTjDU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1638,
+          "following_count": 1063,
+          "like_count": 2457,
+          "listed_count": 3,
+          "media_count": 343,
+          "tweet_count": 1332
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

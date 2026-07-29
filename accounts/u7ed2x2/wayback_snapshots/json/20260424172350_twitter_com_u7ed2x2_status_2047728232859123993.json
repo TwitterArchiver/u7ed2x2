@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2047710218386305200",
+    "created_at": "2026-04-24T17:23:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T18:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047728232859123993"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1302241099843477504",
+          "start": 0,
+          "username": "Cicada0001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047728232859123993",
+    "in_reply_to_user_id": "1302241099843477504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047725908396794177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cicada0001 测试下来会比自带的好一些哦..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2047710218386305200",
+        "created_at": "2026-04-24T17:23:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047728232859123993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1302241099843477504",
+              "start": 0,
+              "username": "Cicada0001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047728232859123993",
+        "in_reply_to_user_id": "1302241099843477504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047725908396794177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cicada0001 测试下来会比自带的好一些哦..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1302241099843477504",
+        "conversation_id": "2047710218386305200",
+        "created_at": "2026-04-24T17:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T18:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047725908396794177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047725908396794177",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047721680165109791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 这种白描的识别率高吗👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+31KTZK2E4EZiZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+31KTZK2E4EZiZjVh",
+                "start": 0,
+                "url": "https://t.co/WfAwUNla8q"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "频道→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1084,
+          "following_count": 721,
+          "like_count": 115,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 97
+        },
+        "url": "https://t.co/WfAwUNla8q",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-09-05T13:44:22.000Z",
+        "description": "在平坦的路面上曲折前行",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cicada000.work",
+                "end": 23,
+                "expanded_url": "https://cicada000.work",
+                "start": 0,
+                "url": "https://t.co/wS5cjpCj75"
+              }
+            ]
+          }
+        },
+        "id": "1302241099843477504",
+        "location": "银河系第三旋臂",
+        "name": "ℂ𝕚𝕔𝕒𝕕𝕒𝟘𝟘𝟘",
+        "pinned_tweet_id": "1932708972026605588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940971910910595072/3EcqSGeI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 721,
+          "following_count": 792,
+          "like_count": 142402,
+          "listed_count": 8,
+          "media_count": 1608,
+          "tweet_count": 15638
+        },
+        "url": "https://t.co/wS5cjpCj75",
+        "username": "Cicada0001",
+        "verified": false
+      }
+    ]
+  }
+}

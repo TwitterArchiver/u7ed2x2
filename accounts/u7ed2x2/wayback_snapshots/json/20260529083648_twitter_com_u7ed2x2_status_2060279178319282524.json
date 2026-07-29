@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060279142982234112"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2059923732827943209",
+    "created_at": "2026-05-29T08:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T09:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060279178319282524"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1288829989119504386",
+          "start": 0,
+          "username": "AnnainLolita"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/VVAJiaitOf",
+          "end": 52,
+          "expanded_url": "https://x.com/u7ed2x2/status/2060279178319282524/photo/1",
+          "media_key": "3_2060279142982234112",
+          "start": 29,
+          "url": "https://t.co/VVAJiaitOf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060279178319282524",
+    "in_reply_to_user_id": "1288829989119504386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060034347621859717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AnnainLolita 你的回复怎么被折叠了...？ https://t.co/VVAJiaitOf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 397,
+        "media_key": "3_2060279142982234112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJeU9veaMAAPph6.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060279142982234112"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2059923732827943209",
+        "created_at": "2026-05-29T08:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T09:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060279178319282524"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1288829989119504386",
+              "start": 0,
+              "username": "AnnainLolita"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/VVAJiaitOf",
+              "end": 52,
+              "expanded_url": "https://x.com/u7ed2x2/status/2060279178319282524/photo/1",
+              "media_key": "3_2060279142982234112",
+              "start": 29,
+              "url": "https://t.co/VVAJiaitOf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060279178319282524",
+        "in_reply_to_user_id": "1288829989119504386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060034347621859717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnnainLolita 你的回复怎么被折叠了...？ https://t.co/VVAJiaitOf"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1288829989119504386",
+        "conversation_id": "2059923732827943209",
+        "created_at": "2026-05-28T16:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T17:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060034347621859717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060034347621859717",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 132,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059923732827943209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 不是因为你去喝瑞幸了吗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1503,
+          "following_count": 1043,
+          "like_count": 633,
+          "listed_count": 1,
+          "media_count": 145,
+          "tweet_count": 509
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-30T13:33:21.000Z",
+        "description": "不涉三，以及请务必看置顶推\n文爱70-80/h\n人设多种多样的天才少女偶像安娜突然出现♪~\n门牌号：522620468/备用号1360879338\n主营M向，实在是很想丢掉脑子跪在我脚下的话……也不是不行吧\n还永远缺一位绿绿的男友啦☆负责给我买礼物，并且不定期收到一些和别人做的（匿名）记录\n礼貌一点的小可爱更受欢迎哦~",
+        "id": "1288829989119504386",
+        "name": "安娜是只合法萝莉",
+        "pinned_tweet_id": "1959612620903944327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1350368228770365440/qr3h5KZT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2606,
+          "following_count": 171,
+          "like_count": 741,
+          "listed_count": 23,
+          "media_count": 263,
+          "tweet_count": 1859
+        },
+        "username": "AnnainLolita",
+        "verified": true
+      }
+    ]
+  }
+}

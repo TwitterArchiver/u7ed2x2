@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061754665663107072",
+        "3_2061754665654706176"
+      ],
+      "media_source_tweet_id": [
+        "2061754672202105109",
+        "2061754672202105109"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2061974614700675486",
+    "created_at": "2026-06-03T00:53:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T01:53:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061974614700675486"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1457364958841225222",
+          "start": 3,
+          "username": "u7ed2x2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iQNWxT6XE4",
+          "end": 61,
+          "expanded_url": "https://x.com/u7ed2x2/status/2061754672202105109/photo/1",
+          "media_key": "3_2061754665663107072",
+          "start": 38,
+          "url": "https://t.co/iQNWxT6XE4"
+        },
+        {
+          "display_url": "pic.x.com/iQNWxT6XE4",
+          "end": 61,
+          "expanded_url": "https://x.com/u7ed2x2/status/2061754672202105109/photo/1",
+          "media_key": "3_2061754665654706176",
+          "start": 38,
+          "url": "https://t.co/iQNWxT6XE4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061974614700675486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061754672202105109",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @u7ed2x2: 您的麦记牛奶请慢用~\n「诶...黑巧是赠品吗？」 https://t.co/iQNWxT6XE4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2061754665663107072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzS8dzakAA6nUK.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2061754665654706176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJzS8dxaYAAhZdJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061754665663107072",
+            "3_2061754665654706176"
+          ],
+          "media_source_tweet_id": [
+            "2061754672202105109",
+            "2061754672202105109"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061974614700675486",
+        "created_at": "2026-06-03T00:53:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T01:53:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061974614700675486"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1457364958841225222",
+              "start": 3,
+              "username": "u7ed2x2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQNWxT6XE4",
+              "end": 61,
+              "expanded_url": "https://x.com/u7ed2x2/status/2061754672202105109/photo/1",
+              "media_key": "3_2061754665663107072",
+              "start": 38,
+              "url": "https://t.co/iQNWxT6XE4"
+            },
+            {
+              "display_url": "pic.x.com/iQNWxT6XE4",
+              "end": 61,
+              "expanded_url": "https://x.com/u7ed2x2/status/2061754672202105109/photo/1",
+              "media_key": "3_2061754665654706176",
+              "start": 38,
+              "url": "https://t.co/iQNWxT6XE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061974614700675486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061754672202105109",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @u7ed2x2: 您的麦记牛奶请慢用~\n「诶...黑巧是赠品吗？」 https://t.co/iQNWxT6XE4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061754665663107072",
+            "3_2061754665654706176"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2061754672202105109",
+        "created_at": "2026-06-02T10:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061754672202105109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iQNWxT6XE4",
+              "end": 48,
+              "expanded_url": "https://x.com/u7ed2x2/status/2061754672202105109/photo/1",
+              "media_key": "3_2061754665663107072",
+              "start": 25,
+              "url": "https://t.co/iQNWxT6XE4"
+            },
+            {
+              "display_url": "pic.x.com/iQNWxT6XE4",
+              "end": 48,
+              "expanded_url": "https://x.com/u7ed2x2/status/2061754672202105109/photo/1",
+              "media_key": "3_2061754665654706176",
+              "start": 25,
+              "url": "https://t.co/iQNWxT6XE4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061754672202105109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 6521,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "您的麦记牛奶请慢用~\n「诶...黑巧是赠品吗？」 https://t.co/iQNWxT6XE4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1537,
+          "following_count": 1062,
+          "like_count": 800,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 633
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

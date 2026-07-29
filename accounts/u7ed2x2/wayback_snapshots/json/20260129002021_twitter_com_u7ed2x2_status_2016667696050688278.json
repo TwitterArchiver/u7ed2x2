@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2016320016011125054",
+    "created_at": "2026-01-29T00:20:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T01:20:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016667696050688278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1375451881644777473",
+          "start": 0,
+          "username": "UsuwaNana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016667696050688278",
+    "in_reply_to_user_id": "1375451881644777473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016663685486502032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UsuwaNana 掌上海关在去年七月已经全国开放了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2016320016011125054",
+        "created_at": "2026-01-29T00:20:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T01:20:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016667696050688278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1375451881644777473",
+              "start": 0,
+              "username": "UsuwaNana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016667696050688278",
+        "in_reply_to_user_id": "1375451881644777473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016663685486502032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UsuwaNana 掌上海关在去年七月已经全国开放了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1375451881644777473",
+        "conversation_id": "2016320016011125054",
+        "created_at": "2026-01-29T00:04:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T01:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016663685486502032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016663685486502032",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016320016011125054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 许多小城市只能通过这个渠道报关，算是一种垄断专营，不得不交"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "往返港深的新加坡人 / 脑袋上面没有兽耳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nelowithcard",
+                "end": 23,
+                "expanded_url": "https://t.me/nelowithcard",
+                "start": 0,
+                "url": "https://t.co/XWvFRufrQt"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "location": "玩卡笔记→",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "1918605688785531201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 833,
+          "following_count": 443,
+          "like_count": 30,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 68
+        },
+        "url": "https://t.co/XWvFRufrQt",
+        "username": "u7ed2x2",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-26T14:17:47.000Z",
+        "description": "",
+        "id": "1375451881644777473",
+        "name": "Nana",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1583083336917913602/uLfOIccx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 476,
+          "like_count": 1034,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 470
+        },
+        "username": "UsuwaNana",
+        "verified": true
+      }
+    ]
+  }
+}

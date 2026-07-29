@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2062916967007391967",
+    "created_at": "2026-06-06T02:22:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T03:22:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063084112077090964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1440983154131488774",
+          "start": 0,
+          "username": "daisy38193824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063084112077090964",
+    "in_reply_to_user_id": "1440983154131488774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063080161940230499",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@daisy38193824 诶嘿谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2062916967007391967",
+        "created_at": "2026-06-06T02:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063084112077090964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1440983154131488774",
+              "start": 0,
+              "username": "daisy38193824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063084112077090964",
+        "in_reply_to_user_id": "1440983154131488774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063080161940230499",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@daisy38193824 诶嘿谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1440983154131488774",
+        "conversation_id": "2062916967007391967",
+        "created_at": "2026-06-06T02:06:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T03:06:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063080161940230499"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063080161940230499",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062916967007391967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@u7ed2x2 可爱喵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 1061,
+          "like_count": 897,
+          "listed_count": 1,
+          "media_count": 185,
+          "tweet_count": 718
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2021-09-23T10:15:39.000Z",
+        "description": "无证含糖中|HRT：2026/3/19｜ INFP-T｜\n比较内向社恐｜喜欢可爱的小动物｜爱玩mc cs2 lol 各种galgame | 爱看治愈/治愈/催泪类型的动漫｜ 粤语/日语流行/摇滚/后摇/欧美流行/二次元/古典/爵士/金属｜小号@fallin2624",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 121,
+                "username": "fallin2624"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/fallin22938",
+                "end": 23,
+                "expanded_url": "https://ngl.link/fallin22938",
+                "start": 0,
+                "url": "https://t.co/wx8CXSpu18"
+              }
+            ]
+          }
+        },
+        "id": "1440983154131488774",
+        "location": "湖北省武汉市",
+        "name": "𝓕𝓪𝓵𝓵𝓲𝓷'🍥",
+        "pinned_tweet_id": "2060359881144885647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061869210842943488/9BfKk5cR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 415,
+          "like_count": 918,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 309
+        },
+        "url": "https://t.co/wx8CXSpu18",
+        "username": "daisy38193824",
+        "verified": false
+      }
+    ]
+  }
+}

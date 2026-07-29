@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2056026492891807747"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2056026611619922234",
+    "created_at": "2026-05-17T14:58:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T15:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056026611619922234"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E9HrxxEvMe",
+          "end": 42,
+          "expanded_url": "https://x.com/u7ed2x2/status/2056026611619922234/video/1",
+          "media_key": "13_2056026492891807747",
+          "start": 19,
+          "url": "https://t.co/E9HrxxEvMe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056026611619922234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "音楽室 - 日向文\n不是很会唱 果咩 https://t.co/E9HrxxEvMe"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 69900,
+        "height": 1080,
+        "media_key": "13_2056026492891807747",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056026492891807747/img/9QIUiLmXppSQXgnz.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056026492891807747/vid/avc1/540x540/flUVK8c-vjaRer8v.mp4"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056026492891807747/vid/avc1/320x320/J9l2cobHh5Cd_31P.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056026492891807747/pl/X9KTuTFOxxGIpj9Q.m3u8"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056026492891807747/vid/avc1/1080x1080/3A78JJQJruho9rBc.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056026492891807747/vid/avc1/720x720/EAOQc4q_BDBvY8_O.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056026492891807747"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2056026611619922234",
+        "created_at": "2026-05-17T14:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T15:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056026611619922234"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9HrxxEvMe",
+              "end": 42,
+              "expanded_url": "https://x.com/u7ed2x2/status/2056026611619922234/video/1",
+              "media_key": "13_2056026492891807747",
+              "start": 19,
+              "url": "https://t.co/E9HrxxEvMe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056026611619922234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "音楽室 - 日向文\n不是很会唱 果咩 https://t.co/E9HrxxEvMe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1374,
+          "following_count": 964,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 277
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

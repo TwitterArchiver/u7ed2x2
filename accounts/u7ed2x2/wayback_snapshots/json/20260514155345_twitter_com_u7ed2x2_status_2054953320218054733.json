@@ -1,0 +1,106 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2054953320218054733",
+    "created_at": "2026-05-14T15:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T16:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054953320218054733"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2054953320218054733",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "上中学的时候，熟悉的朋友都知道我的推特，有的还是室友，我们一起偷偷点外卖，集资买投影仪，在小绿沙发上蹦来蹦去，用扫把反锁门防止查寝\n\n他们知道我能绕过学校给平板设置的MDM，于是来找我破解，收到好多夸夸\n他们看着我留起头发，会给我拍照，还会叫我小猫\n这种一边成长一边感受爱的感觉上大学之后就没再体会过了呢"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "上中学的时候，熟悉的朋友都知道我的推特，有的还是室友，我们一起偷偷点外卖，集资买投影仪，在小绿沙发上蹦来蹦去，用扫把反锁门防止查寝\n\n他们知道我能绕过学校给平板设置的MDM，于是来找我破解，收到好多夸夸\n他们看着我留起头发，会给我拍照，还会叫我小猫"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2054953320218054733",
+        "created_at": "2026-05-14T15:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T16:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054953320218054733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054953320218054733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "上中学的时候，熟悉的朋友都知道我的推特，有的还是室友，我们一起偷偷点外卖，集资买投影仪，在小绿沙发上蹦来蹦去，用扫把反锁门防止查寝\n\n他们知道我能绕过学校给平板设置的MDM，于是来找我破解，收到好多夸夸\n他们看着我留起头发，会给我拍照，还会叫我小猫\n这种一边成长一边感受爱的感觉上大学之后就没再体会过了呢"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "上中学的时候，熟悉的朋友都知道我的推特，有的还是室友，我们一起偷偷点外卖，集资买投影仪，在小绿沙发上蹦来蹦去，用扫把反锁门防止查寝\n\n他们知道我能绕过学校给平板设置的MDM，于是来找我破解，收到好多夸夸\n他们看着我留起头发，会给我拍照，还会叫我小猫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 另一只 @qwqdog",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 15,
+                "username": "qwqdog"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1356,
+          "following_count": 905,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 248
+        },
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

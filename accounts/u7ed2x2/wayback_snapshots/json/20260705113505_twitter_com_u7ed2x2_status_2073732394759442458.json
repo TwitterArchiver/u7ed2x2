@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2073730953839874424",
+    "created_at": "2026-07-05T11:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073732394759442458"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1680039839209775107",
+          "start": 0,
+          "username": "A1tk0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073732394759442458",
+    "in_reply_to_user_id": "1680039839209775107",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073732326169985462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1tk0 😤"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2073730953839874424",
+        "created_at": "2026-07-05T11:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073732394759442458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1680039839209775107",
+              "start": 0,
+              "username": "A1tk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073732394759442458",
+        "in_reply_to_user_id": "1680039839209775107",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073732326169985462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1tk0 😤"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680039839209775107",
+        "conversation_id": "2073730953839874424",
+        "created_at": "2026-07-05T11:34:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:34:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073732326169985462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073732326169985462",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073730953839874424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 可是你叫我宝宝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 🐶？",
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1636,
+          "following_count": 1061,
+          "like_count": 2370,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 1303
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T02:21:33.000Z",
+        "description": "谁家小孩",
+        "id": "1680039839209775107",
+        "name": "Altko",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 52,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "A1tk0",
+        "verified": false
+      }
+    ]
+  }
+}
