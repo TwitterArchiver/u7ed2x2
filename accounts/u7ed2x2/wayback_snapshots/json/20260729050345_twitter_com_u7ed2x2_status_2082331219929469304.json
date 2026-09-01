@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2082273235052503244",
+    "created_at": "2026-07-29T05:03:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:03:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082331219929469304"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1692880747907190784",
+          "start": 0,
+          "username": "ivanlai0606"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082331219929469304",
+    "in_reply_to_user_id": "1692880747907190784",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082329456732197110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ivanlai0606 🙏"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2082273235052503244",
+        "created_at": "2026-07-29T05:03:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:03:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082331219929469304"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1692880747907190784",
+              "start": 0,
+              "username": "ivanlai0606"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082331219929469304",
+        "in_reply_to_user_id": "1692880747907190784",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082329456732197110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ivanlai0606 🙏"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692880747907190784",
+        "conversation_id": "2082273235052503244",
+        "created_at": "2026-07-29T04:56:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:56:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082329456732197110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082329456732197110",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082273235052503244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 灾难无情\n祝大家都平安"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 1058,
+          "like_count": 3680,
+          "listed_count": 3,
+          "media_count": 413,
+          "tweet_count": 1737
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-19T12:47:11.000Z",
+        "description": "✖️政 毕业🎓！\n推友尋回中！舊賬號是@_Rx_Ivan_  \n欢迎互fo🍃    是小狗嵐阳𝑺𝒐𝒍𝒆𝒊𝒍的新賬號！\n來自台灣 🇹🇼 男♂️ENFP-T\n飛友✈️|鐵道🚞|furry🐾|心所嚮📖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "_Rx_Ivan_"
+              }
+            ]
+          }
+        },
+        "id": "1692880747907190784",
+        "location": "第三拉格朗日點",
+        "name": "嵐阳 Ivan_Lai 🍁",
+        "pinned_tweet_id": "1871223397759492254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902390987139497984/MudoQRPE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 497,
+          "like_count": 5740,
+          "listed_count": 0,
+          "media_count": 148,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "ivanlai0606",
+        "verified": false
+      }
+    ]
+  }
+}

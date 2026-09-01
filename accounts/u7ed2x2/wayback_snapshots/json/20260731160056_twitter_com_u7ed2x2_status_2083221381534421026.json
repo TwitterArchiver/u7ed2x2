@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083221377226870784"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2083215109330239708",
+    "created_at": "2026-07-31T16:00:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T17:00:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083221381534421026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934766733237342209",
+          "start": 0,
+          "username": "Adrawta"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zgUSrx9VEh",
+          "end": 42,
+          "expanded_url": "https://x.com/u7ed2x2/status/2083221381534421026/photo/1",
+          "media_key": "3_2083221377226870784",
+          "start": 19,
+          "url": "https://t.co/zgUSrx9VEh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083221381534421026",
+    "in_reply_to_user_id": "1934766733237342209",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083220799377604664",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Adrawta 192013... https://t.co/zgUSrx9VEh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 510,
+        "media_key": "3_2083221377226870784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOkWziIbkAAv7-z.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083221377226870784"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2083215109330239708",
+        "created_at": "2026-07-31T16:00:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T17:00:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083221381534421026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934766733237342209",
+              "start": 0,
+              "username": "Adrawta"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zgUSrx9VEh",
+              "end": 42,
+              "expanded_url": "https://x.com/u7ed2x2/status/2083221381534421026/photo/1",
+              "media_key": "3_2083221377226870784",
+              "start": 19,
+              "url": "https://t.co/zgUSrx9VEh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083221381534421026",
+        "in_reply_to_user_id": "1934766733237342209",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083220799377604664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Adrawta 192013... https://t.co/zgUSrx9VEh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934766733237342209",
+        "conversation_id": "2083215109330239708",
+        "created_at": "2026-07-31T15:58:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083220799377604664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083220799377604664",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083215109330239708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 貓也能變貓娘(?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1057,
+          "like_count": 3866,
+          "listed_count": 3,
+          "media_count": 429,
+          "tweet_count": 1802
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-17T00:15:29.000Z",
+        "description": "technerd · speculator · dreamer/個人觀點無其它意味👀/dm open",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whitehouse.gov",
+                "end": 23,
+                "expanded_url": "http://whitehouse.gov",
+                "start": 0,
+                "url": "https://t.co/z6v8G0BF6L"
+              }
+            ]
+          }
+        },
+        "id": "1934766733237342209",
+        "location": "inside QEMU",
+        "name": "raw_data💫",
+        "pinned_tweet_id": "2070824856535327067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083132879186595840/DHBVlY0Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 148,
+          "like_count": 6423,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 1963
+        },
+        "url": "https://t.co/z6v8G0BF6L",
+        "username": "Adrawta",
+        "verified": false
+      }
+    ]
+  }
+}

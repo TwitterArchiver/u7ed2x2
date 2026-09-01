@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2082849653167694332",
+    "created_at": "2026-07-30T23:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T00:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082971888201122202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1242074475400548352",
+          "start": 0,
+          "username": "A1oneSKy"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Tuyo is the only card where some payments are free. Spend USDC while it earns yield. Send money worldwide, free. Pay with stablecoins. Join 50,000+",
+          "display_url": "tuyo.com",
+          "end": 39,
+          "expanded_url": "http://tuyo.com",
+          "images": [
+            {
+              "height": 548,
+              "url": "https://pbs.twimg.com/news_img/2080664603474767873/-ySe558C?format=jpg&name=orig",
+              "width": 1110
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2080664603474767873/-ySe558C?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 16,
+          "status": 200,
+          "title": "Your next purchase may be free | Tuyo",
+          "unwound_url": "https://tuyo.com/",
+          "url": "https://t.co/D0uMemp9MB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082971888201122202",
+    "in_reply_to_user_id": "1242074475400548352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082932455737286734",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@A1oneSKy 不是银行哦\nhttps://t.co/D0uMemp9MB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2082849653167694332",
+        "created_at": "2026-07-30T23:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T00:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082971888201122202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1242074475400548352",
+              "start": 0,
+              "username": "A1oneSKy"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Tuyo is the only card where some payments are free. Spend USDC while it earns yield. Send money worldwide, free. Pay with stablecoins. Join 50,000+",
+              "display_url": "tuyo.com",
+              "end": 39,
+              "expanded_url": "http://tuyo.com",
+              "images": [
+                {
+                  "height": 548,
+                  "url": "https://pbs.twimg.com/news_img/2080664603474767873/-ySe558C?format=jpg&name=orig",
+                  "width": 1110
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2080664603474767873/-ySe558C?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 16,
+              "status": 200,
+              "title": "Your next purchase may be free | Tuyo",
+              "unwound_url": "https://tuyo.com/",
+              "url": "https://t.co/D0uMemp9MB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082971888201122202",
+        "in_reply_to_user_id": "1242074475400548352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082932455737286734",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@A1oneSKy 不是银行哦\nhttps://t.co/D0uMemp9MB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1242074475400548352",
+        "conversation_id": "2082849653167694332",
+        "created_at": "2026-07-30T20:52:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T21:52:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082932455737286734"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082932455737286734",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082849653167694332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 宝宝这是什么银行"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1057,
+          "like_count": 3811,
+          "listed_count": 3,
+          "media_count": 426,
+          "tweet_count": 1788
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "头上没有妙脆角 | EN / CN / JP / KR/ 韓國語 계정@alonesky_kr ㅣ 生命体征维持中ㅣ路边一条\n專攻은 電子工學 | 宝宝@mario_2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "alonesky_kr"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "username": "mario_2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.moe",
+                "end": 23,
+                "expanded_url": "https://alonesky.moe",
+                "start": 0,
+                "url": "https://t.co/b8Rzwcvm1z"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "name": "𝓐𝓛𝓸𝓷𝓮𝓢𝓚𝔂",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061452830142283776/kIazC4sW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1530,
+          "following_count": 1736,
+          "like_count": 8990,
+          "listed_count": 6,
+          "media_count": 5964,
+          "tweet_count": 24571
+        },
+        "url": "https://t.co/b8Rzwcvm1z",
+        "username": "A1oneSKy",
+        "verified": true
+      }
+    ]
+  }
+}

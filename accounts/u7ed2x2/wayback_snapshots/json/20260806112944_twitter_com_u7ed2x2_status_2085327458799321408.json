@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2085051643020947833",
+    "created_at": "2026-08-06T11:29:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T12:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085327458799321408"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1640917359493005313",
+          "start": 0,
+          "username": "shizukululu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085327458799321408",
+    "in_reply_to_user_id": "1640917359493005313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085325754930462792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@shizukululu0721 喵喵露"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2085051643020947833",
+        "created_at": "2026-08-06T11:29:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085327458799321408"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1640917359493005313",
+              "start": 0,
+              "username": "shizukululu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085327458799321408",
+        "in_reply_to_user_id": "1640917359493005313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085325754930462792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@shizukululu0721 喵喵露"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1640917359493005313",
+        "conversation_id": "2085051643020947833",
+        "created_at": "2026-08-06T11:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085325754930462792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085325754930462792",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085051643020947833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 猫雷⚡️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1057,
+          "like_count": 4156,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 1886
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-29T03:22:47.000Z",
+        "description": "ACG、交通迷、玩机｜负面情绪警告❗️｜Student｜ISFJ｜xnn？｜友跨｜喜欢和大家聊天欢迎互fo喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Lulushizukuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Lulushizukuuu",
+                "start": 0,
+                "url": "https://t.co/IxTJNDTDxs"
+              }
+            ]
+          }
+        },
+        "id": "1640917359493005313",
+        "location": "SZV",
+        "name": "雨下るる",
+        "pinned_tweet_id": "2080662880673018128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076653649988837376/qIB73UYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 1424,
+          "like_count": 1862,
+          "listed_count": 0,
+          "media_count": 160,
+          "tweet_count": 1258
+        },
+        "url": "https://t.co/IxTJNDTDxs",
+        "username": "shizukululu0721",
+        "verified": false
+      }
+    ]
+  }
+}

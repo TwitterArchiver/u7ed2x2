@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082333341593014272"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2082333350984134724",
+    "created_at": "2026-07-29T05:12:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T06:12:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082333350984134724"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/g1a0V2ntaH",
+          "end": 35,
+          "expanded_url": "https://x.com/u7ed2x2/status/2082333350984134724/photo/1",
+          "media_key": "3_2082333341593014272",
+          "start": 12,
+          "url": "https://t.co/g1a0V2ntaH"
+        },
+        {
+          "display_url": "x.com/a1tk0/status/2…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/a1tk0/status/2082327605852958814",
+          "start": 36,
+          "url": "https://t.co/vqP2vMA4W4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082333350984134724",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082327605852958814",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "你取不出来是因为你笨🤗 https://t.co/g1a0V2ntaH https://t.co/vqP2vMA4W4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082333341593014272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXvJDmakAAOAm4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2082327600421298176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOXp64EaYAAPaXp.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082333341593014272"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2082333350984134724",
+        "created_at": "2026-07-29T05:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T06:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082333350984134724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g1a0V2ntaH",
+              "end": 35,
+              "expanded_url": "https://x.com/u7ed2x2/status/2082333350984134724/photo/1",
+              "media_key": "3_2082333341593014272",
+              "start": 12,
+              "url": "https://t.co/g1a0V2ntaH"
+            },
+            {
+              "display_url": "x.com/a1tk0/status/2…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/a1tk0/status/2082327605852958814",
+              "start": 36,
+              "url": "https://t.co/vqP2vMA4W4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082333350984134724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082327605852958814",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "你取不出来是因为你笨🤗 https://t.co/g1a0V2ntaH https://t.co/vqP2vMA4W4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082327600421298176"
+          ]
+        },
+        "author_id": "1680039839209775107",
+        "conversation_id": "2082327605852958814",
+        "created_at": "2026-07-29T04:49:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T05:49:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082327605852958814"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IyLfLeSWP4",
+              "end": 52,
+              "expanded_url": "https://x.com/A1tk0/status/2082327605852958814/photo/1",
+              "media_key": "3_2082327600421298176",
+              "start": 29,
+              "url": "https://t.co/IyLfLeSWP4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082327605852958814",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "入境被“自愿放弃”了含肉蛋黄酥🫢\n钱也取不出来 幹 雞掰 https://t.co/IyLfLeSWP4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 1058,
+          "like_count": 3680,
+          "listed_count": 3,
+          "media_count": 414,
+          "tweet_count": 1738
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T02:21:33.000Z",
+        "description": "🇭🇰 cat. proudly obsessed with one special puppy: @u7ed2x2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "u7ed2x2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/a1tk0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/a1tk0",
+                "start": 0,
+                "url": "https://t.co/ipMVUM8qku"
+              }
+            ]
+          }
+        },
+        "id": "1680039839209775107",
+        "name": "Altko",
+        "pinned_tweet_id": "2076178227589226805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 397,
+          "like_count": 1531,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/ipMVUM8qku",
+        "username": "A1tk0",
+        "verified": true
+      }
+    ]
+  }
+}

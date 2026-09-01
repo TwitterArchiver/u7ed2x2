@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2082792738903429320",
+    "created_at": "2026-07-30T16:13:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T17:13:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082862118748246206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1313765436895326209",
+          "start": 0,
+          "username": "Rutilate27"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082862118748246206",
+    "in_reply_to_user_id": "1313765436895326209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082792738903429320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rutilate27 方向盘那段吓惨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2082792738903429320",
+        "created_at": "2026-07-30T16:13:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T17:13:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082862118748246206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1313765436895326209",
+              "start": 0,
+              "username": "Rutilate27"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082862118748246206",
+        "in_reply_to_user_id": "1313765436895326209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082792738903429320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rutilate27 方向盘那段吓惨了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1313765436895326209",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2082792738903429320",
+        "created_at": "2026-07-30T11:37:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T12:37:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082792738903429320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082792738903429320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "近期影院看了《痴迷》和《蜘蛛侠：崭新之日》。\n《痴迷》强烈安利，且只推荐去音响好的影院看，这部电影的音效和氛围营造相当出彩，观看之前不刷相关短视频可以带来最沉浸体验"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1055,
+          "like_count": 3804,
+          "listed_count": 3,
+          "media_count": 426,
+          "tweet_count": 1786
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-07T08:57:53.000Z",
+        "description": "可贴可rua，性格温良，实事求是，不键政，爱好猎奇，集抽象于一身，业余按快门，上学忙碌中，真假自辨。｜｜ENTJ- A ｜太阳天蝎｜月亮水瓶｜上升处女 ｜｜记忆储藏瓶，自动化专业，想从事世界模型或TA｜｜vrchat：百变小团子｜｜人像，但孩子只想风光人像或棚拍了，欢迎和我自驾旅拍｜｜我需要实习需要工作😭",
+        "id": "1313765436895326209",
+        "location": "IP 归属地: 蝶儿家",
+        "name": "Rutilate",
+        "pinned_tweet_id": "1621560801927770114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792102253379440640/TS2Q5ARp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 334,
+          "like_count": 2566,
+          "listed_count": 1,
+          "media_count": 843,
+          "tweet_count": 1855
+        },
+        "url": "",
+        "username": "Rutilate27",
+        "verified": false
+      }
+    ]
+  }
+}

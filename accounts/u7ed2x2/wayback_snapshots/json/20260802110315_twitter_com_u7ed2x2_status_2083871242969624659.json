@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083871236275531776"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083871242969624659",
+    "created_at": "2026-08-02T11:03:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T12:03:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083871242969624659"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/QVzzPXsixM",
+          "end": 37,
+          "expanded_url": "https://x.com/u7ed2x2/status/2083871242969624659/photo/1",
+          "media_key": "3_2083871236275531776",
+          "start": 14,
+          "url": "https://t.co/QVzzPXsixM"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2083854343292457029",
+          "start": 38,
+          "url": "https://t.co/2B6Wu40LYc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083871242969624659",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083854343292457029",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "换了家店去尝蛋奶圆筒... https://t.co/QVzzPXsixM https://t.co/2B6Wu40LYc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083871236275531776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtl2TvbcAAzU_x.jpg",
+        "width": 1056
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2083854335444959232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtWejPawAAltFY.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2083854335440773120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOtWejOa4AAoWQn.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083871236275531776"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083871242969624659",
+        "created_at": "2026-08-02T11:03:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T12:03:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083871242969624659"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QVzzPXsixM",
+              "end": 37,
+              "expanded_url": "https://x.com/u7ed2x2/status/2083871242969624659/photo/1",
+              "media_key": "3_2083871236275531776",
+              "start": 14,
+              "url": "https://t.co/QVzzPXsixM"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2083854343292457029",
+              "start": 38,
+              "url": "https://t.co/2B6Wu40LYc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083871242969624659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083854343292457029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "换了家店去尝蛋奶圆筒... https://t.co/QVzzPXsixM https://t.co/2B6Wu40LYc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083854335444959232",
+            "3_2083854335440773120"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083854343292457029",
+        "created_at": "2026-08-02T09:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T10:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083854343292457029"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PIKvPXMPma",
+              "end": 62,
+              "expanded_url": "https://x.com/u7ed2x2/status/2083854343292457029/photo/1",
+              "media_key": "3_2083854335444959232",
+              "start": 39,
+              "url": "https://t.co/PIKvPXMPma"
+            },
+            {
+              "display_url": "pic.x.com/PIKvPXMPma",
+              "end": 62,
+              "expanded_url": "https://x.com/u7ed2x2/status/2083854343292457029/photo/1",
+              "media_key": "3_2083854335440773120",
+              "start": 39,
+              "url": "https://t.co/PIKvPXMPma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083854343292457029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 195,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "黑椒鸡肉饼+芝士奶酪饼\n真的很不错呢...\n可惜这家店没有新出的柠檬蛋奶圆筒 https://t.co/PIKvPXMPma"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 1060,
+          "like_count": 3948,
+          "listed_count": 3,
+          "media_count": 434,
+          "tweet_count": 1829
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

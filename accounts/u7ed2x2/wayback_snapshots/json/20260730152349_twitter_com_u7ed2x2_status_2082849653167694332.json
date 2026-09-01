@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082849647169789952"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2082849653167694332",
+    "created_at": "2026-07-30T15:23:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:23:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082849653167694332"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IYPPPYjmou",
+          "end": 53,
+          "expanded_url": "https://x.com/u7ed2x2/status/2082849653167694332/photo/1",
+          "media_key": "3_2082849647169789952",
+          "start": 30,
+          "url": "https://t.co/IYPPPYjmou"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 77,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2082693360742199424",
+          "start": 54,
+          "url": "https://t.co/5kdCaU1Yia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082849653167694332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082693360742199424",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "才发现麦麦被免单了www\n但新台币符号怎么是「元」\n好奇怪 https://t.co/IYPPPYjmou https://t.co/5kdCaU1Yia"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1797,
+        "media_key": "3_2082849647169789952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfEt_waYAARPse.jpg",
+        "width": 1903
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2082693353792270336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOc2khja8AAn7Y5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082849647169789952"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2082849653167694332",
+        "created_at": "2026-07-30T15:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082849653167694332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYPPPYjmou",
+              "end": 53,
+              "expanded_url": "https://x.com/u7ed2x2/status/2082849653167694332/photo/1",
+              "media_key": "3_2082849647169789952",
+              "start": 30,
+              "url": "https://t.co/IYPPPYjmou"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2082693360742199424",
+              "start": 54,
+              "url": "https://t.co/5kdCaU1Yia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082849653167694332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082693360742199424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "才发现麦麦被免单了www\n但新台币符号怎么是「元」\n好奇怪 https://t.co/IYPPPYjmou https://t.co/5kdCaU1Yia"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082693353792270336"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2082693360742199424",
+        "created_at": "2026-07-30T05:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T06:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082693360742199424"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zL9RyrX8js",
+              "end": 47,
+              "expanded_url": "https://x.com/u7ed2x2/status/2082693360742199424/photo/1",
+              "media_key": "3_2082693353792270336",
+              "start": 24,
+              "url": "https://t.co/zL9RyrX8js"
+            },
+            {
+              "display_url": "x.com/a1tk0/status/2…",
+              "end": 71,
+              "expanded_url": "https://twitter.com/a1tk0/status/2082692018388738364",
+              "start": 48,
+              "url": "https://t.co/j8P7HbwKSw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082693360742199424",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1001,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082692018388738364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "蒜蓉酱好美味啊🥹\n如此juice 吃得狗快哭了 https://t.co/zL9RyrX8js https://t.co/j8P7HbwKSw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1055,
+          "like_count": 3794,
+          "listed_count": 3,
+          "media_count": 425,
+          "tweet_count": 1780
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

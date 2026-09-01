@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083183916735979520"
+      ],
+      "media_source_tweet_id": [
+        "2083183934150738074"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2083185574463299842",
+    "created_at": "2026-07-31T13:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T14:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083185574463299842"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1242074475400548352",
+          "start": 3,
+          "username": "A1oneSKy"
+        },
+        {
+          "end": 30,
+          "id": "1457364958841225222",
+          "start": 22,
+          "username": "u7ed2x2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/lAUq1FbGCk",
+          "end": 78,
+          "expanded_url": "https://x.com/A1oneSKy/status/2083183934150738074/photo/1",
+          "media_key": "3_2083183916735979520",
+          "start": 55,
+          "url": "https://t.co/lAUq1FbGCk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083185574463299842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083183934150738074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @A1oneSKy: 今天加餐一顿宝宝@u7ed2x2 推荐的麦记\n甜甜的 凉凉的 好好吃\n诶嘿嘿🥰🥰 https://t.co/lAUq1FbGCk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2083183916735979520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOj0vC7a4AA73nn.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083183916735979520"
+          ]
+        },
+        "author_id": "1242074475400548352",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083183934150738074",
+        "created_at": "2026-07-31T13:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083183934150738074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1457364958841225222",
+              "start": 8,
+              "username": "u7ed2x2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lAUq1FbGCk",
+              "end": 64,
+              "expanded_url": "https://x.com/A1oneSKy/status/2083183934150738074/photo/1",
+              "media_key": "3_2083183916735979520",
+              "start": 41,
+              "url": "https://t.co/lAUq1FbGCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083183934150738074",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天加餐一顿宝宝@u7ed2x2 推荐的麦记\n甜甜的 凉凉的 好好吃\n诶嘿嘿🥰🥰 https://t.co/lAUq1FbGCk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083183916735979520"
+          ],
+          "media_source_tweet_id": [
+            "2083183934150738074"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2083185574463299842",
+        "created_at": "2026-07-31T13:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T14:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083185574463299842"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1242074475400548352",
+              "start": 3,
+              "username": "A1oneSKy"
+            },
+            {
+              "end": 30,
+              "id": "1457364958841225222",
+              "start": 22,
+              "username": "u7ed2x2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lAUq1FbGCk",
+              "end": 78,
+              "expanded_url": "https://x.com/A1oneSKy/status/2083183934150738074/photo/1",
+              "media_key": "3_2083183916735979520",
+              "start": 55,
+              "url": "https://t.co/lAUq1FbGCk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083185574463299842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083183934150738074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @A1oneSKy: 今天加餐一顿宝宝@u7ed2x2 推荐的麦记\n甜甜的 凉凉的 好好吃\n诶嘿嘿🥰🥰 https://t.co/lAUq1FbGCk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1057,
+          "like_count": 3846,
+          "listed_count": 3,
+          "media_count": 427,
+          "tweet_count": 1797
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-23T13:03:36.000Z",
+        "description": "头上没有妙脆角 | EN / CN / JP / KR/ 韓國語 계정@alonesky_kr ㅣ 生命体征维持中ㅣ路边一条\n專攻은 電子工學 | 宝宝@mario_2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "alonesky_kr"
+              },
+              {
+                "end": 87,
+                "start": 76,
+                "username": "mario_2333"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "alonesky.moe",
+                "end": 23,
+                "expanded_url": "https://alonesky.moe",
+                "start": 0,
+                "url": "https://t.co/b8Rzwcvm1z"
+              }
+            ]
+          }
+        },
+        "id": "1242074475400548352",
+        "name": "𝓐𝓛𝓸𝓷𝓮𝓢𝓚𝔂",
+        "pinned_tweet_id": "1567905692379664384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061452830142283776/kIazC4sW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1525,
+          "following_count": 1736,
+          "like_count": 9007,
+          "listed_count": 6,
+          "media_count": 5972,
+          "tweet_count": 24589
+        },
+        "url": "https://t.co/b8Rzwcvm1z",
+        "username": "A1oneSKy",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2084474134063722702",
+    "created_at": "2026-08-04T09:04:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:04:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084566085110784508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838866598427549696",
+          "start": 0,
+          "username": "Yunmengyue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084566085110784508",
+    "in_reply_to_user_id": "1838866598427549696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084474134063722702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunmengyue 熟悉的牡丹园\n三院六院翠微百货"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2084473714104791040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2JzIja8AAkk7s.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2084473731179778048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2J0IKakAANghH.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2084474134063722702",
+        "created_at": "2026-08-04T09:04:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:04:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084566085110784508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838866598427549696",
+              "start": 0,
+              "username": "Yunmengyue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084566085110784508",
+        "in_reply_to_user_id": "1838866598427549696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084474134063722702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunmengyue 熟悉的牡丹园\n三院六院翠微百货"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084473714104791040",
+            "3_2084473731179778048"
+          ]
+        },
+        "author_id": "1838866598427549696",
+        "conversation_id": "2084474134063722702",
+        "created_at": "2026-08-04T02:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T03:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084474134063722702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bfyUvmBEbc",
+              "end": 67,
+              "expanded_url": "https://x.com/Yunmengyue/status/2084474134063722702/photo/1",
+              "media_key": "3_2084473714104791040",
+              "start": 44,
+              "url": "https://t.co/bfyUvmBEbc"
+            },
+            {
+              "display_url": "pic.x.com/bfyUvmBEbc",
+              "end": 67,
+              "expanded_url": "https://x.com/Yunmengyue/status/2084474134063722702/photo/1",
+              "media_key": "3_2084473731179778048",
+              "start": 44,
+              "url": "https://t.co/bfyUvmBEbc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084474134063722702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1351,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们北京地铁这么玩是吧…可能别的地方也有但我第一次见…\n（雷霆大脸气鼓鼓角度，呼呼呼） https://t.co/bfyUvmBEbc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1712,
+          "following_count": 1057,
+          "like_count": 4096,
+          "listed_count": 3,
+          "media_count": 439,
+          "tweet_count": 1873
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-25T09:02:26.000Z",
+        "description": "2025.10含糖丨2026.5持证启动hrt丨28岁大龄跨\n🌹花儿会在最美的时刻凋谢，或许我也是",
+        "id": "1838866598427549696",
+        "name": "云梦玥Yuzuki🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339603601854464/KKYNJjoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1277,
+          "following_count": 279,
+          "like_count": 5261,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 3117
+        },
+        "url": "",
+        "username": "Yunmengyue",
+        "verified": true
+      }
+    ]
+  }
+}

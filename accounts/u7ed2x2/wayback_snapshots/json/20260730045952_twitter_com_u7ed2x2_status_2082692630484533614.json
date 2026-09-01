@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2082657235981959432",
+    "created_at": "2026-07-30T04:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T05:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082692630484533614"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1782631239020662784",
+          "start": 0,
+          "username": "heishise1984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082692630484533614",
+    "in_reply_to_user_id": "1782631239020662784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082692519893303442",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@heishise1984 帖子里说「不会过于甜腻」\n我信了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2082657235981959432",
+        "created_at": "2026-07-30T04:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082692630484533614"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1782631239020662784",
+              "start": 0,
+              "username": "heishise1984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082692630484533614",
+        "in_reply_to_user_id": "1782631239020662784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082692519893303442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@heishise1984 帖子里说「不会过于甜腻」\n我信了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782631239020662784",
+        "conversation_id": "2082657235981959432",
+        "created_at": "2026-07-30T04:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T05:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082692519893303442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082692519893303442",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082657235981959432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 吐一地了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1057,
+          "like_count": 3735,
+          "listed_count": 3,
+          "media_count": 420,
+          "tweet_count": 1759
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-04-23T04:43:08.000Z",
+        "description": "你好！这里是结型场半导体，她从冥河中归来，徜徉在废墟和残骸的狭间中，死寂的一切将重新被注入生机与活力。｜我一旦开始转推，就说明本回合的发言力条用尽了。｜",
+        "id": "1782631239020662784",
+        "location": "冥河",
+        "name": "IGFET Second",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1786767615295467520/dyRQq-FZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 192,
+          "like_count": 3673,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 1659
+        },
+        "url": "",
+        "username": "heishise1984",
+        "verified": false
+      }
+    ]
+  }
+}

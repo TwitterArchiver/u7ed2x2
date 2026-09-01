@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084251258291126273"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2084251333486576065",
+    "created_at": "2026-08-03T12:13:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T13:13:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084251333486576065"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/atzJZtUXg6",
+          "end": 31,
+          "expanded_url": "https://x.com/u7ed2x2/status/2084251333486576065/video/1",
+          "media_key": "13_2084251258291126273",
+          "start": 8,
+          "url": "https://t.co/atzJZtUXg6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084251333486576065",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "狗缺爱了就这样 https://t.co/atzJZtUXg6"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23698,
+        "height": 1920,
+        "media_key": "13_2084251258291126273",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084251258291126273/img/qYUw1irOYF6OAD7R.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084251258291126273/vid/avc1/480x852/DEnpQdCJPStPy4_c.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084251258291126273/vid/avc1/1080x1920/m7P5tpEQqycckLpn.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084251258291126273/vid/avc1/320x568/xtrzFo3BEUOWnFuK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084251258291126273/pl/Y4OJ02pPULCI8qFz.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084251258291126273/vid/avc1/720x1280/bqqp2fyUZcm5wxwr.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084251258291126273"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2084251333486576065",
+        "created_at": "2026-08-03T12:13:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T13:13:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084251333486576065"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/atzJZtUXg6",
+              "end": 31,
+              "expanded_url": "https://x.com/u7ed2x2/status/2084251333486576065/video/1",
+              "media_key": "13_2084251258291126273",
+              "start": 8,
+              "url": "https://t.co/atzJZtUXg6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084251333486576065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "狗缺爱了就这样 https://t.co/atzJZtUXg6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1716,
+          "following_count": 1059,
+          "like_count": 4063,
+          "listed_count": 3,
+          "media_count": 439,
+          "tweet_count": 1866
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

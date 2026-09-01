@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2083921175487648213",
+    "created_at": "2026-08-03T04:55:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T05:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084141195983475139"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1674272347216543745",
+          "start": 0,
+          "username": "awa_child"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084141195983475139",
+    "in_reply_to_user_id": "1674272347216543745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084086692928205022",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@awa_child 好哦（x）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2083921175487648213",
+        "created_at": "2026-08-03T04:55:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T05:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084141195983475139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1674272347216543745",
+              "start": 0,
+              "username": "awa_child"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084141195983475139",
+        "in_reply_to_user_id": "1674272347216543745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084086692928205022",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@awa_child 好哦（x）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1674272347216543745",
+        "conversation_id": "2083921175487648213",
+        "created_at": "2026-08-03T01:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T02:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084086692928205022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084086692928205022",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083921175487648213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 捏捏爪子🐾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 1059,
+          "like_count": 4028,
+          "listed_count": 3,
+          "media_count": 436,
+          "tweet_count": 1854
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-06-29T04:23:59.000Z",
+        "description": "有猫🐈 | 狗狗…🐕🤔 | 会好的吧（？）",
+        "id": "1674272347216543745",
+        "name": "リン",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1890701682159538176/rNjKXe4G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 809,
+          "like_count": 182060,
+          "listed_count": 4,
+          "media_count": 209,
+          "tweet_count": 1420
+        },
+        "url": "",
+        "username": "awa_child",
+        "verified": false
+      }
+    ]
+  }
+}

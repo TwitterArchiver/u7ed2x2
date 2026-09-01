@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082850090339958784"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2082849653167694332",
+    "created_at": "2026-07-30T15:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T16:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082850094408454350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/eQZA4JDf0f",
+          "end": 85,
+          "expanded_url": "https://x.com/u7ed2x2/status/2082850094408454350/photo/1",
+          "media_key": "3_2082850090339958784",
+          "start": 62,
+          "url": "https://t.co/eQZA4JDf0f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082850094408454350",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082849653167694332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "计算了一下，狗一共使用Tuyo消费258.45美元，而其中被免单的金额加起来是42.4美元\n\n16.4%的返现比例，好厉害 https://t.co/eQZA4JDf0f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1497,
+        "media_key": "3_2082850090339958784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfFHysagAA0pZo.jpg",
+        "width": 1206
+      },
+      {
+        "height": 1797,
+        "media_key": "3_2082849647169789952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfEt_waYAARPse.jpg",
+        "width": 1903
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082850090339958784"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2082849653167694332",
+        "created_at": "2026-07-30T15:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082850094408454350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eQZA4JDf0f",
+              "end": 85,
+              "expanded_url": "https://x.com/u7ed2x2/status/2082850094408454350/photo/1",
+              "media_key": "3_2082850090339958784",
+              "start": 62,
+              "url": "https://t.co/eQZA4JDf0f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082850094408454350",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082849653167694332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "计算了一下，狗一共使用Tuyo消费258.45美元，而其中被免单的金额加起来是42.4美元\n\n16.4%的返现比例，好厉害 https://t.co/eQZA4JDf0f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082849647169789952"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2082849653167694332",
+        "created_at": "2026-07-30T15:23:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T16:23:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082849653167694332"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IYPPPYjmou",
+              "end": 53,
+              "expanded_url": "https://x.com/u7ed2x2/status/2082849653167694332/photo/1",
+              "media_key": "3_2082849647169789952",
+              "start": 30,
+              "url": "https://t.co/IYPPPYjmou"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2082693360742199424",
+              "start": 54,
+              "url": "https://t.co/5kdCaU1Yia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082849653167694332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082693360742199424",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "才发现麦麦被免单了www\n但新台币符号怎么是「元」\n好奇怪 https://t.co/IYPPPYjmou https://t.co/5kdCaU1Yia"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1718,
+          "following_count": 1055,
+          "like_count": 3795,
+          "listed_count": 3,
+          "media_count": 426,
+          "tweet_count": 1781
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      }
+    ]
+  }
+}

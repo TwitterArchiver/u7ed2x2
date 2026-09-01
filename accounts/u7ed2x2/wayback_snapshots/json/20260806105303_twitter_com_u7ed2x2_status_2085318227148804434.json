@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2085316928139387350",
+    "created_at": "2026-08-06T10:53:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T11:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085318227148804434"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1680039839209775107",
+          "start": 0,
+          "username": "A1tk0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085318227148804434",
+    "in_reply_to_user_id": "1680039839209775107",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085316928139387350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A1tk0 我真笑了！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12100,
+        "height": 1080,
+        "media_key": "13_2085316881041543168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2085316881041543168/img/xLvvJslEo1xLeGnb.jpg",
+        "public_metrics": {
+          "view_count": 13
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085316881041543168/vid/avc1/1920x1080/2iqEqvTY0D3BlpRJ.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085316881041543168/vid/avc1/640x360/7O3wGQwYf0raix6P.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085316881041543168/vid/avc1/1280x720/LvhRgUDFZNKsjuBc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2085316881041543168/pl/Juqsomfc1vbE-Fjm.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2085316881041543168/vid/avc1/480x270/M8hTsSxxeJDmOkgC.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2085316928139387350",
+        "created_at": "2026-08-06T10:53:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085318227148804434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1680039839209775107",
+              "start": 0,
+              "username": "A1tk0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085318227148804434",
+        "in_reply_to_user_id": "1680039839209775107",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085316928139387350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A1tk0 我真笑了！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2085316881041543168"
+          ]
+        },
+        "author_id": "1680039839209775107",
+        "conversation_id": "2085316928139387350",
+        "created_at": "2026-08-06T10:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:47:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085316928139387350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8WiFBghAe",
+              "end": 46,
+              "expanded_url": "https://x.com/A1tk0/status/2085316928139387350/video/1",
+              "media_key": "13_2085316881041543168",
+              "start": 23,
+              "url": "https://t.co/I8WiFBghAe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085316928139387350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我剪得可太好了\n我生下来脐带都自己剪的好吧😁 https://t.co/I8WiFBghAe"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 1057,
+          "like_count": 4154,
+          "listed_count": 3,
+          "media_count": 442,
+          "tweet_count": 1885
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-15T02:21:33.000Z",
+        "description": "🇭🇰 cat. proudly obsessed with one special puppy: @u7ed2x2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "u7ed2x2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/a1tk0",
+                "end": 23,
+                "expanded_url": "https://ngl.link/a1tk0",
+                "start": 0,
+                "url": "https://t.co/ipMVUM8qku"
+              }
+            ]
+          }
+        },
+        "id": "1680039839209775107",
+        "name": "Altko",
+        "pinned_tweet_id": "2076178227589226805",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 401,
+          "like_count": 1958,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 667
+        },
+        "url": "https://t.co/ipMVUM8qku",
+        "username": "A1tk0",
+        "verified": true
+      }
+    ]
+  }
+}
