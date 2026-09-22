@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099818962255220736"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2099818918013722911",
+    "created_at": "2026-09-15T11:13:49.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T12:13:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099818967384945036"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pFn21Pgld0",
+          "end": 26,
+          "expanded_url": "https://x.com/u7ed2x2/status/2099818967384945036/photo/1",
+          "media_key": "3_2099818962255220736",
+          "start": 3,
+          "url": "https://t.co/pFn21Pgld0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099818967384945036",
+    "in_reply_to_user_id": "1457364958841225222",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2099818962255220736"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099818918013722911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "起因 https://t.co/pFn21Pgld0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 598,
+        "media_key": "3_2099818962255220736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQOOInaEAAVGHE.jpg",
+        "width": 1206
+      },
+      {
+        "duration_ms": 48933,
+        "height": 1080,
+        "media_key": "13_2099818838582071296",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099818838582071296/img/lXNCyYmd78JS47oo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099818838582071296/pl/dnbFZiJTwG_j1Sb2.m3u8"
+          },
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099818838582071296/vid/avc1/320x320/l3siQLOx9yqEowDg.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099818838582071296/vid/avc1/720x720/JvRXZbul2erhzVPI.mp4"
+          },
+          {
+            "bit_rate": 8768000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099818838582071296/vid/avc1/1080x1080/CdYaFFHW_g9ZSvFq.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099818838582071296/vid/avc1/540x540/UfjSJnWBsbq9cuOa.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099818962255220736"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2099818918013722911",
+        "created_at": "2026-09-15T11:13:49.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:13:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099818967384945036"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pFn21Pgld0",
+              "end": 26,
+              "expanded_url": "https://x.com/u7ed2x2/status/2099818967384945036/photo/1",
+              "media_key": "3_2099818962255220736",
+              "start": 3,
+              "url": "https://t.co/pFn21Pgld0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099818967384945036",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2099818962255220736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099818918013722911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "起因 https://t.co/pFn21Pgld0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099818838582071296"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2099818918013722911",
+        "created_at": "2026-09-15T11:13:37.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099818918013722911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ObI06u9W0v",
+              "end": 41,
+              "expanded_url": "https://x.com/u7ed2x2/status/2099818918013722911/video/1",
+              "media_key": "13_2099818838582071296",
+              "start": 18,
+              "url": "https://t.co/ObI06u9W0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099818918013722911",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099818838582071296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "xwx的说广东话会被粤语警察打鼠嘛 https://t.co/ObI06u9W0v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099818967384945036",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 995,
+          "like_count": 4315,
+          "listed_count": 3,
+          "media_count": 460,
+          "tweet_count": 1945
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

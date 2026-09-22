@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097916836562305024"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2097908335777632308",
+    "created_at": "2026-09-10T05:15:27.000Z",
+    "display_text_range": [
+      12,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T06:15:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097916842207752334"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565691463685795840",
+          "start": 0,
+          "username": "barutan8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/l7K6TCETec",
+          "end": 36,
+          "expanded_url": "https://x.com/u7ed2x2/status/2097916842207752334/photo/1",
+          "media_key": "3_2097916836562305024",
+          "start": 13,
+          "url": "https://t.co/l7K6TCETec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097916842207752334",
+    "in_reply_to_user_id": "1565691463685795840",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2097916836562305024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097916195727184065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@barutan8964 https://t.co/l7K6TCETec"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_2097916836562305024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1MP2ObgAA57dX.jpg",
+        "width": 930
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097916836562305024"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2097908335777632308",
+        "created_at": "2026-09-10T05:15:27.000Z",
+        "display_text_range": [
+          12,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:15:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097916842207752334"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565691463685795840",
+              "start": 0,
+              "username": "barutan8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/l7K6TCETec",
+              "end": 36,
+              "expanded_url": "https://x.com/u7ed2x2/status/2097916842207752334/photo/1",
+              "media_key": "3_2097916836562305024",
+              "start": 13,
+              "url": "https://t.co/l7K6TCETec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097916842207752334",
+        "in_reply_to_user_id": "1565691463685795840",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2097916836562305024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097916195727184065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@barutan8964 https://t.co/l7K6TCETec"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565691463685795840",
+        "conversation_id": "2097908335777632308",
+        "created_at": "2026-09-10T05:12:53.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:12:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097916195727184065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097916195727184065",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097908335777632308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 猪咪狗狗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097916842207752334",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 995,
+          "like_count": 4266,
+          "listed_count": 3,
+          "media_count": 457,
+          "tweet_count": 1930
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-02T13:22:22.000Z",
+        "description": "讨厌炒作狗和meme bot 王烟洛连坐斯密马赛🙂‍↕️\n🥰脑婆@bin_x_13 可爱妹妹@nanami_mua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "bin_x_13"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "nanami_mua"
+              }
+            ]
+          }
+        },
+        "id": "1565691463685795840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097916195727184065",
+        "name": "巴尔坦🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565691605516193792/56qrU4dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 337,
+          "like_count": 25555,
+          "listed_count": 1,
+          "media_count": 236,
+          "tweet_count": 4384
+        },
+        "url": "",
+        "username": "barutan8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

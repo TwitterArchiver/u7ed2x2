@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097705927155884032",
+        "3_2097705926904229888"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2097705950065139888",
+    "created_at": "2026-09-09T15:17:26.000Z",
+    "display_text_range": [
+      0,
+      149
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T16:17:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097705950065139888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kIflAPql1i",
+          "end": 173,
+          "expanded_url": "https://x.com/u7ed2x2/status/2097705950065139888/photo/1",
+          "media_key": "3_2097705927155884032",
+          "start": 150,
+          "url": "https://t.co/kIflAPql1i"
+        },
+        {
+          "display_url": "pic.x.com/kIflAPql1i",
+          "end": 173,
+          "expanded_url": "https://x.com/u7ed2x2/status/2097705950065139888/photo/1",
+          "media_key": "3_2097705926904229888",
+          "start": 150,
+          "url": "https://t.co/kIflAPql1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097705950065139888",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097705927155884032"
+      },
+      {
+        "media_key": "3_2097705926904229888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "GPT的低价订阅\n\nPlus菲区982.14 PHP（约15.98 USD）\n减去Plasma One 8.33 USD返现后，实付7.65 USD\n\nPro 20x菲区8919.64 PHP（约142.66 USD）\n减去OKX EEA 50%（最高12 USD）返现后，实付140.66 USD https://t.co/kIflAPql1i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1747,
+        "media_key": "3_2097705927155884032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyMbTdboAAxq0R.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097705926904229888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRyMbShbsAAmAKq.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097705927155884032",
+            "3_2097705926904229888"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2097705950065139888",
+        "created_at": "2026-09-09T15:17:26.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097705950065139888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kIflAPql1i",
+              "end": 173,
+              "expanded_url": "https://x.com/u7ed2x2/status/2097705950065139888/photo/1",
+              "media_key": "3_2097705927155884032",
+              "start": 150,
+              "url": "https://t.co/kIflAPql1i"
+            },
+            {
+              "display_url": "pic.x.com/kIflAPql1i",
+              "end": 173,
+              "expanded_url": "https://x.com/u7ed2x2/status/2097705950065139888/photo/1",
+              "media_key": "3_2097705926904229888",
+              "start": 150,
+              "url": "https://t.co/kIflAPql1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097705950065139888",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097705927155884032"
+          },
+          {
+            "media_key": "3_2097705926904229888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "GPT的低价订阅\n\nPlus菲区982.14 PHP（约15.98 USD）\n减去Plasma One 8.33 USD返现后，实付7.65 USD\n\nPro 20x菲区8919.64 PHP（约142.66 USD）\n减去OKX EEA 50%（最高12 USD）返现后，实付140.66 USD https://t.co/kIflAPql1i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097705950065139888",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 997,
+          "like_count": 4258,
+          "listed_count": 3,
+          "media_count": 454,
+          "tweet_count": 1923
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

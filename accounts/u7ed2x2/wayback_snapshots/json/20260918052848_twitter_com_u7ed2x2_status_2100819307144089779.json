@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100819299799867393"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "conversation_id": "2100727720774877561",
+    "created_at": "2026-09-18T05:28:48.000Z",
+    "display_text_range": [
+      17,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T06:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100819307144089779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1274360725234782208",
+          "start": 0,
+          "username": "_TennousuAthena"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yEFSZUw7lz",
+          "end": 54,
+          "expanded_url": "https://x.com/u7ed2x2/status/2100819307144089779/photo/1",
+          "media_key": "3_2100819299799867393",
+          "start": 31,
+          "url": "https://t.co/yEFSZUw7lz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100819307144089779",
+    "in_reply_to_user_id": "1274360725234782208",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100819299799867393"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100801021090115590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_TennousuAthena 抽吧\n你的表不符合条件（） https://t.co/yEFSZUw7lz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 594,
+        "media_key": "3_2100819299799867393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSecBcXbIAEZ060.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100819299799867393"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "conversation_id": "2100727720774877561",
+        "created_at": "2026-09-18T05:28:48.000Z",
+        "display_text_range": [
+          17,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T06:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100819307144089779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1274360725234782208",
+              "start": 0,
+              "username": "_TennousuAthena"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yEFSZUw7lz",
+              "end": 54,
+              "expanded_url": "https://x.com/u7ed2x2/status/2100819307144089779/photo/1",
+              "media_key": "3_2100819299799867393",
+              "start": 31,
+              "url": "https://t.co/yEFSZUw7lz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100819307144089779",
+        "in_reply_to_user_id": "1274360725234782208",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100819299799867393"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100801021090115590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_TennousuAthena 抽吧\n你的表不符合条件（） https://t.co/yEFSZUw7lz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1274360725234782208",
+        "conversation_id": "2100727720774877561",
+        "created_at": "2026-09-18T04:16:09.000Z",
+        "display_text_range": [
+          9,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T05:16:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100801021090115590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100801021090115590",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100799726136476159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 要不要抽卡 18 Pro 呢🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2100819307144089779",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 994,
+          "like_count": 4356,
+          "listed_count": 3,
+          "media_count": 465,
+          "tweet_count": 1964
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-20T15:17:34.000Z",
+        "description": "🎉恭喜你！发现了神秘小众宝藏未来研究实验室\n\n#AI4Future",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 23,
+                "tag": "AI4Future"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.kiwi.moe",
+                "end": 23,
+                "expanded_url": "http://blog.kiwi.moe",
+                "start": 0,
+                "url": "https://t.co/X9Wd8Bs8ke"
+              }
+            ]
+          }
+        },
+        "id": "1274360725234782208",
+        "is_identity_verified": false,
+        "location": "Ma Liu Shui, Hong Kong 🇭🇰",
+        "most_recent_tweet_id": "2100805925636555199",
+        "name": "天王州雅典娜Official",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1274360725234782208/1777287252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049609574693404672/x2Qji-yT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 186,
+          "like_count": 1156,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 366
+        },
+        "url": "https://t.co/X9Wd8Bs8ke",
+        "username": "_TennousuAthena",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

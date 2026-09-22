@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2097705950065139888",
+    "created_at": "2026-09-09T15:49:22.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T16:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097713984359301592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "886580761884729344",
+          "start": 0,
+          "username": "lazyplan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097713984359301592",
+    "in_reply_to_user_id": "886580761884729344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097713302566842823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lazyplan 你的不能付嘛（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2097705950065139888",
+        "created_at": "2026-09-09T15:49:22.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097713984359301592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "886580761884729344",
+              "start": 0,
+              "username": "lazyplan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097713984359301592",
+        "in_reply_to_user_id": "886580761884729344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097713302566842823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lazyplan 你的不能付嘛（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "886580761884729344",
+        "conversation_id": "2097705950065139888",
+        "created_at": "2026-09-09T15:46:39.000Z",
+        "display_text_range": [
+          9,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T16:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097713302566842823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097713302566842823",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097705950065139888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 哇，居然能支付（）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097713984359301592",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 997,
+          "like_count": 4260,
+          "listed_count": 3,
+          "media_count": 455,
+          "tweet_count": 1926
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-07-16T13:38:20.000Z",
+        "description": "喵~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "earlyso.com",
+                "end": 23,
+                "expanded_url": "http://earlyso.com",
+                "start": 0,
+                "url": "https://t.co/XSDIGUpF6m"
+              }
+            ]
+          }
+        },
+        "id": "886580761884729344",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097713302566842823",
+        "name": "lazyplan",
+        "pinned_tweet_id": "1214929179084353536",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908420178184200192/AxAgEGbI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67,
+          "following_count": 227,
+          "like_count": 9954,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 462
+        },
+        "url": "https://t.co/XSDIGUpF6m",
+        "username": "lazyplan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101665597784530944",
+        "3_2101665597734223872"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2101665655057735932",
+    "created_at": "2026-09-20T13:31:53.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T14:31:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101665655057735932"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/47hywkxRsY",
+          "end": 33,
+          "expanded_url": "https://x.com/u7ed2x2/status/2101665655057735932/photo/1",
+          "media_key": "3_2101665597784530944",
+          "start": 10,
+          "url": "https://t.co/47hywkxRsY"
+        },
+        {
+          "display_url": "pic.x.com/47hywkxRsY",
+          "end": 33,
+          "expanded_url": "https://x.com/u7ed2x2/status/2101665655057735932/photo/1",
+          "media_key": "3_2101665597734223872",
+          "start": 10,
+          "url": "https://t.co/47hywkxRsY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101665655057735932",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101665597784530944"
+      },
+      {
+        "media_key": "3_2101665597734223872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "山姆\nAltko付 https://t.co/47hywkxRsY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2101665597784530944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqdueCbIAA_0ez.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1336,
+        "media_key": "3_2101665597734223872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqdud2bgAAZfvB.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101665597784530944",
+            "3_2101665597734223872"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101665655057735932",
+        "created_at": "2026-09-20T13:31:53.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T14:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101665655057735932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/47hywkxRsY",
+              "end": 33,
+              "expanded_url": "https://x.com/u7ed2x2/status/2101665655057735932/photo/1",
+              "media_key": "3_2101665597784530944",
+              "start": 10,
+              "url": "https://t.co/47hywkxRsY"
+            },
+            {
+              "display_url": "pic.x.com/47hywkxRsY",
+              "end": 33,
+              "expanded_url": "https://x.com/u7ed2x2/status/2101665655057735932/photo/1",
+              "media_key": "3_2101665597734223872",
+              "start": 10,
+              "url": "https://t.co/47hywkxRsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101665655057735932",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101665597784530944"
+          },
+          {
+            "media_key": "3_2101665597734223872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "山姆\nAltko付 https://t.co/47hywkxRsY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2101665655057735932",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1242,
+          "following_count": 993,
+          "like_count": 4368,
+          "listed_count": 3,
+          "media_count": 466,
+          "tweet_count": 1967
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
