@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2106703868000444753",
+    "created_at": "2026-10-04T11:57:45.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T12:57:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106715392593080605"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1979108124985561088",
+          "start": 0,
+          "username": "eguchi_egeg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106715392593080605",
+    "in_reply_to_user_id": "1979108124985561088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106711381575880920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eguchi_egeg 谢谢呕呕——"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-04T11:57:45.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106715392593080605"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1979108124985561088",
+              "start": 0,
+              "username": "eguchi_egeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106715392593080605",
+        "in_reply_to_user_id": "1979108124985561088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106711381575880920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eguchi_egeg 谢谢呕呕——"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1979108124985561088",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-04T11:41:48.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106711381575880920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106711381575880920",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106703868000444753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 生日快樂呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106715392593080605",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 984,
+          "like_count": 4471,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 2025
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-17T08:52:09.000Z",
+        "description": "=呕呕｜🇨🇳🇭🇰｜中二病｜我不是南涼｜攻擊性強 路評的時候嘴巴放乾淨點",
+        "id": "1979108124985561088",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106711498513154312",
+        "name": "えぐち",
+        "pinned_tweet_id": "2094771490306900329",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979108124985561088/1760691760",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099994916797739008/oLKuB26A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1101,
+          "following_count": 685,
+          "like_count": 4855,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1211
+        },
+        "url": "",
+        "username": "eguchi_egeg",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2106703868000444753",
+    "created_at": "2026-10-04T11:57:24.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T12:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106715306764955757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1363090571397451778",
+          "start": 0,
+          "username": "MinusZeroQwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106715306764955757",
+    "in_reply_to_user_id": "1363090571397451778",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106711577185669123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinusZeroQwQ 谢谢你哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-04T11:57:24.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106715306764955757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1363090571397451778",
+              "start": 0,
+              "username": "MinusZeroQwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106715306764955757",
+        "in_reply_to_user_id": "1363090571397451778",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106711577185669123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinusZeroQwQ 谢谢你哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1363090571397451778",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-04T11:42:35.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106711577185669123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106711577185669123",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106703868000444753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 生日快乐哦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106715306764955757",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 984,
+          "like_count": 4470,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 2024
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-20T11:38:20.000Z",
+        "description": "如梦般美好的真实，我们还会继续奔赴。| 04MTX| 搞中文vocaloid的 | 一般路过阴暗b，这里平时大概会发一些日常 | 大概可能会有NSFW? | 大概偶尔会发一些业余无线电，以及请不要因为无线电关注我 | 如果你认出来我的其他平台账号也请不要说破哦 |\n@WSGM233",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 141,
+                "start": 133,
+                "username": "WSGM233"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuluoxk.moe",
+                "end": 23,
+                "expanded_url": "https://yuluoxk.moe/",
+                "start": 0,
+                "url": "https://t.co/M2DKsZREnv"
+              }
+            ]
+          }
+        },
+        "id": "1363090571397451778",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106711577185669123",
+        "name": "Yuluoxk",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1363090571397451778/1721829480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101682329479786496/cRrad1uy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 406,
+          "like_count": 14190,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 1608
+        },
+        "url": "https://t.co/M2DKsZREnv",
+        "username": "MinusZeroQwQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

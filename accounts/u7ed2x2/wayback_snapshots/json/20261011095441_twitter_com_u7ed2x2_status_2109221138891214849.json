@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2109209667713020414",
+    "created_at": "2026-10-11T09:54:41.000Z",
+    "display_text_range": [
+      14,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T10:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109221138891214849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1570037818268721152",
+          "start": 0,
+          "username": "HoldWind3714"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109221138891214849",
+    "in_reply_to_user_id": "1570037818268721152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109216679465230545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@HoldWind3714 哇世界上真的有小麦记（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2109209667713020414",
+        "created_at": "2026-10-11T09:54:41.000Z",
+        "display_text_range": [
+          14,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T10:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109221138891214849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1570037818268721152",
+              "start": 0,
+              "username": "HoldWind3714"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109221138891214849",
+        "in_reply_to_user_id": "1570037818268721152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109216679465230545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@HoldWind3714 哇世界上真的有小麦记（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1570037818268721152",
+        "conversation_id": "2109209667713020414",
+        "created_at": "2026-10-11T09:36:58.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T10:36:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109216679465230545"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109216679465230545",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109209667713020414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 責"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2109221138891214849",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 984,
+          "like_count": 4529,
+          "listed_count": 3,
+          "media_count": 494,
+          "tweet_count": 2063
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-14T13:13:11.000Z",
+        "description": "Kiśoo，是魚咪，來自津舟(Kinćyo)\n「為我帶一束金色的山茶花吧，我們那頭再會～」\n語言學者 / 環亜島旪きん協主管\nEN / UT / ZH / JA",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "files.hlhtstudios.com/us/kisoo",
+                "end": 23,
+                "expanded_url": "https://files.hlhtstudios.com/us/kisoo",
+                "start": 0,
+                "url": "https://t.co/BB5zKeZw5e"
+              }
+            ]
+          }
+        },
+        "id": "1570037818268721152",
+        "is_identity_verified": false,
+        "location": "Kinćyo City, Utoli",
+        "most_recent_tweet_id": "2109216679465230545",
+        "name": "Kiśoo🐟蕗野きしょう",
+        "pinned_tweet_id": "2087893821090914758",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1570037818268721152/1790255582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088686208234967040/JJZgvK7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 64,
+          "like_count": 638,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 87
+        },
+        "url": "https://t.co/BB5zKeZw5e",
+        "username": "HoldWind3714",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

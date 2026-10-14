@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107761133847457792"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2107761159873155558",
+    "created_at": "2026-10-07T09:13:15.000Z",
+    "display_text_range": [
+      0,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T10:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107761159873155558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xgLr1tsLCC",
+          "end": 51,
+          "expanded_url": "https://x.com/u7ed2x2/status/2107761159873155558/photo/1",
+          "media_key": "3_2107761133847457792",
+          "start": 28,
+          "url": "https://t.co/xgLr1tsLCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107761159873155558",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107761133847457792"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "other",
+    "text": "🐶🐱🍓在厦门一起玩！\n（部分图片来自Altko和饼饼） https://t.co/xgLr1tsLCC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2107761133847457792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBFlXZaMAAdUtS.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107761133847457792"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2107761159873155558",
+        "created_at": "2026-10-07T09:13:15.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T10:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107761159873155558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xgLr1tsLCC",
+              "end": 51,
+              "expanded_url": "https://x.com/u7ed2x2/status/2107761159873155558/photo/1",
+              "media_key": "3_2107761133847457792",
+              "start": 28,
+              "url": "https://t.co/xgLr1tsLCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107761159873155558",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107761133847457792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "🐶🐱🍓在厦门一起玩！\n（部分图片来自Altko和饼饼） https://t.co/xgLr1tsLCC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2107761159873155558",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 986,
+          "like_count": 4516,
+          "listed_count": 3,
+          "media_count": 491,
+          "tweet_count": 2060
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

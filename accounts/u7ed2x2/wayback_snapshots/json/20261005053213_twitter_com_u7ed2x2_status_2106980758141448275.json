@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2106703868000444753",
+    "created_at": "2026-10-05T05:32:13.000Z",
+    "display_text_range": [
+      15,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T06:32:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106980758141448275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1070241901813542913",
+          "start": 0,
+          "username": "AAAGarbageCan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106980758141448275",
+    "in_reply_to_user_id": "1070241901813542913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106940002592850063",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@AAAGarbageCan 祝Mark也每天快乐！！"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2106940002592850063].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2106940002592850063",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2106940002592850063"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-05T05:32:13.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:32:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106980758141448275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1070241901813542913",
+              "start": 0,
+              "username": "AAAGarbageCan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106980758141448275",
+        "in_reply_to_user_id": "1070241901813542913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106940002592850063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@AAAGarbageCan 祝Mark也每天快乐！！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106980758141448275",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 986,
+          "like_count": 4504,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 2055
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-05T09:02:08.000Z",
+        "description": "某人里账（ 非请勿入）\n非邀请请求会拉黑",
+        "id": "1070241901813542913",
+        "is_identity_verified": false,
+        "location": "Birmingham",
+        "most_recent_tweet_id": "2085317049597747345",
+        "name": "银河系垃圾桶总代理",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1070241901813542913/1777736360",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059328372245704704/T4rYuOXU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 81,
+          "like_count": 3363,
+          "listed_count": 1,
+          "media_count": 567,
+          "tweet_count": 2327
+        },
+        "url": "",
+        "username": "AAAGarbageCan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

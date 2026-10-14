@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105175085044899840"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2105175093316116626",
+    "created_at": "2026-09-30T05:57:09.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T06:57:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105175093316116626"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/l6IQwxYLf1",
+          "end": 26,
+          "expanded_url": "https://x.com/u7ed2x2/status/2105175093316116626/photo/1",
+          "media_key": "3_2105175085044899840",
+          "start": 3,
+          "url": "https://t.co/l6IQwxYLf1"
+        },
+        {
+          "display_url": "x.com/u7ed2x2/status…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/u7ed2x2/status/2105168563023798325",
+          "start": 27,
+          "url": "https://t.co/G4BXmhskCw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105175093316116626",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2105175085044899840"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105168563023798325",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "结束 https://t.co/l6IQwxYLf1 https://t.co/G4BXmhskCw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2105175085044899840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcVlg4aoAAw4VV.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2105168555297955840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcPpbrbYAAuphm.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105175085044899840"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105175093316116626",
+        "created_at": "2026-09-30T05:57:09.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T06:57:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105175093316116626"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/l6IQwxYLf1",
+              "end": 26,
+              "expanded_url": "https://x.com/u7ed2x2/status/2105175093316116626/photo/1",
+              "media_key": "3_2105175085044899840",
+              "start": 3,
+              "url": "https://t.co/l6IQwxYLf1"
+            },
+            {
+              "display_url": "x.com/u7ed2x2/status…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/u7ed2x2/status/2105168563023798325",
+              "start": 27,
+              "url": "https://t.co/G4BXmhskCw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105175093316116626",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2105175085044899840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105168563023798325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "结束 https://t.co/l6IQwxYLf1 https://t.co/G4BXmhskCw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105168555297955840"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105168563023798325",
+        "created_at": "2026-09-30T05:31:12.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T06:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105168563023798325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kb6975P81T",
+              "end": 45,
+              "expanded_url": "https://x.com/u7ed2x2/status/2105168563023798325/photo/1",
+              "media_key": "3_2105168555297955840",
+              "start": 22,
+              "url": "https://t.co/Kb6975P81T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105168563023798325",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105168555297955840"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "滨寿司time\n看看最后盘子能叠多高www https://t.co/Kb6975P81T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2105175093316116626",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 984,
+          "like_count": 4448,
+          "listed_count": 3,
+          "media_count": 489,
+          "tweet_count": 2016
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

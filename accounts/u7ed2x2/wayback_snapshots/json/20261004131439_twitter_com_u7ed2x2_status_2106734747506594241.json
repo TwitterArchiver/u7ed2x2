@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2106703868000444753",
+    "created_at": "2026-10-04T13:14:39.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T14:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106734747506594241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1796929111996456960",
+          "start": 0,
+          "username": "nbrkfst0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106734747506594241",
+    "in_reply_to_user_id": "1796929111996456960",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106733515891183783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nbrkfst0721 谢谢你😉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-04T13:14:39.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106734747506594241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1796929111996456960",
+              "start": 0,
+              "username": "nbrkfst0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106734747506594241",
+        "in_reply_to_user_id": "1796929111996456960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106733515891183783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nbrkfst0721 谢谢你😉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1796929111996456960",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-04T13:09:46.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T14:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106733515891183783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106733515891183783",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106703868000444753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 生日快乐🎂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106734747506594241",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 984,
+          "like_count": 4485,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 2037
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-01T15:38:51.000Z",
+        "description": "さよならまたいつか\nMain：｜東方｜秘封｜\n简/繁中文｜Eng｜機翻日本語|成分复杂｜\n無言フォロー失礼いたしまし\n里垢：@nrkfstb（post nothing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "nrkfstb"
+              }
+            ]
+          }
+        },
+        "id": "1796929111996456960",
+        "is_identity_verified": true,
+        "location": "霧ノ湖",
+        "most_recent_tweet_id": "2106734020772110808",
+        "name": "114無意識",
+        "pinned_tweet_id": "2081536028498891254",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1796929111996456960/1738259560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066891890453356544/V5sDHkwS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 713,
+          "following_count": 1352,
+          "like_count": 23579,
+          "listed_count": 0,
+          "media_count": 844,
+          "tweet_count": 3240
+        },
+        "url": "",
+        "username": "nbrkfst0721",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

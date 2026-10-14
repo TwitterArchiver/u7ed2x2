@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2104101678744252887",
+    "created_at": "2026-09-27T06:57:34.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T07:57:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104103137401585948"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934766733237342209",
+          "start": 0,
+          "username": "Adrawta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104103137401585948",
+    "in_reply_to_user_id": "1934766733237342209",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104102436659245413",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adrawta 吃晕惹"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2104102436659245413].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2104102436659245413",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2104102436659245413"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2104101678744252887",
+        "created_at": "2026-09-27T06:57:34.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T07:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104103137401585948"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934766733237342209",
+              "start": 0,
+              "username": "Adrawta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104103137401585948",
+        "in_reply_to_user_id": "1934766733237342209",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104102436659245413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adrawta 吃晕惹"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104103137401585948",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 990,
+          "like_count": 4407,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 1994
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T00:15:29.000Z",
+        "description": "sense",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "https://wh.gov",
+                "start": 0,
+                "url": "https://t.co/DjeEeFCoqS"
+              }
+            ]
+          }
+        },
+        "id": "1934766733237342209",
+        "is_identity_verified": false,
+        "location": "inside QEMU",
+        "most_recent_tweet_id": "2100569220732141970",
+        "name": "raw_data💫",
+        "pinned_tweet_id": "2098760850500886563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934766733237342209/1783393111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103847619076505600/dJT1_f7W_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 153,
+          "following_count": 171,
+          "like_count": 12401,
+          "listed_count": 3,
+          "media_count": 492,
+          "tweet_count": 3083
+        },
+        "url": "https://t.co/DjeEeFCoqS",
+        "username": "Adrawta",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2103380996968382973",
+    "created_at": "2026-09-25T08:09:05.000Z",
+    "display_text_range": [
+      13,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T09:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103396355427443092"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565691463685795840",
+          "start": 0,
+          "username": "barutan8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103396355427443092",
+    "in_reply_to_user_id": "1565691463685795840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103392063266124228",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@barutan8964 大的咬过惹\n泥去吃小的吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2103380996968382973",
+        "created_at": "2026-09-25T08:09:05.000Z",
+        "display_text_range": [
+          13,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T09:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103396355427443092"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565691463685795840",
+              "start": 0,
+              "username": "barutan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103396355427443092",
+        "in_reply_to_user_id": "1565691463685795840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103392063266124228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@barutan8964 大的咬过惹\n泥去吃小的吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565691463685795840",
+        "conversation_id": "2103380996968382973",
+        "created_at": "2026-09-25T07:52:01.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T08:52:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103392063266124228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103392063266124228",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103380996968382973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 窝要吃窝要吃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103396355427443092",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1238,
+          "following_count": 989,
+          "like_count": 4407,
+          "listed_count": 3,
+          "media_count": 478,
+          "tweet_count": 1995
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-02T13:22:22.000Z",
+        "description": "讨厌炒作狗和meme bot 王烟洛连坐斯密马赛🙂‍↕️\n🥰脑婆@bin_x_13 可爱妹妹@nanami_mua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "bin_x_13"
+              },
+              {
+                "end": 57,
+                "start": 46,
+                "username": "nanami_mua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/barutan8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/barutan8964",
+                "start": 0,
+                "url": "https://t.co/uZJIxzIkfZ"
+              }
+            ]
+          }
+        },
+        "id": "1565691463685795840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103392208741372078",
+        "name": "巴尔坦🍥",
+        "pinned_tweet_id": "2099441664523989076",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565691605516193792/56qrU4dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 341,
+          "like_count": 26999,
+          "listed_count": 1,
+          "media_count": 240,
+          "tweet_count": 4578
+        },
+        "url": "https://t.co/uZJIxzIkfZ",
+        "username": "barutan8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

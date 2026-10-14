@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2106703868000444753",
+    "created_at": "2026-10-05T12:44:07.000Z",
+    "display_text_range": [
+      12,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T13:44:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107089450056753343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "967738737839845380",
+          "start": 0,
+          "username": "ASASHIO_75"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107089450056753343",
+    "in_reply_to_user_id": "967738737839845380",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107075807151874083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@ASASHIO_75 好诶 非常感谢！！！🥰\n-ˋˏ ♡ ˎˊ-"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-05T12:44:07.000Z",
+        "display_text_range": [
+          12,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T13:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107089450056753343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "967738737839845380",
+              "start": 0,
+              "username": "ASASHIO_75"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107089450056753343",
+        "in_reply_to_user_id": "967738737839845380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107075807151874083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@ASASHIO_75 好诶 非常感谢！！！🥰\n-ˋˏ ♡ ˎˊ-"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "967738737839845380",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-05T11:49:54.000Z",
+        "display_text_range": [
+          9,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107075807151874083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107075807151874083",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106703868000444753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 🥳生日快樂〜🎂q(^∀^q)🎉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2107089450056753343",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 985,
+          "like_count": 4507,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 2056
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-02-25T12:31:09.000Z",
+        "description": "台湾人です。15年秋 柱島泊地着任→18年 佐世保に異動、朝潮型が大好きな提督です！  よろしくお願いします！  サブ垢：@fusigino_Alice",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 61,
+                "username": "fusigino_Alice"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/asashi…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/asashio-75.bsky.social",
+                "start": 0,
+                "url": "https://t.co/TZ4cuOSGc8"
+              }
+            ]
+          }
+        },
+        "id": "967738737839845380",
+        "is_identity_verified": false,
+        "location": "豊葦原之千秋長五百秋之水穂国",
+        "most_recent_tweet_id": "2107081057611006139",
+        "name": "朝潮型提督",
+        "pinned_tweet_id": "2105133278139457658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/967738737839845380/1600520002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992591246116913152/etdo1tN8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4565,
+          "following_count": 5966,
+          "like_count": 440392,
+          "listed_count": 39,
+          "media_count": 5039,
+          "tweet_count": 34887
+        },
+        "url": "https://t.co/TZ4cuOSGc8",
+        "username": "ASASHIO_75",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

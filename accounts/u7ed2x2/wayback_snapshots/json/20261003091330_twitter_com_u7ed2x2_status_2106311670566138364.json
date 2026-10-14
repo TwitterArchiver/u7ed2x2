@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106311660575309825"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2106311670566138364",
+    "created_at": "2026-10-03T09:13:30.000Z",
+    "display_text_range": [
+      0,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:13:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106311670566138364"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1680039839209775107",
+          "start": 7,
+          "username": "A1tk0"
+        },
+        {
+          "end": 23,
+          "id": "1286575177959010304",
+          "start": 14,
+          "username": "rainmoex"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FNJFaguS9e",
+          "end": 47,
+          "expanded_url": "https://x.com/u7ed2x2/status/2106311670566138364/photo/1",
+          "media_key": "3_2106311660575309825",
+          "start": 24,
+          "url": "https://t.co/FNJFaguS9e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106311670566138364",
+    "lang": "und",
+    "media_metadata": [
+      {
+        "media_key": "3_2106311660575309825"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "xwx...\n@A1tk0 @rainmoex https://t.co/FNJFaguS9e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2106311660575309825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsfS6rawAEmTHm.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106311660575309825"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2106311670566138364",
+        "created_at": "2026-10-03T09:13:30.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:13:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106311670566138364"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1680039839209775107",
+              "start": 7,
+              "username": "A1tk0"
+            },
+            {
+              "end": 23,
+              "id": "1286575177959010304",
+              "start": 14,
+              "username": "rainmoex"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNJFaguS9e",
+              "end": 47,
+              "expanded_url": "https://x.com/u7ed2x2/status/2106311670566138364/photo/1",
+              "media_key": "3_2106311660575309825",
+              "start": 24,
+              "url": "https://t.co/FNJFaguS9e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106311670566138364",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2106311660575309825"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "xwx...\n@A1tk0 @rainmoex https://t.co/FNJFaguS9e"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106311670566138364",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 984,
+          "like_count": 4453,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 2016
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-15T02:21:33.000Z",
+        "description": "🇭🇰 cat. proudly obsessed with one special puppy: @u7ed2x2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 49,
+                "username": "u7ed2x2"
+              }
+            ]
+          }
+        },
+        "id": "1680039839209775107",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088289814668025952",
+        "name": "Altko",
+        "pinned_tweet_id": "2076178227589226805",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1680039839209775107/1783075224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072997765794402304/5vR1_EWA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 359,
+          "like_count": 2270,
+          "listed_count": 0,
+          "media_count": 217,
+          "tweet_count": 819
+        },
+        "url": "",
+        "username": "A1tk0",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-07-24T08:13:32.000Z",
+        "description": "高中生 | 男的 | Vibe Coder | 欢迎扩列 | 拒政治",
+        "id": "1286575177959010304",
+        "is_identity_verified": false,
+        "location": "你家门口",
+        "most_recent_tweet_id": "2106038822702329984",
+        "name": "シュー",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1286575177959010304/1720965535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103278819721555968/kfpYKtVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 186,
+          "like_count": 8188,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 527
+        },
+        "url": "",
+        "username": "rainmoex",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

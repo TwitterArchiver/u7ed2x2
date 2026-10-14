@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2102999954453336335",
+    "created_at": "2026-09-24T07:16:27.000Z",
+    "display_text_range": [
+      11,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T08:16:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103020725829566645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1598326999",
+          "start": 0,
+          "username": "BaggIE6_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103020725829566645",
+    "in_reply_to_user_id": "1598326999",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103019331823321559",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaggIE6_0 袋当年学的是这版嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2102999954453336335",
+        "created_at": "2026-09-24T07:16:27.000Z",
+        "display_text_range": [
+          11,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:16:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103020725829566645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1598326999",
+              "start": 0,
+              "username": "BaggIE6_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103020725829566645",
+        "in_reply_to_user_id": "1598326999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103019331823321559",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaggIE6_0 袋当年学的是这版嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598326999",
+        "conversation_id": "2102999954453336335",
+        "created_at": "2026-09-24T07:10:55.000Z",
+        "display_text_range": [
+          9,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T08:10:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103019331823321559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103019331823321559",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102999954453336335",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 嚯，还真能和人教社联名啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103020725829566645",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 991,
+          "like_count": 4393,
+          "listed_count": 3,
+          "media_count": 473,
+          "tweet_count": 1980
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-16T12:35:06.000Z",
+        "description": "Baggie™ | 袋\n\nⓘ 使用本品时一定 iPad 温开水",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.cmx.im/@baggie",
+                "end": 23,
+                "expanded_url": "https://m.cmx.im/@baggie",
+                "start": 0,
+                "url": "https://t.co/d4oPq9YuuZ"
+              }
+            ]
+          }
+        },
+        "id": "1598326999",
+        "is_identity_verified": false,
+        "location": "We all live and we all 袋.",
+        "most_recent_tweet_id": "2103019331823321559",
+        "name": "袋 Aka.dài",
+        "pinned_tweet_id": "1568575442864738304",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598326999/1733675272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004537729770815488/eQ9EtZv5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 445,
+          "like_count": 133269,
+          "listed_count": 8,
+          "media_count": 3325,
+          "tweet_count": 31996
+        },
+        "url": "https://t.co/d4oPq9YuuZ",
+        "username": "BaggIE6_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

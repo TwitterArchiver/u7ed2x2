@@ -1,0 +1,198 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103340480994156544"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103340494017458276",
+    "created_at": "2026-09-25T04:27:06.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T05:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103340494017458276"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/58A6EjXenD",
+          "end": 69,
+          "expanded_url": "https://x.com/u7ed2x2/status/2103340494017458276/photo/1",
+          "media_key": "3_2103340480994156544",
+          "start": 46,
+          "url": "https://t.co/58A6EjXenD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103340494017458276",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103340480994156544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "买了支持avs的cp6 mini\n但充电功率还是跑不到50w以上\n下次试试边异环边充电（） https://t.co/58A6EjXenD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2103340480994156544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTCRBgNbIAA3pG6.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103340480994156544"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103340494017458276",
+        "created_at": "2026-09-25T04:27:06.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T05:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103340494017458276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/58A6EjXenD",
+              "end": 69,
+              "expanded_url": "https://x.com/u7ed2x2/status/2103340494017458276/photo/1",
+              "media_key": "3_2103340480994156544",
+              "start": 46,
+              "url": "https://t.co/58A6EjXenD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103340494017458276",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103340480994156544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买了支持avs的cp6 mini\n但充电功率还是跑不到50w以上\n下次试试边异环边充电（） https://t.co/58A6EjXenD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2103340494017458276",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1243,
+          "following_count": 992,
+          "like_count": 4401,
+          "listed_count": 3,
+          "media_count": 477,
+          "tweet_count": 1990
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

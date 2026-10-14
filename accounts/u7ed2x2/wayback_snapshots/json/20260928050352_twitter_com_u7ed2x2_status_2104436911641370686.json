@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2104400175230071080",
+    "created_at": "2026-09-28T05:03:52.000Z",
+    "display_text_range": [
+      25,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T06:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104436911641370686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1565691463685795840",
+          "start": 0,
+          "username": "barutan8964"
+        },
+        {
+          "end": 24,
+          "id": "1520285442737770496",
+          "start": 13,
+          "username": "Magpieneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104436911641370686",
+    "in_reply_to_user_id": "1565691463685795840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104428721000386891",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@barutan8964 @Magpieneko 呜摸barutan"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2104400175230071080",
+        "created_at": "2026-09-28T05:03:52.000Z",
+        "display_text_range": [
+          25,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104436911641370686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565691463685795840",
+              "start": 0,
+              "username": "barutan8964"
+            },
+            {
+              "end": 24,
+              "id": "1520285442737770496",
+              "start": 13,
+              "username": "Magpieneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104436911641370686",
+        "in_reply_to_user_id": "1565691463685795840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104428721000386891",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@barutan8964 @Magpieneko 呜摸barutan"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1565691463685795840",
+        "conversation_id": "2104400175230071080",
+        "created_at": "2026-09-28T04:31:20.000Z",
+        "display_text_range": [
+          21,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104428721000386891"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520285442737770496",
+              "start": 0,
+              "username": "Magpieneko"
+            },
+            {
+              "end": 20,
+              "id": "1457364958841225222",
+              "start": 12,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104428721000386891",
+        "in_reply_to_user_id": "1520285442737770496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104417200866267321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Magpieneko @u7ed2x2 咱也是呜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104436911641370686",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 988,
+          "like_count": 4424,
+          "listed_count": 3,
+          "media_count": 481,
+          "tweet_count": 2003
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-02T13:22:22.000Z",
+        "description": "讨厌炒作狗和meme bot 炒作狗和王烟洛连坐爽！\n🥰脑婆@bin_x_13 可爱妹妹@nanami_mua",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 30,
+                "username": "bin_x_13"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "nanami_mua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/barutan8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/barutan8964",
+                "start": 0,
+                "url": "https://t.co/uZJIxzIkfZ"
+              }
+            ]
+          }
+        },
+        "id": "1565691463685795840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104429229115130104",
+        "name": "巴尔坦🍥",
+        "pinned_tweet_id": "2099441664523989076",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565691605516193792/56qrU4dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 342,
+          "like_count": 27243,
+          "listed_count": 1,
+          "media_count": 241,
+          "tweet_count": 4622
+        },
+        "url": "https://t.co/uZJIxzIkfZ",
+        "username": "barutan8964",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jing-que.com",
+                "end": 23,
+                "expanded_url": "http://jing-que.com",
+                "start": 0,
+                "url": "https://t.co/CoZso9rI1h"
+              }
+            ]
+          }
+        },
+        "id": "1520285442737770496",
+        "is_identity_verified": true,
+        "location": "距你2.1km",
+        "most_recent_tweet_id": "2104417200866267321",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2099750918988382604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520285442737770496/1786116619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083554592894353408/5F6b0PSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 86,
+          "like_count": 4558,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2168
+        },
+        "url": "https://t.co/CoZso9rI1h",
+        "username": "Magpieneko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

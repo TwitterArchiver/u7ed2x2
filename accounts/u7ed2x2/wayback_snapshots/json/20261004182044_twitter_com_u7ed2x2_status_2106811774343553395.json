@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2106703868000444753",
+    "created_at": "2026-10-04T18:20:44.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T19:20:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106811774343553395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1692526144946642944",
+          "start": 0,
+          "username": "AkiRiin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106811774343553395",
+    "in_reply_to_user_id": "1692526144946642944",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106810157632250194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkiRiin 🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-04T18:20:44.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T19:20:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106811774343553395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1692526144946642944",
+              "start": 0,
+              "username": "AkiRiin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106811774343553395",
+        "in_reply_to_user_id": "1692526144946642944",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106810157632250194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkiRiin 🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1692526144946642944",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-04T18:14:18.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T19:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106810157632250194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106810157632250194",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106703868000444753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 🎂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106811774343553395",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 985,
+          "like_count": 4496,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 2048
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-18T13:17:42.000Z",
+        "description": "叫Aki就好☝️🦊某小透明furry🐾大量三次元内容⚠️成分复杂 口罩是我的本体😷无糖可口可乐重度依赖🥤记忆力极差🤯爱用点赞代替回复❤️Tg里推🚪98口令(卖那么贵是因为我穷）",
+        "id": "1692526144946642944",
+        "is_identity_verified": false,
+        "location": "Fuzhou",
+        "most_recent_tweet_id": "2106810562646786072",
+        "name": "凛曜Rinyau🔜深圳 广州",
+        "pinned_tweet_id": "1910426822418018441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1692526144946642944/1749906355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104227470992097280/go0b7cfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2417,
+          "following_count": 2635,
+          "like_count": 194041,
+          "listed_count": 2,
+          "media_count": 2583,
+          "tweet_count": 13255
+        },
+        "url": "",
+        "username": "AkiRiin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

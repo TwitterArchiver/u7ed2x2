@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2106413709258285483",
+    "created_at": "2026-10-03T17:10:46.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T18:10:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106431779003675080"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1565892398257152000",
+          "start": 0,
+          "username": "littleloong233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106431779003675080",
+    "in_reply_to_user_id": "1565892398257152000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106413709258285483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@littleloong233 细节墙上动物"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25433,
+        "height": 1920,
+        "media_key": "13_2106413519935881216",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106413519935881216/img/G2onaFPcwnbc7fFA.jpg",
+        "public_metrics": {
+          "view_count": 3
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106413519935881216/vid/avc1/320x568/WBnuW4moN-OvWeCl.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106413519935881216/vid/avc1/480x852/LKHrGLgDjKcs0_5c.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106413519935881216/vid/avc1/1080x1920/v5VPXN5HBbFqSLob.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106413519935881216/vid/avc1/720x1280/x6abgml_ZebI9eTu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106413519935881216/pl/qs9XUGqOPtK62Epy.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2106413709258285483",
+        "created_at": "2026-10-03T17:10:46.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T18:10:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106431779003675080"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1565892398257152000",
+              "start": 0,
+              "username": "littleloong233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106431779003675080",
+        "in_reply_to_user_id": "1565892398257152000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106413709258285483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@littleloong233 细节墙上动物"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106413519935881216"
+          ]
+        },
+        "author_id": "1565892398257152000",
+        "conversation_id": "2106413709258285483",
+        "created_at": "2026-10-03T15:58:58.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106413709258285483"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SpjA6j1cYK",
+              "end": 26,
+              "expanded_url": "https://x.com/littleloong233/status/2106413709258285483/video/1",
+              "media_key": "13_2106413519935881216",
+              "start": 3,
+              "url": "https://t.co/SpjA6j1cYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106413709258285483",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2106413519935881216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "把玩 https://t.co/SpjA6j1cYK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106431779003675080",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 984,
+          "like_count": 4456,
+          "listed_count": 3,
+          "media_count": 489,
+          "tweet_count": 2012
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-03T02:40:31.000Z",
+        "description": "退役oier 含糖，可以叫我龙青（LoongQing/lq），不长角的龙 / python java c++ / 喜欢随便写写随便想想的吟游诗人 Telegram联系 @Loongqing ，X不经常用 / 💖 @zwh20081",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 94,
+                "start": 84,
+                "username": "Loongqing"
+              },
+              {
+                "end": 115,
+                "start": 106,
+                "username": "zwh20081"
+              }
+            ]
+          }
+        },
+        "id": "1565892398257152000",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106413709258285483",
+        "name": "LittleLoong233🍥",
+        "pinned_tweet_id": "2050163542431760475",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1565892398257152000/1790609597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064625365067431936/jLGjsroW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 54,
+          "like_count": 166,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "littleloong233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

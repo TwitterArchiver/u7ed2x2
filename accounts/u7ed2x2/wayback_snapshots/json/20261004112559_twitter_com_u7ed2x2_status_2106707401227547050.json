@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2106703868000444753",
+    "created_at": "2026-10-04T11:25:59.000Z",
+    "display_text_range": [
+      12,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T12:25:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106707401227547050"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520285442737770496",
+          "start": 0,
+          "username": "Magpieneko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106707401227547050",
+    "in_reply_to_user_id": "1520285442737770496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106705059585413467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Magpieneko 啊哈哈...谢谢惊鹊！\n祝小鸟姐姐以后遇到的都是好孩子和好事情"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2106705059585413467].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2106705059585413467",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2106705059585413467"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-04T11:25:59.000Z",
+        "display_text_range": [
+          12,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106707401227547050"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520285442737770496",
+              "start": 0,
+              "username": "Magpieneko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106707401227547050",
+        "in_reply_to_user_id": "1520285442737770496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106705059585413467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Magpieneko 啊哈哈...谢谢惊鹊！\n祝小鸟姐姐以后遇到的都是好孩子和好事情"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106707401227547050",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 984,
+          "like_count": 4465,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 2020
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jing-que.com",
+                "end": 23,
+                "expanded_url": "http://jing-que.com",
+                "start": 0,
+                "url": "https://t.co/5QottAZNXm"
+              }
+            ]
+          }
+        },
+        "id": "1520285442737770496",
+        "is_identity_verified": true,
+        "location": "距你2.1km",
+        "most_recent_tweet_id": "2105293949569306651",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2099750918988382604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520285442737770496/1786116619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083554592894353408/5F6b0PSW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 87,
+          "like_count": 4590,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2185
+        },
+        "url": "https://t.co/5QottAZNXm",
+        "username": "Magpieneko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

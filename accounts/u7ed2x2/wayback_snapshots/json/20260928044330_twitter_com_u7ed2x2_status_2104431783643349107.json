@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104431778908037120"
+      ]
+    },
+    "author_id": "1457364958841225222",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104400175230071080",
+    "created_at": "2026-09-28T04:43:30.000Z",
+    "display_text_range": [
+      12,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T05:43:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104431783643349107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520285442737770496",
+          "start": 0,
+          "username": "Magpieneko"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5SlCrGktYX",
+          "end": 62,
+          "expanded_url": "https://x.com/u7ed2x2/status/2104431783643349107/photo/1",
+          "media_key": "3_2104431778908037120",
+          "start": 39,
+          "url": "https://t.co/5SlCrGktYX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104431783643349107",
+    "in_reply_to_user_id": "1520285442737770496",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104431778908037120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104417200866267321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Magpieneko xwx...轻抚小鸟...\n给你看好感度（bushi https://t.co/5SlCrGktYX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 404,
+        "media_key": "3_2104431778908037120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRxjZvbYAASFB1.jpg",
+        "width": 477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104431778908037120"
+          ]
+        },
+        "author_id": "1457364958841225222",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104400175230071080",
+        "created_at": "2026-09-28T04:43:30.000Z",
+        "display_text_range": [
+          12,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T05:43:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104431783643349107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520285442737770496",
+              "start": 0,
+              "username": "Magpieneko"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5SlCrGktYX",
+              "end": 62,
+              "expanded_url": "https://x.com/u7ed2x2/status/2104431783643349107/photo/1",
+              "media_key": "3_2104431778908037120",
+              "start": 39,
+              "url": "https://t.co/5SlCrGktYX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104431783643349107",
+        "in_reply_to_user_id": "1520285442737770496",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104431778908037120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104417200866267321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Magpieneko xwx...轻抚小鸟...\n给你看好感度（bushi https://t.co/5SlCrGktYX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1520285442737770496",
+        "conversation_id": "2104400175230071080",
+        "created_at": "2026-09-28T03:45:33.000Z",
+        "display_text_range": [
+          9,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T04:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104417200866267321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104417200866267321",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 29,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104416044723151296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@u7ed2x2 对😢\n而且人类又没有好感度条给看，根本不知道自己什么时候说错话了\n有时候越在意一个人反而越害怕说错话😭在输入框里删除修改了不知道多少次"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2104431783643349107",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 988,
+          "like_count": 4422,
+          "listed_count": 3,
+          "media_count": 481,
+          "tweet_count": 2002
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-04-30T06:14:47.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jing-que.com",
+                "end": 23,
+                "expanded_url": "http://jing-que.com",
+                "start": 0,
+                "url": "https://t.co/CoZso9rI1h"
+              }
+            ]
+          }
+        },
+        "id": "1520285442737770496",
+        "is_identity_verified": true,
+        "location": "距你2.1km",
+        "most_recent_tweet_id": "2104417200866267321",
+        "name": "惊鹊",
+        "pinned_tweet_id": "2099750918988382604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1520285442737770496/1786116619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083554592894353408/5F6b0PSW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 86,
+          "like_count": 4558,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2168
+        },
+        "url": "https://t.co/CoZso9rI1h",
+        "username": "Magpieneko",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1457364958841225222",
+    "conversation_id": "2106703868000444753",
+    "created_at": "2026-10-04T12:04:46.000Z",
+    "display_text_range": [
+      16,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T13:04:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106717159561032107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1493949884399079427",
+          "start": 0,
+          "username": "ThinkingPigeon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106717159561032107",
+    "in_reply_to_user_id": "1493949884399079427",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106716892220305520",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThinkingPigeon 谢谢好鸽子🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1457364958841225222",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-04T12:04:46.000Z",
+        "display_text_range": [
+          16,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106717159561032107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1493949884399079427",
+              "start": 0,
+              "username": "ThinkingPigeon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106717159561032107",
+        "in_reply_to_user_id": "1493949884399079427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106716892220305520",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThinkingPigeon 谢谢好鸽子🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493949884399079427",
+        "conversation_id": "2106703868000444753",
+        "created_at": "2026-10-04T12:03:42.000Z",
+        "display_text_range": [
+          9,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:03:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106716892220305520"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1457364958841225222",
+              "start": 0,
+              "username": "u7ed2x2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106716892220305520",
+        "in_reply_to_user_id": "1457364958841225222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106703868000444753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@u7ed2x2 生日快乐😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T15:11:26.000Z",
+        "description": "脑袋上面没有兽耳 / 💫 @A1tk0",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 13,
+                "username": "A1tk0"
+              }
+            ]
+          }
+        },
+        "id": "1457364958841225222",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106717159561032107",
+        "name": "𝙉𝙚𝙡𝙤",
+        "pinned_tweet_id": "2048786049632194607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457364958841225222/1670680055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859466982464290819/5Bmlz1qD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1235,
+          "following_count": 984,
+          "like_count": 4477,
+          "listed_count": 3,
+          "media_count": 490,
+          "tweet_count": 2032
+        },
+        "url": "",
+        "username": "u7ed2x2",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-16T14:06:40.000Z",
+        "description": "im drunk plz forgive me | Average rhythm game player | LGBT friendly | Femboy maybe | a.k.a. hh27v0",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "live.acfun.cn/live/75353094",
+                "end": 23,
+                "expanded_url": "http://live.acfun.cn/live/75353094",
+                "start": 0,
+                "url": "https://t.co/RIVtrSRY1Z"
+              }
+            ]
+          }
+        },
+        "id": "1493949884399079427",
+        "is_identity_verified": false,
+        "location": "@dorich4n",
+        "most_recent_tweet_id": "2106716892220305520",
+        "name": "DoriCh4n",
+        "pinned_tweet_id": "1890795598258856120",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493949884399079427/1769810668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918589586118455296/I7tiaMlU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 981,
+          "following_count": 1370,
+          "like_count": 74959,
+          "listed_count": 3,
+          "media_count": 1276,
+          "tweet_count": 12735
+        },
+        "url": "https://t.co/RIVtrSRY1Z",
+        "username": "ThinkingPigeon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
